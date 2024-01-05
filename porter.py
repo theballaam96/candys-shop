@@ -58,9 +58,12 @@ for index, val in enumerate(data):
         if game_name not in game_list:
             game_list.append(game_name)
 # Clear Games
+if os.path.exists("./binaries"):
+    shutil.rmtree("./binaries")
+os.mkdir("./binaries")
 for game in game_list:
-    if os.path.exists(f"./{filterFilename(game)}"):
-        shutil.rmtree(f"./{filterFilename(game)}")
+    if os.path.exists(f"./binaries/{filterFilename(game)}"):
+        shutil.rmtree(f"./binaries/{filterFilename(game)}")
 # Generate files
 new_sheet = [headers]
 with zipfile.ZipFile("pack.zip", 'r') as zip_ref:
@@ -69,9 +72,9 @@ with zipfile.ZipFile("pack.zip", 'r') as zip_ref:
             game_name = new_data["Game"]
             song_name = new_data["Song"]
             converters = new_data["Converters"]
-            new_file_name = f"{filterFilename(game_name)}/{filterFilename(song_name)} by {filterFilename(converters)} ({uuid.uuid4()}).bin"
-            if not os.path.exists(f"./{filterFilename(game_name)}"):
-                os.mkdir(f"./{filterFilename(game_name)}")
+            new_file_name = f"binaries/{filterFilename(game_name)}/{filterFilename(song_name)} by {filterFilename(converters)} ({uuid.uuid4()}).bin"
+            if not os.path.exists(f"./binaries/{filterFilename(game_name)}"):
+                os.mkdir(f"./binaries/{filterFilename(game_name)}")
             with zip_ref.open(f"{new_data['Binary']}.bin") as binary:
                 with open(new_file_name, "wb") as fh:
                     fh.write(binary.read())
