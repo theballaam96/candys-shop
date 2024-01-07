@@ -5,6 +5,7 @@ import zipfile
 import os
 import uuid
 import shutil
+import json
 
 SHEET = "https://docs.google.com/spreadsheets/d/13WWHcGiYJQD_rUqfGL17Lp0zn7MveU5xf7Fy-CNghzo/gviz/tq?tqx=out:html&tq&gid=1"
 
@@ -65,30 +66,35 @@ for game in game_list:
     if os.path.exists(f"./binaries/{filterFilename(game)}"):
         shutil.rmtree(f"./binaries/{filterFilename(game)}")
 # Generate files
-new_sheet = [headers]
+new_json = []
+made_files = {}
 with zipfile.ZipFile("pack.zip", 'r') as zip_ref:
     for index, new_data in enumerate(parsed_data):
         if len(new_data["Binary"].strip()) > 0:
             game_name = new_data["Game"]
             song_name = new_data["Song"]
             converters = new_data["Converters"]
-            new_file_name = f"binaries/{filterFilename(game_name)}/{filterFilename(song_name)} by {filterFilename(converters)} ({uuid.uuid4()}).bin"
+            new_data["UUID"] = str(uuid.uuid4())
+            new_file_name_raw = f"binaries/{filterFilename(game_name)}/{filterFilename(song_name)} by {filterFilename(converters)}"
+            if new_file_name_raw in made_files:
+                new_file_name = f"{new_file_name_raw} (REV {made_files[new_file_name_raw]}).bin"
+                made_files[new_file_name_raw] += 1
+            else:
+                new_file_name = f"{new_file_name_raw}.bin"
+                made_files[new_file_name_raw] = 1
             if not os.path.exists(f"./binaries/{filterFilename(game_name)}"):
                 os.mkdir(f"./binaries/{filterFilename(game_name)}")
-            with zip_ref.open(f"{new_data['Binary']}.bin") as binary:
-                with open(new_file_name, "wb") as fh:
-                    fh.write(binary.read())
+            bin_file_name = f"{new_data['Binary']}.bin"
+            if bin_file_name in zip_ref.namelist():
+                with zip_ref.open(bin_file_name) as binary:
+                    with open(new_file_name, "wb") as fh:
+                        fh.write(binary.read())
             new_data["Binary"] = new_file_name
-            data_arr = []
-            for header in headers:
-                new_item = "|"
-                if header in new_data.keys():
-                    new_item = f"|{new_data[header]}"
-                data_arr.append(new_item)
-            new_sheet.append(data_arr)
-with open("output_data.txt", "w", encoding="utf-8") as output_data:
-    for line in new_sheet:
-        sep = "\t"
-        ending = "\n"
-        output_data.write(f"{sep.join(line)}{ending}")
+            if "Tracks" in new_data:
+                new_data["Tracks"] = int(new_data["Tracks"])
+            if "Duration" in new_data:
+                new_data["Duration"] = float(new_data["Duration"])
+            new_json.append(new_data)
+with open("mapping.json", "w", encoding="utf-8") as output_data:
+    output_data.write(json.dumps(new_json, indent=4))
             
