@@ -3,7 +3,6 @@ import requests
 from bs4 import BeautifulSoup
 import zipfile
 import os
-import uuid
 import shutil
 import json
 
@@ -74,7 +73,6 @@ with zipfile.ZipFile("pack.zip", 'r') as zip_ref:
             game_name = new_data["Game"]
             song_name = new_data["Song"]
             converters = new_data["Converters"]
-            new_data["UUID"] = str(uuid.uuid4())
             new_file_name_raw = f"binaries/{filterFilename(game_name)}/{filterFilename(song_name)} by {filterFilename(converters)}"
             if new_file_name_raw in made_files:
                 new_file_name = f"{new_file_name_raw} (REV {made_files[new_file_name_raw]}).bin"
@@ -90,10 +88,21 @@ with zipfile.ZipFile("pack.zip", 'r') as zip_ref:
                     with open(new_file_name, "wb") as fh:
                         fh.write(binary.read())
             new_data["Binary"] = new_file_name
+            new_data["Verified"] = True
             if "Tracks" in new_data:
                 new_data["Tracks"] = int(new_data["Tracks"])
             if "Duration" in new_data:
                 new_data["Duration"] = float(new_data["Duration"])
+            if "Categories" in new_data:
+                new_data["Categories"] = new_data["Categories"].split(", ")
+            if "Notes" in new_data:
+                note_keys = ("Additional Notes", "Update Notes")
+                for ki, k in enumerate(note_keys):
+                    arr = new_data["Notes"].split("|")
+                    new_data[k] = "" if len(arr) <= ki else arr[ki]
+                    if len(new_data[k]) == 0:
+                        del new_data[k]
+                del new_data["Notes"]
             new_json.append(new_data)
 with open("mapping.json", "w", encoding="utf-8") as output_data:
     output_data.write(json.dumps(new_json, indent=4))
