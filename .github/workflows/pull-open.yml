@@ -16,6 +16,9 @@ jobs:
 
       - name: Install dependencies
         run: npm install
+
+      - name: Install dependencies
+        run: npm install axios
           
       - name: Analyze Pull Request
         run: node .github/scripts/pr-analyzer.js
