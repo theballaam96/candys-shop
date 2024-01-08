@@ -43,7 +43,8 @@ async function run() {
 
 
     // Read the existing JSON file
-    const filePath = path.join(__dirname, './mapping.json');
+    console.log(__dirname)
+    const filePath = path.join(__dirname, '../mapping.json');
     const existingData = fs.existsSync(filePath) ? require(filePath) : [];
 
     // Append the PR message to the JSON file
