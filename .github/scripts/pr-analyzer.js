@@ -82,6 +82,11 @@ async function run() {
         Authorization: `Bearer ${token}`,
       },
     });
+    const response_files = await axios.get(`https://api.github.com/repos/${repo}/pulls/${prNumber}/files`, {
+      headers: {
+        Authorization: `Bearer ${token}`,
+      },
+    });
     const octokit = new Octokit({auth: token})
 
     // Extract the PR message
@@ -181,10 +186,12 @@ async function run() {
     }
     segments.push(`> Something needs changing: ${needs_changing ? "Yes": "No"}`)
     segments.push("") // Prevent following messges getting indented
-    segments.push("Here's what the output will look like:")
-    segments.push("\`\`\`")
-    segments.push(JSON.stringify(json_output, undefined, 4))
-    segments.push("\`\`\`")
+    if (song_upload) {
+        segments.push("Here's what the output will look like:")
+        segments.push("\`\`\`")
+        segments.push(JSON.stringify(json_output, undefined, 4))
+        segments.push("\`\`\`")
+    }
 
 
     const message = segments.join("\n");
