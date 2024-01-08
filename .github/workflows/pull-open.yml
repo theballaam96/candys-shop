@@ -20,10 +20,11 @@ jobs:
           node-version: 14
 
       - name: Install project dependencies
-        run: npm install
-        run: npm install @actions/core
-        run: npm install @actions/github
-        run: npm install axios
+        run: |
+          npm install
+          npm install @actions/core
+          npm install @actions/github
+          npm install axios
           
       - name: Analyze Pull Request
         run: node .github/scripts/pr-analyzer.js
