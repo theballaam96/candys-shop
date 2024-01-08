@@ -2,7 +2,38 @@ const axios = require('axios');
 const { Octokit } = require("@octokit/rest");
 const fs = require('fs');
 const path = require('path');
-const difflib = require('jsdifflib');
+
+function stringCompare(source, comparison) {
+    // Returns a similarity score between two strings;
+    let arr_a = source.toLowerCase().split("")
+    let arr_b = comparison.toLowerCase().split("")
+    const arr_a_copy = arr_a.slice()
+    const arr_b_copy = arr_b.slice()
+    let matching_characters_a = 0;
+    let matching_characters_b = 0;
+    // Check similarity for A->B
+    arr_a.forEach(source_character => {
+        const found_index = arr_b.indexOf(source_character)
+        if (found_index > -1) {
+            matching_characters_a += 1;
+        }
+        arr_b = arr_b.filter((item, index) => index != found_index);
+    })
+    // Check similarity for B->A
+    arr_a = arr_a_copy.slice()
+    arr_b = arr_b_copy.slice()
+    arr_b.forEach(comparison_character => {
+        const found_index = arr_a.indexOf(comparison_character)
+        if (found_index > -1) {
+            matching_characters_b += 1;
+        }
+        arr_a = arr_a.filter((item, index) => index != found_index);
+    })
+    // Determine score
+    const a_score = matching_characters_a / source.length;
+    const b_score = matching_characters_b / comparison.length;
+    return (a_score + b_score) / 2;
+}
 
 async function run() {
   try {
@@ -118,8 +149,7 @@ async function run() {
             let max_score = 0;
             let max_score_name = "";
             Object.keys(imageData).forEach(gn => {
-                const s = new difflib.SequenceMatcher(null, game_name, gn)
-                new_score = s.quickRatio();
+                new_score = stringCompare(game_name, gn);
                 if (new_score > max_score) {
                     max_score = new_score
                     max_score_name = gn
