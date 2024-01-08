@@ -185,7 +185,7 @@ async function run() {
     const rev_string = revisions == 0 ? "" : ` (REV ${revisions})`;
     const sub_file = `${filterFilename(json_output["Game"])}/${filterFilename(json_output["Song"])}${rev_string}`
     if (preview_file) {
-      json_output["Audio"] = `previews/${sub_file}.${preview_extension}`
+      json_output["Audio"] = encodeURI(`https://github.com/theballaam96/candys-shop/raw/main/previews/${sub_file}.${preview_extension}`)
     }
     if (bin_file) {
       json_output["Binary"] = `previews/${sub_file}.bin`
