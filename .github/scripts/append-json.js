@@ -5,7 +5,7 @@ const axios = require('axios');
 async function run() {
   try {
     // Get the PR number
-    const prNumber = process.env.GITHUB_RUN_NUMBER;
+    const prNumber = process.env.PR_NUMBER;
 
     // Get the repository owner and name
     console.log(process.env)
