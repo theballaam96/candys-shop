@@ -115,7 +115,7 @@ async function run() {
         if (k_keep) {
           const newBinFile = `${k}/${sub_file}.${k_ext}`
           const binNewFilePath = path.join(__dirname, `../../${newBinFile}`);
-          const binFileData = fs.existsSync(binFilePath) ? require(binFilePath) : null;
+          const binFileData = fs.existsSync(binFilePath) ? fs.readFileSync(binFilePath) : null;
           if (binFileData != null) {
             fs.writeFileSync(binNewFilePath, binFileData);
           }
