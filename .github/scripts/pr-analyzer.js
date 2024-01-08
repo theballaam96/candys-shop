@@ -27,8 +27,8 @@ async function run() {
         new UploadHeader("Duration", true),
         new UploadHeader("Tracks", true),
         new UploadHeader("Categories", true),
-        new UploadHeader("Update Notes", true),
-        new UploadHeader("Additional Notes", true),
+        new UploadHeader("Update Notes", false),
+        new UploadHeader("Additional Notes", false),
         /* Automatically generated headers */
         // new UploadHeader("Date", true),
         // new UploadHeader("Verified", true),
@@ -103,14 +103,14 @@ async function run() {
     let segments = [
         "Mornin'",
         "",
-        "I've analyzed your pull request and ascertained the following information from it. This will help the verifiers handle your request faster.",
-        `Is Song Upload: ${song_upload ? "Yes": "No"}`
+        "I've analyzed your pull request and ascertained the following information from it. This will help the verifiers handle your request faster:",
+        `> Is Song Upload: ${song_upload ? "Yes": "No"}`
     ]
     if (song_upload) {
-        segments.push(`Missing Mandatory Information: ${missing_mandatory_headers.length == 0 ? "None" : missing_mandatory_headers.join(", ")}`)
-        segments.push(`Headers which I don't understand: ${unlisted_headers.length == 0 ? "None": unlisted_headers.join(", ")}`)
+        segments.push(`> Missing Mandatory Information: ${missing_mandatory_headers.length == 0 ? "None" : missing_mandatory_headers.join(", ")}`)
+        segments.push(`> Headers which I don't understand: ${unlisted_headers.length == 0 ? "None": unlisted_headers.join(", ")}`)
     }
-    segments.push(`Something needs changing: ${needs_changing ? "Yes": "No"}`)
+    segments.push(`> Something needs changing: ${needs_changing ? "Yes": "No"}`)
     segments.push("Here's what the output will look like:")
     segments.push("\`\`\`")
     segments.push(JSON.stringify(json_output, undefined, 4))
