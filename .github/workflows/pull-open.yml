@@ -1,10 +1,12 @@
 name: Pull Request Open
+
 on:
   workflow_dispatch:
   pull_request:
     types:
       - opened
       - reopened
+
 jobs:
   PR-Open:
     runs-on: ubuntu-latest
@@ -14,10 +16,10 @@ jobs:
         with:
           node-version: 14
 
-      - name: Install dependencies
+      - name: Install project dependencies
         run: npm install
 
-      - name: Install dependencies
+      - name: Install axios
         run: npm install axios
           
       - name: Analyze Pull Request
