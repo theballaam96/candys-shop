@@ -40,7 +40,8 @@ async function run() {
     let preview_file = null;
     let preview_extension = null;
     const preview_extensions = ["wav", "mp3"];
-    response_files.data.forEach(f => {
+    for (let i = 0; i < response_files.data.length; i++) {
+      const f = response_files.data[i];
       const extension_sep = f.filename.split(".");
       const extension = extension_sep[extension_sep.length - 1];
       if (extension == "bin") {
@@ -51,7 +52,7 @@ async function run() {
         preview_file = f.filename;
         preview_extension = extension;
       }
-    })
+    }
 
     // Extract the PR message
     const prMessage = response.data.body;
