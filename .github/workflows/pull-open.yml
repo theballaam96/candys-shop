@@ -24,8 +24,7 @@ jobs:
           npm init -y
           npm install
           npm install axios
-          npm install @actions/core
-          npm install @actions/github
+          npm install @octokit/rest
           
       - name: Analyze Pull Request
         run: node .github/scripts/pr-analyzer.js
