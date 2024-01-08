@@ -1,6 +1,4 @@
 const axios = require('axios');
-const core = require('@actions/core');
-const github = require('@actions/github');
 
 async function run() {
   try {
@@ -41,7 +39,6 @@ async function run() {
     const prNumber = process.env.PR_NUMBER;
     const repo = process.env.GITHUB_REPOSITORY;
     const token = process.env.GITHUB_TOKEN;
-    console.log(`Fetching details for PR ${prNumber} in repository ${repo}`);
     const response = await axios.get(`https://api.github.com/repos/${repo}/pulls/${prNumber}`, {
       headers: {
         Authorization: `Bearer ${token}`,
@@ -121,14 +118,6 @@ async function run() {
     ${json_output}
     \`\`\`
     `
-
-    const octokit = new github.getOctokit(process.env.GITHUB_TOKEN);
-    const new_comment = octokit.issues.createComment({
-        owner: 'theballaam96',
-        repo: payload.repository.name,
-        issue_number: payload.issue.number,
-        body: message,
-    });
     // await octokit.issues.update({
     //     owner: 'theballaam96',
     //     repo: payload.repository.name,
@@ -136,7 +125,8 @@ async function run() {
     //     labels: Array.from([...labels, ...newLabels])
     // });
 
-    console.log('Commented on pull request successfully.');
+    console.log(message);
+    return message;
   } catch (error) {
     console.error('Error:', error.response ? error.response.data : error.message || error);
     process.exit(1);
