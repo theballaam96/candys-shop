@@ -98,25 +98,24 @@ async function run() {
     }
 
     // Compose Message
-    const message = `Mornin',
+    let segments = [
+        "Mornin'",
+        "",
+        "I've analyzed your pull request and ascertained the following information from it. This will help the verifiers handle your request faster.",
+        `Is Song Upload: ${song_upload ? "Yes": "No"}`
+    ]
+    if (song_upload) {
+        segments.push(`Missing Mandatory Information: ${missing_mandatory_headers.length == 0 ? "None" : missing_mandatory_headers.join(", ")}`)
+        segments.push(`Headers which I don't understand: ${unlisted_headers.length == 0 ? "None": unlisted_headers.join(", ")}`)
+    }
+    segments.push(`Something needs changing: ${needs_changing ? "Yes": "No"}`)
+    segments.push("Here's what the output will look like:")
+    segments.push("\`\`\`")
+    segments.push(JSON.stringify(json_output, undefined, 4))
+    segments.push("\`\`\`")
 
-    I've analyzed your pull request and ascertained the following information from it.
-    This will help the verifiers handle your request faster.
-    
-    Is Song Upload: ${song_upload ? "Yes": "No"}
-    ${
-        song_upload ? `
-            Missing Mandatory Information: ${missing_mandatory_headers.length == 0 ? "None" : missing_mandatory_headers.join(", ")}
-            Headers which I don't understand: ${unlisted_headers.length == 0 ? "None": unlisted_headers.join(", ")}
-        ` : ""
-    } 
-    Something needs changing: ${needs_changing ? "Yes": "No"}
 
-    Here's what the output will look like:
-    \`\`\`
-    ${json_output}
-    \`\`\`
-    `
+    const message = segments.join("\n")
     // await octokit.issues.update({
     //     owner: 'theballaam96',
     //     repo: payload.repository.name,
