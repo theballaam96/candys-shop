@@ -11,6 +11,8 @@ async function run() {
     const owner = process.env.GITHUB_REPOSITORY_OWNER;
     const repo = process.env.GITHUB_REPOSITORY_NAME;
 
+    console.log(`Fetching details for PR ${prNumber} in repository ${owner}/${repo}`);
+
     // Get the PR details using the GitHub API
     const response = await axios.get(`https://api.github.com/repos/${owner}/${repo}/pulls/${prNumber}`, {
       headers: {
