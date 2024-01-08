@@ -27,6 +27,7 @@ jobs:
       - name: Append PR message to JSON
         run: node .github/scripts/append-json.js
         env:
+          PR_NUMBER: ${{ github.event.number }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit and push
