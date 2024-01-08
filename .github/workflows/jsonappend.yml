@@ -1,0 +1,27 @@
+name: Append PR Message to JSON
+
+on:
+  pull_request:
+    types:
+      - closed
+
+jobs:
+  if_merged:
+    if: github.event.pull_request.merged == true
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 14
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Append PR message to JSON
+        run: node .github/scripts/append-json.js
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
