@@ -126,6 +126,7 @@ async function run() {
         repo: repo.split("/")[1],
         issue_number: parseInt(prNumber, 10), // Ensure prNumber is parsed as an integer
         body: message,
+        auth: GITHUB_TOKEN,
     });
   } catch (error) {
     console.error('Error:', error.response ? error.response.data : error.message || error);
