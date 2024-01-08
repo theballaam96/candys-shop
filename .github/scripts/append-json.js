@@ -114,6 +114,14 @@ async function run() {
         const binFilePath = path.join(__dirname, `../../${k_file}`);
         if (k_keep) {
           const newBinFile = `${k}/${sub_file}.${k_ext}`
+          const rootDir = `${k}`
+          const gameDir = `${k}/${filterFilename(json_output["Game"])}`
+          if (!fs.existsSync(rootDir)) {
+            fs.mkdirSync(rootDir)
+          }
+          if (!fs.existsSync(gameDir)) {
+            fs.mkdirSync(gameDir)
+          }
           const binNewFilePath = path.join(__dirname, `../../${newBinFile}`);
           const binFileData = fs.existsSync(binFilePath) ? fs.readFileSync(binFilePath) : null;
           if (binFileData != null) {
