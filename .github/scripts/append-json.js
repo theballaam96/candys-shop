@@ -8,6 +8,8 @@ async function run() {
     const prNumber = process.env.GITHUB_EVENT_NUMBER;
 
     // Get the repository owner and name
+    console.log(process.env)
+
     const owner = process.env.GITHUB_REPOSITORY_OWNER;
     const repo = process.env.GITHUB_REPOSITORY_NAME;
 
