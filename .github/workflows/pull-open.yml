@@ -16,10 +16,6 @@ jobs:
 
       - name: Install dependencies
         run: npm install
-        
-      - name: Main work
-        env:
-          GITHUB_TOKEN: ${{ github.token }}
           
       - name: Analyze Pull Request
         run: node .github/scripts/pr-analyzer.js
