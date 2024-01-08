@@ -1,23 +1,21 @@
 const fs = require('fs');
 const path = require('path');
-const { Octokit } = require('@octokit/rest');
+const axios = require('axios');
 
 async function run() {
   try {
-    const octokit = new Octokit({ auth: process.env.GITHUB_TOKEN });
-
     // Get the PR number
     const prNumber = process.env.GITHUB_EVENT_NUMBER;
 
-    // Get the PR details
-    const pr = await octokit.request('GET /repos/:owner/:repo/pulls/:pull_number', {
-      owner: process.env.GITHUB_REPOSITORY.split('/')[0],
-      repo: process.env.GITHUB_REPOSITORY.split('/')[1],
-      pull_number: prNumber,
+    // Get the PR details using the GitHub API
+    const response = await axios.get(`https://api.github.com/repos/${process.env.GITHUB_REPOSITORY}/pulls/${prNumber}`, {
+      headers: {
+        Authorization: `Bearer ${process.env.GITHUB_TOKEN}`,
+      },
     });
 
     // Extract the PR message
-    const prMessage = pr.data.body;
+    const prMessage = response.data.body;
 
     // Read the existing JSON file
     const filePath = path.join(__dirname, 'mapping.json');
