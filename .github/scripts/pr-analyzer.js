@@ -98,8 +98,7 @@ async function run() {
     }
 
     // Compose Message
-    const payload = github.context.payload;
-    const message = `Mornin' ${github.context.payload.issue.user.login},
+    const message = `Mornin',
 
     I've analyzed your pull request and ascertained the following information from it.
     This will help the verifiers handle your request faster.
