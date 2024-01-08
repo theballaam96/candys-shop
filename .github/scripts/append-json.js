@@ -6,18 +6,15 @@ async function run() {
   try {
     // Get the PR number
     const prNumber = process.env.PR_NUMBER;
-
-    // Get the repository owner and name
-    console.log(process.env)
-
     const repo = process.env.GITHUB_REPOSITORY;
-
+    const token = process.env.GITHUB_TOKEN;
+    // Get the repository owner and name
     console.log(`Fetching details for PR ${prNumber} in repository ${repo}`);
 
     // Get the PR details using the GitHub API
     const response = await axios.get(`https://api.github.com/repos/${repo}/pulls/${prNumber}`, {
       headers: {
-        Authorization: `Bearer ${process.env.GITHUB_TOKEN}`,
+        Authorization: `Bearer ${token}`,
       },
     });
 
@@ -31,10 +28,27 @@ async function run() {
     // Append the PR message to the JSON file
     existingData.push({ prNumber, prMessage });
 
+    console.log(existingData)
+
     // Write the updated JSON file
     fs.writeFileSync(filePath, JSON.stringify(existingData, null, 2));
 
     console.log('PR message appended to JSON file successfully.');
+
+    // Commit the changes back to the repository
+    const commitMessage = `Update JSON file with PR message for #${prNumber}`;
+    const commitContent = fs.readFileSync(filePath, 'utf8');
+
+    await axios.post(`https://api.github.com/repos/${repo}/git/commits`, {
+      message: commitMessage,
+      content: Buffer.from(commitContent).toString('base64'),
+    }, {
+      headers: {
+        Authorization: `Bearer ${token}`,
+      },
+    });
+
+    console.log('Changes committed back to the repository.');
   } catch (error) {
     console.error('Error:', error.message || error);
     process.exit(1);
