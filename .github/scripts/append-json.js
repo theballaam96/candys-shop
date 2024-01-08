@@ -33,6 +33,7 @@ async function run() {
         Authorization: `Bearer ${token}`,
       },
     });
+    console.log(response_files.data)
     // Set file variables
     let bin_file = null;
     let midi_file = null;
