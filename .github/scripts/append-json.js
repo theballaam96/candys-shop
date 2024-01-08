@@ -1,16 +1,16 @@
-const fs = require('fs');
-const path = require('path');
-const axios = require('axios');
+const fs = require("fs");
+const path = require("path");
+const axios = require("axios");
 
 const invalid_chars = [
   ":", "/", "\'", "\"", "?", "#", "%", "&", "{", "}", "\\", "<", ">", "*", "$",
   "!", "@", "+", "`", "|", "=", "."
-]
+];
 
 function filterFilename(name) {
-  invalid_chars.forEach(c => {
-    name = name.split("").filter(i => i != c).join("");
-  })
+  invalid_chars.forEach((c) => {
+    name = name.split("").filter((i) => i !== c).join("");
+  });
   return name;
 }
 
@@ -41,7 +41,7 @@ async function run() {
     let preview_file = null;
     let preview_extension = null;
     const preview_extensions = ["wav", "mp3"];
-    for (let i = 0; i < response_files.data.length; i++) {
+    for (i = 0; i < response_files.data.length; i++) {
       const f = response_files.data[i];
       console.log(f)
       const extension_sep = f.filename.split(".");
@@ -62,7 +62,7 @@ async function run() {
     const rawPRData = prMessage.split("\r\n")
     const REQ_STRING = "IS SONG - DO NOT DELETE THIS LINE"
     if (rawPRData[0] != REQ_STRING) {
-        console.log('Skipping Pull Request, missing key line.');
+        console.log("Skipping Pull Request, missing key line.");
         return;
     }
     let json_output = {}
@@ -72,8 +72,9 @@ async function run() {
             json_output[spl[0].trim()] = spl[1].trim()
         }
     })
+    console.log(json_output)
     const number_vars = ["Tracks", "Duration"]
-    number_vars.forEach(v => {
+    number_vars.forEach((v) => {
         if (Object.keys(json_output).includes(v)) {
             if (!isNaN(json_output[v])) {
                 json_output[v] = Number(json_output[v])
@@ -81,15 +82,17 @@ async function run() {
         }
     })
     const arr_vars = ["Categories"]
-    arr_vars.forEach(v => {
+    arr_vars.forEach((v) => {
         if (Object.keys(json_output).includes(v)) {
-            json_output[v] = json_output[v].split(",").map(item => item.trim())
+            json_output[v] = json_output[v].split(",").map((item) => item.trim())
         }
     })
     json_output["Verified"] = true;
     dt = new Date();
     json_output["Date"] = dt.toString();
-    const sub_file = `${filterFilename(json_output['Game'])}/${filterFilename(json_output['Song'])}`
+    console.log("Modified JSON Output")
+    const sub_file = `${filterFilename(json_output["Game"])}/${filterFilename(json_output["Song"])}`
+    console.log(sub_file)
 
     // Read the existing JSON file
     console.log(__dirname)
@@ -103,7 +106,7 @@ async function run() {
       "previews": [preview_file, preview_extension, true],
       "midi": [midi_file, "mid", false],
     }
-    Object.keys(file_data).forEach(k => {
+    Object.keys(file_data).forEach((k) => {
       k_file = file_data[k][0];
       k_ext = file_data[k][1];
       k_keep = file_data[k][2];
@@ -128,9 +131,9 @@ async function run() {
     // Write the updated JSON file
     fs.writeFileSync(filePath, JSON.stringify(existingData, null, 2));
 
-    console.log('PR message appended to JSON file successfully.');
+    console.log("PR message appended to JSON file successfully.");
   } catch (error) {
-    console.error('Error:', error.response ? error.response.data : error.message || error);
+    console.error("Error:", error.response ? error.response.data : error.message || error);
     process.exit(1);
   }
 }
