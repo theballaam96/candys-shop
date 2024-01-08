@@ -19,21 +19,21 @@ async function run() {
     const number_vars = ["Tracks", "Duration"];
     const arr_vars = ["Categories"];
     const data_headers = [
-        UploadHeader("Game", true),
-        UploadHeader("Song", true),
-        UploadHeader("Group", true),
-        UploadHeader("Composers", false),
-        UploadHeader("Converters", false),
-        UploadHeader("Audio", true),
-        UploadHeader("Duration", true),
-        UploadHeader("Tracks", true),
-        UploadHeader("Categories", true),
-        UploadHeader("Update Notes", true),
-        UploadHeader("Additional Notes", true),
+        new UploadHeader("Game", true),
+        new UploadHeader("Song", true),
+        new UploadHeader("Group", true),
+        new UploadHeader("Composers", false),
+        new UploadHeader("Converters", false),
+        new UploadHeader("Audio", true),
+        new UploadHeader("Duration", true),
+        new UploadHeader("Tracks", true),
+        new UploadHeader("Categories", true),
+        new UploadHeader("Update Notes", true),
+        new UploadHeader("Additional Notes", true),
         /* Automatically generated headers */
-        // UploadHeader("Date", true),
-        // UploadHeader("Verified", true),
-        // UploadHeader("Binary", true),
+        // new UploadHeader("Date", true),
+        // new UploadHeader("Verified", true),
+        // new UploadHeader("Binary", true),
     ]
 
 
