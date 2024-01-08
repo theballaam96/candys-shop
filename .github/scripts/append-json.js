@@ -6,6 +6,7 @@ const invalid_chars = [
   ":", "/", "\'", "\"", "?", "#", "%", "&", "{", "}", "\\", "<", ">", "*", "$",
   "!", "@", "+", "`", "|", "=", "."
 ]
+
 function filterFilename(name) {
   invalid_chars.forEach(c => {
     name = name.split("").filter(i => i != c).join("");
@@ -33,7 +34,7 @@ async function run() {
         Authorization: `Bearer ${token}`,
       },
     });
-    console.log(response_files.data)
+    console.log(response_files.data);
     // Set file variables
     let bin_file = null;
     let midi_file = null;
@@ -41,6 +42,7 @@ async function run() {
     let preview_extension = null;
     const preview_extensions = ["wav", "mp3"];
     for (let i = 0; i < response_files.data.length; i++) {
+      console.log(f)
       const f = response_files.data[i];
       const extension_sep = f.filename.split(".");
       const extension = extension_sep[extension_sep.length - 1];
@@ -53,6 +55,7 @@ async function run() {
         preview_extension = extension;
       }
     }
+    console.log(bin_file, midi_file, preview_file, preview_extension)
 
     // Extract the PR message
     const prMessage = response.data.body;
@@ -94,6 +97,7 @@ async function run() {
     const filePath = path.join(__dirname, `../../${file}`);
     const existingData = fs.existsSync(filePath) ? require(filePath) : [];
     // Read existing file for PR
+    console.log("Starting file transfer")
     file_data = {
       "binaries": [bin_file, "bin", true],
       "previews": [preview_file, preview_extension, true],
@@ -109,11 +113,14 @@ async function run() {
           const newBinFile = `${k}/${sub_file}.${k_ext}`
           const binNewFilePath = path.join(__dirname, `../../${newBinFile}`);
           const binFileData = fs.existsSync(binFilePath) ? require(binFilePath) : null;
-          fs.writeFileSync(binNewFilePath, binFileData);
+          if (binFileData != null) {
+            fs.writeFileSync(binNewFilePath, binFileData);
+          }
         }
         fs.unlinkSync(binFilePath);
       }
     })
+    console.log("File Transfer Done")
 
     // Append the PR message to the JSON file
     existingData.push(json_output);
