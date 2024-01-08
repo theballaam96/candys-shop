@@ -42,8 +42,8 @@ async function run() {
     let preview_extension = null;
     const preview_extensions = ["wav", "mp3"];
     for (let i = 0; i < response_files.data.length; i++) {
-      console.log(f)
       const f = response_files.data[i];
+      console.log(f)
       const extension_sep = f.filename.split(".");
       const extension = extension_sep[extension_sep.length - 1];
       if (extension == "bin") {
