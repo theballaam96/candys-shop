@@ -8,10 +8,14 @@ async function run() {
     const prNumber = process.env.GITHUB_EVENT_NUMBER;
 
     // Get the PR details using the GitHub API
-    const response = await axios.get(`https://api.github.com/repos/${process.env.GITHUB_REPOSITORY}/pulls/${prNumber}`, {
-      headers: {
-        Authorization: `Bearer ${process.env.GITHUB_TOKEN}`,
-      },
+    const owner = process.env.GITHUB_REPOSITORY.split('/')[0];
+    const repo = process.env.GITHUB_REPOSITORY.split('/')[1];
+
+    // Get the PR details using the GitHub API
+    const response = await axios.get(`https://api.github.com/repos/${owner}/${repo}/pulls/${prNumber}`, {
+        headers: {
+            Authorization: `Bearer ${process.env.GITHUB_TOKEN}`,
+        },
     });
 
     // Extract the PR message
