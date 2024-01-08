@@ -26,6 +26,7 @@ jobs:
           npm install
           npm install axios
           npm install @octokit/rest
+          npm install jsdifflib
           
       - name: Analyze Pull Request
         run: node .github/scripts/pr-analyzer.js

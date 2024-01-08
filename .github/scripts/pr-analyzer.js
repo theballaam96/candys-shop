@@ -1,5 +1,8 @@
 const axios = require('axios');
 const { Octokit } = require("@octokit/rest");
+const fs = require('fs');
+const path = require('path');
+const difflib = require('jsdifflib');
 
 async function run() {
   try {
@@ -15,6 +18,9 @@ async function run() {
     let mandatory_headers_included = [];
     let unlisted_headers = [];
     let needs_changing = false;
+    let new_game = false;
+    let similar_game_name = "";
+    let similar_game_score = 0;
     const number_vars = ["Tracks", "Duration"];
     const arr_vars = ["Categories"];
     const data_headers = [
@@ -87,6 +93,7 @@ async function run() {
     dt = new Date();
     json_output["Date"] = dt.toString();
 
+    // Check headers
     let missing_mandatory_headers = [];
     data_headers.forEach(h => {
         if (h.mandatory) {
@@ -99,6 +106,32 @@ async function run() {
         needs_changing = missing_mandatory_headers.length > 0 || unlisted_headers.length > 0;
     }
 
+    // Check game list
+    const file = "images.json"
+    const filePath = path.join(__dirname, `../../${file}`);
+    const imageData = fs.existsSync(filePath) ? require(filePath) : [];
+    const game_name = Object.keys(json_output).includes("Game") ? json_output["Game"] : null;
+    const similarity_threshold = 0.75
+    if (game_name != null) {
+        if (!Object.keys(imageData).includes(game_name)) {
+            new_game = true;
+            let max_score = 0;
+            let max_score_name = "";
+            Object.keys(imageData).forEach(gn => {
+                const s = new difflib.SequenceMatcher(null, game_name, gn)
+                new_score = s.quickRatio();
+                if (new_score > max_score) {
+                    max_score = new_score
+                    max_score_name = gn
+                }
+            })
+            if (max_score >= similarity_threshold) {
+                similar_game_name = max_score_name;
+                similar_game_score = max_score;
+            }
+        }
+    }
+
     // Compose Message
     let segments = [
         "Mornin'",
@@ -109,8 +142,15 @@ async function run() {
     if (song_upload) {
         segments.push(`> Missing Mandatory Information: ${missing_mandatory_headers.length == 0 ? "None" : missing_mandatory_headers.join(", ")}`)
         segments.push(`> Headers which I don't understand: ${unlisted_headers.length == 0 ? "None": unlisted_headers.join(", ")}`)
+        segments.push(`> Is new game: ${new_game ? "Yes": "No"}`)
+        if (new_game) {
+            if (similar_game_score > 0) {
+                segments.push(`> Detected as Similar to: ${similar_game_name} (Similarity Score: ${parseInt(similar_game_score * 100, 10)}%)`)
+            }
+        }
     }
     segments.push(`> Something needs changing: ${needs_changing ? "Yes": "No"}`)
+    segments.push("") // Prevent following messges getting indented
     segments.push("Here's what the output will look like:")
     segments.push("\`\`\`")
     segments.push(JSON.stringify(json_output, undefined, 4))
@@ -124,6 +164,11 @@ async function run() {
         issue_number: parseInt(prNumber, 10), // Ensure prNumber is parsed as an integer
         body: message,
     });
+
+    if (needs_changing) {
+        console.error("Something needs changing in order to make this PR valid.")
+        process.exit(1);
+    }
   } catch (error) {
     console.error('Error:', error.response ? error.response.data : error.message || error);
     process.exit(1);
