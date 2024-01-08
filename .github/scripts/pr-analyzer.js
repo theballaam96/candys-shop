@@ -3,6 +3,18 @@ const { Octokit } = require("@octokit/rest");
 const fs = require('fs');
 const path = require('path');
 
+const invalid_chars = [
+    ":", "/", "\'", "\"", "?", "#", "%", "&", "{", "}", "\\", "<", ">", "*", "$",
+    "!", "@", "+", "`", "|", "=", "."
+];
+
+function filterFilename(name) {
+    invalid_chars.forEach((c) => {
+        name = name.split("").filter((i) => i !== c).join("");
+    });
+    return name;
+}
+
 function stringCompare(source, comparison) {
     // Returns a similarity score between two strings;
     let arr_a = source.toLowerCase().split("")
