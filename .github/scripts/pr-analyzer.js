@@ -36,9 +36,9 @@ async function run() {
 
 
     // PR Data
-    const prNumber = process.argv[2];
-    const repo = process.argv[3];
-    const token = process.argv[4];
+    const prNumber = process.env.PR_NUMBER;
+    const repo = process.env.GITHUB_REPOSITORY;
+    const token = process.env.GITHUB_TOKEN;
     const response = await axios.get(`https://api.github.com/repos/${repo}/pulls/${prNumber}`, {
       headers: {
         Authorization: `Bearer ${token}`,
