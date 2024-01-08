@@ -13,7 +13,7 @@ jobs:
     steps:
       - name: Checkout code
         uses: actions/checkout@v2
-        
+
       - name: Set up Node.js
         uses: actions/setup-node@v3
         with:
@@ -21,8 +21,8 @@ jobs:
 
       - name: Install project dependencies
         run: npm install
-
-      - name: Install axios
+        run: npm install @actions/core
+        run: npm install @actions/github
         run: npm install axios
           
       - name: Analyze Pull Request
