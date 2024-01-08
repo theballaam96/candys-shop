@@ -36,9 +36,9 @@ async function run() {
 
 
     // PR Data
-    const prNumber = process.env.PR_NUMBER;
-    const repo = process.env.GITHUB_REPOSITORY;
-    const token = process.env.GITHUB_TOKEN;
+    const prNumber = process.argv[2];
+    const repo = process.argv[3];
+    const token = process.argv[4];
     const response = await axios.get(`https://api.github.com/repos/${repo}/pulls/${prNumber}`, {
       headers: {
         Authorization: `Bearer ${token}`,
@@ -115,14 +115,7 @@ async function run() {
     segments.push("\`\`\`")
 
 
-    const message = segments.join("\n")
-    // await octokit.issues.update({
-    //     owner: 'theballaam96',
-    //     repo: payload.repository.name,
-    //     issue_number: prNumber,
-    //     labels: Array.from([...labels, ...newLabels])
-    // });
-
+    const message = segments.join("\n");
     console.log(message);
     return message;
   } catch (error) {
