@@ -71,15 +71,23 @@ async function run() {
     });
     const latestCommitSHA = branchData.object.sha;
 
+    // Get the content of the existing file
+    const existingFile = await axios.get(`https://api.github.com/repos/${repo}/contents/${filePath}`, {
+      headers: {
+        Authorization: `Bearer ${token}`,
+      },
+    });
+
     // Commit the changes back to the repository
     const commitMessage = `Update JSON file with PR message for #${prNumber}`;
     const commitContent = fs.readFileSync(filePath, 'utf8');
+    const base64Content = Buffer.from(commitContent).toString('base64');
 
-    await axios.post(`https://api.github.com/repos/${repo}/git/commits`, {
+    await axios.post(`https://api.github.com/repos/${repo}/contents/${filePath}`, {
       message: commitMessage,
-      content: Buffer.from(commitContent).toString('base64'),
-      tree: [{ path: filePath, mode: '100644', type: 'blob', content: commitContent }],
-      parents: [latestCommitSHA],
+      content: base64Content,
+      sha: existingFile.data.sha,
+      branch: defaultBranch,
     }, {
       headers: {
         Authorization: `Bearer ${token}`,
@@ -87,8 +95,10 @@ async function run() {
     });
 
     console.log('Changes committed back to the repository.');
+
+    console.log('Changes committed back to the repository.');
   } catch (error) {
-    console.error('Error:', error.message || error);
+    console.error('Error:', error.response ? error.response.data : error.message || error);
     process.exit(1);
   }
 }
