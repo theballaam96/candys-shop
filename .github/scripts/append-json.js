@@ -68,8 +68,10 @@ async function run() {
     let json_output = {}
     rawPRData.forEach((item, index) => {
         if (index > 0) {
-            spl = item.split(/:(.*)/s)
-            json_output[spl[0].trim()] = spl[1].trim()
+            if (item.split("").includes(":")) {
+              spl = item.split(/:(.*)/s)
+              json_output[spl[0].trim()] = spl[1].trim()
+            }
         }
     })
     console.log(json_output)
@@ -90,15 +92,24 @@ async function run() {
     json_output["Verified"] = true;
     dt = new Date();
     json_output["Date"] = dt.toString();
-    console.log("Modified JSON Output")
-    const sub_file = `${filterFilename(json_output["Game"])}/${filterFilename(json_output["Song"])}`
-    console.log(sub_file)
-
     // Read the existing JSON file
     console.log(__dirname)
     const file = "mapping.json"
     const filePath = path.join(__dirname, `../../${file}`);
     const existingData = fs.existsSync(filePath) ? require(filePath) : [];
+    // Get new file name
+    let revisions = existingData.filter((entry) => ((entry["Game"] == json_output["Game"]) && (entry["Song"] == json_output["Song"]))).length;
+    const rev_string = revisions == 0 ? "" : ` (REV ${revisions})`;
+    const sub_file = `${filterFilename(json_output["Game"])}/${filterFilename(json_output["Song"])}${rev_string}`
+    if (preview_file) {
+      json_output["Audio"] = `previews/${sub_file}.${preview_extension}`
+    }
+    if (bin_file) {
+      json_output["Binary"] = `previews/${sub_file}.bin`
+    }
+    console.log(sub_file)
+
+    
     // Read existing file for PR
     console.log("Starting file transfer")
     file_data = {

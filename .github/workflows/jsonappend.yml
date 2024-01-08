@@ -1,4 +1,4 @@
-name: Append PR Message to JSON
+name: Pull Request Merge
 
 on:
   pull_request:

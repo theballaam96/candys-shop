@@ -60,7 +60,7 @@ async function run() {
         new UploadHeader("Group", true),
         new UploadHeader("Composers", false),
         new UploadHeader("Converters", false),
-        new UploadHeader("Audio", true),
+        new UploadHeader("Audio", false),
         new UploadHeader("Duration", true),
         new UploadHeader("Tracks", true),
         new UploadHeader("Categories", true),
@@ -87,6 +87,25 @@ async function run() {
         Authorization: `Bearer ${token}`,
       },
     });
+    // Set file variables
+    let bin_file = null;
+    let midi_file = null;
+    let preview_file = null;
+    let preview_extension = null;
+    const preview_extensions = ["wav", "mp3"];
+    for (i = 0; i < response_files.data.length; i++) {
+      const f = response_files.data[i];
+      const extension_sep = f.filename.split(".");
+      const extension = extension_sep[extension_sep.length - 1];
+      if (extension == "bin") {
+        bin_file = f.filename;
+      } else if (extension == "mid") {
+        midi_file = f.filename;
+      } else if (preview_extensions.includes(extension)) {
+        preview_file = f.filename;
+        preview_extension = extension;
+      }
+    }
     const octokit = new Octokit({auth: token})
 
     // Extract the PR message
@@ -100,17 +119,19 @@ async function run() {
     rawPRData.forEach((item, index) => {
         if (index > 0) {
             spl = item.split(/:(.*)/s)
-            key = spl[0].trim()
-            header_data = data_headers.filter(h => h.name == key)
-            if (header_data.length == 0) {
-                // Uses header not listed in the array
-                unlisted_headers.push(key)
-            } else {
-                if (header_data[0].mandatory) {
-                    mandatory_headers_included.push(key)
+            if (item.split("").includes(":")) {
+                key = spl[0].trim()
+                header_data = data_headers.filter(h => h.name == key)
+                if (header_data.length == 0) {
+                    // Uses header not listed in the array
+                    unlisted_headers.push(key)
+                } else {
+                    if (header_data[0].mandatory) {
+                        mandatory_headers_included.push(key)
+                    }
                 }
+                json_output[key] = spl[1].trim()
             }
-            json_output[key] = spl[1].trim()
         }
     })
     number_vars.forEach(v => {
@@ -138,14 +159,30 @@ async function run() {
             }
         }
     })
-    if (song_upload) {
-        needs_changing = missing_mandatory_headers.length > 0 || unlisted_headers.length > 0;
-    }
+    
 
     // Check game list
     const file = "images.json"
+    const mappingFile = "mapping.json"
     const filePath = path.join(__dirname, `../../${file}`);
+    const mappingPath = path.join(__dirname, `../../${mappingFile}`);
     const imageData = fs.existsSync(filePath) ? require(filePath) : [];
+    const mappingData = fs.existsSync(mappingPath) ? require(mappingPath) : [];
+    // Get new file name
+    let revisions = mappingData.filter((entry) => ((entry["Game"] == json_output["Game"]) && (entry["Song"] == json_output["Song"]))).length;
+    const rev_string = revisions == 0 ? "" : ` (REV ${revisions})`;
+    const sub_file = `${filterFilename(json_output["Game"])}/${filterFilename(json_output["Song"])}${rev_string}`
+    if (preview_file) {
+      json_output["Audio"] = `previews/${sub_file}.${preview_extension}`
+    }
+    if (bin_file) {
+      json_output["Binary"] = `previews/${sub_file}.bin`
+    }
+
+    if (song_upload) {
+        needs_changing = missing_mandatory_headers.length > 0 || unlisted_headers.length > 0 || !Object.keys(json_output).includes("Binary") || !Object.keys(json_output).includes("Audio");
+    }
+
     const game_name = Object.keys(json_output).includes("Game") ? json_output["Game"] : null;
     const similarity_threshold = 0.75
     if (game_name != null) {
@@ -175,6 +212,8 @@ async function run() {
         `> Is Song Upload: ${song_upload ? "Yes": "No"}`
     ]
     if (song_upload) {
+        segments.push(`> Has Binary File: ${Object.keys(json_output).includes("Binary") ? "Yes" : "No"}`)
+        segments.push(`> Has Preview: ${Object.keys(json_output).includes("Audio") ? "Yes" : "No"}`)
         segments.push(`> Missing Mandatory Information: ${missing_mandatory_headers.length == 0 ? "None" : missing_mandatory_headers.join(", ")}`)
         segments.push(`> Headers which I don't understand: ${unlisted_headers.length == 0 ? "None": unlisted_headers.join(", ")}`)
         segments.push(`> Is new game: ${new_game ? "Yes": "No"}`)
