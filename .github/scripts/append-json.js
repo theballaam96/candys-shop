@@ -50,12 +50,26 @@ async function run() {
     // Append the PR message to the JSON file
     existingData.push(json_output);
 
-    console.log(existingData)
-
     // Write the updated JSON file
     fs.writeFileSync(filePath, JSON.stringify(existingData, null, 2));
 
     console.log('PR message appended to JSON file successfully.');
+
+    // Get the default branch of the repository
+    const { data: repoData } = await axios.get(`https://api.github.com/repos/${repo}`, {
+      headers: {
+        Authorization: `Bearer ${token}`,
+      },
+    });
+    const defaultBranch = repoData.default_branch;
+
+    // Get the latest commit SHA of the default branch
+    const { data: branchData } = await axios.get(`https://api.github.com/repos/${repo}/git/ref/heads/${defaultBranch}`, {
+      headers: {
+        Authorization: `Bearer ${token}`,
+      },
+    });
+    const latestCommitSHA = branchData.object.sha;
 
     // Commit the changes back to the repository
     const commitMessage = `Update JSON file with PR message for #${prNumber}`;
@@ -64,6 +78,8 @@ async function run() {
     await axios.post(`https://api.github.com/repos/${repo}/git/commits`, {
       message: commitMessage,
       content: Buffer.from(commitContent).toString('base64'),
+      tree: [{ path: filePath, mode: '100644', type: 'blob', content: commitContent }],
+      parents: [latestCommitSHA],
     }, {
       headers: {
         Authorization: `Bearer ${token}`,
