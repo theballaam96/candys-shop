@@ -1,9 +1,5 @@
 const axios = require('axios');
-const core = require('@actions/core');
-const github = require('@actions/github');
-const { context } = require('@actions/github');
-const GITHUB_TOKEN = core.getInput('GITHUB_TOKEN');
-const octokit = github.getOctokit(GITHUB_TOKEN);
+const { Octokit } = require("@octokit/rest");
 
 async function run() {
   try {
@@ -49,6 +45,7 @@ async function run() {
         Authorization: `Bearer ${token}`,
       },
     });
+    const octokit = new Octokit({auth: token})
 
     // Extract the PR message
     const prMessage = response.data.body;
@@ -121,12 +118,11 @@ async function run() {
 
 
     const message = segments.join("\n");
-    await octokit.rest.issues.createComment({
+    await octokit.issues.createComment({
         owner: repo.split("/")[0],
         repo: repo.split("/")[1],
         issue_number: parseInt(prNumber, 10), // Ensure prNumber is parsed as an integer
         body: message,
-        auth: GITHUB_TOKEN,
     });
   } catch (error) {
     console.error('Error:', error.response ? error.response.data : error.message || error);
