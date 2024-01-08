@@ -25,27 +25,9 @@ jobs:
           npm install axios
           
       - name: Analyze Pull Request
-        run: |
-          PULL_MSG=$(node .github/scripts/pr-analyzer.js)
-          echo "PULL_MSG=$PULL_MSG" >> $GITHUB_ENV
+        run: node .github/scripts/pr-analyzer.js
         env:
           PR_NUMBER: ${{ github.event.number }}
           GITHUB_REPOSITORY: ${{ github.repository }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        shell: bash
-
-        
-      - uses: actions/github-script@v2
-        with:
-          github-token: ${{secrets.GITHUB_TOKEN}}
-          script: |
-            const github = require('@actions/github');
-            const context = github.context;
-            
-            github.issues.createComment({
-              issue_number: context.issue.number,
-              owner: context.repo.owner,
-              repo: context.repo.repo,
-              body: process.env.PULL_MSG
-            })
 

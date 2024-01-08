@@ -1,4 +1,5 @@
 const axios = require('axios');
+const { Octokit } = require("@octokit/rest");
 
 async function run() {
   try {
@@ -44,6 +45,7 @@ async function run() {
         Authorization: `Bearer ${token}`,
       },
     });
+    const octokit = new Octokit({ auth: token });
 
     // Extract the PR message
     const prMessage = response.data.body;
@@ -116,8 +118,12 @@ async function run() {
 
 
     const message = segments.join("\n");
-    console.log(message);
-    return message;
+    await octokit.issues.createComment({
+        owner: repo.split("/")[0],
+        repo: repo.split("/")[1],
+        issue_number: parseInt(prNumber, 10), // Ensure prNumber is parsed as an integer
+        body: message,
+    });
   } catch (error) {
     console.error('Error:', error.response ? error.response.data : error.message || error);
     process.exit(1);
