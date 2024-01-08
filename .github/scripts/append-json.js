@@ -17,7 +17,7 @@ async function run() {
     });
 
     // Extract the PR message
-    const prMessage = pr.body;
+    const prMessage = pr.data.body;
 
     // Read the existing JSON file
     const filePath = path.join(__dirname, 'mapping.json');
