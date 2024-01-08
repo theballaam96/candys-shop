@@ -21,7 +21,10 @@ jobs:
 
       - name: Install axios
         run: npm install axios
-          
+
+      - name: Debug Directory Contents
+        run: ls -R /home/runner/work/candys-shop/candys-shop/.github/scripts/
+  
       - name: Analyze Pull Request
         run: node .github/scripts/pr-analyzer.js
         env:
