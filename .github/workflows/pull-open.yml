@@ -9,7 +9,6 @@ jobs:
   PR-Open:
     runs-on: ubuntu-latest
     steps:
-      - run: pwd
       - name: Set up Node.js
         uses: actions/setup-node@v3
         with:
@@ -18,7 +17,6 @@ jobs:
       - name: Install dependencies
         run: npm install
         
-      - run: ls "${{ github.workspace }}"
       - name: Main work
         env:
           GITHUB_TOKEN: ${{ github.token }}
