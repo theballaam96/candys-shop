@@ -20,13 +20,34 @@ async function run() {
 
     // Extract the PR message
     const prMessage = response.data.body;
+    const rawPRData = prMessage.split("\r\n")
+    let json_output = {}
+    rawPRData.forEach(item => {
+        spl = item.split(/:(.*)/s)
+        json_output[spl[0].trim()] = spl[1].trim()
+    })
+    const number_vars = ["Tracks", "Duration"]
+    number_vars.forEach(v => {
+        if (Object.keys(json_output).includes(v)) {
+            if (!isNaN(json_output[v])) {
+                json_output[v] = Number(json_output[v])
+            }
+        }
+    })
+    const arr_vars = ["Categories"]
+    arr_vars.forEach(v => {
+        if (Object.keys(json_output).includes(v)) {
+            json_output[v] = json_output[v].split(",").map(item => item.trim())
+        }
+    })
+
 
     // Read the existing JSON file
-    const filePath = path.join(__dirname, 'mapping.json');
+    const filePath = path.join(__dirname, './mapping.json');
     const existingData = fs.existsSync(filePath) ? require(filePath) : [];
 
     // Append the PR message to the JSON file
-    existingData.push({ prNumber, prMessage });
+    existingData.push(json_output);
 
     console.log(existingData)
 
