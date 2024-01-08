@@ -5,18 +5,17 @@ const axios = require('axios');
 async function run() {
   try {
     // Get the PR number
-    const prNumber = process.env.GITHUB_EVENT_NUMBER;
+    const prNumber = process.env.GITHUB_RUN_NUMBER;
 
     // Get the repository owner and name
     console.log(process.env)
 
-    const owner = process.env.GITHUB_REPOSITORY_OWNER;
-    const repo = process.env.GITHUB_REPOSITORY_NAME;
+    const repo = process.env.GITHUB_REPOSITORY;
 
-    console.log(`Fetching details for PR ${prNumber} in repository ${owner}/${repo}`);
+    console.log(`Fetching details for PR ${prNumber} in repository ${repo}`);
 
     // Get the PR details using the GitHub API
-    const response = await axios.get(`https://api.github.com/repos/${owner}/${repo}/pulls/${prNumber}`, {
+    const response = await axios.get(`https://api.github.com/repos/${repo}/pulls/${prNumber}`, {
       headers: {
         Authorization: `Bearer ${process.env.GITHUB_TOKEN}`,
       },
