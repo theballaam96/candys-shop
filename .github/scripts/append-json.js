@@ -10,7 +10,7 @@ async function run() {
     const prNumber = process.env.GITHUB_EVENT_NUMBER;
 
     // Get the PR details
-    const { data: pr } = await octokit.pulls.get({
+    const pr = await octokit.request('GET /repos/:owner/:repo/pulls/:pull_number', {
       owner: process.env.GITHUB_REPOSITORY.split('/')[0],
       repo: process.env.GITHUB_REPOSITORY.split('/')[1],
       pull_number: prNumber,
