@@ -14861,19 +14861,5 @@
     ],
     "Verified": true,
     "Update Notes": "Fixed two notes in the melody. Rebalancing on the electric piano"
-  },
-  {
-    "Game": "Banjo-Tooie",
-    "Song": "Chilli Fights",
-    "Group": "bgm",
-    "Composers": "Grant Kirkhope",
-    "Converters": "Ballaam",
-    "Audio": "https://www.youtube.com/watch?v=aDbNkxD738Y&ab_channel=Offbeat",
-    "Duration": 126.39999999999756,
-    "Tracks": 12,
-    "Categories": [
-      "Fights",
-      "Happy"
-    ]
   }
 ]

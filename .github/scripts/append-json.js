@@ -21,10 +21,17 @@ async function run() {
     // Extract the PR message
     const prMessage = response.data.body;
     const rawPRData = prMessage.split("\r\n")
+    const REQ_STRING = "IS SONG - DO NOT DELETE THIS LINE"
+    if (rawPRData[0] != REQ_STRING) {
+        console.log('Skipping Pull Request, missing key line.');
+        return;
+    }
     let json_output = {}
-    rawPRData.forEach(item => {
-        spl = item.split(/:(.*)/s)
-        json_output[spl[0].trim()] = spl[1].trim()
+    rawPRData.forEach((item, index) => {
+        if (index > 0) {
+            spl = item.split(/:(.*)/s)
+            json_output[spl[0].trim()] = spl[1].trim()
+        }
     })
     const number_vars = ["Tracks", "Duration"]
     number_vars.forEach(v => {
@@ -40,6 +47,9 @@ async function run() {
             json_output[v] = json_output[v].split(",").map(item => item.trim())
         }
     })
+    json_output["Verified"] = true;
+    dt = new Date();
+    json_output["Date"] = dt.toString();
 
 
     // Read the existing JSON file
