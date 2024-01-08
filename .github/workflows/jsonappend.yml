@@ -29,10 +29,3 @@ jobs:
         env:
           PR_NUMBER: ${{ github.event.number }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Commit and push
-        uses: EndBug/add-and-commit@v7
-        with:
-          add: '["mapping.json"]'
-          message: 'Update Mapping'
-          push: true
