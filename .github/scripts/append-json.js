@@ -44,7 +44,8 @@ async function run() {
 
     // Read the existing JSON file
     console.log(__dirname)
-    const filePath = path.join(__dirname, '../../mapping.json');
+    const file = "mapping.json"
+    const filePath = path.join(__dirname, `../../${file}`);
     const existingData = fs.existsSync(filePath) ? require(filePath) : [];
 
     // Append the PR message to the JSON file
@@ -55,46 +56,28 @@ async function run() {
 
     console.log('PR message appended to JSON file successfully.');
 
-    // Get the default branch of the repository
-    const { data: repoData } = await axios.get(`https://api.github.com/repos/${repo}`, {
-      headers: {
-        Authorization: `Bearer ${token}`,
-      },
-    });
-    const defaultBranch = repoData.default_branch;
-
-    // Get the latest commit SHA of the default branch
-    const { data: branchData } = await axios.get(`https://api.github.com/repos/${repo}/git/ref/heads/${defaultBranch}`, {
-      headers: {
-        Authorization: `Bearer ${token}`,
-      },
-    });
-    const latestCommitSHA = branchData.object.sha;
-
     // Get the content of the existing file
-    const existingFile = await axios.get(`https://api.github.com/repos/${repo}/contents/${filePath}`, {
-      headers: {
-        Authorization: `Bearer ${token}`,
-      },
+    const existingFile = await axios.get(`https://api.github.com/repos/${repo}/contents/${file}`, {
+        headers: {
+            Authorization: `Bearer ${token}`,
+        },
     });
-
+    
     // Commit the changes back to the repository
     const commitMessage = `Update JSON file with PR message for #${prNumber}`;
     const commitContent = fs.readFileSync(filePath, 'utf8');
     const base64Content = Buffer.from(commitContent).toString('base64');
-
-    await axios.post(`https://api.github.com/repos/${repo}/contents/${filePath}`, {
-      message: commitMessage,
-      content: base64Content,
-      sha: existingFile.data.sha,
-      branch: defaultBranch,
+    
+    await axios.put(`https://api.github.com/repos/${repo}/contents/${file}`, {
+        message: commitMessage,
+        content: base64Content,
+        sha: existingFile.data.sha,
+        branch: defaultBranch,
     }, {
-      headers: {
-        Authorization: `Bearer ${token}`,
-      },
+        headers: {
+            Authorization: `Bearer ${token}`,
+        },
     });
-
-    console.log('Changes committed back to the repository.');
 
     console.log('Changes committed back to the repository.');
   } catch (error) {
