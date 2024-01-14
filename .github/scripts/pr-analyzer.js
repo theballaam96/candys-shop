@@ -107,15 +107,17 @@ async function run() {
     const preview_extensions = ["wav", "mp3"];
     for (i = 0; i < response_files.data.length; i++) {
       const f = response_files.data[i];
-      const extension_sep = f.filename.split(".");
-      const extension = extension_sep[extension_sep.length - 1];
-      if (extension == "bin") {
-        bin_file = f.filename;
-      } else if (extension == "mid") {
-        midi_file = f.filename;
-      } else if (preview_extensions.includes(extension)) {
-        preview_file = f.filename;
-        preview_extension = extension;
+      if (f.filename) {
+          const extension_sep = f.filename.split(".");
+          const extension = extension_sep[extension_sep.length - 1];
+          if (extension == "bin") {
+            bin_file = f.filename;
+          } else if (extension == "mid") {
+            midi_file = f.filename;
+          } else if (preview_extensions.includes(extension)) {
+            preview_file = f.filename;
+            preview_extension = extension;
+          }
       }
     }
     const octokit = new Octokit({auth: token})
