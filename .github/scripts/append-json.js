@@ -255,7 +255,7 @@ async function run() {
               binary_buffer = Buffer.from(preview_file_bytes, "binary");
               const buffers = [Buffer.from(data, "utf8"), binary_buffer, binary_buffer]
               let payload_data = Buffer.concat(buffers);
-              options = {
+              new_options = {
                 method: "post",
                 url: webhookUrl,
                 headers: {
@@ -263,7 +263,7 @@ async function run() {
                 },
                 data: payload_data
               }
-              axios(options).then(whresp2 => {
+              axios(new_options).then(whresp2 => {
                 console.log('Preview posted successfully:', whresp2.data);
               }).catch(error => {
                 console.log(error.message);
