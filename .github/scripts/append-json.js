@@ -151,6 +151,83 @@ async function run() {
     fs.writeFileSync(filePath, JSON.stringify(existingData, null, 2));
 
     console.log("PR message appended to JSON file successfully.");
+
+    // Post to discord
+    const shorthand_to_long = {
+      "bgm": "BGM",
+      "events": "Event",
+      "majoritems": "Major Item",
+      "minoritems": "Minor Item"
+    };
+    let suggested_type = "Not Provided";
+    if (Object.keys(json_output).includes("Group")) {
+      suggested_type = json_output["Group"];
+      if (Object.keys(shorthand_to_long).includes(suggested_type)) {
+        suggested_type = shorthand_to_long[json_output["Group"]];
+      }
+    }
+    const song_name = Object.keys(json_output).includes("Song") ? json_output["Song"] : "Not Provided"
+    let desc_information = {
+      "Game": Object.keys(json_output).includes("Game") ? json_output["Game"] : "Not Provided",
+      "Song Name": Object.keys(json_output).includes("Song") ? json_output["Song"] : "Not Provided",
+      "Type": suggested_type,
+      "Tags": Object.keys(json_output).includes("Categories") ? json_output["Categories"] : "Not Provided",
+    }
+    if (Object.keys(json_output).includes("Update Notes")) {
+      desc_information["Additional Notes"] = json_output["Update Notes"];
+    }
+    let desc_strings = []
+    Object.keys(desc_information).forEach(k => {
+      desc_strings.push(`**${k}**: ${desc_information[k]}`)
+    })
+    let update_string = ""
+    if (revisions > 0) {
+      update_string = ":watermelon: This song is an update\n"
+    }
+    let desc = desc_strings.join("\n")
+    const embeds_arr = [{
+      title: song_name,
+      description: `${update_string}${desc}`,
+      fields: [
+        {
+          name: "Composer(s)",
+          value: Object.keys(json_output).includes("Composers") ? json_output["Composers"] : "Not Provided",
+          inline: true,
+        },
+        {
+          name: "Converted By",
+          value: Object.keys(json_output).includes("Converters") ? json_output["Converters"] : "Not Provided",
+          inline: true,
+        },
+        {
+          name: "",
+          value: `Download: ${Object.keys(json_output).includes("Binary") ? json_output["Binary"] : "???"}`
+        },
+        {
+          name: "",
+          value: `Listen: ${Object.keys(json_output).includes("Audio") ? json_output["Audio"] : "No Preview"}`
+        }
+      ],
+      timestamp: new Date().toISOString(),
+    }]
+    const webhookUrl = process.env.DISCORD_WEBHOOK_PUBLICFILE;
+    const options = {
+        method: "POST",
+        url: webhookUrl,
+        headers: { "Content-Type": "application/json" },
+        data: {
+            content: "A new song has been uploaded",
+            embeds: embeds_arr,
+        },
+    }
+    axios(options)
+        .then(whresp => {
+            console.log('Message sent successfully:', whresp.data);
+        })
+        .catch(error => {
+            console.log(error.message);
+            process.exit(1);
+        });
   } catch (error) {
     console.error("Error:", error.response ? error.response.data : error.message || error);
     process.exit(1);

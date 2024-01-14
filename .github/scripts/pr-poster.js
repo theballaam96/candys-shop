@@ -142,7 +142,6 @@ async function run() {
             }
         );
     } else {
-        
         const information = {
             "Pull Request Link": `https://github.com/${repo}/pull/${prNumber}`,
         }

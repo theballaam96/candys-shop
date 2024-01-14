@@ -29,6 +29,7 @@ jobs:
         env:
           PR_NUMBER: ${{ github.event.number }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          DISCORD_WEBHOOK_PUBLICFILE: ${{ secrets.DISCORD_WEBHOOK_PUBLICFILE }}
 
       - name: Create Zip
         run: zip -r -q binaries.zip binaries
