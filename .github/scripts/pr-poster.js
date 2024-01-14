@@ -162,8 +162,10 @@ async function run() {
         method: "POST",
         url: webhookUrl,
         headers: { "Content-Type": "application/json" },
-        content: `New Pull Request from ${user}`,
-        data: JSON.stringify({embeds_arr}),
+        data: {
+            content: `New Pull Request from ${user}`,
+            embeds: embeds_arr,
+        },
     }
     axios(options)
         .then(whresp => {
