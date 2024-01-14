@@ -158,23 +158,14 @@ async function run() {
         )
     }
     const options = {
-        method: "POST",
-        headers: { "Content-Type": "application/json" },
-        muteHttpExceptions: false,
-        payload: JSON.stringify({
-          content: `New Music Submission from ${user}`,
-          embeds: embeds_arr,
-        }),
-    };
+        content: `New Pull Request from ${user}`,
+        embeds: embeds_arr,
+    }
     const webhookUrl = process.env.DISCORD_WEBHOOK;
-    axios.post(webhookUrl, options)
-        .then(whresp => {
-            console.log('Message sent successfully:', whresp.data);
-        })
-        .catch(wherr => {
-            console.error('Error sending message:', wherr.message);
-            process.exit(1);
-        });
+    var request = new XMLHttpRequest();
+    request.open("POST", webhookUrl);
+    request.setRequestHeader('Content-type', 'application/json');
+    request.send(JSON.stringify(params));
   } catch (error) {
     console.error('Error:', error.response ? error.response.data : error.message || error);
     process.exit(1);
