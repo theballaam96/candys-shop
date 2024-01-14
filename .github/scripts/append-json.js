@@ -253,9 +253,8 @@ async function run() {
               data += "Content-Disposition: form-data; name=\"file\"; filename=\"" + new_song_name + "\"\r\n";
               data += "Content-Type:" + "audio/mpeg" + "\r\n\r\n";
               binary_buffer = Buffer.from(preview_file_bytes, "binary");
-              let payload_data = Utilities.newBlob(data).getBytes()
-                .concat(binary_buffer)
-                .concat(binary_buffer);
+              const buffers = [Buffer.from(data, "utf8"), binary_buffer, binary_buffer]
+              let payload_data = Buffer.concat(buffers);
               options = {
                 method: "post",
                 url: webhookUrl,
