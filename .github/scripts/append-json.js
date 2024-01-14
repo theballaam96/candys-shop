@@ -101,11 +101,13 @@ async function run() {
     let revisions = existingData.filter((entry) => ((entry["Game"] == json_output["Game"]) && (entry["Song"] == json_output["Song"]))).length;
     const rev_string = revisions == 0 ? "" : ` (REV ${revisions})`;
     const sub_file = `${filterFilename(json_output["Game"])}/${filterFilename(json_output["Song"])}${rev_string}`
+    let binary_link = null;
     if (preview_file) {
       json_output["Audio"] = encodeURI(`https://github.com/theballaam96/candys-shop/raw/main/previews/${sub_file}.${preview_extension}`)
     }
     if (bin_file) {
-      json_output["Binary"] = `previews/${sub_file}.bin`
+      json_output["Binary"] = `binaries/${sub_file}.bin`
+      binary_link = encodeURI(`https://github.com/theballaam96/candys-shop/raw/main/binaries/${sub_file}.bin`)
     }
     console.log(sub_file)
 
@@ -117,6 +119,7 @@ async function run() {
       "previews": [preview_file, preview_extension, true],
       "midi": [midi_file, "mid", false],
     }
+    let preview_file_bytes = null;
     Object.keys(file_data).forEach((k) => {
       k_file = file_data[k][0];
       k_ext = file_data[k][1];
@@ -135,6 +138,9 @@ async function run() {
           }
           const binNewFilePath = path.join(__dirname, `../../${newBinFile}`);
           const binFileData = fs.existsSync(binFilePath) ? fs.readFileSync(binFilePath) : null;
+          if (k == "previews") {
+            preview_file_bytes = binFileData;
+          }
           if (binFileData != null) {
             fs.writeFileSync(binNewFilePath, binFileData);
           }
@@ -185,6 +191,14 @@ async function run() {
       update_string = ":watermelon: This song is an update\n"
     }
     let desc = desc_strings.join("\n")
+    const binary_dl_link = binary_link ? binary_link : "???";
+    const has_audio_file = preview_file_bytes != null;
+    let audio_string = "No Preview";
+    if (has_audio_file) {
+      audio_string = "*(Attached)*";
+    } else if (Object.keys(json_output).includes("Audio")) {
+      audio_string = json_output["Audio"];
+    }
     const embeds_arr = [{
       title: song_name,
       description: `${update_string}${desc}`,
@@ -201,15 +215,16 @@ async function run() {
         },
         {
           name: "",
-          value: `Download: ${Object.keys(json_output).includes("Binary") ? json_output["Binary"] : "???"}`
+          value: `Download: ${binary_dl_link}`
         },
         {
           name: "",
-          value: `Listen: ${Object.keys(json_output).includes("Audio") ? json_output["Audio"] : "No Preview"}`
+          value: `Listen: ${audio_string}`
         }
       ],
       timestamp: new Date().toISOString(),
     }]
+
     const webhookUrl = process.env.DISCORD_WEBHOOK_PUBLICFILE;
     const options = {
         method: "POST",
@@ -223,6 +238,37 @@ async function run() {
     axios(options)
         .then(whresp => {
             console.log('Message sent successfully:', whresp.data);
+            if (has_audio_file) {
+              const metadata = {}
+              const boundary = "xxxxxxxx"
+              let data = "";
+              for (let i in metadata) {
+                data += `--${boundary}\r\n`;
+                data += `Content-Disposition: form-data; name=\"${i}\"; \r\n\r\n${metadata[i]}\r\n`;
+              }
+              data += "--" + boundary + "\r\n";
+              const new_song_name = `${song_name.replaceAll(' ','').replaceAll("\"","")}.${preview_extension}`
+              data += "Content-Disposition: form-data; name=\"file\"; filename=\"" + new_song_name + "\"\r\n";
+              data += "Content-Type:" + "audio/mpeg" + "\r\n\r\n";
+              binary_buffer = Buffer.from(preview_file_bytes, "binary");
+              let payload_data = Utilities.newBlob(data).getBytes()
+                .concat(binary_buffer)
+                .concat(binary_buffer);
+              options = {
+                method: "post",
+                url: webhookUrl,
+                headers: {
+                  "Content-Type": "multipart/form-data; boundary=" + boundary
+                },
+                data: payload_data
+              }
+              axios(options).then(whresp2 => {
+                console.log('Preview posted successfully:', whresp2.data);
+              }).catch(error => {
+                console.log(error.message);
+                process.exit(1);
+              });
+            }
         })
         .catch(error => {
             console.log(error.message);
