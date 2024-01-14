@@ -247,7 +247,9 @@ async function run() {
                 data += `Content-Disposition: form-data; name=\"${i}\"; \r\n\r\n${metadata[i]}\r\n`;
               }
               data += "--" + boundary + "\r\n";
-              const new_song_name = `${song_name.replaceAll(' ','').replaceAll("\"","")}.${preview_extension}`
+              const bad_song_file_chars = [" ", "\""]
+              let filtered_song_name = song_name.split("").filter(item => !bad_song_file_chars.includes(item)).join("")
+              const new_song_name = `${filtered_song_name}.${preview_extension}`
               data += "Content-Disposition: form-data; name=\"file\"; filename=\"" + new_song_name + "\"\r\n";
               data += "Content-Type:" + "audio/mpeg" + "\r\n\r\n";
               binary_buffer = Buffer.from(preview_file_bytes, "binary");
