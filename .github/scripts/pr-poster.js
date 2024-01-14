@@ -117,8 +117,8 @@ async function run() {
         user = response.data.user.login;
     }
     let embeds_arr = [];
+    let content = "";
     if (song_upload) {
-        let content = "";
         const information = {
             "Game": Object.keys(json_output).includes("Game") ? json_output["Game"] : "Not Provided",
             "Song Name": Object.keys(json_output).includes("Song") ? json_output["Song"] : "Not Provided",
