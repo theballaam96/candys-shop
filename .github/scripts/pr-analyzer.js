@@ -188,7 +188,7 @@ async function run() {
       json_output["Audio"] = encodeURI(`https://github.com/theballaam96/candys-shop/raw/main/previews/${sub_file}.${preview_extension}`)
     }
     if (bin_file) {
-      json_output["Binary"] = `previews/${sub_file}.bin`
+      json_output["Binary"] = `binaries/${sub_file}.bin`
     }
 
     if (song_upload) {

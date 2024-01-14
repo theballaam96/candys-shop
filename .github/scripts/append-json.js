@@ -192,7 +192,10 @@ async function run() {
     }
     let desc = desc_strings.join("\n")
     const binary_dl_link = binary_link ? binary_link : "???";
-    const has_audio_file = preview_file_bytes != null;
+    let has_audio_file = preview_file_bytes != null;
+    if (has_audio_file) {
+      has_audio_file = Buffer.from(preview_file_bytes, "binary").length < (25 * 1024 * 1024);
+    }
     let audio_string = "No Preview";
     if (has_audio_file) {
       audio_string = "*(Attached)*";
