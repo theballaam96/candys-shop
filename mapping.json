@@ -14947,5 +14947,22 @@
     "Verified": true,
     "Date": "Mon Jan 08 2024 21:00:44 GMT+0000 (Coordinated Universal Time)",
     "Binary": "previews/Banjo-Tooie/Chilli Fights (REV 1).bin"
+  },
+  {
+    "Game": "Banjo-Tooie",
+    "Song": "Chilli Fights",
+    "Group": "bgm",
+    "Composers": "Grant Kirkhope",
+    "Converters": "Ballaam",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Banjo-Tooie/Chilli%20Fights%20(REV%202).mp3",
+    "Duration": 126.39999999999756,
+    "Tracks": 12,
+    "Categories": [
+      "Fights",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Sun Jan 14 2024 03:24:36 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "previews/Banjo-Tooie/Chilli Fights (REV 2).bin"
   }
 ]
