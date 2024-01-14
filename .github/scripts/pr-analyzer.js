@@ -122,14 +122,14 @@ async function run() {
 
     // Extract the PR message
     const prMessage = response.data.body;
-    const rawPRData = prMessage.split("\r\n")
+    const rawPRData = prMessage ? prMessage.split("\r\n") : []
     const REQ_STRING = "IS SONG - DO NOT DELETE THIS LINE"
     if (rawPRData[0] == REQ_STRING) {
         song_upload = true;
     }
     let json_output = {}
     rawPRData.forEach((item, index) => {
-        if (index > 0) {
+        if ((index > 0) && (item)) {
             spl = item.split(/:(.*)/s)
             if (item.split("").includes(":")) {
                 key = spl[0].trim()
