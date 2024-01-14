@@ -56,28 +56,30 @@ async function run() {
     const preview_extensions = ["wav", "mp3"];
     for (i = 0; i < response_files.data.length; i++) {
       const f = response_files.data[i];
-      const extension_sep = f.filename.split(".");
-      const extension = extension_sep[extension_sep.length - 1];
-      if (extension == "bin") {
+      if (f.filename) {
+        const extension_sep = f.filename.split(".");
+        const extension = extension_sep[extension_sep.length - 1];
+        if (extension == "bin") {
         bin_file = f.raw_url;
-      } else if (extension == "mid") {
+        } else if (extension == "mid") {
         midi_file = f.raw_url;
-      } else if (preview_extensions.includes(extension)) {
+        } else if (preview_extensions.includes(extension)) {
         preview_file = f.raw_url;
         preview_extension = extension;
+        }
       }
     }
 
     // Extract the PR message
     const prMessage = response.data.body;
-    const rawPRData = prMessage.split("\r\n")
+    const rawPRData = prMessage ? prMessage.split("\r\n") : []
     const REQ_STRING = "IS SONG - DO NOT DELETE THIS LINE"
     if (rawPRData[0] == REQ_STRING) {
         song_upload = true;
     }
     let json_output = {}
     rawPRData.forEach((item, index) => {
-        if (index > 0) {
+        if ((index > 0) && (item)) {
             spl = item.split(/:(.*)/s)
             if (item.split("").includes(":")) {
                 key = spl[0].trim()
@@ -115,8 +117,8 @@ async function run() {
         user = response.data.user.login;
     }
     let embeds_arr = [];
+    let content = "";
     if (song_upload) {
-        let content = "";
         const information = {
             "Game": Object.keys(json_output).includes("Game") ? json_output["Game"] : "Not Provided",
             "Song Name": Object.keys(json_output).includes("Song") ? json_output["Song"] : "Not Provided",

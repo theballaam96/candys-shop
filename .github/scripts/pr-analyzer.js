@@ -9,6 +9,9 @@ const invalid_chars = [
 ];
 
 function filterFilename(name) {
+    if (!name) {
+        return ""
+    }
     invalid_chars.forEach((c) => {
         name = name.split("").filter((i) => i !== c).join("");
     });
@@ -107,29 +110,31 @@ async function run() {
     const preview_extensions = ["wav", "mp3"];
     for (i = 0; i < response_files.data.length; i++) {
       const f = response_files.data[i];
-      const extension_sep = f.filename.split(".");
-      const extension = extension_sep[extension_sep.length - 1];
-      if (extension == "bin") {
-        bin_file = f.filename;
-      } else if (extension == "mid") {
-        midi_file = f.filename;
-      } else if (preview_extensions.includes(extension)) {
-        preview_file = f.filename;
-        preview_extension = extension;
+      if (f.filename) {
+          const extension_sep = f.filename.split(".");
+          const extension = extension_sep[extension_sep.length - 1];
+          if (extension == "bin") {
+            bin_file = f.filename;
+          } else if (extension == "mid") {
+            midi_file = f.filename;
+          } else if (preview_extensions.includes(extension)) {
+            preview_file = f.filename;
+            preview_extension = extension;
+          }
       }
     }
     const octokit = new Octokit({auth: token})
 
     // Extract the PR message
     const prMessage = response.data.body;
-    const rawPRData = prMessage.split("\r\n")
+    const rawPRData = prMessage ? prMessage.split("\r\n") : []
     const REQ_STRING = "IS SONG - DO NOT DELETE THIS LINE"
     if (rawPRData[0] == REQ_STRING) {
         song_upload = true;
     }
     let json_output = {}
     rawPRData.forEach((item, index) => {
-        if (index > 0) {
+        if ((index > 0) && (item)) {
             spl = item.split(/:(.*)/s)
             if (item.split("").includes(":")) {
                 key = spl[0].trim()
@@ -155,7 +160,9 @@ async function run() {
     })
     arr_vars.forEach(v => {
         if (Object.keys(json_output).includes(v)) {
-            json_output[v] = json_output[v].split(",").map(item => item.trim())
+            if (json_output[v]) {
+                json_output[v] = json_output[v].split(",").map(item => item.trim())
+            }
         }
     })
     json_output["Verified"] = true;
@@ -188,7 +195,7 @@ async function run() {
       json_output["Audio"] = encodeURI(`https://github.com/theballaam96/candys-shop/raw/main/previews/${sub_file}.${preview_extension}`)
     }
     if (bin_file) {
-      json_output["Binary"] = `previews/${sub_file}.bin`
+      json_output["Binary"] = `binaries/${sub_file}.bin`
     }
 
     if (song_upload) {

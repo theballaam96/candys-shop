@@ -8,6 +8,9 @@ const invalid_chars = [
 ];
 
 function filterFilename(name) {
+  if (!name) {
+      return ""
+  }
   invalid_chars.forEach((c) => {
     name = name.split("").filter((i) => i !== c).join("");
   });
@@ -43,23 +46,24 @@ async function run() {
     const preview_extensions = ["wav", "mp3"];
     for (i = 0; i < response_files.data.length; i++) {
       const f = response_files.data[i];
-      console.log(f)
-      const extension_sep = f.filename.split(".");
-      const extension = extension_sep[extension_sep.length - 1];
-      if (extension == "bin") {
-        bin_file = f.filename;
-      } else if (extension == "mid") {
-        midi_file = f.filename;
-      } else if (preview_extensions.includes(extension)) {
-        preview_file = f.filename;
-        preview_extension = extension;
+      if (f.filename) {
+        const extension_sep = f.filename.split(".");
+        const extension = extension_sep[extension_sep.length - 1];
+        if (extension == "bin") {
+          bin_file = f.filename;
+        } else if (extension == "mid") {
+          midi_file = f.filename;
+        } else if (preview_extensions.includes(extension)) {
+          preview_file = f.filename;
+          preview_extension = extension;
+        }
       }
     }
     console.log(bin_file, midi_file, preview_file, preview_extension)
 
     // Extract the PR message
     const prMessage = response.data.body;
-    const rawPRData = prMessage.split("\r\n")
+    const rawPRData = prMessage ? prMessage.split("\r\n") : []
     const REQ_STRING = "IS SONG - DO NOT DELETE THIS LINE"
     if (rawPRData[0] != REQ_STRING) {
         console.log("Skipping Pull Request, missing key line.");
@@ -67,7 +71,7 @@ async function run() {
     }
     let json_output = {}
     rawPRData.forEach((item, index) => {
-        if (index > 0) {
+        if ((index > 0) && (item)) {
             if (item.split("").includes(":")) {
               spl = item.split(/:(.*)/s)
               json_output[spl[0].trim()] = spl[1].trim()
@@ -86,7 +90,9 @@ async function run() {
     const arr_vars = ["Categories"]
     arr_vars.forEach((v) => {
         if (Object.keys(json_output).includes(v)) {
+          if (json_output[v]) {
             json_output[v] = json_output[v].split(",").map((item) => item.trim())
+          }
         }
     })
     json_output["Verified"] = true;
@@ -192,7 +198,10 @@ async function run() {
     }
     let desc = desc_strings.join("\n")
     const binary_dl_link = binary_link ? binary_link : "???";
-    const has_audio_file = preview_file_bytes != null;
+    let has_audio_file = preview_file_bytes != null;
+    if (has_audio_file) {
+      has_audio_file = Buffer.from(preview_file_bytes, "binary").length < (25 * 1024 * 1024);
+    }
     let audio_string = "No Preview";
     if (has_audio_file) {
       audio_string = "*(Attached)*";
