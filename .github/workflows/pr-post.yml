@@ -26,9 +26,9 @@ jobs:
           npm install axios
 
     - name: Post Discord Message
-        run: node .github/scripts/pr-poster.js
-        env:
-          PR_NUMBER: ${{ github.event.number }}
-          GITHUB_REPOSITORY: ${{ github.repository }}
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          DISCORD_WEBHHOK: ${{ secrets.DISCORD_WEBHOOK_SUBMISSIONS }}
+      run: node .github/scripts/pr-poster.js
+      env:
+        PR_NUMBER: ${{ github.event.number }}
+        GITHUB_REPOSITORY: ${{ github.repository }}
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        DISCORD_WEBHOOK_SUBMISSIONS: ${{ secrets.DISCORD_WEBHOOK_SUBMISSIONS }}
