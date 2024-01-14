@@ -1,4 +1,4 @@
-name: Discord Submission Webhook
+name: Song Submission Discord Webhook
 
 on:
   workflow_dispatch:
