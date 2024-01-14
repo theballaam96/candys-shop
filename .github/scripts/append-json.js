@@ -8,6 +8,9 @@ const invalid_chars = [
 ];
 
 function filterFilename(name) {
+  if (!name) {
+      return ""
+  }
   invalid_chars.forEach((c) => {
     name = name.split("").filter((i) => i !== c).join("");
   });
@@ -87,7 +90,9 @@ async function run() {
     const arr_vars = ["Categories"]
     arr_vars.forEach((v) => {
         if (Object.keys(json_output).includes(v)) {
+          if (json_output[v]) {
             json_output[v] = json_output[v].split(",").map((item) => item.trim())
+          }
         }
     })
     json_output["Verified"] = true;
