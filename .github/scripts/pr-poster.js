@@ -142,7 +142,6 @@ async function run() {
             }
         );
     } else {
-        let content = "";
         const information = {
             "Pull Request Link": `https://github.com/${repo}/pull/${prNumber}`,
         }
@@ -157,22 +156,22 @@ async function run() {
             }
         )
     }
+    const webhookUrl = process.env.DISCORD_WEBHOOK_SUBMISSIONS;
     const options = {
         method: "POST",
+        url: webhookUrl,
         headers: { "Content-Type": "application/json" },
-        muteHttpExceptions: false,
-        payload: JSON.stringify({
-          content: `New Music Submission from ${user}`,
-          embeds: embeds_arr,
-        }),
-    };
-    const webhookUrl = process.env.DISCORD_WEBHOOK;
-    axios.post(webhookUrl, options)
+        data: {
+            content: `New Pull Request from ${user}`,
+            embeds: embeds_arr,
+        },
+    }
+    axios(options)
         .then(whresp => {
             console.log('Message sent successfully:', whresp.data);
         })
-        .catch(wherr => {
-            console.error('Error sending message:', wherr.message);
+        .catch(error => {
+            console.log(error.message);
             process.exit(1);
         });
   } catch (error) {
