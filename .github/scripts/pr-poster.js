@@ -142,7 +142,7 @@ async function run() {
             }
         );
     } else {
-        let content = "";
+        
         const information = {
             "Pull Request Link": `https://github.com/${repo}/pull/${prNumber}`,
         }
@@ -162,10 +162,14 @@ async function run() {
         embeds: embeds_arr,
     }
     const webhookUrl = process.env.DISCORD_WEBHOOK;
-    var request = new XMLHttpRequest();
-    request.open("POST", webhookUrl);
-    request.setRequestHeader('Content-type', 'application/json');
-    request.send(JSON.stringify(params));
+    axios.post(webhookUrl, options)
+        .then(whresp => {
+            console.log('Message sent successfully:', whresp.data);
+        })
+        .catch(wherr => {
+            console.error('Error sending message:', wherr.message);
+            process.exit(1);
+        });
   } catch (error) {
     console.error('Error:', error.response ? error.response.data : error.message || error);
     process.exit(1);
