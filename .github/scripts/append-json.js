@@ -236,45 +236,48 @@ async function run() {
         },
     }
     axios(options)
-        .then(whresp => {
-            console.log('Message sent successfully:', whresp.data);
-            if (has_audio_file) {
-              const metadata = {}
-              const boundary = "xxxxxxxx"
-              let data = "";
-              for (let i in metadata) {
-                data += `--${boundary}\r\n`;
-                data += `Content-Disposition: form-data; name=\"${i}\"; \r\n\r\n${metadata[i]}\r\n`;
-              }
-              data += "--" + boundary + "\r\n";
-              const bad_song_file_chars = [" ", "\""]
-              let filtered_song_name = song_name.split("").filter(item => !bad_song_file_chars.includes(item)).join("")
-              const new_song_name = `${filtered_song_name}.${preview_extension}`
-              data += "Content-Disposition: form-data; name=\"file\"; filename=\"" + new_song_name + "\"\r\n";
-              data += "Content-Type:" + "audio/mpeg" + "\r\n\r\n";
-              binary_buffer = Buffer.from(preview_file_bytes, "binary");
-              const buffers = [Buffer.from(data, "utf8"), binary_buffer, binary_buffer]
-              let payload_data = Buffer.concat(buffers);
-              new_options = {
-                method: "post",
-                url: webhookUrl,
-                headers: {
-                  "Content-Type": "multipart/form-data; boundary=" + boundary
-                },
-                data: payload_data
-              }
-              axios(new_options).then(whresp2 => {
-                console.log('Preview posted successfully:', whresp2.data);
-              }).catch(error => {
-                console.log(error.message);
-                process.exit(1);
-              });
-            }
-        })
-        .catch(error => {
-            console.log(error.message);
-            process.exit(1);
-        });
+      .then(whresp => {
+        console.log('Message sent successfully:', whresp.data);
+        if (has_audio_file) {
+          const metadata = {};
+          const boundary = "xxxxxxxx";
+          let data = "";
+          for (let i in metadata) {
+            data += `--${boundary}\r\n`;
+            data += `Content-Disposition: form-data; name=\"${i}\"; \r\n\r\n${metadata[i]}\r\n`;
+          }
+          data += "--" + boundary + "\r\n";
+          const bad_song_file_chars = [" ", "\""];
+          let filtered_song_name = song_name.split("").filter(item => !bad_song_file_chars.includes(item)).join("");
+          const new_song_name = `${filtered_song_name}.${preview_extension}`;
+          data += "Content-Disposition: form-data; name=\"file\"; filename=\"" + new_song_name + "\"\r\n";
+          data += "Content-Type: audio/mpeg\r\n\r\n";
+          const buffers = [Buffer.from(data, "utf8"), Buffer.from(preview_file_bytes, "binary"), Buffer.from("\r\n--" + boundary + "--\r\n", "utf8")];
+          let payload_data = Buffer.concat(buffers);
+
+          const new_options = {
+            method: "post",
+            url: webhookUrl,
+            headers: {
+              "Content-Type": `multipart/form-data; boundary=${boundary}`
+            },
+            data: payload_data
+          };
+
+          axios(new_options)
+            .then(whresp2 => {
+              console.log('Preview posted successfully:', whresp2.data);
+            })
+            .catch(error => {
+              console.log(error.message);
+              process.exit(1);
+            });
+        }
+      })
+      .catch(error => {
+        console.log(error.message);
+        process.exit(1);
+      });
   } catch (error) {
     console.error("Error:", error.response ? error.response.data : error.message || error);
     process.exit(1);
