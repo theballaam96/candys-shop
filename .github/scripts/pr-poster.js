@@ -165,7 +165,7 @@ async function run() {
         content: `New Pull Request from ${user}`,
         data: JSON.stringify(embeds_arr),
     }
-    axios.post(options)
+    axios(options)
         .then(whresp => {
             console.log('Message sent successfully:', whresp.data);
         })
