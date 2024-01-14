@@ -157,7 +157,7 @@ async function run() {
             }
         )
     }
-    const webhookUrl = process.env.DISCORD_WEBHOOK;
+    const webhookUrl = process.env.DISCORD_WEBHOOK_SUBMISSIONS;
     const options = {
         method: "POST",
         url: webhookUrl,
