@@ -2,6 +2,7 @@ const axios = require('axios');
 const { Octokit } = require("@octokit/rest");
 const fs = require('fs');
 const path = require('path');
+const parseMidi = require("midi-file").parseMidi;
 
 const invalid_chars = [
     ":", "/", "\'", "\"", "?", "#", "%", "&", "{", "}", "\\", "<", ">", "*", "$",
@@ -196,6 +197,14 @@ async function run() {
     }
     if (bin_file) {
       json_output["Binary"] = `binaries/${sub_file}.bin`
+    }
+    if (midi_file) {
+        const midiPath = path.join(__dirname, `../../${midi_file}`)
+        const midiData = fs.existsSync(midiPath) ? fs.readFileSync(midiPath) : null;
+        if (midiData) {
+            const midiParsed = parseMidi(midiData);
+            console.log(midiParsed);
+        }
     }
 
     if (song_upload) {

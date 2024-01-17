@@ -60,12 +60,12 @@ async function run() {
         const extension_sep = f.filename.split(".");
         const extension = extension_sep[extension_sep.length - 1];
         if (extension == "bin") {
-        bin_file = f.raw_url;
+            bin_file = f.raw_url;
         } else if (extension == "mid") {
-        midi_file = f.raw_url;
+            midi_file = f.raw_url;
         } else if (preview_extensions.includes(extension)) {
-        preview_file = f.raw_url;
-        preview_extension = extension;
+            preview_file = f.raw_url;
+            preview_extension = extension;
         }
       }
     }
