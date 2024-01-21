@@ -204,6 +204,7 @@ async function run() {
         const midiData = fs.existsSync(midiPath) ? fs.readFileSync(midiPath) : null;
         if (midiData) {
             const midiParsed = new Midi(midiData);
+            console.log(midiParsed.duration)
             console.log(midiParsed)
         }
         // const midiData = fs.existsSync(midiPath) ? fs.readFileSync(midiPath, "binary") : null;
