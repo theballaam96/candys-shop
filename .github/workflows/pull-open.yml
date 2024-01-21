@@ -7,6 +7,7 @@ on:
       - opened
       - reopened
       - edited
+      - ready_for_review
 
 jobs:
   PR-Open:
