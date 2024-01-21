@@ -26,7 +26,7 @@ jobs:
           npm install
           npm install axios
           npm install @octokit/rest
-          npm install midi-file
+          npm install midi-file-parser
           
       - name: Analyze Pull Request
         run: node .github/scripts/pr-analyzer.js
