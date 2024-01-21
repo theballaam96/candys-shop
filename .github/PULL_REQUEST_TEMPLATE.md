@@ -1,10 +1,10 @@
 IS SONG - DO NOT DELETE THIS LINE
 Game: <GAME NAME>
 Song: <SONG NAME>
-Group: <CATEGORY NAME: bgm | events | majoritems | minoritems>
+Category: <CATEGORY NAME: bgm | events | majoritems | minoritems>
 Composers: <COMPOSERS DELIMITED BY ,>
 Converters: <CONVERTERS DELIMITED BY ,>
 Audio: <URL TO YOUTUBE VIDEO>
-Categories: <LIST OF CATEGORIES DELIMITED BY ,>
+Tags: <LIST OF CATEGORIES DELIMITED BY ,>
 Additional Notes: <NOTES TO BE DISPLAYED ON PACK BUILDER SITE>
 Update Notes: <NOTES TO BE DISPLAYED IN MUSIC-FILES>

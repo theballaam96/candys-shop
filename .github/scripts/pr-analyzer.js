@@ -70,15 +70,15 @@ async function run() {
     let similar_game_name = "";
     let similar_game_score = 0;
     const number_vars = ["Tracks", "Duration"];
-    const arr_vars = ["Categories"];
+    const arr_vars = ["Tags"];
     const data_headers = [
         new UploadHeader("Game", true),
         new UploadHeader("Song", true),
-        new UploadHeader("Group", true),
+        new UploadHeader("Category", true),
         new UploadHeader("Composers", false),
         new UploadHeader("Converters", false),
         new UploadHeader("Audio", false),
-        new UploadHeader("Categories", true),
+        new UploadHeader("Tags", true),
         new UploadHeader("Update Notes", false),
         new UploadHeader("Additional Notes", false),
         /* Automatically generated headers */

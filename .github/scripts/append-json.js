@@ -89,7 +89,7 @@ async function run() {
             }
         }
     })
-    const arr_vars = ["Categories"]
+    const arr_vars = ["Tags"]
     arr_vars.forEach((v) => {
         if (Object.keys(json_output).includes(v)) {
           if (json_output[v]) {
@@ -187,10 +187,10 @@ async function run() {
       "minoritems": "Minor Item"
     };
     let suggested_type = "Not Provided";
-    if (Object.keys(json_output).includes("Group")) {
-      suggested_type = json_output["Group"];
+    if (Object.keys(json_output).includes("Category")) {
+      suggested_type = json_output["Category"];
       if (Object.keys(shorthand_to_long).includes(suggested_type)) {
-        suggested_type = shorthand_to_long[json_output["Group"]];
+        suggested_type = shorthand_to_long[json_output["Category"]];
       }
     }
     const song_name = Object.keys(json_output).includes("Song") ? json_output["Song"] : "Not Provided"
@@ -198,7 +198,7 @@ async function run() {
       "Game": Object.keys(json_output).includes("Game") ? json_output["Game"] : "Not Provided",
       "Song Name": Object.keys(json_output).includes("Song") ? json_output["Song"] : "Not Provided",
       "Type": suggested_type,
-      "Tags": Object.keys(json_output).includes("Categories") ? json_output["Categories"] : "Not Provided",
+      "Tags": Object.keys(json_output).includes("Tags") ? json_output["Tags"] : "Not Provided",
     }
     if (Object.keys(json_output).includes("Update Notes")) {
       desc_information["Additional Notes"] = json_output["Update Notes"];

@@ -16,15 +16,15 @@ async function run() {
     let mandatory_headers_included = [];
     let unlisted_headers = [];
     const number_vars = ["Tracks", "Duration"];
-    const arr_vars = ["Categories"];
+    const arr_vars = ["Tags"];
     const data_headers = [
         new UploadHeader("Game", true),
         new UploadHeader("Song", true),
-        new UploadHeader("Group", true),
+        new UploadHeader("Category", true),
         new UploadHeader("Composers", false),
         new UploadHeader("Converters", false),
         new UploadHeader("Audio", false),
-        new UploadHeader("Categories", true),
+        new UploadHeader("Tags", true),
         new UploadHeader("Update Notes", false),
         new UploadHeader("Additional Notes", false),
         /* Automatically generated headers */
@@ -139,8 +139,8 @@ async function run() {
             "Song Name": Object.keys(json_output).includes("Song") ? json_output["Song"] : "Not Provided",
             "Original Composer": Object.keys(json_output).includes("Composers") ? json_output["Composers"] : "Not Provided",
             "Converted By": Object.keys(json_output).includes("Converters") ? json_output["Converters"] : "Not Provided",
-            "Type": Object.keys(json_output).includes("Group") ? json_output["Group"] : "Not Provided",
-            "Categories": Object.keys(json_output).includes("Categories") ? json_output["Categories"] : "Not Provided",
+            "Type": Object.keys(json_output).includes("Category") ? json_output["Category"] : "Not Provided",
+            "Tags": Object.keys(json_output).includes("Tags") ? json_output["Tags"] : "Not Provided",
             "Pull Request Link": `https://github.com/${repo}/pull/${prNumber}`,
             "Binary File": bin_file ? bin_file : "Not Provided",
             "Audio File": preview_file ? preview_file : Object.keys(json_output).includes("Audio") ? json_output["Audio"] : "Not Provided",

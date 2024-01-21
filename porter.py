@@ -29,14 +29,14 @@ headers = [
     "Date",
     "Game",
     "Song",
-    "Group",
+    "Category",
     "Composers",
     "Converters",
     "Binary",
     "Audio",
     "Duration",
     "Tracks",
-    "Categories",
+    "Tags",
     "Notes",
 ]
 
