@@ -1,0 +1,26 @@
+{
+  "name": "candys-shop",
+  "version": "1.0.0",
+  "description": "A repository containing all songs converted to the DK64 Soundfont",
+  "main": "index.js",
+  "dependencies": {
+    "@tonejs/midi": "^2.0.28",
+    "axios": "^1.6.5",
+    "midi-file": "^1.2.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/theballaam96/candys-shop.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/theballaam96/candys-shop/issues"
+  },
+  "homepage": "https://github.com/theballaam96/candys-shop#readme"
+}
