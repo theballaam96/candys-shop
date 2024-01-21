@@ -5,8 +5,6 @@ Group: <CATEGORY NAME: bgm | events | majoritems | minoritems>
 Composers: <COMPOSERS DELIMITED BY ,>
 Converters: <CONVERTERS DELIMITED BY ,>
 Audio: <URL TO YOUTUBE VIDEO>
-Duration: <AUDIO LENGTH>
-Tracks: <TRACK COUNT>
 Categories: <LIST OF CATEGORIES DELIMITED BY ,>
 Additional Notes: <NOTES TO BE DISPLAYED ON PACK BUILDER SITE>
 Update Notes: <NOTES TO BE DISPLAYED IN MUSIC-FILES>
