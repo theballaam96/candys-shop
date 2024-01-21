@@ -2,6 +2,8 @@ const axios = require('axios');
 const { Octokit } = require("@octokit/rest");
 const fs = require('fs');
 const path = require('path');
+const parseMidi = require("midi-file").parseMidi;
+const { Midi } = require("@tonejs/midi");
 
 const invalid_chars = [
     ":", "/", "\'", "\"", "?", "#", "%", "&", "{", "}", "\\", "<", ">", "*", "$",
@@ -76,8 +78,6 @@ async function run() {
         new UploadHeader("Composers", false),
         new UploadHeader("Converters", false),
         new UploadHeader("Audio", false),
-        new UploadHeader("Duration", true),
-        new UploadHeader("Tracks", true),
         new UploadHeader("Categories", true),
         new UploadHeader("Update Notes", false),
         new UploadHeader("Additional Notes", false),
@@ -85,6 +85,8 @@ async function run() {
         // new UploadHeader("Date", true),
         // new UploadHeader("Verified", true),
         // new UploadHeader("Binary", true),
+        // new UploadHeader("Duration", true),
+        // new UploadHeader("Tracks", true),
     ]
 
 
@@ -196,6 +198,18 @@ async function run() {
     }
     if (bin_file) {
       json_output["Binary"] = `binaries/${sub_file}.bin`
+    }
+    if (midi_file) {
+        const midiPath = path.join(__dirname, `../../${midi_file}`)
+        const midiData = fs.existsSync(midiPath) ? fs.readFileSync(midiPath) : null;
+        if (midiData) {
+            const midiParsed = new Midi(midiData);
+            if (midiParsed.duration) {
+                const secondParse = parseMidi(midiData);
+                json_output["Tracks"] = secondParse.header.numTracks;
+                json_output["Duration"] = midiParsed.duration;
+            }
+        }
     }
 
     if (song_upload) {

@@ -1,6 +1,8 @@
 const fs = require("fs");
 const path = require("path");
 const axios = require("axios");
+const parseMidi = require("midi-file").parseMidi;
+const { Midi } = require("@tonejs/midi");
 
 const invalid_chars = [
   ":", "/", "\'", "\"", "?", "#", "%", "&", "{", "}", "\\", "<", ">", "*", "$",
@@ -155,6 +157,19 @@ async function run() {
       }
     })
     console.log("File Transfer Done")
+
+    if (midi_file) {
+      const midiPath = path.join(__dirname, `../../${midi_file}`)
+      const midiData = fs.existsSync(midiPath) ? fs.readFileSync(midiPath) : null;
+      if (midiData) {
+        const midiParsed = new Midi(midiData);
+        if (midiParsed.duration) {
+            const secondParse = parseMidi(midiData);
+            json_output["Tracks"] = secondParse.header.numTracks;
+            json_output["Duration"] = midiParsed.duration;
+        }
+      }
+    }
 
     // Append the PR message to the JSON file
     existingData.push(json_output);

@@ -19,10 +19,12 @@ jobs:
           node-version: 14
 
       - name: Install dependencies
-        run: npm install
-
-      - name: Install dependencies
-        run: npm install axios
+        run: |
+            npm init -y
+            npm install
+            npm install axios
+            npm install midi-file
+            npm install @tonejs/midi
 
       - name: Append PR message to JSON
         run: node .github/scripts/append-json.js
