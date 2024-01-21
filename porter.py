@@ -5,6 +5,7 @@ import zipfile
 import os
 import shutil
 import json
+import urllib.parse
 
 SHEET = "https://docs.google.com/spreadsheets/d/13WWHcGiYJQD_rUqfGL17Lp0zn7MveU5xf7Fy-CNghzo/gviz/tq?tqx=out:html&tq&gid=1"
 
@@ -58,12 +59,14 @@ for index, val in enumerate(data):
         if game_name not in game_list:
             game_list.append(game_name)
 # Clear Games
-if os.path.exists("./binaries"):
-    shutil.rmtree("./binaries")
-os.mkdir("./binaries")
-for game in game_list:
-    if os.path.exists(f"./binaries/{filterFilename(game)}"):
-        shutil.rmtree(f"./binaries/{filterFilename(game)}")
+file_dirs = ["binaries", "previews"]
+for d in file_dirs:
+    if os.path.exists(f"./{d}"):
+        shutil.rmtree(f"./{d}")
+    os.mkdir(f"./{d}")
+    for game in game_list:
+        if os.path.exists(f"./{d}/{filterFilename(game)}"):
+            shutil.rmtree(f"./{d}/{filterFilename(game)}")
 # Generate files
 new_json = []
 made_files = {}
@@ -74,14 +77,18 @@ with zipfile.ZipFile("pack.zip", 'r') as zip_ref:
             song_name = new_data["Song"]
             converters = new_data["Converters"]
             new_file_name_raw = f"binaries/{filterFilename(game_name)}/{filterFilename(song_name)} by {filterFilename(converters)}"
+            new_audio_name_raw = f"previews/{filterFilename(game_name)}/{filterFilename(song_name)} by {filterFilename(converters)}"
             if new_file_name_raw in made_files:
                 new_file_name = f"{new_file_name_raw} (REV {made_files[new_file_name_raw]}).bin"
+                new_audio_name_raw = f"{new_audio_name_raw} (REV {made_files[new_file_name_raw]})"
                 made_files[new_file_name_raw] += 1
             else:
                 new_file_name = f"{new_file_name_raw}.bin"
+                new_audio_name_raw = f"{new_audio_name_raw}"
                 made_files[new_file_name_raw] = 1
-            if not os.path.exists(f"./binaries/{filterFilename(game_name)}"):
-                os.mkdir(f"./binaries/{filterFilename(game_name)}")
+            for d in file_dirs:
+                if not os.path.exists(f"./{d}/{filterFilename(game_name)}"):
+                    os.mkdir(f"./{d}/{filterFilename(game_name)}")
             bin_file_name = f"{new_data['Binary']}.bin"
             if bin_file_name in zip_ref.namelist():
                 with zip_ref.open(bin_file_name) as binary:
@@ -103,6 +110,18 @@ with zipfile.ZipFile("pack.zip", 'r') as zip_ref:
                     if len(new_data[k]) == 0:
                         del new_data[k]
                 del new_data["Notes"]
+            if "Audio" in new_data:
+                audio_f = new_data["Audio"]
+                if "cdn.discordapp.com" in audio_f or "drive.google.com" in audio_f:
+                    audio_ext = None
+                    accepted_exts = [".mp3", ".wav"]
+                    for ext in accepted_exts:
+                        if ext in audio_f:
+                            audio_ext = ext
+                    audio_response = requests.get(audio_f)
+                    with open(f"./{new_audio_name_raw}{audio_ext}", "wb") as af:
+                        af.write(audio_response.content)
+                    new_data["Audio"] = urllib.parse.quote(f"https://github.com/theballaam96/candys-shop/raw/main/previews/{new_audio_name_raw}{audio_ext}")
             new_json.append(new_data)
 with open("mapping.json", "w", encoding="utf-8") as output_data:
     output_data.write(json.dumps(new_json, indent=4))
