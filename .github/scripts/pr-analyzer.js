@@ -203,9 +203,12 @@ async function run() {
         const midiData = fs.existsSync(midiPath) ? fs.readFileSync(midiPath) : null;
         if (midiData) {
             const midiParsed = parseMidi(midiData);
-            midiParsed.tracks[0].forEach(evt => {
-                console.log(evt);
+            let total_time = 0;
+            midiParsed.tracks.forEach(track => {
+                const local_time = track.map(evt => evt.deltaTime).reduce((partialSum, a) => partialSum + a, 0);
+                total_time = Math.max(total_time, local_time);
             })
+            console.log(total_time);
             console.log(midiParsed);
             json_output["Tracks"] = midiParsed.header.numTracks;
             
