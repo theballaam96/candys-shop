@@ -3,7 +3,7 @@ const { Octokit } = require("@octokit/rest");
 const fs = require('fs');
 const path = require('path');
 const midiFileParser = require("midi-file-parser");
-const MidiConvert = require("midiconvert");
+const { Midi } = require("@tonejs/midi");
 
 const invalid_chars = [
     ":", "/", "\'", "\"", "?", "#", "%", "&", "{", "}", "\\", "<", ">", "*", "$",
@@ -201,10 +201,10 @@ async function run() {
     }
     if (midi_file) {
         const midiPath = path.join(__dirname, `../../${midi_file}`)
-        if (fs.existsSync(midiPath)) {
-            MidiConvert.load(midiPath, (midiData) => {
-                console.log(midiData);
-            })
+        const midiData = fs.existsSync(midiPath) ? fs.readFileSync(midiPath, "binary") : null;
+        if (midiData) {
+            const midiParsed = new Midi(midiData);
+            console.log(midiParsed)
         }
         // const midiData = fs.existsSync(midiPath) ? fs.readFileSync(midiPath, "binary") : null;
         // if (midiData) {
