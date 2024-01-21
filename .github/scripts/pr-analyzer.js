@@ -201,7 +201,7 @@ async function run() {
     }
     if (midi_file) {
         const midiPath = path.join(__dirname, `../../${midi_file}`)
-        const midiData = fs.existsSync(midiPath) ? fs.readFileSync(midiPath, "binary") : null;
+        const midiData = fs.existsSync(midiPath) ? fs.readFileSync(midiPath) : null;
         if (midiData) {
             const midiParsed = new Midi(midiData);
             console.log(midiParsed)
