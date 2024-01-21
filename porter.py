@@ -121,7 +121,7 @@ with zipfile.ZipFile("pack.zip", 'r') as zip_ref:
                     audio_response = requests.get(audio_f)
                     with open(f"./{new_audio_name_raw}{audio_ext}", "wb") as af:
                         af.write(audio_response.content)
-                    new_data["Audio"] = urllib.parse.quote(f"https://github.com/theballaam96/candys-shop/raw/main/{new_audio_name_raw}{audio_ext}")
+                    new_data["Audio"] = "https://" + urllib.parse.quote(f"github.com/theballaam96/candys-shop/raw/main/{new_audio_name_raw}{audio_ext}")
             new_json.append(new_data)
 with open("mapping.json", "w", encoding="utf-8") as output_data:
     output_data.write(json.dumps(new_json, indent=4))
