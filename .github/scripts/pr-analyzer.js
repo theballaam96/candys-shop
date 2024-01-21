@@ -203,7 +203,12 @@ async function run() {
         const midiData = fs.existsSync(midiPath) ? fs.readFileSync(midiPath) : null;
         if (midiData) {
             const midiParsed = parseMidi(midiData);
+            midiParsed.tracks[0].forEach(evt => {
+                console.log(evt);
+            })
             console.log(midiParsed);
+            json_output["Tracks"] = midiParsed.header.numTracks;
+            
         }
     }
 
