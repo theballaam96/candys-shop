@@ -3,7 +3,7 @@ const { Octokit } = require("@octokit/rest");
 const fs = require('fs');
 const path = require('path');
 const midiFileParser = require("midi-file-parser");
-const MidiConvert = require("MidiConvert");
+const MidiConvert = require("midiconvert");
 
 const invalid_chars = [
     ":", "/", "\'", "\"", "?", "#", "%", "&", "{", "}", "\\", "<", ">", "*", "$",
