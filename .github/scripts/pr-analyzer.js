@@ -2,7 +2,7 @@ const axios = require('axios');
 const { Octokit } = require("@octokit/rest");
 const fs = require('fs');
 const path = require('path');
-const midiFileParser = require("midi-file-parser");
+const parseMidi = require("midi-file").parseMidi;
 const { Midi } = require("@tonejs/midi");
 
 const invalid_chars = [
@@ -78,8 +78,6 @@ async function run() {
         new UploadHeader("Composers", false),
         new UploadHeader("Converters", false),
         new UploadHeader("Audio", false),
-        new UploadHeader("Duration", true),
-        new UploadHeader("Tracks", true),
         new UploadHeader("Categories", true),
         new UploadHeader("Update Notes", false),
         new UploadHeader("Additional Notes", false),
@@ -87,6 +85,8 @@ async function run() {
         // new UploadHeader("Date", true),
         // new UploadHeader("Verified", true),
         // new UploadHeader("Binary", true),
+        // new UploadHeader("Duration", true),
+        // new UploadHeader("Tracks", true),
     ]
 
 
@@ -204,27 +204,12 @@ async function run() {
         const midiData = fs.existsSync(midiPath) ? fs.readFileSync(midiPath) : null;
         if (midiData) {
             const midiParsed = new Midi(midiData);
-            console.log(midiParsed.duration)
-            console.log(midiParsed)
+            if (midiParsed.duration) {
+                const secondParse = parseMidi(midiData);
+                json_output["Tracks"] = secondParse.header.numTracks;
+                json_output["Duration"] = midiParsed.duration;
+            }
         }
-        // const midiData = fs.existsSync(midiPath) ? fs.readFileSync(midiPath, "binary") : null;
-        // if (midiData) {
-        //     const midiParsed = midiFileParser(midiData);
-        //     console.log(midiParsed)
-        //     // const midiParsed = parseMidi(midiData);
-        //     // let total_time = 0;
-        //     // midiParsed.tracks.forEach(track => {
-        //     //     const local_time = track.map(evt => evt.deltaTime).reduce((partialSum, a) => partialSum + a, 0);
-        //     //     total_time = Math.max(total_time, local_time);
-        //     // })
-        //     // console.log(total_time);
-        //     // midiParsed.tracks[6].forEach(evt => {
-        //     //     console.log(evt);
-        //     // })
-        //     // console.log(midiParsed);
-        //     // json_output["Tracks"] = midiParsed.header.numTracks;
-            
-        // }
     }
 
     if (song_upload) {

@@ -26,7 +26,7 @@ jobs:
           npm install
           npm install axios
           npm install @octokit/rest
-          npm install midi-file-parser
+          npm install midi-file
           npm install @tonejs/midi
           
       - name: Analyze Pull Request

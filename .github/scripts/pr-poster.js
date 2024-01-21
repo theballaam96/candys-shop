@@ -1,4 +1,6 @@
 const axios = require('axios');
+const parseMidi = require("midi-file").parseMidi;
+const { Midi } = require("@tonejs/midi");
 
 async function run() {
   try {
@@ -22,8 +24,6 @@ async function run() {
         new UploadHeader("Composers", false),
         new UploadHeader("Converters", false),
         new UploadHeader("Audio", false),
-        new UploadHeader("Duration", true),
-        new UploadHeader("Tracks", true),
         new UploadHeader("Categories", true),
         new UploadHeader("Update Notes", false),
         new UploadHeader("Additional Notes", false),
@@ -31,6 +31,8 @@ async function run() {
         // new UploadHeader("Date", true),
         // new UploadHeader("Verified", true),
         // new UploadHeader("Binary", true),
+        // new UploadHeader("Duration", true),
+        // new UploadHeader("Tracks", true),
     ]
 
 
@@ -111,6 +113,19 @@ async function run() {
     json_output["Verified"] = true;
     dt = new Date();
     json_output["Date"] = dt.toString();
+
+    if (midi_file) {
+        const midiPath = path.join(__dirname, `../../${midi_file}`)
+        const midiData = fs.existsSync(midiPath) ? fs.readFileSync(midiPath) : null;
+        if (midiData) {
+          const midiParsed = new Midi(midiData);
+          if (midiParsed.duration) {
+              const secondParse = parseMidi(midiData);
+              json_output["Tracks"] = secondParse.header.numTracks;
+              json_output["Duration"] = midiParsed.duration;
+          }
+        }
+    }
 
     let user = "Unknown";
     if (response.data.user) {
