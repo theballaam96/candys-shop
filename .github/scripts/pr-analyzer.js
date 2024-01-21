@@ -209,6 +209,9 @@ async function run() {
                 total_time = Math.max(total_time, local_time);
             })
             console.log(total_time);
+            midiParsed.tracks[6].forEach(evt => {
+                console.log(evt);
+            })
             console.log(midiParsed);
             json_output["Tracks"] = midiParsed.header.numTracks;
             
