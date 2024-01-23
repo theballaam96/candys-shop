@@ -8,6 +8,7 @@ import json
 import urllib.parse
 
 SHEET = "https://docs.google.com/spreadsheets/d/13WWHcGiYJQD_rUqfGL17Lp0zn7MveU5xf7Fy-CNghzo/gviz/tq?tqx=out:html&tq&gid=1"
+DOWNLOAD_AUDIO = False
 
 def scrapeDataFromSpreadsheet() -> typing.List[typing.List[str]]:
     html = requests.get(SHEET).text
@@ -59,7 +60,10 @@ for index, val in enumerate(data):
         if game_name not in game_list:
             game_list.append(game_name)
 # Clear Games
-file_dirs = ["binaries", "previews"]
+file_dirs = ["binaries"]
+if DOWNLOAD_AUDIO:
+    file_dirs = ["binaries", "previews"]
+    
 for d in file_dirs:
     if os.path.exists(f"./{d}"):
         shutil.rmtree(f"./{d}")
@@ -75,6 +79,9 @@ with zipfile.ZipFile("pack.zip", 'r') as zip_ref:
         if len(new_data["Binary"].strip()) > 0:
             game_name = new_data["Game"]
             song_name = new_data["Song"]
+            for placement_index, entry in enumerate(new_json):
+                if entry["Game"] == game_name and entry["Song"] == song_name:
+                    new_data["Update of"] = placement_index
             converters = new_data["Converters"]
             new_file_name_raw = f"binaries/{filterFilename(game_name)}/{filterFilename(song_name)} by {filterFilename(converters)}"
             new_audio_name_raw = f"previews/{filterFilename(game_name)}/{filterFilename(song_name)} by {filterFilename(converters)}"
@@ -118,9 +125,10 @@ with zipfile.ZipFile("pack.zip", 'r') as zip_ref:
                     for ext in accepted_exts:
                         if ext in audio_f:
                             audio_ext = ext
-                    audio_response = requests.get(audio_f)
-                    with open(f"./{new_audio_name_raw}{audio_ext}", "wb") as af:
-                        af.write(audio_response.content)
+                    if DOWNLOAD_AUDIO:
+                        audio_response = requests.get(audio_f)
+                        with open(f"./{new_audio_name_raw}{audio_ext}", "wb") as af:
+                            af.write(audio_response.content)
                     new_data["Audio"] = "https://" + urllib.parse.quote(f"github.com/theballaam96/candys-shop/raw/main/{new_audio_name_raw}{audio_ext}")
             new_json.append(new_data)
 with open("mapping.json", "w", encoding="utf-8") as output_data:
