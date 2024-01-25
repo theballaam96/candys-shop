@@ -11843,7 +11843,7 @@
     {
         "Date": "Wed Dec 20 2023 20:55:57 GMT-0600 (Central Standard Time)",
         "Game": "The Legend of Zelda: A Link to the Past",
-        "Song": "Majestic Castle (Storm)",
+        "Song": "Hyrule Castle",
         "Category": "bgm",
         "Composers": "Koji Kondo",
         "Converters": "Schwartz Gandhi",
@@ -11852,7 +11852,9 @@
         "Duration": 86.81809750000001,
         "Tracks": 11,
         "Tags": "Lobbies and Shops, Interiors, Gloomy",
-        "Verified": true
+        "Verified": true,
+        "Variant ID": 677,
+        "Variant Name": "Majestic Castle (Storm)"
     },
     {
         "Date": "Wed Dec 20 2023 21:33:34 GMT-0600 (Central Standard Time)",
