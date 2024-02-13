@@ -3151,6 +3151,9 @@
     "Binary": "binaries/The Legend of Zelda Ocarina of Time/I Have Found It (Got Item) by Fiy3ro.bin",
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/The%20Legend%20of%20Zelda%20Ocarina%20of%20Time/I%20Have%20Found%20It%20%28Got%20Item%29%20by%20Fiy3ro.mp3",
     "Duration": 2.75,
+    "Tags": [
+      "Collection"
+    ],
     "Tracks": 11,
     "Verified": true
   },
@@ -4080,6 +4083,9 @@
     "Binary": "binaries/The Legend of Zelda Ocarina of Time/Across the Finish Line by Fiy3ro.bin",
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/The%20Legend%20of%20Zelda%20Ocarina%20of%20Time/Across%20the%20Finish%20Line%20by%20Fiy3ro.mp3",
     "Duration": 4.649196260416671,
+    "Tags": [
+      "Spawning"
+    ],
     "Tracks": 8,
     "Verified": true
   },
