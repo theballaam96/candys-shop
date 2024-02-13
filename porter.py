@@ -8,7 +8,7 @@ import json
 import urllib.parse
 
 SHEET = "https://docs.google.com/spreadsheets/d/13WWHcGiYJQD_rUqfGL17Lp0zn7MveU5xf7Fy-CNghzo/gviz/tq?tqx=out:html&tq&gid=1"
-DOWNLOAD_AUDIO = False
+DOWNLOAD_AUDIO = True
 
 def scrapeDataFromSpreadsheet() -> typing.List[typing.List[str]]:
     html = requests.get(SHEET).text
@@ -74,7 +74,7 @@ for d in file_dirs:
 # Generate files
 new_json = []
 made_files = {}
-with zipfile.ZipFile("pack.zip", 'r') as zip_ref:
+with zipfile.ZipFile("gdrive dump.zip", 'r') as zip_ref:
     for index, new_data in enumerate(parsed_data):
         if len(new_data["Binary"].strip()) > 0:
             game_name = new_data["Game"]
@@ -107,8 +107,8 @@ with zipfile.ZipFile("pack.zip", 'r') as zip_ref:
                 new_data["Tracks"] = int(new_data["Tracks"])
             if "Duration" in new_data:
                 new_data["Duration"] = float(new_data["Duration"])
-            if "Categories" in new_data:
-                new_data["Categories"] = new_data["Categories"].split(", ")
+            if "Tags" in new_data:
+                new_data["Tags"] = new_data["Tags"].split(", ")
             if "Notes" in new_data:
                 note_keys = ("Additional Notes", "Update Notes")
                 for ki, k in enumerate(note_keys):
