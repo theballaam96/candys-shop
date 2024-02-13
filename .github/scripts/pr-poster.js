@@ -147,6 +147,7 @@ async function run() {
             "Binary File": bin_file ? bin_file : "Not Provided",
             "Audio File": preview_file ? preview_file : Object.keys(json_output).includes("Audio") ? json_output["Audio"] : "Not Provided",
             "Midi File": midi_file ? midi_file : "Not Provided",
+            "Duration": Object.keys(json_output).includes("Duration") ? json_output["Duration"] : "Not Provided",
             "Update Notes": Object.keys(json_output).includes("Update Notes") ? json_output["Update Notes"] : "Not Provided",
             "Additional Notes": Object.keys(json_output).includes("Additional Notes") ? json_output["Additional Notes"] : "Not Provided",
         }
