@@ -24,7 +24,7 @@ async function run() {
         new UploadHeader("Composers", false),
         new UploadHeader("Converters", false),
         new UploadHeader("Audio", false),
-        new UploadHeader("Tags", true),
+        new UploadHeader("Tags", false),
         new UploadHeader("Update Notes", false),
         new UploadHeader("Additional Notes", false),
         /* Automatically generated headers */
