@@ -16614,5 +16614,21 @@
     "Date": "Wed Feb 14 2024 16:45:58 GMT+0000 (Coordinated Universal Time)",
     "Binary": "binaries/Sonic 3D Blast/Rusty Ruin Zone Act 1 (Genesis) (REV 1).bin",
     "Duration": 114.7767245
+  },
+  {
+    "Game": "Sonic the Hedgehog 3",
+    "Song": "Hydrocity Zone Act 1",
+    "Composers": "Brad Buxer",
+    "Converters": "Wibdiwoh",
+    "Category": "bgm",
+    "Audio": "www.youtube.com/watch?v=0Xzeh5_e3BI&t=800s",
+    "Update Notes": "resubmission after the github shenanigans",
+    "Tags": [
+      "Interiors"
+    ],
+    "Verified": true,
+    "Date": "Wed Feb 14 2024 17:03:39 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Sonic the Hedgehog 3/Hydrocity Zone Act 1 (REV 1).bin",
+    "Duration": 57.17199063541666
   }
 ]
