@@ -207,7 +207,7 @@ async function run() {
     }
     if (midi_file) {
         const midiURL = adjustRawURL(midi_raw_file);
-        const midiData = await fetch(midiURL).then(resp => resp.blob())
+        const midiData = await fetch(midiURL).then(resp => resp.arrayBuffer())
         /*
         const midiPath = path.join(__dirname, `../../${midi_file}`)
         const midiData = fs.existsSync(midiPath) ? fs.readFileSync(midiPath) : null;
