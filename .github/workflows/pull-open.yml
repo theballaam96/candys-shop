@@ -10,8 +10,8 @@ on:
       - ready_for_review
 
 jobs:
-  permissions: write-all
   PR-Open:
+    permissions: write-all
     runs-on: ubuntu-latest
     steps:
       - name: Checkout code
@@ -36,5 +36,5 @@ jobs:
         env:
           PR_NUMBER: ${{ github.event.number }}
           GITHUB_REPOSITORY: ${{ github.repository }}
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          PAT_TOKEN: ${{ secrets.PAT_TOKEN }}
 
