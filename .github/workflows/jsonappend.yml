@@ -31,7 +31,7 @@ jobs:
         run: node .github/scripts/append-json.js
         env:
           PR_NUMBER: ${{ github.event.number }}
-          GITHUB_TOKEN: ${{ secrets.PAT_TOKEN }}
+          PAT_TOKEN: ${{ secrets.PAT_TOKEN }}
           DISCORD_WEBHOOK_PUBLICFILE: ${{ secrets.DISCORD_WEBHOOK_PUBLICFILE }}
 
       - name: Create Zip
