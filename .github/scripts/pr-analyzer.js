@@ -207,18 +207,6 @@ async function run() {
     }
     if (midi_file) {
         const midiURL = adjustRawURL(midi_raw_file);
-        /*
-        const midiPath = path.join(__dirname, `../../${midi_file}`)
-        const midiData = fs.existsSync(midiPath) ? fs.readFileSync(midiPath) : null;
-        console.log(__dirname)
-        console.log(midi_file)
-        console.log(midiPath)
-        
-        console.log("Files in Directory:")
-        fs.readdirSync(path.join(__dirname, "../../")).forEach(file => {
-          console.log(file);
-        });
-        */
         const midiParsed = await Midi.fromUrl(midiURL);
         if (midiParsed.duration) {
             json_output["Duration"] = midiParsed.duration;
