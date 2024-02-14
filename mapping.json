@@ -16630,5 +16630,21 @@
     "Date": "Wed Feb 14 2024 17:03:39 GMT+0000 (Coordinated Universal Time)",
     "Binary": "binaries/Sonic the Hedgehog 3/Hydrocity Zone Act 1 (REV 1).bin",
     "Duration": 57.17199063541666
+  },
+  {
+    "Game": "Sonic the Hedgehog 3",
+    "Song": "Marble Garden Zone Act 1",
+    "Composers": "Miyoko Takaoka",
+    "Converters": "Wibdiwoh",
+    "Category": "bgm",
+    "Audio": "https://www.youtube.com/watch?v=UySHTuNk8Ps",
+    "Update Notes": "another update after the github stuff (last one for me)",
+    "Tags": [
+      "Exteriors"
+    ],
+    "Verified": true,
+    "Date": "Wed Feb 14 2024 17:17:18 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Sonic the Hedgehog 3/Marble Garden Zone Act 1 (REV 1).bin",
+    "Duration": 60.12831614583333
   }
 ]
