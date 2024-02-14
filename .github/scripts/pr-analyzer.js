@@ -206,6 +206,10 @@ async function run() {
         console.log(midi_file)
         console.log(midiPath)
         console.log(midiData)
+        console.log("Files in Directory:")
+        fs.readdirSync(path.join(__dirname, "../../")).forEach(file => {
+          console.log(file);
+        });
         if (midiData) {
             const midiParsed = new Midi(midiData);
             if (midiParsed.duration) {
