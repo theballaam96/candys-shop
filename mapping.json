@@ -16598,5 +16598,21 @@
     "Verified": true,
     "Date": "Tue Feb 13 2024 16:30:42 GMT+0000 (Coordinated Universal Time)",
     "Binary": "binaries/Banjo-Tooie/Pause Music.bin"
+  },
+  {
+    "Game": "Sonic 3D Blast",
+    "Song": "Rusty Ruin Zone Act 1 (Genesis)",
+    "Composers": "Jun Senoue, Masaru Setsumaru, Tatsuyuki Maeda, Seirou Okamoto",
+    "Converters": "Wibdiwoh",
+    "Category": "bgm",
+    "Audio": "https://www.youtube.com/watch?v=-uvGyYZHZWE",
+    "Update Notes": "volume rebalance, changed one instrument",
+    "Tags": [
+      "Exteriors"
+    ],
+    "Verified": true,
+    "Date": "Wed Feb 14 2024 16:45:58 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Sonic 3D Blast/Rusty Ruin Zone Act 1 (Genesis) (REV 1).bin",
+    "Duration": 114.7767245
   }
 ]
