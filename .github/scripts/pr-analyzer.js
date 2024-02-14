@@ -207,7 +207,6 @@ async function run() {
     }
     if (midi_file) {
         const midiURL = adjustRawURL(midi_raw_file);
-        const midiData = await axios.get(midiURL, {responseType: "stream"})
         /*
         const midiPath = path.join(__dirname, `../../${midi_file}`)
         const midiData = fs.existsSync(midiPath) ? fs.readFileSync(midiPath) : null;
@@ -220,15 +219,9 @@ async function run() {
           console.log(file);
         });
         */
-        console.log(midiURL)
-        console.log(midiData)
-        if (midiData) {
-            const midiParsed = new Midi(midiData);
-            if (midiParsed.duration) {
-                const secondParse = parseMidi(midiData);
-                json_output["Tracks"] = secondParse.header.numTracks;
-                json_output["Duration"] = midiParsed.duration;
-            }
+        const midiParsed = await Midi.fromURL(midiURL);
+        if (midiParsed.duration) {
+            json_output["Duration"] = midiParsed.duration;
         }
     }
 
