@@ -9,6 +9,7 @@ on:
 jobs:
   send-webhook:
     runs-on: ubuntu-latest
+    permissions: write-all
 
     steps:
     - name: Checkout code
