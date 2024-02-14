@@ -206,19 +206,22 @@ async function run() {
       json_output["Binary"] = `binaries/${sub_file}.bin`
     }
     if (midi_file) {
-        const midiData = await fetch(adjustRawURL(midi_raw_file)).then(resp => resp.blob())
+        const midiURL = adjustRawURL(midi_raw_file);
+        const midiData = await fetch(midiURL).then(resp => resp.blob())
         /*
         const midiPath = path.join(__dirname, `../../${midi_file}`)
         const midiData = fs.existsSync(midiPath) ? fs.readFileSync(midiPath) : null;
         console.log(__dirname)
         console.log(midi_file)
         console.log(midiPath)
-        console.log(midiData)
+        
         console.log("Files in Directory:")
         fs.readdirSync(path.join(__dirname, "../../")).forEach(file => {
           console.log(file);
         });
         */
+        console.log(midiURL)
+        console.log(midiData)
         if (midiData) {
             const midiParsed = new Midi(midiData);
             if (midiParsed.duration) {
