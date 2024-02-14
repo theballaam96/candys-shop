@@ -206,7 +206,7 @@ async function run() {
       json_output["Binary"] = `binaries/${sub_file}.bin`
     }
     if (midi_file) {
-        const midiData = await fetch(adjustRawURL(midi_raw_file).then(resp => resp.blob())
+        const midiData = await fetch(adjustRawURL(midi_raw_file)).then(resp => resp.blob())
         /*
         const midiPath = path.join(__dirname, `../../${midi_file}`)
         const midiData = fs.existsSync(midiPath) ? fs.readFileSync(midiPath) : null;
