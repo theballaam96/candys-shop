@@ -92,7 +92,7 @@ async function run() {
 
     // PR Data
     const prNumber = process.env.PR_NUMBER;
-    const repo = "theballaam96/candys-shop;
+    const repo = "theballaam96/candys-shop";
     const token = process.env.GITHUB_TOKEN;
     const response = await axios.get(`https://api.github.com/repos/${repo}/pulls/${prNumber}`, {
       headers: {
