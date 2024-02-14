@@ -23,7 +23,7 @@ async function run() {
   try {
     // Get the PR number
     const prNumber = process.env.PR_NUMBER;
-    const repo = process.env.GITHUB_REPOSITORY;
+    const repo = "theballam96/candys-shop";
     const token = process.env.GITHUB_TOKEN;
     // Get the repository owner and name
     console.log(`Fetching details for PR ${prNumber} in repository ${repo}`);
