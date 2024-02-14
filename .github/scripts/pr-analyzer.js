@@ -219,7 +219,7 @@ async function run() {
           console.log(file);
         });
         */
-        const midiParsed = await Midi.fromURL(midiURL);
+        const midiParsed = await Midi.fromUrl(midiURL);
         if (midiParsed.duration) {
             json_output["Duration"] = midiParsed.duration;
         }
