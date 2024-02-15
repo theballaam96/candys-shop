@@ -19,11 +19,15 @@ function filterFilename(name) {
   return name;
 }
 
+function adjustRawURL(input_url) {
+    return input_url.replace("github.com","raw.githubusercontent.com").replace("raw/","")
+}
+
 async function run() {
   try {
     // Get the PR number
     const prNumber = process.env.PR_NUMBER;
-    const repo = "theballam96/candys-shop";
+    const repo = "theballaam96/candys-shop";
     const token = process.env.PAT_TOKEN;
     // Get the repository owner and name
     console.log(`Fetching details for PR ${prNumber} in repository ${repo}`);
@@ -43,6 +47,7 @@ async function run() {
     // Set file variables
     let bin_file = null;
     let midi_file = null;
+    let midi_raw_file = null;
     let preview_file = null;
     let preview_extension = null;
     const preview_extensions = ["wav", "mp3"];
@@ -55,6 +60,7 @@ async function run() {
           bin_file = f.filename;
         } else if (extension == "mid") {
           midi_file = f.filename;
+          midi_raw_file = f.raw_url;
         } else if (preview_extensions.includes(extension)) {
           preview_file = f.filename;
           preview_extension = extension;
@@ -159,15 +165,10 @@ async function run() {
     console.log("File Transfer Done")
 
     if (midi_file) {
-      const midiPath = path.join(__dirname, `../../${midi_file}`)
-      const midiData = fs.existsSync(midiPath) ? fs.readFileSync(midiPath) : null;
-      if (midiData) {
-        const midiParsed = new Midi(midiData);
-        if (midiParsed.duration) {
-            const secondParse = parseMidi(midiData);
-            json_output["Tracks"] = secondParse.header.numTracks;
-            json_output["Duration"] = midiParsed.duration;
-        }
+      const midiURL = adjustRawURL(midi_raw_file);
+      const midiParsed = await Midi.fromUrl(midiURL);
+      if (midiParsed.duration) {
+      	json_output["Duration"] = midiParsed.duration;
       }
     }
 

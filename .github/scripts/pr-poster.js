@@ -4,6 +4,10 @@ const axios = require('axios');
 const parseMidi = require("midi-file").parseMidi;
 const { Midi } = require("@tonejs/midi");
 
+function adjustRawURL(input_url) {
+    return input_url.replace("github.com","raw.githubusercontent.com").replace("raw/","")
+}
+
 async function run() {
   try {
     class UploadHeader {
@@ -55,6 +59,7 @@ async function run() {
     // Set file variables
     let bin_file = null;
     let midi_file = null;
+    let midi_raw_url = null;
     let preview_file = null;
     let preview_extension = null;
     const preview_extensions = ["wav", "mp3"];
@@ -67,6 +72,7 @@ async function run() {
             bin_file = f.raw_url;
         } else if (extension == "mid") {
             midi_file = f.raw_url;
+            midi_raw_file = f.raw_url;
         } else if (preview_extensions.includes(extension)) {
             preview_file = f.raw_url;
             preview_extension = extension;
@@ -117,16 +123,11 @@ async function run() {
     json_output["Date"] = dt.toString();
 
     if (midi_file) {
-        const midiPath = path.join(__dirname, `../../${midi_file}`)
-        const midiData = fs.existsSync(midiPath) ? fs.readFileSync(midiPath) : null;
-        if (midiData) {
-          const midiParsed = new Midi(midiData);
-          if (midiParsed.duration) {
-              const secondParse = parseMidi(midiData);
-              json_output["Tracks"] = secondParse.header.numTracks;
-              json_output["Duration"] = midiParsed.duration;
-          }
-        }
+      const midiURL = adjustRawURL(midi_raw_file);
+      const midiParsed = await Midi.fromUrl(midiURL);
+      if (midiParsed.duration) {
+      	json_output["Duration"] = midiParsed.duration;
+      }
     }
 
     let user = "Unknown";
