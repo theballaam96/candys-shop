@@ -23,6 +23,7 @@ To download custom music for DK64 Randomizer, you can visit this [Site](https://
 # Acceptable Song Submissions
 - We will only accept songs converted from Video Game Music. There are some exceptions to Video Game Music that are not allowed:
    - **Licensed Video Game Music**: Some example include songs from the Guitar Hero Franchise such as Through The Fire and Flames
-   - **DMCA Prone Music**: DMCA Prone Intellectual Property Music such as Rick Astley's Never Gonna Give You Up or Michael Jackson's Moon Walker will **NOT** be added to the Pack Builder. 
+   - **DMCA Prone Music**: DMCA Prone Intellectual Property Music such as Rick Astley's Never Gonna Give You Up or Michael Jackson's Moon Walker will **NOT** be added to the Pack Builder.
+   - **Public Domain**: Any Music that is within the [Public Domain](https://en.wikipedia.org/wiki/Public_domain) **IS** Allowed to be submitted, as it's copyright has expired. If your song falls under this category, please ensure that your song is based on the original work that is in the public domain and [not any performances that are not in the public domain](https://www.youtube.com/watch?v=1Jwo5qc78QU&t=220s).
 # Questions?
 Visit the [Discord](https://discord.dk64randomizer.com) and ask any question in the #music-discussion channel. One of our many composers will help you with any questions you have!
