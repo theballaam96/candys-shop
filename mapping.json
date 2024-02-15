@@ -16662,5 +16662,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Yu-Gi-Oh%20Forbidden%20Memories/Heishin.mp3",
     "Binary": "binaries/Yu-Gi-Oh Forbidden Memories/Heishin.bin",
     "Duration": 55.01340612083334
+  },
+  {
+    "Game": "Banjo-Kazooie",
+    "Song": "Mad Monster Mansion: Cemetery",
+    "Composers": "Grant Kirkhope",
+    "Converters": "UmedMuzl",
+    "Category": "bgm",
+    "Tags": [
+      "Interiors",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Thu Feb 15 2024 10:08:51 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Banjo-Kazooie/Mad%20Monster%20Mansion%20Cemetery.mp3",
+    "Binary": "binaries/Banjo-Kazooie/Mad Monster Mansion Cemetery.bin",
+    "Duration": 117.89999999999999
   }
 ]
