@@ -16678,5 +16678,22 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Banjo-Kazooie/Mad%20Monster%20Mansion%20Cemetery.mp3",
     "Binary": "binaries/Banjo-Kazooie/Mad Monster Mansion Cemetery.bin",
     "Duration": 117.89999999999999
+  },
+  {
+    "Game": "The Legend of Zelda: Twilight Princess",
+    "Song": "Agitha's Castle",
+    "Composers": "Toru Minegishi",
+    "Converters": "Schwartz Gandhi",
+    "Category": "bgm",
+    "Audio": "https://www.youtube.com/watch?v=ttcdwt-rFxs",
+    "Update Notes": "New wind sound, Glockenspiel echo oooo",
+    "Tags": [
+      "Interiors",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Thu Feb 15 2024 21:28:37 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/The Legend of Zelda Twilight Princess/Agithas Castle (REV 1).bin",
+    "Duration": 63.69320553749999
   }
 ]
