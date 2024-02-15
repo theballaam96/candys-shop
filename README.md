@@ -18,10 +18,11 @@ To download custom music for DK64 Randomizer, you can visit this [Site](https://
         Additional Notes: <NOTES TO BE DISPLAYED ON PACK BUILDER SITE>
         Update Notes: <NOTES TO BE DISPLAYED IN MUSIC-FILES>
         ```
-- After you submit your song, the Music Verifiers will review it and will either accept or decline it. If your submission is declined for any reason, one of the Music Verifiers will leave a comment in your pull request explaining the reason for the decline. You will know if your submission got accepted when we merge your Pull Request into the Main repository.
+- If you delete the `IS SONG - DO NOT DELETE THIS LINE` Line, Github Actions will not recognize your PR as a song and will comment letting you know the your PR isnt a song. If this happens, just edit your comment and readd that line on the top. 
+- After you submit your song, the Music Verifiers will review it and will either accept or decline it. If your submission is declined for any reason, one of the Music Verifiers will leave a comment in your pull request explaining the reason for the decline. You will know if your submission got accepted when we merge your Pull Request into the Main repository and it shows up in the #Music-Files Channel of Discord. It is highly recommended you keep your eye on your Pull Request as most of the time, that is the place where you'll be receiving your update
 # Acceptable Song Submissions
 - We will only accept songs converted from Video Game Music. There are some exceptions to Video Game Music that are not allowed:
    - **Licensed Video Game Music**: Some example include songs from the Guitar Hero Franchise such as Through The Fire and Flames
-   - **Kingdom Hearts**: Most Kingdom Heart music will not be accepted since they tend to be easily caught by DMCA
+   - **DMCA Prone Music**: DMCA Prone Intellectual Property Music such as Rick Astley's Never Gonna Give You Up or Michael Jackson's Moon Walker will **NOT** be added to the Pack Builder. 
 # Questions?
 Visit the [Discord](https://discord.dk64randomizer.com) and ask any question in the #music-discussion channel. One of our many composers will help you with any questions you have!
