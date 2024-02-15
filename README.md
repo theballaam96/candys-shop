@@ -18,7 +18,7 @@ To download custom music for DK64 Randomizer, you can visit this [Site](https://
         Additional Notes: <NOTES TO BE DISPLAYED ON PACK BUILDER SITE>
         Update Notes: <NOTES TO BE DISPLAYED IN MUSIC-FILES>
         ```
-- If you delete the `IS SONG - DO NOT DELETE THIS LINE` Line, Github Actions will not recognize your PR as a song and will comment letting you know the your PR isnt a song. If this happens, just edit your comment and readd that line on the top. 
+- If you delete the `IS SONG - DO NOT DELETE THIS LINE` Line, Github Actions will not recognize your PR as a song and will comment letting you know that your PR isnt a song. If this happens, just edit your comment and readd that line on the top. 
 - After you submit your song, the Music Verifiers will review it and will either accept or decline it. If your submission is declined for any reason, one of the Music Verifiers will leave a comment in your pull request explaining the reason for the decline. You will know if your submission got accepted when we merge your Pull Request into the Main repository and it shows up in the #Music-Files Channel of Discord. It is highly recommended you keep your eye on your Pull Request as most of the time, that is the place where you'll be receiving your update
 # Acceptable Song Submissions
 - We will only accept songs converted from Video Game Music. There are some exceptions to Video Game Music that are not allowed:
