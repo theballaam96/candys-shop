@@ -16694,5 +16694,21 @@
     "Date": "Thu Feb 15 2024 21:28:37 GMT+0000 (Coordinated Universal Time)",
     "Binary": "binaries/The Legend of Zelda Twilight Princess/Agithas Castle (REV 1).bin",
     "Duration": 63.69320553749999
+  },
+  {
+    "Game": "Bomberman 64: The Second Attack!",
+    "Song": "Pommy Intro",
+    "Composers": "Tomohiko Kira, Yasunori Mitsuda, Hidenobu Otsuki, Tomori Kudo, Hiroyo Yamanaka, Yoshitaka Hirota, Kenji Hiramatsu",
+    "Converters": "The Specialize",
+    "Category": "bgm",
+    "Audio": "https://www.youtube.com/watch?v=xYoWhl6tdSk",
+    "Tags": [
+      "Lobbies and Shops",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Fri Feb 16 2024 20:25:06 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Bomberman 64 The Second Attack/Pommy Intro.bin",
+    "Duration": 71.98958333333333
   }
 ]
