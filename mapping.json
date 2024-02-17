@@ -16779,5 +16779,20 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Mario%20Party/Mushroom%20Shop%20Theme.mp3",
     "Binary": "binaries/Mario Party/Mushroom Shop Theme.bin",
     "Duration": 19.917462125
+  },
+  {
+    "Game": "Donkey Kong Country 2: Diddy's Kong Quest",
+    "Song": "Bonus Level Win",
+    "Composers": "David Wise",
+    "Converters": "Fiy3ro",
+    "Category": "majoritems",
+    "Tags": [
+      "Collection"
+    ],
+    "Verified": true,
+    "Date": "Sat Feb 17 2024 03:02:55 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Donkey%20Kong%20Country%202%20Diddys%20Kong%20Quest/Bonus%20Level%20Win.mp3",
+    "Binary": "binaries/Donkey Kong Country 2 Diddys Kong Quest/Bonus Level Win.bin",
+    "Duration": 2.3100744375
   }
 ]
