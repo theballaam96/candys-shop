@@ -16710,5 +16710,23 @@
     "Date": "Fri Feb 16 2024 20:25:06 GMT+0000 (Coordinated Universal Time)",
     "Binary": "binaries/Bomberman 64 The Second Attack/Pommy Intro.bin",
     "Duration": 71.98958333333333
+  },
+  {
+    "Game": "Rise Of The Triad",
+    "Song": "Goin' Down the Fast Way (Variant A)",
+    "Composers": "Lee Jackson",
+    "Converters": "Wibdiwoh",
+    "Category": "bgm",
+    "Audio": "https://www.youtube.com/watch?v=mn8B0POiLNk",
+    "Update Notes": "volume rebalance, fixed a mistake",
+    "Tags": [
+      "Fights",
+      "Exteriors",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Sat Feb 17 2024 01:06:29 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Rise Of The Triad/Goin Down the Fast Way (Variant A) (REV 1).bin",
+    "Duration": 148.0436989270833
   }
 ]
