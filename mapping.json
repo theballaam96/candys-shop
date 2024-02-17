@@ -13571,7 +13571,7 @@
     "Composers": "Lee Jackson",
     "Converters": "Wibdiwoh",
     "Binary": "binaries/Rise Of The Triad/Oww by Wibdiwoh.bin",
-    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Rise%20Of%20The%20Triad/Oww%20by%20Wibdiwoh.mp3",
+    "Audio": "https://www.youtube.com/watch?v=k0p9uU9jbEU",
     "Duration": 134.125,
     "Tracks": 15,
     "Tags": [
@@ -13621,13 +13621,12 @@
     "Composers": "Lee Jackson",
     "Converters": "Wibdiwoh",
     "Binary": "binaries/Rise Of The Triad/Spray by Wibdiwoh.bin",
-    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Rise%20Of%20The%20Triad/Spray%20by%20Wibdiwoh.mp3",
+    "Audio": "https://www.youtube.com/watch?v=mXSs_P5Sd3I",
     "Duration": 149.09471825000003,
     "Tracks": 16,
     "Tags": [
       "Fights",
-      "Exteriors",
-      "Happy"
+      "Exteriors"
     ],
     "Verified": true
   },
@@ -13692,7 +13691,7 @@
     "Composers": "Lee Jackson",
     "Converters": "Wibdiwoh",
     "Binary": "binaries/Rise Of The Triad/Havana Smooth by Wibdiwoh.bin",
-    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Rise%20Of%20The%20Triad/Havana%20Smooth%20by%20Wibdiwoh.mp3",
+    "Audio": "https://www.youtube.com/watch?v=45O-Q3Ex9fQ",
     "Duration": 187.95786027083335,
     "Tracks": 15,
     "Tags": [
@@ -13810,7 +13809,7 @@
     "Composers": "Lee Jackson",
     "Converters": "Wibdiwoh",
     "Binary": "binaries/Rise Of The Triad/I Choose The Stairs by Wibdiwoh.bin",
-    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Rise%20Of%20The%20Triad/I%20Choose%20The%20Stairs%20by%20Wibdiwoh.mp3",
+    "Audio": "https://www.youtube.com/watch?v=sfMfCc-gues",
     "Duration": 197.523483,
     "Tracks": 16,
     "Tags": [
@@ -13862,7 +13861,7 @@
     "Composers": "Lee Jackson",
     "Converters": "Wibdiwoh",
     "Binary": "binaries/Rise Of The Triad/Suck This by Wibdiwoh.bin",
-    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Rise%20Of%20The%20Triad/Suck%20This%20by%20Wibdiwoh.mp3",
+    "Audio": "https://www.youtube.com/watch?v=NRtO8YqY5PA",
     "Duration": 109.36562425000001,
     "Tracks": 16,
     "Tags": [
@@ -16695,5 +16694,105 @@
     "Date": "Thu Feb 15 2024 21:28:37 GMT+0000 (Coordinated Universal Time)",
     "Binary": "binaries/The Legend of Zelda Twilight Princess/Agithas Castle (REV 1).bin",
     "Duration": 63.69320553749999
+  },
+  {
+    "Game": "Bomberman 64: The Second Attack!",
+    "Song": "Pommy Intro",
+    "Composers": "Tomohiko Kira, Yasunori Mitsuda, Hidenobu Otsuki, Tomori Kudo, Hiroyo Yamanaka, Yoshitaka Hirota, Kenji Hiramatsu",
+    "Converters": "The Specialize",
+    "Category": "bgm",
+    "Audio": "https://www.youtube.com/watch?v=xYoWhl6tdSk",
+    "Tags": [
+      "Lobbies and Shops",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Fri Feb 16 2024 20:25:06 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Bomberman 64 The Second Attack/Pommy Intro.bin",
+    "Duration": 71.98958333333333
+  },
+  {
+    "Game": "Rise Of The Triad",
+    "Song": "Goin' Down the Fast Way (Variant A)",
+    "Composers": "Lee Jackson",
+    "Converters": "Wibdiwoh",
+    "Category": "bgm",
+    "Audio": "https://www.youtube.com/watch?v=mn8B0POiLNk",
+    "Update Notes": "volume rebalance, fixed a mistake",
+    "Tags": [
+      "Fights",
+      "Exteriors",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Sat Feb 17 2024 01:06:29 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Rise Of The Triad/Goin Down the Fast Way (Variant A) (REV 1).bin",
+    "Duration": 148.0436989270833
+  },
+  {
+    "Game": "Phoenix Wright: Ace Attorney",
+    "Song": "Objection (2001)",
+    "Composers": "Masakazu Sugimori",
+    "Converters": "HothRaka",
+    "Category": "bgm",
+    "Update Notes": "I don't know why I used a xylophone on my original submission lmao, I think the instruments sound a lot better now. I also added a funni little vocal sting at the beginning to represent the OBJECTION",
+    "Tags": [
+      "Lobbies and Shops",
+      "Interiors",
+      "Happy",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Sat Feb 17 2024 02:09:10 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Phoenix%20Wright%20Ace%20Attorney/Objection%20(2001).mp3",
+    "Binary": "binaries/Phoenix Wright Ace Attorney/Objection (2001).bin",
+    "Duration": 48.8125
+  },
+  {
+    "Game": "Mario Party",
+    "Song": "Mushroom Bank Theme",
+    "Composers": "Yasunori Mitsuda",
+    "Converters": "SirEnobMort",
+    "Category": "bgm",
+    "Tags": [
+      "Lobbies and Shops",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Sat Feb 17 2024 02:30:16 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Mario%20Party/Mushroom%20Bank%20Theme.mp3",
+    "Binary": "binaries/Mario Party/Mushroom Bank Theme.bin",
+    "Duration": 15.41665125
+  },
+  {
+    "Game": "Mario Party",
+    "Song": "Mushroom Shop Theme",
+    "Composers": "Yasunori Mitsuda",
+    "Converters": "SirEnobMort",
+    "Category": "bgm",
+    "Tags": [
+      "Lobbies and Shops",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Sat Feb 17 2024 02:54:46 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Mario%20Party/Mushroom%20Shop%20Theme.mp3",
+    "Binary": "binaries/Mario Party/Mushroom Shop Theme.bin",
+    "Duration": 19.917462125
+  },
+  {
+    "Game": "Donkey Kong Country 2: Diddy's Kong Quest",
+    "Song": "Bonus Level Win",
+    "Composers": "David Wise",
+    "Converters": "Fiy3ro",
+    "Category": "majoritems",
+    "Tags": [
+      "Collection"
+    ],
+    "Verified": true,
+    "Date": "Sat Feb 17 2024 03:02:55 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Donkey%20Kong%20Country%202%20Diddys%20Kong%20Quest/Bonus%20Level%20Win.mp3",
+    "Binary": "binaries/Donkey Kong Country 2 Diddys Kong Quest/Bonus Level Win.bin",
+    "Duration": 2.3100744375
   }
 ]
