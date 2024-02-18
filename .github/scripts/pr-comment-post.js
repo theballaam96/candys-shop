@@ -6,6 +6,7 @@ async function run() {
       const prNumber = process.env.PR_NUMBER;
       const repo = "theballaam96/candys-shop";
       const token = process.env.GITHUB_TOKEN;
+      console.log(process.env)
       const response = await axios.get(`https://api.github.com/repos/${repo}/pulls/${prNumber}`, {
         headers: {
           Authorization: `Bearer ${token}`,
@@ -17,7 +18,7 @@ async function run() {
       let userID = null;
       if (response.data.user) {
           user = response.data.user.login;
-          axios.get("https://raw.githubusercontent.com/theballaam96/candys-shop/main/discord_mapping.json")
+          await axios.get("https://raw.githubusercontent.com/theballaam96/candys-shop/main/discord_mapping.json")
             .then(jsonresp => {
                 if (Object.keys(jsonresp.data).includes(user)) {
                     userID = jsonresp.data[user]
