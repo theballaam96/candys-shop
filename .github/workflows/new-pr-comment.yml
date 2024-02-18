@@ -8,8 +8,22 @@ jobs:
   notify:
     runs-on: ubuntu-latest
     steps:
-      - name: Send Discord notification
-        env:
-          WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_PRCOMMENT }}
+      - name: Set up Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 20
+
+      - name: Install dependencies
         run: |
-          curl -H "Content-Type: application/json" -X POST -d '{"content":"New comment on PR: ${{ github.event.issue.html_url }}"}' $WEBHOOK_URL
+            npm init -y
+            npm install
+            npm install axios
+
+      - name: Post Discord Message
+        run: node .github/scripts/pr-comment-post.js
+        env:
+          PR_NUMBER: ${{ github.event.number }}
+          GITHUB_REPOSITORY: ${{ github.repository }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          PR_URL: ${{ github.event.issue.html_url }}
+          DISCORD_WEBHOOK_PRCOMMENT: ${{ secrets.DISCORD_WEBHOOK_PRCOMMENT }}
