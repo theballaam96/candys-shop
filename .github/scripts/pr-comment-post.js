@@ -25,7 +25,8 @@ async function run() {
                 }
             })
       }
-      let content = `New PR Comment: ${process.env.PR_URL}. PR Author: ${user}. Author ID: ${userID}`;
+      let mention = userID == null ? "" : `<@${userID}> `
+      let content = `${mention}New PR Comment: ${process.env.PR_URL}`;
       const webhookUrl = process.env.DISCORD_WEBHOOK_PRCOMMENT;
       const options = {
           method: "POST",
