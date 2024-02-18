@@ -9,7 +9,6 @@ async function run() {
       const repo = "theballaam96/candys-shop";
       const token = process.env.GITHUB_TOKEN;
       const commentUser = process.env.COMMENT_USER;
-      console.log(commentUser)
       const response = await axios.get(`https://api.github.com/repos/${repo}/pulls/${prNumber}`, {
         headers: {
           Authorization: `Bearer ${token}`,
