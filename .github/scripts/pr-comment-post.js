@@ -6,7 +6,6 @@ async function run() {
       const prNumber = process.env.PR_NUMBER;
       const repo = "theballaam96/candys-shop";
       const token = process.env.GITHUB_TOKEN;
-      console.log(process.env)
       const response = await axios.get(`https://api.github.com/repos/${repo}/pulls/${prNumber}`, {
         headers: {
           Authorization: `Bearer ${token}`,
@@ -32,7 +31,9 @@ async function run() {
           method: "POST",
           url: webhookUrl,
           headers: { "Content-Type": "application/json" },
-          body: JSON.stringify(content)
+          data: {
+              content: content
+          },
       }
       axios(options)
           .then(whresp => {
