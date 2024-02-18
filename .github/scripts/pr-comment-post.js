@@ -14,15 +14,15 @@ async function run() {
   
       // Extract the PR message
       let user = "Unknown";
-      let userID = null;
+      let userID = 124250391138402304;
       if (response.data.user) {
           user = response.data.user.login;
-          await axios.get("https://raw.githubusercontent.com/theballaam96/candys-shop/main/discord_mapping.json")
-            .then(jsonresp => {
-                if (Object.keys(jsonresp.data).includes(user)) {
-                    userID = jsonresp.data[user]
-                }
-            })
+          // await axios.get("https://raw.githubusercontent.com/theballaam96/candys-shop/main/discord_mapping.json")
+          //   .then(jsonresp => {
+          //       if (Object.keys(jsonresp.data).includes(user)) {
+          //           userID = jsonresp.data[user]
+          //       }
+          //   })
       }
       let mention = userID == null ? "" : `<@${userID}> `
       let content = `${mention}New PR Comment: ${process.env.PR_URL}`;
