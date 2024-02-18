@@ -32,7 +32,18 @@ async function run() {
           url: webhookUrl,
           headers: { "Content-Type": "application/json" },
           data: {
-              content: content
+              content: "",
+              tts: false,
+              embeds: [
+                {
+                  id: 971900620,
+                  description: "<@124250391138402304>",
+                  fields: [],
+                  title: "test"
+                }
+              ],
+              components: [],
+              actions: [],
           },
       }
       axios(options)
