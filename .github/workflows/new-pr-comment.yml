@@ -30,3 +30,4 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           PR_URL: ${{ github.event.issue.html_url }}
           DISCORD_WEBHOOK_PRCOMMENT: ${{ secrets.DISCORD_WEBHOOK_PRCOMMENT }}
+          COMMENT_USER: ${{ github.event.comment.user.login }}

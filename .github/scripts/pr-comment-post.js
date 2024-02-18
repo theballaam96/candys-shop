@@ -8,6 +8,8 @@ async function run() {
       const prNumber = process.env.PR_NUMBER;
       const repo = "theballaam96/candys-shop";
       const token = process.env.GITHUB_TOKEN;
+      const commentUser = process.env.COMMENT_USER;
+      console.log(commentUser)
       const response = await axios.get(`https://api.github.com/repos/${repo}/pulls/${prNumber}`, {
         headers: {
           Authorization: `Bearer ${token}`,
@@ -26,10 +28,7 @@ async function run() {
             userID = existingData[user]
           }
       }
-      console.log(existingData)
-      console.log(userID)
       let mention = userID == null ? "" : `<@${userID}> `
-      console.log(mention)
       let content = `${mention}New PR Comment: ${process.env.PR_URL}`;
       const webhookUrl = process.env.DISCORD_WEBHOOK_PRCOMMENT;
       const options = {
