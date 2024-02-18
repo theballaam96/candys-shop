@@ -1,4 +1,6 @@
 const axios = require('axios');
+const fs = require("fs");
+const path = require("path");
 
 async function run() {
     try {
@@ -14,17 +16,17 @@ async function run() {
   
       // Extract the PR message
       let user = "Unknown";
-      let userID = "124250391138402304";
+      let userID = null;
+      const file = "discord_mapping.json"
+      const filePath = path.join(__dirname, `../../${file}`);
+      const existingData = fs.existsSync(filePath) ? require(filePath) : {};
       if (response.data.user) {
           user = response.data.user.login;
-          // await axios.get("https://raw.githubusercontent.com/theballaam96/candys-shop/main/discord_mapping.json")
-          //   .then(jsonresp => {
-          //       if (Object.keys(jsonresp.data).includes(user)) {
-          //           userID = jsonresp.data[user]
-          //       }
-          //   })
+          if (Object.keys(existingData).includes(user)) {
+            userID = existingData[user]
+          }
       }
-      let mention = userID == null ? "" : `<@124250391138402304> `
+      let mention = userID == null ? "" : `<@${userID}> `
       console.log(mention)
       let content = `${mention}New PR Comment: ${process.env.PR_URL}`;
       const webhookUrl = process.env.DISCORD_WEBHOOK_PRCOMMENT;
