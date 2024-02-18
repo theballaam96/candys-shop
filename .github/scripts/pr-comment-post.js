@@ -32,18 +32,11 @@ async function run() {
           method: "POST",
           url: webhookUrl,
           headers: { "Content-Type": "application/json" },
-          data: {
-              content: content
-          },
+          body: JSON.stringify(content)
       }
-      axios(options)
-          .then(whresp => {
-              console.log('Message sent successfully:', whresp.data);
-          })
-          .catch(error => {
-              console.log(error.message);
-              process.exit(1);
-          });
+      axios.post(webhookUrl, content)
+        .then(() => console.log('Message sent successfully:', whresp.data))
+        .catch(console.error);
     } catch (error) {
       console.error('Error:', error.response ? error.response.data : error.message || error);
       process.exit(1);
