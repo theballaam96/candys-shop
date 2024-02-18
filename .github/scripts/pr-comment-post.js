@@ -14,7 +14,7 @@ async function run() {
   
       // Extract the PR message
       let user = "Unknown";
-      let userID = 124250391138402304;
+      let userID = "124250391138402304";
       if (response.data.user) {
           user = response.data.user.login;
           // await axios.get("https://raw.githubusercontent.com/theballaam96/candys-shop/main/discord_mapping.json")
@@ -24,7 +24,7 @@ async function run() {
           //       }
           //   })
       }
-      let mention = userID == null ? "" : `<@${userID}> `
+      let mention = userID == null ? "" : `<@124250391138402304> `
       console.log(mention)
       let content = `${mention}New PR Comment: ${process.env.PR_URL}`;
       const webhookUrl = process.env.DISCORD_WEBHOOK_PRCOMMENT;
