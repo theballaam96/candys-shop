@@ -26,6 +26,7 @@ async function run() {
             userID = existingData[user]
           }
       }
+      console.log(existingData)
       console.log(userID)
       let mention = userID == null ? "" : `<@${userID}> `
       console.log(mention)
