@@ -15,10 +15,17 @@ async function run() {
   
       // Extract the PR message
       let user = "Unknown";
+      let userID = null;
       if (response.data.user) {
           user = response.data.user.login;
+          axios.get("https://raw.githubusercontent.com/theballaam96/candys-shop/main/discord_mapping.json")
+            .then(jsonresp => {
+                if (Object.keys(jsonresp.data).includes(user)) {
+                    userID = jsonresp.data[user]
+                }
+            })
       }
-      let content = `New PR Comment: ${process.env.PR_URL}. PR Author: ${user}`;
+      let content = `New PR Comment: ${process.env.PR_URL}. PR Author: ${user}. Author ID: ${userID}`;
       const webhookUrl = process.env.DISCORD_WEBHOOK_PRCOMMENT;
       const options = {
           method: "POST",
