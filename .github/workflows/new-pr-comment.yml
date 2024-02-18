@@ -8,9 +8,6 @@ jobs:
   notify:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout code
-        uses: actions/checkout@v2
-
       - name: Send Discord notification
         env:
           WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_PRCOMMENT }}
