@@ -4,7 +4,7 @@ A repository containing all songs converted to the DK64 Soundfont
 To download custom music for DK64 Randomizer, you can visit this [Site](https://theballaam96.github.io/pack_builder). Pick out any music you want and once you finish click on File > Download Candy Pack, or Download Binary Pack if you don't want Categorized Songs. If you want to update your pack in the future, just click on Upload Pack and The Pack Builder will select all songs in your pack
 # Submissions
 - There are a couple ways to submit your song. Both ways involve you making a Github account, Forking, and making a PR with your MP3 (If Applicable), MIDI, and Binary Files:
-    - **Submission Form**:  The best and easiest way to submit your own converted music is to visit this [Site](https://script.google.com/macros/s/AKfycbwetNkcuX68j1hSMt0U2F_xmTHFe3hQp6my3cnHXwxICMJVt5NTyD8_aYcrMqEuSwuyfQ/exec) and follow the instructions. The last screen will give you a template that you just copy and edit paste into the Pull Request Comment. **DO NOT DELETE THE `IS SONG - DO NOT DELETE THIS LINE` LINE** 
+    - **Submission Form**:  The best and easiest way to submit your own converted music is to visit this [Site](https://theballaam96.github.io/submission_form) and follow the instructions. The last screen will give you a template that you just copy and edit paste into the Pull Request Comment. **DO NOT DELETE THE `IS SONG - DO NOT DELETE THIS LINE` LINE** 
     - **Directly from Github**: The second way is to directly create your Pull Request through Github. Only use this if you know your way around Github. You want to make a Pull request with the above files mentioned and edit this line here:
         ```
         IS SONG - DO NOT DELETE THIS LINE
