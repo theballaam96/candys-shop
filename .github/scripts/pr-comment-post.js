@@ -27,6 +27,10 @@ async function run() {
             userID = existingData[user]
           }
       }
+      if (user == commentUser) {
+        // User probably doesn't want to be notified of their own comment
+        return;
+      }
       let mention = userID == null ? "" : `<@${userID}> `
       let content = `${mention}New PR Comment: ${process.env.PR_URL}`;
       const webhookUrl = process.env.DISCORD_WEBHOOK_PRCOMMENT;
