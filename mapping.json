@@ -16850,5 +16850,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Castlevania%20Dawn%20of%20Sorrow/Demon%20Castle%20Pinnacle.mp3",
     "Binary": "binaries/Castlevania Dawn of Sorrow/Demon Castle Pinnacle.bin",
     "Duration": 121.78691525
+  },
+  {
+    "Game": "Super Mario RPG: Legend of the Seven Stars",
+    "Song": "A New Partner",
+    "Composers": "Yoko Shimomura",
+    "Converters": "CaptainofGarbage",
+    "Category": "majoritems",
+    "Tags": [
+      "Collection",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Mon Feb 19 2024 05:01:01 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Super%20Mario%20RPG%20Legend%20of%20the%20Seven%20Stars/A%20New%20Partner.mp3",
+    "Binary": "binaries/Super Mario RPG Legend of the Seven Stars/A New Partner.bin",
+    "Duration": 2.236026
   }
 ]
