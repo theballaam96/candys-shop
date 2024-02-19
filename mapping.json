@@ -16833,5 +16833,22 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Ghost%20Trick%20Phantom%20Detective/Awakening.mp3",
     "Binary": "binaries/Ghost Trick Phantom Detective/Awakening.bin",
     "Duration": 74.05687989583333
+  },
+  {
+    "Game": "Castlevania: Dawn of Sorrow",
+    "Song": "Demon Castle Pinnacle",
+    "Composers": "Masahiko Kimura & Michiru Yamane",
+    "Converters": "HothRaka",
+    "Category": "bgm",
+    "Tags": [
+      "Fights",
+      "Exteriors",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Mon Feb 19 2024 03:09:43 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Castlevania%20Dawn%20of%20Sorrow/Demon%20Castle%20Pinnacle.mp3",
+    "Binary": "binaries/Castlevania Dawn of Sorrow/Demon Castle Pinnacle.bin",
+    "Duration": 121.78691525
   }
 ]
