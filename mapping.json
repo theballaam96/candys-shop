@@ -16794,5 +16794,24 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Donkey%20Kong%20Country%202%20Diddys%20Kong%20Quest/Bonus%20Level%20Win.mp3",
     "Binary": "binaries/Donkey Kong Country 2 Diddys Kong Quest/Bonus Level Win.bin",
     "Duration": 2.3100744375
+  },
+  {
+    "Game": "Ghost Trick: Phantom Detective",
+    "Song": "A Dashing Enigma",
+    "Composers": "Masakazu Sugimori",
+    "Converters": "HothRaka",
+    "Category": "bgm",
+    "Update Notes": "play ghost trick its good",
+    "Tags": [
+      "Lobbies and Shops",
+      "Exteriors",
+      "Gloomy",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Mon Feb 19 2024 03:08:04 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Ghost%20Trick%20Phantom%20Detective/A%20Dashing%20Enigma.mp3",
+    "Binary": "binaries/Ghost Trick Phantom Detective/A Dashing Enigma.bin",
+    "Duration": 103.394127375
   }
 ]
