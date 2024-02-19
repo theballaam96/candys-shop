@@ -16813,5 +16813,25 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Ghost%20Trick%20Phantom%20Detective/A%20Dashing%20Enigma.mp3",
     "Binary": "binaries/Ghost Trick Phantom Detective/A Dashing Enigma.bin",
     "Duration": 103.394127375
+  },
+  {
+    "Game": "Ghost Trick: Phantom Detective",
+    "Song": "Awakening",
+    "Composers": "Masakazu Sugimori",
+    "Converters": "HothRaka",
+    "Category": "bgm",
+    "Update Notes": "you should play ghost trick it recently got an hd port on modern systems its great it has a banana head man",
+    "Additional Notes": "play it",
+    "Tags": [
+      "Lobbies and Shops",
+      "Interiors",
+      "Gloomy",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Mon Feb 19 2024 03:08:53 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Ghost%20Trick%20Phantom%20Detective/Awakening.mp3",
+    "Binary": "binaries/Ghost Trick Phantom Detective/Awakening.bin",
+    "Duration": 74.05687989583333
   }
 ]
