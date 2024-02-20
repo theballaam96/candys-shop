@@ -1,0 +1,33 @@
+name: Discord Notification
+
+on:
+  issue_comment:
+    types: [created]
+
+jobs:
+  notify:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 20
+
+      - name: Install dependencies
+        run: |
+            npm init -y
+            npm install
+            npm install axios
+
+      - name: Post Discord Message
+        run: node .github/scripts/pr-comment-post.js
+        env:
+          PR_NUMBER: ${{ github.event.issue.number }}
+          GITHUB_REPOSITORY: ${{ github.repository }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          PR_URL: ${{ github.event.issue.html_url }}
+          DISCORD_WEBHOOK_PRCOMMENT: ${{ secrets.DISCORD_WEBHOOK_PRCOMMENT }}
+          COMMENT_USER: ${{ github.event.comment.user.login }}

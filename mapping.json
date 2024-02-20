@@ -7795,8 +7795,7 @@
     "Duration": 47.57681730208333,
     "Tracks": 15,
     "Tags": [
-      "Exteriors",
-      "Happy"
+      "Exteriors"
     ],
     "Update of": 390,
     "Verified": true,
@@ -12514,7 +12513,7 @@
     "Category": "bgm",
     "Composers": "Koji Kondo",
     "Converters": "Bismuth",
-    "Binary": "binaries/Super Mario 64/Inside the Castle Walls by Bismuth (REV 1).bin",
+    "Binary": "binaries/Super Mario 64/Inside the Castle Walls by Bismuth.bin",
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Super%20Mario%2064/Inside%20the%20Castle%20Walls%20by%20Bismuth%20%28REV%201%29.mp3",
     "Duration": 61.41377775,
     "Tracks": 6,
@@ -14957,7 +14956,7 @@
     "Category": "bgm",
     "Composers": "Yoko Shimomura",
     "Converters": "UmedMuzl",
-    "Binary": "binaries/Street Fighter II/Guiles Theme by UmedMuzl.bin",
+    "Binary": "binaries/Street Fighter II/Guiles theme by UmedMuzl.bin",
     "Audio": "https://www.youtube.com/watch?v=hpA5T6voZ2Q",
     "Duration": 73.63123270833334,
     "Tracks": 15,
@@ -16794,5 +16793,93 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Donkey%20Kong%20Country%202%20Diddys%20Kong%20Quest/Bonus%20Level%20Win.mp3",
     "Binary": "binaries/Donkey Kong Country 2 Diddys Kong Quest/Bonus Level Win.bin",
     "Duration": 2.3100744375
+  },
+  {
+    "Game": "Ghost Trick: Phantom Detective",
+    "Song": "A Dashing Enigma",
+    "Composers": "Masakazu Sugimori",
+    "Converters": "HothRaka",
+    "Category": "bgm",
+    "Update Notes": "play ghost trick its good",
+    "Tags": [
+      "Lobbies and Shops",
+      "Exteriors",
+      "Gloomy",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Mon Feb 19 2024 03:08:04 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Ghost%20Trick%20Phantom%20Detective/A%20Dashing%20Enigma.mp3",
+    "Binary": "binaries/Ghost Trick Phantom Detective/A Dashing Enigma.bin",
+    "Duration": 103.394127375
+  },
+  {
+    "Game": "Ghost Trick: Phantom Detective",
+    "Song": "Awakening",
+    "Composers": "Masakazu Sugimori",
+    "Converters": "HothRaka",
+    "Category": "bgm",
+    "Update Notes": "you should play ghost trick it recently got an hd port on modern systems its great it has a banana head man",
+    "Additional Notes": "play it",
+    "Tags": [
+      "Lobbies and Shops",
+      "Interiors",
+      "Gloomy",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Mon Feb 19 2024 03:08:53 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Ghost%20Trick%20Phantom%20Detective/Awakening.mp3",
+    "Binary": "binaries/Ghost Trick Phantom Detective/Awakening.bin",
+    "Duration": 74.05687989583333
+  },
+  {
+    "Game": "Castlevania: Dawn of Sorrow",
+    "Song": "Demon Castle Pinnacle",
+    "Composers": "Masahiko Kimura & Michiru Yamane",
+    "Converters": "HothRaka",
+    "Category": "bgm",
+    "Tags": [
+      "Fights",
+      "Exteriors",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Mon Feb 19 2024 03:09:43 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Castlevania%20Dawn%20of%20Sorrow/Demon%20Castle%20Pinnacle.mp3",
+    "Binary": "binaries/Castlevania Dawn of Sorrow/Demon Castle Pinnacle.bin",
+    "Duration": 121.78691525
+  },
+  {
+    "Game": "Super Mario RPG: Legend of the Seven Stars",
+    "Song": "A New Partner",
+    "Composers": "Yoko Shimomura",
+    "Converters": "CaptainofGarbage",
+    "Category": "majoritems",
+    "Tags": [
+      "Collection",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Mon Feb 19 2024 05:01:01 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Super%20Mario%20RPG%20Legend%20of%20the%20Seven%20Stars/A%20New%20Partner.mp3",
+    "Binary": "binaries/Super Mario RPG Legend of the Seven Stars/A New Partner.bin",
+    "Duration": 2.236026
+  },
+  {
+    "Game": "Rhythm Heaven",
+    "Song": "Remix Jingle",
+    "Category": "events",
+    "Composers": "Tsunku♂️",
+    "Converters": "Schwartz Gandhi",
+    "Tags": [
+      "Spawning"
+    ],
+    "Additional Notes": "Surely unicode symbols will not break everything",
+    "Verified": true,
+    "Date": "Tue Feb 20 2024 05:19:22 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Rhythm%20Heaven/Remix%20Jingle.mp3",
+    "Binary": "binaries/Rhythm Heaven/Remix Jingle.bin",
+    "Duration": 3.777774
   }
 ]
