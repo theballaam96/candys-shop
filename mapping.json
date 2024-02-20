@@ -16865,5 +16865,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Super%20Mario%20RPG%20Legend%20of%20the%20Seven%20Stars/A%20New%20Partner.mp3",
     "Binary": "binaries/Super Mario RPG Legend of the Seven Stars/A New Partner.bin",
     "Duration": 2.236026
+  },
+  {
+    "Game": "Rhythm Heaven",
+    "Song": "Remix Jingle",
+    "Category": "events",
+    "Composers": "Tsunku♂️",
+    "Converters": "Schwartz Gandhi",
+    "Tags": [
+      "spawning"
+    ],
+    "Additional Notes": "Surely unicode symbols will not break everything",
+    "Verified": true,
+    "Date": "Tue Feb 20 2024 05:19:22 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Rhythm%20Heaven/Remix%20Jingle.mp3",
+    "Binary": "binaries/Rhythm Heaven/Remix Jingle.bin",
+    "Duration": 3.777774
   }
 ]
