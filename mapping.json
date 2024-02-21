@@ -16979,5 +16979,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Banjo-Kazooie/Red%20Feather%20Max.mp3",
     "Binary": "binaries/Banjo-Kazooie/Red Feather Max.bin",
     "Duration": 1.2666666666666666
+  },
+  {
+    "Game": "Super Mario 64",
+    "Song": "Staff Roll",
+    "Composers": "Koji Kondo",
+    "Converters": "UmedMuzl",
+    "Category": "bgm",
+    "Audio": "https://www.youtube.com/watch?v=5_Vv5xZ6VME",
+    "Tags": [
+      "Exteriors",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Wed Feb 21 2024 19:38:09 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Super Mario 64/Staff Roll.bin",
+    "Duration": 234.74080537500004
   }
 ]
