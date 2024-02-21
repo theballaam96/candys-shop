@@ -16896,5 +16896,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Persona%205/Price.mp3",
     "Binary": "binaries/Persona 5/Price.bin",
     "Duration": 105.00001399999998
-  }
+  },
+  {
+    "Game": "Rhythm Heaven",
+    "Song": "Big Rock Finish H",
+    "Category": "events",
+    "Composers": "Tsunku♂️",
+    "Converters": "Schwartz Gandhi",
+    "Tags": [
+        "spawning",
+        "collection"
+    ],
+    "Verified": true,
+    "Date": "Tue Feb 21 2024 14:11:43 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Rhythm%20Heaven/Big%20Rock%20Finish%20H.mp3",
+    "Binary": "binaries/Rhythm Heaven/Big Rock Finish H.bin",
+    "Duration": 8.562491437500002
+}
 ]

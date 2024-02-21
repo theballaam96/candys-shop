@@ -5,7 +5,10 @@ on:
   pull_request_target:
     types:
       - opened
-
+concurrency:
+  group: edit-repo
+  cancel-in-progress: false
+  
 jobs:
   send-webhook:
     runs-on: ubuntu-latest
