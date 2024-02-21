@@ -16930,5 +16930,22 @@
     "Date": "Wed Feb 21 2024 16:52:21 GMT+0000 (Coordinated Universal Time)",
     "Binary": "binaries/Professor Layton and the Curious Village/The Plot Thickens.bin",
     "Duration": 59.01636
+  },
+  {
+    "Game": "Mario Party 2",
+    "Song": "Going Somewhere",
+    "Composers": "Kazuhiko Sawaguchi",
+    "Converters": "adeleine64DS, HavenKnight93",
+    "Category": "bgm",
+    "Audio": "https://www.youtube.com/watch?v=C70QLHJ2T2o",
+    "Update Notes": "Quieter",
+    "Tags": [
+        "Minigames",
+        "Happy"
+    ],
+    "Verified": true,
+    "Date": "Wed Feb 21 2024 16:53:28 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Mario Party 2/Going Somewhere (REV 1).bin",
+    "Duration": 28.246725
   }
 ]
