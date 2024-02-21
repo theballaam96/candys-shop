@@ -1,6 +1,7 @@
 name: Song Submission Discord Webhook
 
 on:
+  workflow_dispatch:
   pull_request_target:
     types:
       - opened
