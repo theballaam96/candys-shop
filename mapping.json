@@ -16881,5 +16881,20 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Rhythm%20Heaven/Remix%20Jingle.mp3",
     "Binary": "binaries/Rhythm Heaven/Remix Jingle.bin",
     "Duration": 3.777774
+  },
+  {
+    "Game": "Persona 5",
+    "Song": "Price",
+    "Category": "bgm",
+    "Composers": "Shoji Meguro",
+    "Converters": "Schwartz Gandhi",
+    "Tags": [
+      "Interiors"
+    ],
+    "Verified": true,
+    "Date": "Wed Feb 21 2024 03:57:18 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Persona%205/Price.mp3",
+    "Binary": "binaries/Persona 5/Price.bin",
+    "Duration": 105.00001399999998
   }
 ]
