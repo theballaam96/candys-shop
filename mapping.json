@@ -16963,5 +16963,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Banjo-Kazooie/Gold%20Feather%20Max.mp3",
     "Binary": "binaries/Banjo-Kazooie/Gold Feather Max.bin",
     "Duration": 1.2
+  },
+  {
+    "Game": "Banjo-Kazooie",
+    "Song": "Red Feather Max",
+    "Category": "majoritems",
+    "Composers": "Grant Kirkhope",
+    "Converters": "Schwartz Gandhi",
+    "Tags": [
+      "Collection",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Wed Feb 21 2024 19:25:49 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Banjo-Kazooie/Red%20Feather%20Max.mp3",
+    "Binary": "binaries/Banjo-Kazooie/Red Feather Max.bin",
+    "Duration": 1.2666666666666666
   }
 ]
