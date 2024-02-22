@@ -17042,5 +17042,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Banjo-Tooie/King%20Jingalings%20Throne%20Room.mp3",
     "Binary": "binaries/Banjo-Tooie/King Jingalings Throne Room.bin",
     "Duration": 109.33338800000001
+  },
+  {
+    "Game": "Metal Gear Solid",
+    "Song": "Operation Intrude N313",
+    "Category": "events",
+    "Composers": "Konami Kukeiha Club",
+    "Converters": "Schwartz Gandhi",
+    "Tags": [
+      "Spawning"
+    ],
+    "Additional Notes": "Don't be seen by enemy soldiers and head for the goal! This training mission is aborted if you are spotted.",
+    "Verified": true,
+    "Date": "Thu Feb 22 2024 22:03:36 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Metal%20Gear%20Solid/Operation%20Intrude%20N313.mp3",
+    "Binary": "binaries/Metal Gear Solid/Operation Intrude N313.bin",
+    "Duration": 9.193548999999999
   }
 ]
