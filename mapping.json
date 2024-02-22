@@ -16995,5 +16995,22 @@
     "Date": "Wed Feb 21 2024 19:38:09 GMT+0000 (Coordinated Universal Time)",
     "Binary": "binaries/Super Mario 64/Staff Roll.bin",
     "Duration": 234.74080537500004
+  },
+  {
+    "Game": "Professor Layton and the Last Specter",
+    "Song": "Theme of the Last Battle",
+    "Composers": "Tomohito Nishiura",
+    "Converters": "Ballaam",
+    "Category": "bgm",
+    "Audio": "https://youtu.be/jIVoWevhFA8",
+    "Additional Notes": "Also known as Professor Layton and the Specters Call in Europe",
+    "Tags": [
+      "Fights",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Thu Feb 22 2024 02:58:04 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Professor Layton and the Last Specter/Theme of the Last Battle.bin",
+    "Duration": 106.660078525
   }
 ]
