@@ -17026,5 +17026,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Banjo-Kazooie/Bubblegloop%20Swamp%20Flibbits%20Battle.mp3",
     "Binary": "binaries/Banjo-Kazooie/Bubblegloop Swamp Flibbits Battle.bin",
     "Duration": 60.16660649999999
+  },
+  {
+    "Game": "Banjo-Tooie",
+    "Song": "King Jingaling's Throne Room",
+    "Composers": "Grant Kirkhope",
+    "Converters": "CaptainofGarbage",
+    "Category": "bgm",
+    "Tags": [
+      "Interiors",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Thu Feb 22 2024 21:42:11 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Banjo-Tooie/King%20Jingalings%20Throne%20Room.mp3",
+    "Binary": "binaries/Banjo-Tooie/King Jingalings Throne Room.bin",
+    "Duration": 109.33338800000001
   }
 ]
