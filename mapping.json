@@ -17058,5 +17058,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Metal%20Gear%20Solid/Operation%20Intrude%20N313.mp3",
     "Binary": "binaries/Metal Gear Solid/Operation Intrude N313.bin",
     "Duration": 9.193548999999999
+  },
+  {
+    "Game": "Landstalker: The Treasures of King Nole",
+    "Song": "To Great Adventures",
+    "Composers": "Motoaki Takenouchi",
+    "Converters": "Snolid Ice",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Sat Feb 24 2024 07:11:25 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Landstalker%20The%20Treasures%20of%20King%20Nole/To%20Great%20Adventures.mp3",
+    "Binary": "binaries/Landstalker The Treasures of King Nole/To Great Adventures.bin",
+    "Duration": 202.50003374999997
   }
 ]
