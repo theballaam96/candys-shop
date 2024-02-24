@@ -17075,5 +17075,17 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Landstalker%20The%20Treasures%20of%20King%20Nole/To%20Great%20Adventures.mp3",
     "Binary": "binaries/Landstalker The Treasures of King Nole/To Great Adventures.bin",
     "Duration": 202.50003374999997
+  },
+  {
+    "Game": "Pokémon Stadium 2",
+    "Song": "Clear!",
+    "Composers": "Hajime Wakai",
+    "Converters": "SirEnobMort",
+    "Category": "majoritems",
+    "Verified": true,
+    "Date": "Sat Feb 24 2024 14:28:03 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Pok%C3%A9mon%20Stadium%202/Clear.mp3",
+    "Binary": "binaries/Pokémon Stadium 2/Clear.bin",
+    "Duration": 2.708330625
   }
 ]
