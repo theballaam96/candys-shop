@@ -167,18 +167,27 @@ async function run() {
     const repo = "theballaam96/candys-shop";
     const token = process.env.PAT_TOKEN;
 
-    // Get a list of the most recent 20 PRs
-    const recent_pr_response = await axios.get(`https://api.github.com/repos/${repo}/pulls?state=closed&per_page=20&sort=updated&direction=desc`, {
+    // Get a list of the most recent 20 workflow runs with the PR Merge Workflow
+    const action_response = await axios.get(`https://api.github.com/repos/${repo}/actions/workflows/81545140/runs?status=completed&per_page=20`, {
         headers: {
             Authorization: `Bearer ${token}`,
         }
     })
     const home_path = path.join(__dirname, `../../`);
-    const files_in_directory = fs.readdirSync(home_path);
-    for (let i = 0; i < recent_pr_response.data.length; i++) {
-        const pr = recent_pr_response.data[i];
-        const local_pr_number = pr.number;
-        console.log(local_pr_number)
+    for (let i = 0; i < action_response.data.workflow_runs.length; i++) {
+        const action = action_response.data.workflow_runs[i];
+        if (action.conclusion != "failure") {
+            continue;
+        }
+        const head_commit_id = action.head_commit.id;
+        // Get Commit ID data
+        const response_commit = await axios.get(`https://api.github.com/repos/${repo}/commits/${head_commit_id}/pulls`, {
+            headers: {
+                Authorization: `Bearer ${token}`,
+            },
+        });
+        const files_in_directory = fs.readdirSync(home_path);
+        const local_pr_number = response_commit.data.number;
         // Get files
         const response_files = await axios.get(`https://api.github.com/repos/${repo}/pulls/${local_pr_number}/files`, {
             headers: {
@@ -187,7 +196,11 @@ async function run() {
         });
         const pr_files = response_files.data;
         if (pr_files.length > 0) {
-            const contains_files_in_repo = files_in_directory.includes(response_files.data[0].filename)
+            const first_file = response_files.data[0].filename;
+            if ((!first_file.includes(".mid")) && (!first_file.includes(".bin")) && (!first_file.includes(".mp3"))) {
+                continue;
+            }
+            const contains_files_in_repo = files_in_directory.includes(first_file)
             if (contains_files_in_repo) {
                 const response = await axios.get(`https://api.github.com/repos/${repo}/pulls/${local_pr_number}`, {
                     headers: {
@@ -197,9 +210,6 @@ async function run() {
                 console.log(`Found files in repository that haven't been handled with PR #${local_pr_number}`);
             }
         }
-
-
-        
     }
 
     // Get the PR details using the GitHub API
