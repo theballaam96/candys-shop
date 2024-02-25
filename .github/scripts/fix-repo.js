@@ -175,8 +175,6 @@ async function run() {
     })
     const home_path = path.join(__dirname, `../../`);
     const files_in_directory = fs.readdirSync(home_path);
-    console.log(files_in_directory);
-    return;
     for (let i = 0; i < recent_pr_response.data.length; i++) {
         const pr = recent_pr_response.data[i];
         const local_pr_number = pr.number;
@@ -187,11 +185,21 @@ async function run() {
                 Authorization: `Bearer ${token}`,
             },
         });
-        const response = await axios.get(`https://api.github.com/repos/${repo}/pulls/${local_pr_number}`, {
-            headers: {
-                Authorization: `Bearer ${token}`,
-            },
-        });
+        const pr_files = response_files.data;
+        if (pr_files.length > 0) {
+            const contains_files_in_repo = files_in_directory.includes(response_files.data[0].filename)
+            if (contains_files_in_repo) {
+                const response = await axios.get(`https://api.github.com/repos/${repo}/pulls/${local_pr_number}`, {
+                    headers: {
+                        Authorization: `Bearer ${token}`,
+                    },
+                });
+                console.log(`Found files in repository that haven't been handled with PR #${local_pr_number}`);
+            }
+        }
+
+
+        
     }
 
     // Get the PR details using the GitHub API
