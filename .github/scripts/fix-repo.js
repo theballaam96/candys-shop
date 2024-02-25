@@ -173,6 +173,10 @@ async function run() {
             Authorization: `Bearer ${token}`,
         }
     })
+    const home_path = path.join(__dirname, `../../`);
+    const files_in_directory = fs.readdirSync(home_path);
+    console.log(files_in_directory);
+    return;
     for (let i = 0; i < recent_pr_response.data.length; i++) {
         const pr = recent_pr_response.data[i];
         const local_pr_number = pr.number;
