@@ -219,6 +219,7 @@ async function run() {
                     },
                 });
                 console.log(`Found files in repository that haven't been handled with PR #${local_pr_number}`);
+                fixRepoFromPR(local_pr_number, response, response_files);
             }
         }
     }
