@@ -180,6 +180,7 @@ async function run() {
             continue;
         }
         const head_commit_id = action.head_commit.id;
+        console.log(`Attempting to analyze commit ${head_commit_id}`)
         // Get Commit ID data
         const response_commit = await axios.get(`https://api.github.com/repos/${repo}/commits/${head_commit_id}/pulls`, {
             headers: {
@@ -188,6 +189,7 @@ async function run() {
         });
         const files_in_directory = fs.readdirSync(home_path);
         const local_pr_number = response_commit.data.number;
+        console.log(`Attempting to analyze PR #${local_pr_number}`)
         // Get files
         const response_files = await axios.get(`https://api.github.com/repos/${repo}/pulls/${local_pr_number}/files`, {
             headers: {
