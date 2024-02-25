@@ -1,0 +1,42 @@
+name: Fix Repository
+
+on:
+  workflow_dispatch:
+
+jobs:
+  fix_repository:
+    permissions: write-all
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 20
+
+      - name: Install dependencies
+        run: |
+            npm init -y
+            npm install
+            npm install axios
+            npm install midi-file
+            npm install @tonejs/midi
+
+      - name: Fixing Repository
+        run: node .github/scripts/fix-repo.js
+        env:
+          PAT_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Create Zip
+        run: zip -r -q binaries.zip binaries
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.email "actions@github.com"
+          git config --global user.name "GitHub Actions"
+
+          git add .
+          git commit -m "Repository Fixed"
+          git push
