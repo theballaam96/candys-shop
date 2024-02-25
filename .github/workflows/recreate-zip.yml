@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  send-webhook:
+  recreate-zip:
     runs-on: ubuntu-latest
     permissions: write-all
 
