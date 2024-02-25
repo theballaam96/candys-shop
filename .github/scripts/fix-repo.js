@@ -178,7 +178,12 @@ async function run() {
         const local_pr_number = pr.number;
         console.log(local_pr_number)
         // Get files
-        const response_files = await axios.get(`https://api.github.com/repos/${repo}/pulls/${prNumber}/files`, {
+        const response_files = await axios.get(`https://api.github.com/repos/${repo}/pulls/${local_pr_number}/files`, {
+            headers: {
+                Authorization: `Bearer ${token}`,
+            },
+        });
+        const response = await axios.get(`https://api.github.com/repos/${repo}/pulls/${local_pr_number}`, {
             headers: {
                 Authorization: `Bearer ${token}`,
             },
@@ -186,12 +191,12 @@ async function run() {
     }
 
     // Get the PR details using the GitHub API
-    const response = await axios.get(`https://api.github.com/repos/${repo}/pulls/${prNumber}`, {
-      headers: {
-        Authorization: `Bearer ${token}`,
-      },
-    });
-    console.log(response_files.data);
+    // const response = await axios.get(`https://api.github.com/repos/${repo}/pulls/${prNumber}`, {
+    //   headers: {
+    //     Authorization: `Bearer ${token}`,
+    //   },
+    // });
+    // console.log(response_files.data);
     
   } catch (error) {
     console.error("Error:", error.response ? error.response.data : error.message || error);
