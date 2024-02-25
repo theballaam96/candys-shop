@@ -66,6 +66,7 @@ async function fixRepoFromPR(pr_number, api_pr_resp, api_files_resp) {
             }
         }
     })
+    console.log("Detected Data:")
     console.log(json_output)
     const number_vars = ["Tracks", "Duration"]
     number_vars.forEach((v) => {
@@ -151,6 +152,9 @@ async function fixRepoFromPR(pr_number, api_pr_resp, api_files_resp) {
       	json_output["Duration"] = midiParsed.duration;
       }
     }
+
+    console.log("Data written to mapping.json")
+    console.log(json_output)
 
     // Append the PR message to the JSON file
     existingData.push(json_output);
