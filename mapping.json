@@ -17067,12 +17067,116 @@
     "Category": "bgm",
     "Tags": [
       "Exteriors",
-      "Happy"
+      "Happy",
+      "Calm"
     ],
     "Verified": true,
     "Date": "Sat Feb 24 2024 07:11:25 GMT+0000 (Coordinated Universal Time)",
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Landstalker%20The%20Treasures%20of%20King%20Nole/To%20Great%20Adventures.mp3",
     "Binary": "binaries/Landstalker The Treasures of King Nole/To Great Adventures.bin",
     "Duration": 202.50003374999997
+  },
+  {
+    "Game": "Pokémon Stadium 2",
+    "Song": "Clear!",
+    "Composers": "Hajime Wakai",
+    "Converters": "SirEnobMort",
+    "Category": "majoritems",
+    "Verified": true,
+    "Date": "Sat Feb 24 2024 14:28:03 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Pok%C3%A9mon%20Stadium%202/Clear.mp3",
+    "Binary": "binaries/Pokémon Stadium 2/Clear.bin",
+    "Duration": 2.708330625
+  },
+  {
+    "Game": "Pokémon Stadium",
+    "Song": "Clefairy Says (Right Version)",
+    "Composers": "Hajime Wakai, Kenta Nagata, Toru Minegishi",
+    "Converters": "SirEnobMort",
+    "Category": "events",
+    "Tags": [
+        "Minigames",
+        "Spawning",
+        "Happy"
+    ],
+    "Verified": true,
+    "Date": "Sat Feb 24 2024 11:58:56 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Pok%C3%A9mon%20Stadium/Clefairy%20Says%20(Right%20Version).mp3",
+    "Binary": "binaries/Pokémon Stadium/Clefairy Says (Right Version).bin",
+    "Duration": 8.40625
+  },
+  {
+    "Game": "Mario & Luigi: Superstar Saga",
+    "Song": "Bowser's Castle",
+    "Composers": "Yoko Shimomura",
+    "Converters": "SirEnobMort",
+    "Category": "bgm",
+    "Tags": [
+        "Exteriors",
+        "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Sat Feb 24 2024 09:15:46 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Mario%20%20Luigi%20Superstar%20Saga/Bowsers%20Castle.mp3",
+    "Binary": "binaries/Mario  Luigi Superstar Saga/Bowsers Castle.bin",
+    "Duration": 64.54286459375
+  },
+  {
+    "Game": "Mario & Luigi: Superstar Saga",
+    "Song": "Fawful and Cackletta",
+    "Composers": "Yoko Shimomura",
+    "Converters": "SirEnobMort",
+    "Category": "bgm",
+    "Tags": [
+        "Fights",
+        "Happy",
+        "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Sat Feb 24 2024 09:20:16 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Mario%20%20Luigi%20Superstar%20Saga/Fawful%20and%20Cackletta.mp3",
+    "Binary": "binaries/Mario  Luigi Superstar Saga/Fawful and Cackletta.bin",
+    "Duration": 48.79260062499999
+  },
+  {
+    "Game": "Mario Party",
+    "Song": "Luigi's Engine Room",
+    "Composers": "Yasunori Mitsuda",
+    "Converters": "SirEnobMort",
+    "Category": "bgm",
+    "Tags": [
+        "Exteriors",
+        "Gloomy",
+        "Calm"
+    ],
+    "Verified": true,
+    "Date": "Sat Feb 24 2024 09:23:40 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Mario%20Party/Luigis%20Engine%20Room.mp3",
+    "Binary": "binaries/Mario Party/Luigis Engine Room.bin",
+    "Duration": 39.8974609375
+  },
+  {
+    "Game": "Mario Party 2",
+    "Song": "Look Away",
+    "Composers": "Hironao Yamamoto, Shohei Bando, Kazuhiko Sawaguchi",
+    "Converters": "SirEnobMort",
+    "Category": "events",
+    "Verified": true,
+    "Date": "Sat Feb 24 2024 12:25:37 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Mario%20Party%202/Look%20Away.mp3",
+    "Binary": "binaries/Mario Party 2/Look Away.bin",
+    "Duration": 5.57291109375
+  },
+  {
+    "Game": "Pokémon Stadium",
+    "Song": "Pokémon Present Revealed",
+    "Composers": "Kenta Nagata, Hajime Wakai, Toru Minegishi",
+    "Converters": "SirEnobMort",
+    "Category": "majoritems",
+    "Verified": true,
+    "Date": "Sat Feb 24 2024 12:29:18 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Pok%C3%A9mon%20Stadium/Pok%C3%A9mon%20Present%20Revealed.mp3",
+    "Binary": "binaries/Pokémon Stadium/Pokémon Present Revealed.bin",
+    "Duration": 4.31596790625
   }
 ]
