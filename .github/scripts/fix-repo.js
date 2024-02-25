@@ -166,8 +166,6 @@ async function run() {
     // Get the PR number
     const repo = "theballaam96/candys-shop";
     const token = process.env.PAT_TOKEN;
-    // Get the repository owner and name
-    console.log(`Fetching details for PR ${prNumber} in repository ${repo}`);
 
     // Get a list of the most recent 20 PRs
     const recent_pr_response = await axios.get(`https://api.github.com/repos/${repo}/pulls?state=closed&per_page=20&sort=updated&direction=desc`, {
@@ -178,6 +176,7 @@ async function run() {
     for (let i = 0; i < recent_pr_response.data.length; i++) {
         const pr = recent_pr_response.data[i];
         const local_pr_number = pr.number;
+        console.log(local_pr_number)
         // Get files
         const response_files = await axios.get(`https://api.github.com/repos/${repo}/pulls/${prNumber}/files`, {
             headers: {
