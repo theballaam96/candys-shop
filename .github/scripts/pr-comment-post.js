@@ -27,13 +27,18 @@ async function run() {
             userID = existingData[user]
           }
       }
+      let content = null;
+      let webhookUrl = null;
       if (user == commentUser) {
-        // User probably doesn't want to be notified of their own comment
-        return;
+        // Post to verification team
+        content = `New PR Comment from Converter: ${process.env.PR_URL}`
+        webhookUrl = process.env.DISCORD_WEBHOOK_SUBMISSION;
+      } else {
+        // Post to submission comments channel
+        let mention = userID == null ? "" : `<@${userID}> `
+        content = `${mention}New PR Comment: ${process.env.PR_URL}`;
+        webhookUrl = process.env.DISCORD_WEBHOOK_PRCOMMENT;
       }
-      let mention = userID == null ? "" : `<@${userID}> `
-      let content = `${mention}New PR Comment: ${process.env.PR_URL}`;
-      const webhookUrl = process.env.DISCORD_WEBHOOK_PRCOMMENT;
       const options = {
           method: "POST",
           url: webhookUrl,
