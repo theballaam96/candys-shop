@@ -33,6 +33,7 @@ async function run() {
         // Post to verification team
         content = `New PR Comment from Converter: ${process.env.PR_URL}`
         webhookUrl = process.env.DISCORD_WEBHOOK_SUBMISSION;
+        console.log(process.env.COMMENT_TEXT)
       } else {
         // Post to submission comments channel
         let mention = userID == null ? "" : `<@${userID}> `
