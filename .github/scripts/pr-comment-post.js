@@ -29,11 +29,23 @@ async function run() {
       }
       let content = null;
       let webhookUrl = null;
+      const embed = [
+        {
+          "type": "rich",
+          "title": "",
+          "description": process.env.COMMENT_TEXT,
+          "color": 0x016464,
+          "author": {
+            "name": commentUser
+          },
+          "url": process.env.PR_URL,
+          "timestamp": new Date().toISOString(),
+        }
+      ]
       if (user == commentUser) {
         // Post to verification team
-        content = `New PR Comment from Converter: ${process.env.PR_URL}`
+        content = `New PR Comment: ${process.env.PR_URL}`
         webhookUrl = process.env.DISCORD_WEBHOOK_SUBMISSION;
-        console.log(process.env.COMMENT_TEXT)
       } else {
         // Post to submission comments channel
         let mention = userID == null ? "" : `<@${userID}> `
@@ -46,6 +58,7 @@ async function run() {
           headers: { "Content-Type": "application/json" },
           data: {
               content: content,
+              embeds: embed,
           },
       }
       axios(options)
