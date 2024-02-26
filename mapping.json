@@ -17194,5 +17194,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Mario%20%20Luigi%20Partners%20in%20Time/Yoshi%20Mountain.mp3",
     "Binary": "binaries/Mario  Luigi Partners in Time/Yoshi Mountain.bin",
     "Duration": 84.23617850000001
+  },
+  {
+    "Game": "Landstalker: The Treasures of King Nole",
+    "Song": "Treasure Hunter Nigel",
+    "Composers": "Motoaki Takenouchi",
+    "Converters": "Snolid Ice",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Mon Feb 26 2024 00:24:32 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Landstalker%20The%20Treasures%20of%20King%20Nole/Treasure%20Hunter%20Nigel.mp3",
+    "Binary": "binaries/Landstalker The Treasures of King Nole/Treasure Hunter Nigel.bin",
+    "Duration": 70.6875
   }
 ]
