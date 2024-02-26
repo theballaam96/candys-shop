@@ -17210,5 +17210,22 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Landstalker%20The%20Treasures%20of%20King%20Nole/Treasure%20Hunter%20Nigel.mp3",
     "Binary": "binaries/Landstalker The Treasures of King Nole/Treasure Hunter Nigel.bin",
     "Duration": 70.6875
+  },
+  {
+    "Game": "Mario & Luigi: Partners in Time",
+    "Song": "Yoshi Village",
+    "Composers": "Yoko Shimomura",
+    "Converters": "OnlySpaghettiCode",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors",
+      "Happy",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Mon Feb 26 2024 10:47:28 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Mario%20%20Luigi%20Partners%20in%20Time/Yoshi%20Village.mp3",
+    "Binary": "binaries/Mario  Luigi Partners in Time/Yoshi Village.bin",
+    "Duration": 58.257613625
   }
 ]
