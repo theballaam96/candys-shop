@@ -44,12 +44,12 @@ async function run() {
       ]
       if (user == commentUser) {
         // Post to verification team
-        content = `New PR Comment: ${process.env.PR_URL}`
+        content = `New PR Comment on ${user}'s PR "${response.data.title}": ${process.env.PR_URL}`
         webhookUrl = process.env.DISCORD_WEBHOOK_SUBMISSION;
       } else {
         // Post to submission comments channel
         let mention = userID == null ? "" : `<@${userID}> `
-        content = `${mention}New PR Comment: ${process.env.PR_URL}`;
+        content = `${mention}New PR Comment on "${response.data.title}": ${process.env.PR_URL}`;
         webhookUrl = process.env.DISCORD_WEBHOOK_PRCOMMENT;
       }
       const options = {
