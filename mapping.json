@@ -17260,5 +17260,21 @@
     "Date": "Tue Feb 27 2024 16:48:28 GMT+0000 (Coordinated Universal Time)",
     "Binary": "binaries/Earthworm Jim/For Petes Sake (REV 1).bin",
     "Duration": 93.67519268750002
+  },
+  {
+    "Game": "Earthworm Jim",
+    "Song": "Level 5",
+    "Composers": "Mark Miller",
+    "Converters": "Wibdiwoh",
+    "Category": "bgm",
+    "Audio": "https://www.youtube.com/watch?v=aE0Ftmtb16o",
+    "Update Notes": "volume rebalance, added one note",
+    "Tags": [
+      "Exteriors"
+    ],
+    "Verified": true,
+    "Date": "Tue Feb 27 2024 16:49:59 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Earthworm Jim/Level 5 (REV 1).bin",
+    "Duration": 96.65321927083333
   }
 ]
