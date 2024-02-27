@@ -17325,5 +17325,20 @@
     "Date": "Tue Feb 27 2024 20:59:26 GMT+0000 (Coordinated Universal Time)",
     "Binary": "binaries/Chameleon Twist/Jungle Land (Interior).bin",
     "Duration": 113.777664
+  },
+  {
+    "Game": "Chameleon Twist",
+    "Song": "Boss Intro",
+    "Composers": "Takashi Sugioka, Takashi Makino, Yuuji Nakao, Nobutoshi Ichimiya, Koki Tochio, Tsutomu Washijima, Hiroshi Takami, Fumihiko Yamada",
+    "Converters": "The Specialize",
+    "Category": "events",
+    "Audio": "https://www.youtube.com/watch?v=wH7Bdjb08KQ",
+    "Tags": [
+      "Spawning"
+    ],
+    "Verified": true,
+    "Date": "Tue Feb 27 2024 21:00:59 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Chameleon Twist/Boss Intro.bin",
+    "Duration": 6.979469
   }
 ]
