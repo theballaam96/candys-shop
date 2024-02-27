@@ -17309,5 +17309,21 @@
     "Date": "Tue Feb 27 2024 16:52:18 GMT+0000 (Coordinated Universal Time)",
     "Binary": "binaries/Earthworm Jim/What The Heck (REV 1).bin",
     "Duration": 141.06384901041665
+  },
+  {
+    "Game": "Chameleon Twist",
+    "Song": "Jungle Land (Interior)",
+    "Composers": "Takashi Sugioka, Takashi Makino, Yuuji Nakao, Nobutoshi Ichimiya, Koki Tochio, Tsutomu Washijima, Hiroshi Takami, Fumihiko Yamada",
+    "Converters": "The Specialize",
+    "Category": "bgm",
+    "Audio": "https://www.youtube.com/watch?v=u3QT9Pj48b4",
+    "Tags": [
+      "Interiors",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Tue Feb 27 2024 20:59:26 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Chameleon Twist/Jungle Land (Interior).bin",
+    "Duration": 113.777664
   }
 ]
