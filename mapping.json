@@ -17292,5 +17292,22 @@
     "Date": "Tue Feb 27 2024 16:51:11 GMT+0000 (Coordinated Universal Time)",
     "Binary": "binaries/Earthworm Jim/New Junk City (REV 1).bin",
     "Duration": 120.11979166666667
+  },
+  {
+    "Game": "Earthworm Jim",
+    "Song": "What The Heck",
+    "Composers": "Mark Miller",
+    "Converters": "Wibdiwoh",
+    "Category": "bgm",
+    "Audio": "https://www.youtube.com/watch?v=maqIEJoNUvo",
+    "Update Notes": "volume stuff, finally done with my backlog",
+    "Tags": [
+      "Interiors",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Tue Feb 27 2024 16:52:18 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Earthworm Jim/What The Heck (REV 1).bin",
+    "Duration": 141.06384901041665
   }
 ]
