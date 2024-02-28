@@ -17340,5 +17340,22 @@
     "Date": "Tue Feb 27 2024 21:00:59 GMT+0000 (Coordinated Universal Time)",
     "Binary": "binaries/Chameleon Twist/Boss Intro.bin",
     "Duration": 6.979469
+  },
+  {
+    "Game": "The Legend of Zelda: The Wind Waker",
+    "Song": "Inside a House",
+    "Category": "bgm",
+    "Composers": "Koji Kondo, Hajime Wakai, Kenta Nagata",
+    "Converters": "Schwartz Gandhi",
+    "Tags": [
+      "Interiors",
+      "Calm",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Wed Feb 28 2024 17:32:18 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/The%20Legend%20of%20Zelda%20The%20Wind%20Waker/Inside%20a%20House.mp3",
+    "Binary": "binaries/The Legend of Zelda The Wind Waker/Inside a House.bin",
+    "Duration": 28.137061931250003
   }
 ]
