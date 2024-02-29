@@ -17357,5 +17357,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/The%20Legend%20of%20Zelda%20The%20Wind%20Waker/Inside%20a%20House.mp3",
     "Binary": "binaries/The Legend of Zelda The Wind Waker/Inside a House.bin",
     "Duration": 28.137061931250003
+  },
+  {
+    "Game": "Final Fantasy VII",
+    "Song": "Barret's Theme",
+    "Composers": "Nobuo Uematsu",
+    "Converters": "CaptainofGarbage",
+    "Category": "bgm",
+    "Tags": [
+      "Interiors",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Thu Feb 29 2024 11:24:32 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Final%20Fantasy%20VII/Barrets%20Theme.mp3",
+    "Binary": "binaries/Final Fantasy VII/Barrets Theme.bin",
+    "Duration": 96
   }
 ]
