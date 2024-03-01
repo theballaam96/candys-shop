@@ -17405,5 +17405,22 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Cave%20Story/Cave%20Story.mp3",
     "Binary": "binaries/Cave Story/Cave Story.bin",
     "Duration": 134.688
+  },
+  {
+    "Game": "Touhou Chiireiden: Subterranean Animism",
+    "Song": "Satori Maiden ~ 3rd eye.",
+    "Category": "bgm",
+    "Composers": "ZUN",
+    "Converters": "Schwartz Gandhi",
+    "Tags": [
+      "Interiors",
+      "Fights",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Fri Mar 01 2024 20:16:38 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Touhou%20Chiireiden%20Subterranean%20Animism/Satori%20Maiden%20~%203rd%20eye.mp3",
+    "Binary": "binaries/Touhou Chiireiden Subterranean Animism/Satori Maiden ~ 3rd eye.bin",
+    "Duration": 122.33681810416667
   }
 ]
