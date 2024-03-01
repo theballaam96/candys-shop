@@ -17389,5 +17389,21 @@
     "Date": "Fri Mar 01 2024 02:06:46 GMT+0000 (Coordinated Universal Time)",
     "Binary": "binaries/Celeste/Celestial Resort (Good Karma Mix).bin",
     "Duration": 205.71408000000002
+  },
+  {
+    "Game": "Cave Story",
+    "Song": "Cave Story",
+    "Category": "bgm",
+    "Composers": "Pixel",
+    "Converters": "Schwartz Gandhi",
+    "Tags": [
+      "Exteriors",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Fri Mar 01 2024 19:50:41 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Cave%20Story/Cave%20Story.mp3",
+    "Binary": "binaries/Cave Story/Cave Story.bin",
+    "Duration": 134.688
   }
 ]
