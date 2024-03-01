@@ -17373,5 +17373,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Final%20Fantasy%20VII/Barrets%20Theme.mp3",
     "Binary": "binaries/Final Fantasy VII/Barrets Theme.bin",
     "Duration": 96
+  },
+  {
+    "Game": "Celeste",
+    "Song": "Celestial Resort (Good Karma Mix)",
+    "Category": "bgm",
+    "Composers": "Lena Raine, Christa Lee",
+    "Converters": "Schwartz Gandhi",
+    "Audio": "https://youtu.be/6CJzU_Tjkjk",
+    "Tags": [
+      "Interiors",
+      "Exteriors"
+    ],
+    "Verified": true,
+    "Date": "Fri Mar 01 2024 02:06:46 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Celeste/Celestial Resort (Good Karma Mix).bin",
+    "Duration": 205.71408000000002
   }
 ]
