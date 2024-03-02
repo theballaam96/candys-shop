@@ -17422,5 +17422,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Touhou%20Chiireiden%20Subterranean%20Animism/Satori%20Maiden%20~%203rd%20eye.mp3",
     "Binary": "binaries/Touhou Chiireiden Subterranean Animism/Satori Maiden ~ 3rd eye.bin",
     "Duration": 122.33681810416667
+  },
+  {
+    "Game": "Animaniacs (Genesis)",
+    "Song": "Studio 5 (Part 1)",
+    "Composers": "Kiyoshi Murai",
+    "Converters": "Wibdiwoh",
+    "Category": "bgm",
+    "Tags": [
+      "Interiors",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Sat Mar 02 2024 20:48:50 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Animaniacs%20(Genesis)/Studio%205%20(Part%201).mp3",
+    "Binary": "binaries/Animaniacs (Genesis)/Studio 5 (Part 1).bin",
+    "Duration": 44.56691971875
   }
 ]
