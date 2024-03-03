@@ -17438,5 +17438,17 @@
     "Audio": "https://www.youtube.com/watch?v=5obm45A35_E",
     "Binary": "binaries/Animaniacs (Genesis)/Studio 5 (Part 1).bin",
     "Duration": 44.56691971875
+  },
+  {
+    "Game": "Pokémon Stadium",
+    "Song": "Gym Leader Castle Stage Clear",
+    "Composers": "Kenta Nagata, Hajime Wakai, Toru Minegishi",
+    "Converters": "SirEnobMort",
+    "Category": "events",
+    "Verified": true,
+    "Date": "Sun Mar 03 2024 16:41:11 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Pok%C3%A9mon%20Stadium/Gym%20Leader%20Castle%20Stage%20Clear.mp3",
+    "Binary": "binaries/Pokémon Stadium/Gym Leader Castle Stage Clear.bin",
+    "Duration": 2.3491407499999997
   }
 ]
