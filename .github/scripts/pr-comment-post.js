@@ -27,19 +27,38 @@ async function run() {
             userID = existingData[user]
           }
       }
+      let content = null;
+      let webhookUrl = null;
+      const embed = [
+        {
+          "type": "rich",
+          "title": "",
+          "description": process.env.COMMENT_TEXT,
+          "color": 0x016464,
+          "author": {
+            "name": commentUser
+          },
+          "url": process.env.PR_URL,
+          "timestamp": new Date().toISOString(),
+        }
+      ]
       if (user == commentUser) {
-        // User probably doesn't want to be notified of their own comment
-        return;
+        // Post to verification team
+        content = `New PR Comment on ${user}'s PR "${response.data.title}": ${process.env.PR_URL}`
+        webhookUrl = process.env.DISCORD_WEBHOOK_SUBMISSION;
+      } else {
+        // Post to submission comments channel
+        let mention = userID == null ? "" : `<@${userID}> `
+        content = `${mention}New PR Comment on "${response.data.title}": ${process.env.PR_URL}`;
+        webhookUrl = process.env.DISCORD_WEBHOOK_PRCOMMENT;
       }
-      let mention = userID == null ? "" : `<@${userID}> `
-      let content = `${mention}New PR Comment: ${process.env.PR_URL}`;
-      const webhookUrl = process.env.DISCORD_WEBHOOK_PRCOMMENT;
       const options = {
           method: "POST",
           url: webhookUrl,
           headers: { "Content-Type": "application/json" },
           data: {
               content: content,
+              embeds: embed,
           },
       }
       axios(options)
