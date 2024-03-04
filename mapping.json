@@ -17450,5 +17450,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Pok%C3%A9mon%20Stadium/Gym%20Leader%20Castle%20Stage%20Clear.mp3",
     "Binary": "binaries/Pokémon Stadium/Gym Leader Castle Stage Clear.bin",
     "Duration": 2.3491407499999997
+  },
+  {
+    "Game": "Yu-Gi-Oh! Forbidden Memories",
+    "Song": "Main Menu",
+    "Composers": "Naoko Ishii, Hiroshi Tanabe, Waichiro Ozaki",
+    "Converters": "HavenKnight93",
+    "Category": "bgm",
+    "Tags": [
+      "Lobbies and Shops",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Mon Mar 04 2024 00:22:16 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Yu-Gi-Oh%20Forbidden%20Memories/Main%20Menu.mp3",
+    "Binary": "binaries/Yu-Gi-Oh Forbidden Memories/Main Menu.bin",
+    "Duration": 41.885586937499994
   }
 ]
