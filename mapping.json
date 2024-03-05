@@ -17466,5 +17466,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Yu-Gi-Oh%20Forbidden%20Memories/Main%20Menu.mp3",
     "Binary": "binaries/Yu-Gi-Oh Forbidden Memories/Main Menu.bin",
     "Duration": 41.885586937499994
+  },
+  {
+    "Game": "Super Mario RPG: Legend of the Seven Stars",
+    "Song": "Dodo's Coming!!",
+    "Composers": "Yoko Shimomura",
+    "Converters": "HavenKnight93",
+    "Category": "bgm",
+    "Tags": [
+      "Minigames",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Tue Mar 05 2024 17:24:44 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Super%20Mario%20RPG%20Legend%20of%20the%20Seven%20Stars/Dodos%20Coming.mp3",
+    "Binary": "binaries/Super Mario RPG Legend of the Seven Stars/Dodos Coming.bin",
+    "Duration": 52.901806875000005
   }
 ]
