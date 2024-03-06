@@ -17482,5 +17482,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Super%20Mario%20RPG%20Legend%20of%20the%20Seven%20Stars/Dodos%20Coming.mp3",
     "Binary": "binaries/Super Mario RPG Legend of the Seven Stars/Dodos Coming.bin",
     "Duration": 52.901806875000005
+  },
+  {
+    "Game": "Bomberman Tournament",
+    "Song": "Beach",
+    "Composers": "Koichi Seiyama, Jun Chikuma",
+    "Converters": "AaronDobbe",
+    "Category": "bgm",
+    "Audio": "https://www.youtube.com/watch?v=4w26tYxPnnY",
+    "Tags": [
+      "Exteriors",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Wed Mar 06 2024 20:57:19 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Bomberman Tournament/Beach.bin",
+    "Duration": 115.88353570833334
   }
 ]
