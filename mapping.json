@@ -17498,5 +17498,21 @@
     "Date": "Wed Mar 06 2024 20:57:19 GMT+0000 (Coordinated Universal Time)",
     "Binary": "binaries/Bomberman Tournament/Beach.bin",
     "Duration": 115.88353570833334
+  },
+  {
+    "Game": "Final Fantasy VII",
+    "Song": "The Birth of God",
+    "Composers": "Nobuo Uematsu",
+    "Converters": "OnlySpaghettiCode",
+    "Category": "bgm",
+    "Tags": [
+      "Fights",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Fri Mar 08 2024 00:17:56 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Final%20Fantasy%20VII/The%20Birth%20of%20God.mp3",
+    "Binary": "binaries/Final Fantasy VII/The Birth of God.bin",
+    "Duration": 131.88530525
   }
 ]
