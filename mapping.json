@@ -17530,5 +17530,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Yu-Gi-Oh%20Forbidden%20Memories/Mages.mp3",
     "Binary": "binaries/Yu-Gi-Oh Forbidden Memories/Mages.bin",
     "Duration": 69.248046875
+  },
+  {
+    "Game": "Cave Story",
+    "Song": "Moonsong",
+    "Category": "bgm",
+    "Composers": "Pixel",
+    "Converters": "Schwartz Gandhi",
+    "Tags": [
+      "Exteriors",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Fri Mar 08 2024 20:55:47 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Cave%20Story/Moonsong.mp3",
+    "Binary": "binaries/Cave Story/Moonsong.bin",
+    "Duration": 76.8
   }
 ]
