@@ -17594,5 +17594,20 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Mario%20Party/Warios%20Battle%20Canyon.mp3",
     "Binary": "binaries/Mario Party/Warios Battle Canyon.bin",
     "Duration": 48.65055520833333
+  },
+  {
+    "Game": "Pokémon Stadium",
+    "Song": "VS Won",
+    "Composers": "Kenta Nagata, Hajime Wakai, Toru Minegishi",
+    "Converters": "SirEnobMort",
+    "Category": "events",
+    "Tags": [
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Sat Mar 09 2024 16:52:24 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Pok%C3%A9mon%20Stadium/VS%20Won.mp3",
+    "Binary": "binaries/Pokémon Stadium/VS Won.bin",
+    "Duration": 21.097665375
   }
 ]
