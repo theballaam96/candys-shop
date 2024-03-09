@@ -17578,5 +17578,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Mario%20Party/Faster%20Than%20All.mp3",
     "Binary": "binaries/Mario Party/Faster Than All.bin",
     "Duration": 27.389252374999998
+  },
+  {
+    "Game": "Mario Party",
+    "Song": "Wario's Battle Canyon",
+    "Composers": "Yasunori Mitsuda",
+    "Converters": "SirEnobMort",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Sat Mar 09 2024 16:49:05 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Mario%20Party/Warios%20Battle%20Canyon.mp3",
+    "Binary": "binaries/Mario Party/Warios Battle Canyon.bin",
+    "Duration": 48.65055520833333
   }
 ]
