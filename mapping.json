@@ -17655,5 +17655,22 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Pok%C3%A9mon%20Stadium/Battle%20End.mp3",
     "Binary": "binaries/Pokémon Stadium/Battle End.bin",
     "Duration": 6.764961406250001
+  },
+  {
+    "Game": "Pokémon Stadium",
+    "Song": "VS Intro",
+    "Composers": "Kenta Nagata, Hajime Wakai, Toru Minegishi",
+    "Converters": "SirEnobMort",
+    "Category": "events",
+    "Update Notes": "Volume adjusted, removed excess events from MIDI.",
+    "Tags": [
+      "Spawning",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Sat Mar 09 2024 16:58:16 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Pok%C3%A9mon%20Stadium/VS%20Intro%20(REV%202).mp3",
+    "Binary": "binaries/Pokémon Stadium/VS Intro (REV 2).bin",
+    "Duration": 7.658446875000001
   }
 ]
