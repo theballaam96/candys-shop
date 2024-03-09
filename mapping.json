@@ -17562,5 +17562,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Cave%20Story/Heros%20End.mp3",
     "Binary": "binaries/Cave Story/Heros End.bin",
     "Duration": 58.800000000000004
+  },
+  {
+    "Game": "Mario Party",
+    "Song": "Faster Than All",
+    "Composers": "Yasunori Mitsuda",
+    "Converters": "SirEnobMort",
+    "Category": "bgm",
+    "Tags": [
+      "Minigames",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Sat Mar 09 2024 16:48:05 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Mario%20Party/Faster%20Than%20All.mp3",
+    "Binary": "binaries/Mario Party/Faster Than All.bin",
+    "Duration": 27.389252374999998
   }
 ]
