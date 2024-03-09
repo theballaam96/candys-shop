@@ -17672,5 +17672,22 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Pok%C3%A9mon%20Stadium/VS%20Intro%20(REV%202).mp3",
     "Binary": "binaries/Pokémon Stadium/VS Intro (REV 2).bin",
     "Duration": 7.658446875000001
+  },
+  {
+    "Game": "Pokémon Stadium",
+    "Song": "VS Intro (Short)",
+    "Composers": "Kenta Nagata, Hajime Wakai, Toru Minegishi",
+    "Converters": "SirEnobMort",
+    "Category": "events",
+    "Update Notes": "Volume adjusted, removed excess events from MIDI.",
+    "Tags": [
+      "Collection",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Sat Mar 09 2024 16:59:58 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Pok%C3%A9mon%20Stadium/VS%20Intro%20(Short)%20(REV%201).mp3",
+    "Binary": "binaries/Pokémon Stadium/VS Intro (Short) (REV 1).bin",
+    "Duration": 5.044011562500001
   }
 ]
