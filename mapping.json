@@ -17624,5 +17624,20 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Pok%C3%A9mon%20Stadium/Gym%20Leader%20Castle%20Stage%20Clear%20(REV%201).mp3",
     "Binary": "binaries/Pokémon Stadium/Gym Leader Castle Stage Clear (REV 1).bin",
     "Duration": 2.3491407499999997
+  },
+  {
+    "Game": "Pokémon Stadium",
+    "Song": "Mini Game End",
+    "Composers": "Kenta Nagata, Hajime Wakai, Toru Minegishi",
+    "Converters": "SirEnobMort",
+    "Category": "events",
+    "Tags": [
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Sat Mar 09 2024 16:56:20 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Pok%C3%A9mon%20Stadium/Mini%20Game%20End.mp3",
+    "Binary": "binaries/Pokémon Stadium/Mini Game End.bin",
+    "Duration": 2.8124971875
   }
 ]
