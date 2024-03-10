@@ -17738,5 +17738,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Mario%20Party%202/Woody.mp3",
     "Binary": "binaries/Mario Party 2/Woody.bin",
     "Duration": 13.108557874999997
+  },
+  {
+    "Game": "Mario & Luigi: Superstar Saga",
+    "Song": "Koopa Tutorial",
+    "Composers": "Yoko Shimomura",
+    "Converters": "SirEnobMort",
+    "Category": "bgm",
+    "Tags": [
+      "Minigames",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Sun Mar 10 2024 05:21:41 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Mario%20%20Luigi%20Superstar%20Saga/Koopa%20Tutorial.mp3",
+    "Binary": "binaries/Mario  Luigi Superstar Saga/Koopa Tutorial.bin",
+    "Duration": 76.675
   }
 ]
