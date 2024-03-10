@@ -17721,5 +17721,22 @@
     "Date": "Sat Mar 09 2024 23:58:21 GMT+0000 (Coordinated Universal Time)",
     "Binary": "binaries/Bloodborne/Ludwig, the Holy Blade.bin",
     "Duration": 112.33200061041667
+  },
+  {
+    "Game": "Mario Party 2",
+    "Song": "Woody",
+    "Composers": "Hironao Yamamoto, Shohei Bando, Kazuhiko Sawaguchi",
+    "Converters": "SirEnobMort",
+    "Category": "bgm",
+    "Tags": [
+      "Lobbies and Shops",
+      "Gloomy",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Sun Mar 10 2024 05:17:47 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Mario%20Party%202/Woody.mp3",
+    "Binary": "binaries/Mario Party 2/Woody.bin",
+    "Duration": 13.108557874999997
   }
 ]
