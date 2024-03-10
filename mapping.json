@@ -17754,5 +17754,22 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Mario%20%20Luigi%20Superstar%20Saga/Koopa%20Tutorial.mp3",
     "Binary": "binaries/Mario  Luigi Superstar Saga/Koopa Tutorial.bin",
     "Duration": 76.675
+  },
+  {
+    "Game": "The Legend of Zelda: The Wind Waker",
+    "Song": "Dragon Roost Island",
+    "Composers": "Kenta Nagata",
+    "Converters": "OnlySpaghettiCode",
+    "Category": "bgm",
+    "Update Notes": "several adjustments, also added second half of the song (oops)",
+    "Tags": [
+      "Exteriors",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Sun Mar 10 2024 05:34:11 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/The%20Legend%20of%20Zelda%20The%20Wind%20Waker/Dragon%20Roost%20Island%20(REV%201).mp3",
+    "Binary": "binaries/The Legend of Zelda The Wind Waker/Dragon Roost Island (REV 1).bin",
+    "Duration": 80.99121875000002
   }
 ]
