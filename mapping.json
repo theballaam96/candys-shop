@@ -8692,6 +8692,22 @@
     "Verified": true
   },
   {
+    "Date": "Wed Sep 20 2023 22:14:31 GMT-0500 (Central Daylight Time)",
+    "Game": "Undertale",
+    "Song": "Megalovania",
+    "Category": "bgm",
+    "Composers": "Toby Fox",
+    "Converters": "UmedMuzl",
+    "Binary": "binaries/Undertale/Megalovania by UmedMuzl.bin",
+    "Audio": "https://www.youtube.com/watch?v=fxyfhQayxKw",
+    "Duration": 156.234375,
+    "Tracks": 14,
+    "Tags": [
+      "Fights"
+    ],
+    "Verified": true
+  },
+  {
     "Date": "Thu Sep 21 2023 15:20:27 GMT-0500 (Central Daylight Time)",
     "Game": "Pokémon Diamond, Pearl & Platinum",
     "Song": "Eterna Forest",
