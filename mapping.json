@@ -17788,5 +17788,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Mario%20Party/Luigis%20Engine%20Room%20(REV%201).mp3",
     "Binary": "binaries/Mario Party/Luigis Engine Room (REV 1).bin",
     "Duration": 39.8974609375
+  },
+  {
+    "Game": "Final Fantasy X",
+    "Song": "Battle",
+    "Composers": "Nobuo Uematsu",
+    "Converters": "OnlySpaghettiCode",
+    "Category": "bgm",
+    "Tags": [
+      "Fights",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Mon Mar 11 2024 00:46:01 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Final%20Fantasy%20X/Battle.mp3",
+    "Binary": "binaries/Final Fantasy X/Battle.bin",
+    "Duration": 101.091953625
   }
 ]
