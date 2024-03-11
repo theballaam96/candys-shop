@@ -17804,5 +17804,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Final%20Fantasy%20X/Battle.mp3",
     "Binary": "binaries/Final Fantasy X/Battle.bin",
     "Duration": 101.091953625
+  },
+  {
+    "Game": "Mario Party 2",
+    "Song": "Dancing Stars",
+    "Composers": "Kazuhiko Sawaguchi",
+    "Converters": "UmedMuzl",
+    "Category": "bgm",
+    "Tags": [
+      "Minigames",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Mon Mar 11 2024 03:12:34 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Mario%20Party%202/Dancing%20Stars.mp3",
+    "Binary": "binaries/Mario Party 2/Dancing Stars.bin",
+    "Duration": 36
   }
 ]
