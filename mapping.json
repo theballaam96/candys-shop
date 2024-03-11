@@ -17820,5 +17820,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Mario%20Party%202/Dancing%20Stars.mp3",
     "Binary": "binaries/Mario Party 2/Dancing Stars.bin",
     "Duration": 36
+  },
+  {
+    "Game": "Consoles and BIOS",
+    "Song": "Windows 11 Startup",
+    "Composers": "Phi Bui",
+    "Converters": "HavenKnight93",
+    "Category": "events",
+    "Tags": [
+      "Spawning",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Mon Mar 11 2024 16:17:07 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Consoles%20and%20BIOS/Windows%2011%20Startup.mp3",
+    "Binary": "binaries/Consoles and BIOS/Windows 11 Startup.bin",
+    "Duration": 3.25
   }
 ]
