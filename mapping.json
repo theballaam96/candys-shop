@@ -2165,7 +2165,7 @@
     "Converters": "OnlySpaghettiCode",
     "Binary": "binaries/The Legend of Zelda The Wind Waker/Outset Island by OnlySpaghettiCode.bin",
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/The%20Legend%20of%20Zelda%20The%20Wind%20Waker/Outset%20Island%20by%20OnlySpaghettiCode.mp3",
-    "Duration": 1900.6963235104083,
+    "Duration": 190.6963235104083,
     "Tracks": 14,
     "Tags": [
       "Exteriors",
@@ -8703,7 +8703,8 @@
     "Duration": 156.234375,
     "Tracks": 14,
     "Tags": [
-      "Fights, Delisted"
+      "Fights",
+      "stream-unsafe"
     ],
     "Verified": true
   },
@@ -17836,5 +17837,57 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Consoles%20and%20BIOS/Windows%2011%20Startup.mp3",
     "Binary": "binaries/Consoles and BIOS/Windows 11 Startup.bin",
     "Duration": 3.25
+  },
+  {
+    "Game": "Donkey Kong 64",
+    "Song": "Gloomy Galleon (Orchestral Remix)",
+    "Composers": "Grant Kirkhope",
+    "Converters": "Ballaam",
+    "Category": "bgm",
+    "Audio": "https://www.youtube.com/watch?v=VFru5dXWE7g",
+    "Additional Notes": "Port of Mission 316's Galleon Orchestral Remix with the Atlantis Section removed",
+    "Tags": [
+      "Exteriors",
+      "Gloomy",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Mon Mar 11 2024 20:04:52 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Donkey Kong 64/Gloomy Galleon (Orchestral Remix).bin",
+    "Duration": 149.14570275833333
+  },
+  {
+    "Game": "Touhou Eiyashou ~ Imperishable Night",
+    "Song": "Lunatic Eyes ~ Invisible Full Moon",
+    "Composers": "ZUN",
+    "Converters": "Zion Jaymes",
+    "Category": "bgm",
+    "Additional Notes": "Stoopid Wabbit. Could be a fun choice for any of the songs where you encounter Rabbit.",
+    "Tags": [
+      "Fights",
+      "Minigames",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Mon Mar 11 2024 20:20:52 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Touhou%20Eiyashou%20~%20Imperishable%20Night/Lunatic%20Eyes%20~%20Invisible%20Full%20Moon.mp3",
+    "Binary": "binaries/Touhou Eiyashou ~ Imperishable Night/Lunatic Eyes ~ Invisible Full Moon.bin",
+    "Duration": 115.5
+  },
+  {
+    "Game": "Mortal Kombat 3",
+    "Song": "Friendship",
+    "Composers": "Dan Forden",
+    "Converters": "HavenKnight93",
+    "Category": "majoritems",
+    "Tags": [
+      "Spawning",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Tue Mar 12 2024 19:18:04 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Mortal%20Kombat%203/Friendship.mp3",
+    "Binary": "binaries/Mortal Kombat 3/Friendship.bin",
+    "Duration": 2.867645625
   }
 ]
