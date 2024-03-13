@@ -17906,5 +17906,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Super%20Mario%2064/Ultimate%20Bowser%20(REV%201).mp3",
     "Binary": "binaries/Super Mario 64/Ultimate Bowser (REV 1).bin",
     "Duration": 82.90738625
+  },
+  {
+    "Game": "Touhou Chiireiden ~ Subterranean Animism",
+    "Song": "Solar Sect of Mystic Wisdom ~ Nuclear Fusion",
+    "Composers": "ZUN",
+    "Converters": "Zion Jaymes",
+    "Category": "bgm",
+    "Additional Notes": "! CAUTION ! A panicked boss battle theme that's as hot as the sun and as alarming as a nuclear meltdown... Dogadon Fight Music? nah, he's too easy.",
+    "Tags": [
+      "Fights"
+    ],
+    "Verified": true,
+    "Date": "Wed Mar 13 2024 23:09:48 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Touhou%20Chiireiden%20~%20Subterranean%20Animism/Solar%20Sect%20of%20Mystic%20Wisdom%20~%20Nuclear%20Fusion.mp3",
+    "Binary": "binaries/Touhou Chiireiden ~ Subterranean Animism/Solar Sect of Mystic Wisdom ~ Nuclear Fusion.bin",
+    "Duration": 165.998555
   }
 ]
