@@ -17889,5 +17889,22 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Mortal%20Kombat%203/Friendship.mp3",
     "Binary": "binaries/Mortal Kombat 3/Friendship.bin",
     "Duration": 2.867645625
+  },
+  {
+    "Game": "Super Mario 64",
+    "Song": "Ultimate Bowser",
+    "Composers": "Koji Kondo",
+    "Converters": "UmedMuzl",
+    "Category": "bgm",
+    "Update Notes": "General Improvements over the original",
+    "Tags": [
+      "Fights",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Wed Mar 13 2024 10:55:23 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Super%20Mario%2064/Ultimate%20Bowser%20(REV%201).mp3",
+    "Binary": "binaries/Super Mario 64/Ultimate Bowser (REV 1).bin",
+    "Duration": 82.90738625
   }
 ]
