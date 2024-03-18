@@ -17938,5 +17938,22 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Goldeneye%20007/Aztec.mp3",
     "Binary": "binaries/Goldeneye 007/Aztec.bin",
     "Duration": 162.847785375
+  },
+  {
+    "Game": "Touhou Kikeijuu ~ Wily Beast and Weakest Creature",
+    "Song": "Unlocated Hell",
+    "Category": "bgm",
+    "Composers": "ZUN",
+    "Converters": "Schwartz Gandhi",
+    "Tags": [
+      "Exteriors",
+      "Gloomy"
+    ],
+    "Additional Notes": "Hell is hopelessly vast isn't it?",
+    "Verified": true,
+    "Date": "Mon Mar 18 2024 22:07:31 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Touhou%20Kikeijuu%20~%20Wily%20Beast%20and%20Weakest%20Creature/Unlocated%20Hell.mp3",
+    "Binary": "binaries/Touhou Kikeijuu ~ Wily Beast and Weakest Creature/Unlocated Hell.bin",
+    "Duration": 198.352842
   }
 ]
