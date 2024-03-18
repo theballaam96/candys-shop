@@ -17922,5 +17922,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Touhou%20Chiireiden%20~%20Subterranean%20Animism/Solar%20Sect%20of%20Mystic%20Wisdom%20~%20Nuclear%20Fusion.mp3",
     "Binary": "binaries/Touhou Chiireiden ~ Subterranean Animism/Solar Sect of Mystic Wisdom ~ Nuclear Fusion.bin",
     "Duration": 165.998555
+  },
+  {
+    "Game": "Goldeneye 007",
+    "Song": "Aztec",
+    "Composers": "Graeme Norgate",
+    "Converters": "nerosomething",
+    "Category": "bgm",
+    "Tags": [
+      "Interiors",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Mon Mar 18 2024 21:45:41 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Goldeneye%20007/Aztec.mp3",
+    "Binary": "binaries/Goldeneye 007/Aztec.bin",
+    "Duration": 162.847785375
   }
 ]
