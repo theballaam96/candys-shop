@@ -17955,5 +17955,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Touhou%20Kikeijuu%20~%20Wily%20Beast%20and%20Weakest%20Creature/Unlocated%20Hell.mp3",
     "Binary": "binaries/Touhou Kikeijuu ~ Wily Beast and Weakest Creature/Unlocated Hell.bin",
     "Duration": 198.352842
+  },
+  {
+    "Game": "Star Fox 64",
+    "Song": "Area 6",
+    "Composers": "Hajime Wakai",
+    "Converters": "nerosomething",
+    "Category": "bgm",
+    "Tags": [
+      "Fights",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Tue Mar 19 2024 21:38:00 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Star%20Fox%2064/Area%206.mp3",
+    "Binary": "binaries/Star Fox 64/Area 6.bin",
+    "Duration": 63.573497625
   }
 ]
