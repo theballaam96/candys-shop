@@ -17986,5 +17986,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Chrono%20Trigger/Battle%201.mp3",
     "Binary": "binaries/Chrono Trigger/Battle 1.bin",
     "Duration": 48.46875
+  },
+  {
+    "Game": "Chrono Trigger",
+    "Song": "Morning Sunlight",
+    "Composers": "Yasunori Mitsuda",
+    "Converters": "OnlySpaghettiCode",
+    "Category": "bgm",
+    "Tags": [
+      "Lobbies and Shops",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Wed Mar 20 2024 12:26:17 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Chrono%20Trigger/Morning%20Sunlight.mp3",
+    "Binary": "binaries/Chrono Trigger/Morning Sunlight.bin",
+    "Duration": 36.172535625
   }
 ]
