@@ -18042,5 +18042,17 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/The%20Legend%20of%20Zelda%20Oracle%20of%20Seasons%20and%20Ages/Tune%20of%20Currents.mp3",
     "Binary": "binaries/The Legend of Zelda Oracle of Seasons and Ages/Tune of Currents.bin",
     "Duration": 4.4870436
+  },
+  {
+    "Game": "The Legend of Zelda: Oracle of Seasons and Ages",
+    "Song": "Tune of Ages",
+    "Category": "events",
+    "Composers": "Kyopi, Minako Adachi",
+    "Converters": "Schwartz Gandhi",
+    "Verified": true,
+    "Date": "Wed Mar 20 2024 21:57:59 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/The%20Legend%20of%20Zelda%20Oracle%20of%20Seasons%20and%20Ages/Tune%20of%20Ages.mp3",
+    "Binary": "binaries/The Legend of Zelda Oracle of Seasons and Ages/Tune of Ages.bin",
+    "Duration": 4.4200728
   }
 ]
