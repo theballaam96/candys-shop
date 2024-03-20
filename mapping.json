@@ -18002,5 +18002,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Chrono%20Trigger/Morning%20Sunlight.mp3",
     "Binary": "binaries/Chrono Trigger/Morning Sunlight.bin",
     "Duration": 36.172535625
+  },
+  {
+    "Game": "Mario Party",
+    "Song": "Peach's Birthday Cake",
+    "Composers": "Yasunori Mitsuda",
+    "Converters": "UmedMuzl",
+    "Category": "bgm",
+    "Tags": [
+      "Lobbies and Shops",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Wed Mar 20 2024 21:52:59 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Mario%20Party/Peachs%20Birthday%20Cake.mp3",
+    "Binary": "binaries/Mario Party/Peachs Birthday Cake.bin",
+    "Duration": 41.62712464583334
   }
 ]
