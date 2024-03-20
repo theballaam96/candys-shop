@@ -18018,5 +18018,17 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Mario%20Party/Peachs%20Birthday%20Cake.mp3",
     "Binary": "binaries/Mario Party/Peachs Birthday Cake.bin",
     "Duration": 41.62712464583334
+  },
+  {
+    "Game": "The Legend of Zelda: Oracle of Seasons and Ages",
+    "Song": "Tune of Echoes",
+    "Category": "events",
+    "Composers": "Kyopi, Minako Adachi",
+    "Converters": "Schwartz Gandhi",
+    "Verified": true,
+    "Date": "Wed Mar 20 2024 21:54:35 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/The%20Legend%20of%20Zelda%20Oracle%20of%20Seasons%20and%20Ages/Tune%20of%20Echoes.mp3",
+    "Binary": "binaries/The Legend of Zelda Oracle of Seasons and Ages/Tune of Echoes.bin",
+    "Duration": 4.2693885
   }
 ]
