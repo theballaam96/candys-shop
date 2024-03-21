@@ -18086,5 +18086,22 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Pok%C3%A9mon%20XD%20Gale%20of%20Darkness/Miror%20B%20Battle.mp3",
     "Binary": "binaries/Pokémon XD Gale of Darkness/Miror B Battle.bin",
     "Duration": 50.364152877083335
+  },
+  {
+    "Game": "Mario Party",
+    "Song": "Ducking and Dodging",
+    "Composers": "Yasunori Mitsuda",
+    "Converters": "Zion Jaymes",
+    "Category": "bgm",
+    "Additional Notes": "Imagine that Bumper Balls was a Bonus Stage",
+    "Tags": [
+      "Minigames",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Thu Mar 21 2024 17:13:42 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Mario%20Party/Ducking%20and%20Dodging.mp3",
+    "Binary": "binaries/Mario Party/Ducking and Dodging.bin",
+    "Duration": 30.418998875
   }
 ]
