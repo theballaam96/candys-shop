@@ -138,6 +138,7 @@ async function run() {
     }
     let embeds_arr = [];
     let content = "";
+    let head = "";
     if ((triggerAction == "synchronize") || (triggerAction == "edited")) {
         // Need to repost the entire data again
         const information = {
@@ -158,9 +159,10 @@ async function run() {
         Object.keys(information).forEach(header => {
             content += `**${header}**: ${information[header]}\n`;
         })
+        head = "New major update to pull request"
         embeds_arr.push(
             {
-                title: "New major update to pull request",
+                title: "Pull Request Information",
                 color: 0xFCCA03,
                 description: content,
                 timestamp: new Date().toISOString(),
@@ -179,9 +181,10 @@ async function run() {
             Object.keys(information).forEach(header => {
                 content += `**${header}**: ${information[header]}\n`;
             })
+            head = header_text[triggerAction];
             embeds_arr.push(
                 {
-                    title: header_text[triggerAction],
+                    title: "Pull Request Information",
                     color: 0xFCCA03,
                     description: content,
                     timestamp: new Date().toISOString(),
@@ -195,7 +198,7 @@ async function run() {
         url: webhookUrl,
         headers: { "Content-Type": "application/json" },
         data: {
-            content: `New Pull Request from ${user}`,
+            content: `${head} from ${user}`,
             embeds: embeds_arr,
         },
     }
