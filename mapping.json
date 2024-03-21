@@ -18070,5 +18070,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Banjo-Tooie/Dingpot.mp3",
     "Binary": "binaries/Banjo-Tooie/Dingpot.bin",
     "Duration": 2.69844375
+  },
+  {
+    "Game": "Pokémon XD: Gale of Darkness",
+    "Song": "Miror B. Battle",
+    "Composers": "Tsukasa Tawada",
+    "Converters": "WingullFTW",
+    "Category": "bgm",
+    "Tags": [
+      "Fights",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Thu Mar 21 2024 03:46:43 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Pok%C3%A9mon%20XD%20Gale%20of%20Darkness/Miror%20B%20Battle.mp3",
+    "Binary": "binaries/Pokémon XD Gale of Darkness/Miror B Battle.bin",
+    "Duration": 50.364152877083335
   }
 ]
