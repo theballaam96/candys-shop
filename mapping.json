@@ -18054,5 +18054,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/The%20Legend%20of%20Zelda%20Oracle%20of%20Seasons%20and%20Ages/Tune%20of%20Ages.mp3",
     "Binary": "binaries/The Legend of Zelda Oracle of Seasons and Ages/Tune of Ages.bin",
     "Duration": 4.4200728
+  },
+  {
+    "Game": "Banjo-Tooie",
+    "Song": "Dingpot",
+    "Composers": "Grant Kirkhope",
+    "Converters": "Ballaam",
+    "Category": "events",
+    "Tags": [
+      "Happy",
+      "Collection"
+    ],
+    "Verified": true,
+    "Date": "Thu Mar 21 2024 03:02:55 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Banjo-Tooie/Dingpot.mp3",
+    "Binary": "binaries/Banjo-Tooie/Dingpot.bin",
+    "Duration": 2.69844375
   }
 ]
