@@ -81,12 +81,14 @@ async function run() {
     }
 
     // Extract the PR message
+    const triggerAction = process.env.TRIGGERED_ACTION;
     const prMessage = response.data.body;
     const rawPRData = prMessage ? prMessage.split("\r\n") : []
     const REQ_STRING = "IS SONG - DO NOT DELETE THIS LINE"
-    if (rawPRData[0] == REQ_STRING) {
-        song_upload = true;
+    if (rawPRData[0] != REQ_STRING) {
+        return;
     }
+    song_upload = true;
     let json_output = {}
     rawPRData.forEach((item, index) => {
         if ((index > 0) && (item)) {
@@ -136,7 +138,9 @@ async function run() {
     }
     let embeds_arr = [];
     let content = "";
-    if (song_upload) {
+    let head = "";
+    if ((triggerAction == "synchronize") || (triggerAction == "edited")) {
+        // Need to repost the entire data again
         const information = {
             "Game": Object.keys(json_output).includes("Game") ? json_output["Game"] : "Not Provided",
             "Song Name": Object.keys(json_output).includes("Song") ? json_output["Song"] : "Not Provided",
@@ -155,29 +159,38 @@ async function run() {
         Object.keys(information).forEach(header => {
             content += `**${header}**: ${information[header]}\n`;
         })
+        head = "New major update to pull request"
         embeds_arr.push(
             {
-                title: "New Song Pull Request",
-                color: 0x03FC0F,
+                title: "Pull Request Information",
+                color: 0xFCCA03,
                 description: content,
                 timestamp: new Date().toISOString(),
             }
         );
     } else {
-        const information = {
-            "Pull Request Link": `https://github.com/${repo}/pull/${prNumber}`,
+        const header_text = {
+            "closed": "A pull request was closed",
+            "ready_for_review": "A pull request was marked as ready for review",
+            "reopened": "A pull request was reopened",
         }
-        Object.keys(information).forEach(header => {
-            content += `**${header}**: ${information[header]}\n`;
-        })
-        embeds_arr.push(
-            {
-                title: "New Code Pull Request",
-                color: 0x03FC0F,
-                description: content,
-                timestamp: new Date().toISOString(),
+        if (Object.keys(header_text).includes(triggerAction)) {
+            const information = {
+                "Pull Request Link": `https://github.com/${repo}/pull/${prNumber}`,
             }
-        )
+            Object.keys(information).forEach(header => {
+                content += `**${header}**: ${information[header]}\n`;
+            })
+            head = header_text[triggerAction];
+            embeds_arr.push(
+                {
+                    title: "Pull Request Information",
+                    color: 0xFCCA03,
+                    description: content,
+                    timestamp: new Date().toISOString(),
+                }
+            )
+        }
     }
     const webhookUrl = process.env.DISCORD_WEBHOOK_SUBMISSIONS;
     const options = {
@@ -185,7 +198,7 @@ async function run() {
         url: webhookUrl,
         headers: { "Content-Type": "application/json" },
         data: {
-            content: `New Pull Request from ${user}`,
+            content: `${head} from ${user}`,
             embeds: embeds_arr,
         },
     }
