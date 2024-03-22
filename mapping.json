@@ -18103,5 +18103,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Mario%20Party/Ducking%20and%20Dodging.mp3",
     "Binary": "binaries/Mario Party/Ducking and Dodging.bin",
     "Duration": 30.418998875
+  },
+  {
+    "Game": "Chrono Trigger",
+    "Song": "Frog's Theme",
+    "Composers": "Yasunori Mitsuda",
+    "Converters": "OnlySpaghettiCode",
+    "Category": "bgm",
+    "Tags": [
+      "Lobbies and Shops",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Fri Mar 22 2024 00:14:02 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Chrono%20Trigger/Frogs%20Theme.mp3",
+    "Binary": "binaries/Chrono Trigger/Frogs Theme.bin",
+    "Duration": 30.53568375
   }
 ]
