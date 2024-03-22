@@ -18119,5 +18119,22 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Chrono%20Trigger/Frogs%20Theme.mp3",
     "Binary": "binaries/Chrono Trigger/Frogs Theme.bin",
     "Duration": 30.53568375
+  },
+  {
+    "Game": "Goldeneye 007",
+    "Song": "Watch Menu",
+    "Composers": "Monty Norman, Grant Kirkhope",
+    "Converters": "Zion Jaymes",
+    "Category": "bgm",
+    "Additional Notes": "pew pew",
+    "Tags": [
+      "Lobbies and Shops",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Fri Mar 22 2024 23:01:06 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Goldeneye%20007/Watch%20Menu.mp3",
+    "Binary": "binaries/Goldeneye 007/Watch Menu.bin",
+    "Duration": 36
   }
 ]
