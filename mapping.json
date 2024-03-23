@@ -1396,7 +1396,7 @@
     "Game": "Goldeneye 007",
     "Song": "Bunker 1",
     "Category": "bgm",
-    "Composers": "Graeme Norgate",
+    "Composers": "Grant Kirkhope",
     "Converters": "Bismuth",
     "Binary": "binaries/Goldeneye 007/Bunker 1 by Bismuth.bin",
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Goldeneye%20007/Bunker%201%20by%20Bismuth.mp3",
@@ -1408,7 +1408,7 @@
     "Game": "Goldeneye 007",
     "Song": "Bunker 2",
     "Category": "bgm",
-    "Composers": "Graeme Norgate",
+    "Composers": "Grant Kirkhope",
     "Converters": "Bismuth",
     "Binary": "binaries/Goldeneye 007/Bunker 2 by Bismuth.bin",
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Goldeneye%20007/Bunker%202%20by%20Bismuth.mp3",
@@ -1420,7 +1420,7 @@
     "Game": "Goldeneye 007",
     "Song": "Bunker (DK64 Lobby Style)",
     "Category": "bgm",
-    "Composers": "Graeme Norgate, Bismuth",
+    "Composers": "Grant Kirkhope, Bismuth",
     "Converters": "Bismuth",
     "Binary": "binaries/Goldeneye 007/Bunker (DK64 Lobby Style) by Bismuth.bin",
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Goldeneye%20007/Bunker%20%28DK64%20Lobby%20Style%29%20by%20Bismuth.mp3",
@@ -12386,7 +12386,7 @@
     "Game": "Goldeneye 007",
     "Song": "Bunker 2",
     "Category": "bgm",
-    "Composers": "Graeme Norgate",
+    "Composers": "Grant Kirkhope",
     "Converters": "Bismuth",
     "Binary": "binaries/Goldeneye 007/Bunker 2 by Bismuth (REV 1).bin",
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Goldeneye%20007/Bunker%202%20by%20Bismuth%20%28REV%201%29.mp3",
@@ -12404,7 +12404,7 @@
     "Game": "Goldeneye 007",
     "Song": "Bunker (DK64 Lobby Style)",
     "Category": "bgm",
-    "Composers": "Graeme Norgate, Bismuth",
+    "Composers": "Grant Kirkhope, Bismuth",
     "Converters": "Bismuth",
     "Binary": "binaries/Goldeneye 007/Bunker (DK64 Lobby Style) by Bismuth (REV 1).bin",
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Goldeneye%20007/Bunker%20%28DK64%20Lobby%20Style%29%20by%20Bismuth%20%28REV%201%29.mp3",
@@ -12422,7 +12422,7 @@
     "Game": "Goldeneye 007",
     "Song": "Bunker 1",
     "Category": "bgm",
-    "Composers": "Graeme Norgate",
+    "Composers": "Grant Kirkhope",
     "Converters": "Bismuth",
     "Binary": "binaries/Goldeneye 007/Bunker 1 by Bismuth (REV 1).bin",
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Goldeneye%20007/Bunker%201%20by%20Bismuth%20%28REV%201%29.mp3",
@@ -15827,7 +15827,7 @@
     "Game": "Star Fox 64",
     "Song": "Star Wolf's Theme",
     "Category": "bgm",
-    "Composers": "Koji Kondo, Hajime Wakai",
+    "Composers": "Hajime Wakai",
     "Converters": "The Specialize",
     "Binary": "binaries/Star Fox 64/Star Wolfs Theme by The Specialize.bin",
     "Audio": "https://www.youtube.com/watch?v=EwABBGfP2jg",
@@ -17922,5 +17922,85 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Touhou%20Chiireiden%20~%20Subterranean%20Animism/Solar%20Sect%20of%20Mystic%20Wisdom%20~%20Nuclear%20Fusion.mp3",
     "Binary": "binaries/Touhou Chiireiden ~ Subterranean Animism/Solar Sect of Mystic Wisdom ~ Nuclear Fusion.bin",
     "Duration": 165.998555
+  },
+  {
+    "Game": "Goldeneye 007",
+    "Song": "Aztec",
+    "Composers": "Graeme Norgate",
+    "Converters": "nerosomething",
+    "Category": "bgm",
+    "Tags": [
+      "Interiors",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Mon Mar 18 2024 21:45:41 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Goldeneye%20007/Aztec.mp3",
+    "Binary": "binaries/Goldeneye 007/Aztec.bin",
+    "Duration": 162.847785375
+  },
+  {
+    "Game": "Touhou Kikeijuu ~ Wily Beast and Weakest Creature",
+    "Song": "Unlocated Hell",
+    "Category": "bgm",
+    "Composers": "ZUN",
+    "Converters": "Schwartz Gandhi",
+    "Tags": [
+      "Exteriors",
+      "Gloomy"
+    ],
+    "Additional Notes": "Hell is hopelessly vast isn't it?",
+    "Verified": true,
+    "Date": "Mon Mar 18 2024 22:07:31 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Touhou%20Kikeijuu%20~%20Wily%20Beast%20and%20Weakest%20Creature/Unlocated%20Hell.mp3",
+    "Binary": "binaries/Touhou Kikeijuu ~ Wily Beast and Weakest Creature/Unlocated Hell.bin",
+    "Duration": 198.352842
+  },
+  {
+    "Game": "Star Fox 64",
+    "Song": "Area 6",
+    "Composers": "Hajime Wakai",
+    "Converters": "nerosomething",
+    "Category": "bgm",
+    "Tags": [
+      "Fights",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Tue Mar 19 2024 21:38:00 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Star%20Fox%2064/Area%206.mp3",
+    "Binary": "binaries/Star Fox 64/Area 6.bin",
+    "Duration": 63.573497625
+  },
+  {
+    "Game": "Chrono Trigger",
+    "Song": "Battle 1",
+    "Composers": "Yasunori Mitsuda",
+    "Converters": "OnlySpaghettiCode",
+    "Category": "bgm",
+    "Tags": [
+      "Fights"
+    ],
+    "Verified": true,
+    "Date": "Wed Mar 20 2024 01:09:25 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Chrono%20Trigger/Battle%201.mp3",
+    "Binary": "binaries/Chrono Trigger/Battle 1.bin",
+    "Duration": 48.46875
+  },
+  {
+    "Game": "Chrono Trigger",
+    "Song": "Morning Sunlight",
+    "Composers": "Yasunori Mitsuda",
+    "Converters": "OnlySpaghettiCode",
+    "Category": "bgm",
+    "Tags": [
+      "Lobbies and Shops",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Wed Mar 20 2024 12:26:17 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Chrono%20Trigger/Morning%20Sunlight.mp3",
+    "Binary": "binaries/Chrono Trigger/Morning Sunlight.bin",
+    "Duration": 36.172535625
   }
 ]
