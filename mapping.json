@@ -18151,5 +18151,20 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Chrono%20Trigger/Primitive%20Mountain.mp3",
     "Binary": "binaries/Chrono Trigger/Primitive Mountain.bin",
     "Duration": 89.41250000000001
+  },
+  {
+    "Game": "Chrono Trigger",
+    "Song": "Bike Chase",
+    "Composers": "Nobuo Uematsu",
+    "Converters": "OnlySpaghettiCode",
+    "Category": "bgm",
+    "Tags": [
+      "Minigames"
+    ],
+    "Verified": true,
+    "Date": "Sat Mar 23 2024 10:42:16 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Chrono%20Trigger/Bike%20Chase.mp3",
+    "Binary": "binaries/Chrono Trigger/Bike Chase.bin",
+    "Duration": 26.761336875
   }
 ]
