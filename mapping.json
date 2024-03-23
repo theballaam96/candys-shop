@@ -18136,5 +18136,20 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Goldeneye%20007/Watch%20Menu.mp3",
     "Binary": "binaries/Goldeneye 007/Watch Menu.bin",
     "Duration": 36
+  },
+  {
+    "Game": "Chrono Trigger",
+    "Song": "Primitive Mountain",
+    "Composers": "Nobuo Uematsu",
+    "Converters": "OnlySpaghettiCode",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors"
+    ],
+    "Verified": true,
+    "Date": "Sat Mar 23 2024 10:41:01 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Chrono%20Trigger/Primitive%20Mountain.mp3",
+    "Binary": "binaries/Chrono Trigger/Primitive Mountain.bin",
+    "Duration": 89.41250000000001
   }
 ]
