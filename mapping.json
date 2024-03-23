@@ -18002,5 +18002,139 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Chrono%20Trigger/Morning%20Sunlight.mp3",
     "Binary": "binaries/Chrono Trigger/Morning Sunlight.bin",
     "Duration": 36.172535625
+  },
+  {
+    "Game": "Mario Party",
+    "Song": "Peach's Birthday Cake",
+    "Composers": "Yasunori Mitsuda",
+    "Converters": "UmedMuzl",
+    "Category": "bgm",
+    "Tags": [
+      "Lobbies and Shops",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Wed Mar 20 2024 21:52:59 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Mario%20Party/Peachs%20Birthday%20Cake.mp3",
+    "Binary": "binaries/Mario Party/Peachs Birthday Cake.bin",
+    "Duration": 41.62712464583334
+  },
+  {
+    "Game": "The Legend of Zelda: Oracle of Seasons and Ages",
+    "Song": "Tune of Echoes",
+    "Category": "events",
+    "Composers": "Kyopi, Minako Adachi",
+    "Converters": "Schwartz Gandhi",
+    "Verified": true,
+    "Date": "Wed Mar 20 2024 21:54:35 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/The%20Legend%20of%20Zelda%20Oracle%20of%20Seasons%20and%20Ages/Tune%20of%20Echoes.mp3",
+    "Binary": "binaries/The Legend of Zelda Oracle of Seasons and Ages/Tune of Echoes.bin",
+    "Duration": 4.2693885
+  },
+  {
+    "Game": "The Legend of Zelda: Oracle of Seasons and Ages",
+    "Song": "Tune of Currents",
+    "Category": "events",
+    "Composers": "Kyopi, Minako Adachi",
+    "Converters": "Schwartz Gandhi",
+    "Verified": true,
+    "Date": "Wed Mar 20 2024 21:56:44 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/The%20Legend%20of%20Zelda%20Oracle%20of%20Seasons%20and%20Ages/Tune%20of%20Currents.mp3",
+    "Binary": "binaries/The Legend of Zelda Oracle of Seasons and Ages/Tune of Currents.bin",
+    "Duration": 4.4870436
+  },
+  {
+    "Game": "The Legend of Zelda: Oracle of Seasons and Ages",
+    "Song": "Tune of Ages",
+    "Category": "events",
+    "Composers": "Kyopi, Minako Adachi",
+    "Converters": "Schwartz Gandhi",
+    "Verified": true,
+    "Date": "Wed Mar 20 2024 21:57:59 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/The%20Legend%20of%20Zelda%20Oracle%20of%20Seasons%20and%20Ages/Tune%20of%20Ages.mp3",
+    "Binary": "binaries/The Legend of Zelda Oracle of Seasons and Ages/Tune of Ages.bin",
+    "Duration": 4.4200728
+  },
+  {
+    "Game": "Banjo-Tooie",
+    "Song": "Dingpot",
+    "Composers": "Grant Kirkhope",
+    "Converters": "Ballaam",
+    "Category": "events",
+    "Tags": [
+      "Happy",
+      "Collection"
+    ],
+    "Verified": true,
+    "Date": "Thu Mar 21 2024 03:02:55 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Banjo-Tooie/Dingpot.mp3",
+    "Binary": "binaries/Banjo-Tooie/Dingpot.bin",
+    "Duration": 2.69844375
+  },
+  {
+    "Game": "Pokémon XD: Gale of Darkness",
+    "Song": "Miror B. Battle",
+    "Composers": "Tsukasa Tawada",
+    "Converters": "WingullFTW",
+    "Category": "bgm",
+    "Tags": [
+      "Fights",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Thu Mar 21 2024 03:46:43 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Pok%C3%A9mon%20XD%20Gale%20of%20Darkness/Miror%20B%20Battle.mp3",
+    "Binary": "binaries/Pokémon XD Gale of Darkness/Miror B Battle.bin",
+    "Duration": 50.364152877083335
+  },
+  {
+    "Game": "Mario Party",
+    "Song": "Ducking and Dodging",
+    "Composers": "Yasunori Mitsuda",
+    "Converters": "Zion Jaymes",
+    "Category": "bgm",
+    "Additional Notes": "Imagine that Bumper Balls was a Bonus Stage",
+    "Tags": [
+      "Minigames",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Thu Mar 21 2024 17:13:42 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Mario%20Party/Ducking%20and%20Dodging.mp3",
+    "Binary": "binaries/Mario Party/Ducking and Dodging.bin",
+    "Duration": 30.418998875
+  },
+  {
+    "Game": "Chrono Trigger",
+    "Song": "Frog's Theme",
+    "Composers": "Yasunori Mitsuda",
+    "Converters": "OnlySpaghettiCode",
+    "Category": "bgm",
+    "Tags": [
+      "Lobbies and Shops",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Fri Mar 22 2024 00:14:02 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Chrono%20Trigger/Frogs%20Theme.mp3",
+    "Binary": "binaries/Chrono Trigger/Frogs Theme.bin",
+    "Duration": 30.53568375
+  },
+  {
+    "Game": "Goldeneye 007",
+    "Song": "Watch Menu",
+    "Composers": "Monty Norman, Grant Kirkhope",
+    "Converters": "Zion Jaymes",
+    "Category": "bgm",
+    "Additional Notes": "pew pew",
+    "Tags": [
+      "Lobbies and Shops",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Fri Mar 22 2024 23:01:06 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Goldeneye%20007/Watch%20Menu.mp3",
+    "Binary": "binaries/Goldeneye 007/Watch Menu.bin",
+    "Duration": 36
   }
 ]
