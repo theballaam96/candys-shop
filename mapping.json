@@ -18182,5 +18182,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Chrono%20Trigger/Wind%20Scene.mp3",
     "Binary": "binaries/Chrono Trigger/Wind Scene.bin",
     "Duration": 93.15413333333333
+  },
+  {
+    "Game": "The Legend of Zelda: Ocarina of Time",
+    "Song": "Learned a Song",
+    "Composers": "Koji Kondo",
+    "Converters": "Fiy3ro",
+    "Category": "events",
+    "Update Notes": "Rebalanced sound levels (integrated -16.44 LUFS), Rerecorded in Bizhawk",
+    "Tags": [
+      "Spawning"
+    ],
+    "Verified": true,
+    "Date": "Sun Mar 24 2024 13:57:56 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/The%20Legend%20of%20Zelda%20Ocarina%20of%20Time/Learned%20a%20Song%20(REV%201).mp3",
+    "Binary": "binaries/The Legend of Zelda Ocarina of Time/Learned a Song (REV 1).bin",
+    "Duration": 8.264287000000001
   }
 ]
