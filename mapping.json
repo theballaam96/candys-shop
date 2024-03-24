@@ -18166,5 +18166,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Chrono%20Trigger/Bike%20Chase.mp3",
     "Binary": "binaries/Chrono Trigger/Bike Chase.bin",
     "Duration": 26.761336875
+  },
+  {
+    "Game": "Chrono Trigger",
+    "Song": "Wind Scene",
+    "Category": "bgm",
+    "Composers": "Yasunori Mitsuda",
+    "Converters": "Schwartz Gandhi",
+    "Tags": [
+      "Exteriors",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Sun Mar 24 2024 13:56:52 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Chrono%20Trigger/Wind%20Scene.mp3",
+    "Binary": "binaries/Chrono Trigger/Wind Scene.bin",
+    "Duration": 93.15413333333333
   }
 ]
