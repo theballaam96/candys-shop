@@ -18198,5 +18198,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/The%20Legend%20of%20Zelda%20Ocarina%20of%20Time/Learned%20a%20Song%20(REV%201).mp3",
     "Binary": "binaries/The Legend of Zelda Ocarina of Time/Learned a Song (REV 1).bin",
     "Duration": 8.264287000000001
+  },
+  {
+    "Game": "Chrono Trigger",
+    "Song": "Robo's Theme",
+    "Composers": "Yasunori Mitsuda",
+    "Converters": "OnlySpaghettiCode",
+    "Category": "bgm",
+    "Tags": [
+      "Interiors",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Mon Mar 25 2024 10:35:00 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Chrono%20Trigger/Robos%20Theme.mp3",
+    "Binary": "binaries/Chrono Trigger/Robos Theme.bin",
+    "Duration": 41.50859025000001
   }
 ]
