@@ -18214,5 +18214,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Chrono%20Trigger/Robos%20Theme.mp3",
     "Binary": "binaries/Chrono Trigger/Robos Theme.bin",
     "Duration": 41.50859025000001
+  },
+  {
+    "Game": "The Legend of Zelda: Ocarina of Time",
+    "Song": "I Have Found It! (Got Item)",
+    "Composers": "Koji Kondo",
+    "Converters": "Fiy3ro",
+    "Category": "majoritems",
+    "Update Notes": "Rebalanced sound levels (integrated -15.00 LUFS), Rerecorded in Bizhawk",
+    "Tags": [
+      "Collection"
+    ],
+    "Verified": true,
+    "Date": "Tue Mar 26 2024 10:39:22 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/The%20Legend%20of%20Zelda%20Ocarina%20of%20Time/I%20Have%20Found%20It%20(Got%20Item)%20(REV%201).mp3",
+    "Binary": "binaries/The Legend of Zelda Ocarina of Time/I Have Found It (Got Item) (REV 1).bin",
+    "Duration": 2.75
   }
 ]
