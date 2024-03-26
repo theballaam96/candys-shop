@@ -478,11 +478,11 @@
    },
    "Pokémon Diamond, Pearl & Platinum":{
       "icon":"https://i.imgur.com/Ykk9fjh.png",
-      "short_name": "Pokémon Diamond, Pearl & Plat"
+      "short_name": "Pokémon DPPT"
    },
    "Pokémon Gold, Silver & Crystal":{
       "icon":"https://i.imgur.com/qsjlr6F.png",
-      "short_name": "Pokémon Gold Silver & Crystal"
+      "short_name": "Pokémon GSC"
    },
    "Pokémon Mystery Dungeon: Explorers of Sky":{
       "icon":"https://i.imgur.com/xOB3NJx.png",
@@ -496,7 +496,7 @@
    },
    "Pokémon Ruby, Sapphire & Emerald":{
       "icon":"https://i.imgur.com/6unIP4M.png",
-      "short_name": "Pokémon Ruby, Sapp & Emerald"
+      "short_name": "Pokémon RSaE"
    },
    "Pokémon Snap":{
       "icon":"https://i.imgur.com/qNatVEL.png"
@@ -685,7 +685,7 @@
    },
    "Super Mario World 2: Yoshi's Island":{
       "icon":"https://i.imgur.com/mzFBubW.png",
-      "short_name": "Super Mario World 2"
+      "short_name": "Yoshi's Island"
    },
    "Super Metroid":{
       "icon":"https://i.imgur.com/4iWk17g.png"
