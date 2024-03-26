@@ -18230,5 +18230,23 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/The%20Legend%20of%20Zelda%20Ocarina%20of%20Time/I%20Have%20Found%20It%20(Got%20Item)%20(REV%201).mp3",
     "Binary": "binaries/The Legend of Zelda Ocarina of Time/I Have Found It (Got Item) (REV 1).bin",
     "Duration": 2.75
+  },
+  {
+    "Game": "Pokémon XD: Gale of Darkness",
+    "Song": "Miror B. Battle",
+    "Composers": "Tsukasa Tawada",
+    "Converters": "WingullFTW",
+    "Category": "bgm",
+    "Update Notes": "- Fixed percussion track not playing all notes - Rebalanced audio to improve average volume - Re-selected instruments to more align with the original song",
+    "Additional Notes": "I made a lot of mistakes on my first try and felt like I could do better. This should sound much better in-game and sound closer to the original song. Thanks to OnlySpaghettiCode, Schwartz Gandhi, and Wibdiwoh in the discord for their advice and insight!",
+    "Tags": [
+      "Fights",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Tue Mar 26 2024 14:25:13 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Pok%C3%A9mon%20XD%20Gale%20of%20Darkness/Miror%20B%20Battle%20(REV%201).mp3",
+    "Binary": "binaries/Pokémon XD Gale of Darkness/Miror B Battle (REV 1).bin",
+    "Duration": 52.88245932291667
   }
 ]
