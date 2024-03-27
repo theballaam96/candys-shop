@@ -18249,5 +18249,22 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Pok%C3%A9mon%20XD%20Gale%20of%20Darkness/Miror%20B%20Battle%20(REV%201).mp3",
     "Binary": "binaries/Pokémon XD Gale of Darkness/Miror B Battle (REV 1).bin",
     "Duration": 52.88245932291667
+  },
+  {
+    "Game": "Mother 3",
+    "Song": "Passing Down Secrets",
+    "Composers": "Shogo Sakai",
+    "Converters": "nerosomething",
+    "Category": "bgm",
+    "Tags": [
+      "Lobbies and Shops",
+      "Gloomy",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Wed Mar 27 2024 19:08:51 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Mother%203/Passing%20Down%20Secrets.mp3",
+    "Binary": "binaries/Mother 3/Passing Down Secrets.bin",
+    "Duration": 36.40147875
   }
 ]
