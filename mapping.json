@@ -18281,5 +18281,22 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Mother%203/Enter%20the%20Pigmasks.mp3",
     "Binary": "binaries/Mother 3/Enter the Pigmasks.bin",
     "Duration": 5.201061166666667
+  },
+  {
+    "Game": "Donkey Kong Country",
+    "Song": "Simian Segue",
+    "Category": "bgm",
+    "Composers": "David Wise",
+    "Converters": "Schwartz Gandhi",
+    "Tags": [
+      "Exteriors",
+      "Calm",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Wed Mar 27 2024 19:40:00 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Donkey%20Kong%20Country/Simian%20Segue.mp3",
+    "Binary": "binaries/Donkey Kong Country/Simian Segue.bin",
+    "Duration": 72.9098715625
   }
 ]
