@@ -18326,5 +18326,23 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Chrono%20Trigger/Remains%20of%20the%20Factory.mp3",
     "Binary": "binaries/Chrono Trigger/Remains of the Factory.bin",
     "Duration": 95.19795475000001
+  },
+  {
+    "Game": "Portal",
+    "Song": "Still Alive",
+    "Composers": "Jonathan Coulton, Ellen McLain",
+    "Converters": "Ballaam",
+    "Category": "bgm",
+    "Audio": "https://youtu.be/WBx3_oQeQ1g",
+    "Update Notes": "I'm doing science and I'm still alive",
+    "Additional Notes": "I'm doing science and I'm still alive",
+    "Tags": [
+      "Exteriors",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Thu Mar 28 2024 16:04:29 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Portal/Still Alive.bin",
+    "Duration": 173.99947916666667
   }
 ]
