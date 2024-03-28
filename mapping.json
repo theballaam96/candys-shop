@@ -18310,5 +18310,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Mario%20Party%202/Let%20The%20Game%20Begin.mp3",
     "Binary": "binaries/Mario Party 2/Let The Game Begin.bin",
     "Duration": 11.978522416666666
+  },
+  {
+    "Game": "Chrono Trigger",
+    "Song": "Remains of the Factory",
+    "Composers": "Yasunori Mitsuda",
+    "Converters": "OnlySpaghettiCode",
+    "Category": "bgm",
+    "Tags": [
+      "Interiors",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Thu Mar 28 2024 12:24:21 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Chrono%20Trigger/Remains%20of%20the%20Factory.mp3",
+    "Binary": "binaries/Chrono Trigger/Remains of the Factory.bin",
+    "Duration": 95.19795475000001
   }
 ]
