@@ -18360,5 +18360,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Touhou%20Seireisen%20~%20Undefined%20Fantastic%20Object/Provincial%20Makai%20City%20Esoteria.mp3",
     "Binary": "binaries/Touhou Seireisen ~ Undefined Fantastic Object/Provincial Makai City Esoteria.bin",
     "Duration": 162.28769551041665
+  },
+  {
+    "Game": "Banjo-Kazooie",
+    "Song": "Complete Mozand's Song",
+    "Category": "events",
+    "Composers": "Grant Kirkhope",
+    "Converters": "Schwartz Gandhi",
+    "Tags": [
+      "Spawning",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Thu Mar 28 2024 21:42:32 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Banjo-Kazooie/Complete%20Mozands%20Song.mp3",
+    "Binary": "binaries/Banjo-Kazooie/Complete Mozands Song.bin",
+    "Duration": 2.1818
   }
 ]
