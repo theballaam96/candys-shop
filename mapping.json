@@ -18344,5 +18344,21 @@
     "Date": "Thu Mar 28 2024 16:04:29 GMT+0000 (Coordinated Universal Time)",
     "Binary": "binaries/Portal/Still Alive.bin",
     "Duration": 173.99947916666667
+  },
+  {
+    "Game": "Touhou Seireisen ~ Undefined Fantastic Object",
+    "Song": "Provincial Makai City Esoteria",
+    "Category": "bgm",
+    "Composers": "ZUN",
+    "Converters": "Schwartz Gandhi",
+    "Tags": [
+      "Exteriors",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Thu Mar 28 2024 21:40:40 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Touhou%20Seireisen%20~%20Undefined%20Fantastic%20Object/Provincial%20Makai%20City%20Esoteria.mp3",
+    "Binary": "binaries/Touhou Seireisen ~ Undefined Fantastic Object/Provincial Makai City Esoteria.bin",
+    "Duration": 162.28769551041665
   }
 ]
