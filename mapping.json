@@ -18294,5 +18294,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Donkey%20Kong%20Country/Simian%20Segue.mp3",
     "Binary": "binaries/Donkey Kong Country/Simian Segue.bin",
     "Duration": 72.9098715625
+  },
+  {
+    "Game": "Mario Party 2",
+    "Song": "Let The Game Begin",
+    "Composers": "Kazuhiko Sawaguchi",
+    "Converters": "UmedMuzl",
+    "Category": "bgm",
+    "Tags": [
+      "Lobbies and Shops",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Thu Mar 28 2024 10:15:09 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Mario%20Party%202/Let%20The%20Game%20Begin.mp3",
+    "Binary": "binaries/Mario Party 2/Let The Game Begin.bin",
+    "Duration": 11.978522416666666
   }
 ]
