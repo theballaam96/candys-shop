@@ -18392,5 +18392,21 @@
     "Date": "Fri Mar 29 2024 09:49:38 GMT+0000 (Coordinated Universal Time)",
     "Binary": "binaries/Banjo-Tooie/Hailfire Peaks (IcyHot).bin",
     "Duration": 145.71071145833335
+  },
+  {
+    "Game": "Banjo-Tooie",
+    "Song": "Humba Wumba's Wigwam",
+    "Composers": "Grant Kirkhope",
+    "Converters": "Ballaam",
+    "Category": "bgm",
+    "Audio": "https://www.youtube.com/watch?v=wpVOqbAKq6A",
+    "Tags": [
+      "Lobbies and Shops",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Fri Mar 29 2024 21:10:10 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Banjo-Tooie/Humba Wumbas Wigwam.bin",
+    "Duration": 47.99916666666667
   }
 ]
