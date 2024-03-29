@@ -18376,5 +18376,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Banjo-Kazooie/Complete%20Mozands%20Song.mp3",
     "Binary": "binaries/Banjo-Kazooie/Complete Mozands Song.bin",
     "Duration": 2.1818
+  },
+  {
+    "Game": "Banjo-Tooie",
+    "Song": "Hailfire Peaks (IcyHot)",
+    "Composers": "Grant Kirkhope",
+    "Converters": "UmedMuzl",
+    "Category": "bgm",
+    "Audio": "https://www.youtube.com/watch?v=7r26BYnQRDk",
+    "Tags": [
+      "Interiors",
+      "Exteriors"
+    ],
+    "Verified": true,
+    "Date": "Fri Mar 29 2024 09:49:38 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Banjo-Tooie/Hailfire Peaks (IcyHot).bin",
+    "Duration": 145.71071145833335
   }
 ]
