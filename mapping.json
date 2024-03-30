@@ -18424,5 +18424,22 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Viva%20Pi%C3%B1ata/Day%2010.mp3",
     "Binary": "binaries/Viva Piñata/Day 10.bin",
     "Duration": 111.3
+  },
+  {
+    "Game": "Donkey Kong 64",
+    "Song": "Creepy Castle Lobby in C Major",
+    "Category": "bgm",
+    "Composers": "Grant Kirkhope",
+    "Converters": "Schwartz Gandhi",
+    "Tags": [
+      "Lobbies and Shops",
+      "Happy"
+    ],
+    "Update Notes": "<Decided to submit this, might do more of these in the future>",
+    "Verified": true,
+    "Date": "Sat Mar 30 2024 21:23:48 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Donkey%20Kong%2064/Creepy%20Castle%20Lobby%20in%20C%20Major.mp3",
+    "Binary": "binaries/Donkey Kong 64/Creepy Castle Lobby in C Major.bin",
+    "Duration": 89.4538
   }
 ]
