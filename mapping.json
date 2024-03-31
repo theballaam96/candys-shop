@@ -14235,8 +14235,6 @@
     "Tags": [
       "Fights",
       "Interiors",
-      "Exteriors",
-      "Happy",
       "Gloomy"
     ],
     "Verified": true,
@@ -14324,8 +14322,6 @@
     "Tags": [
       "Fights",
       "Interiors",
-      "Exteriors",
-      "Happy",
       "Gloomy"
     ],
     "Update of": 843,
@@ -17016,6 +17012,7 @@
   {
     "Game": "Banjo-Kazooie",
     "Song": "Bubblegloop Swamp: Flibbits Battle",
+    "songshort": "Bubblegloop Swamp: Flibbits",
     "Composers": "Grant Kirkhope",
     "Converters": "UmedMuzl",
     "Category": "bgm",
@@ -18136,5 +18133,313 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Goldeneye%20007/Watch%20Menu.mp3",
     "Binary": "binaries/Goldeneye 007/Watch Menu.bin",
     "Duration": 36
+  },
+  {
+    "Game": "Chrono Trigger",
+    "Song": "Primitive Mountain",
+    "Composers": "Nobuo Uematsu",
+    "Converters": "OnlySpaghettiCode",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors"
+    ],
+    "Verified": true,
+    "Date": "Sat Mar 23 2024 10:41:01 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Chrono%20Trigger/Primitive%20Mountain.mp3",
+    "Binary": "binaries/Chrono Trigger/Primitive Mountain.bin",
+    "Duration": 89.41250000000001
+  },
+  {
+    "Game": "Chrono Trigger",
+    "Song": "Bike Chase",
+    "Composers": "Nobuo Uematsu",
+    "Converters": "OnlySpaghettiCode",
+    "Category": "bgm",
+    "Tags": [
+      "Minigames"
+    ],
+    "Verified": true,
+    "Date": "Sat Mar 23 2024 10:42:16 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Chrono%20Trigger/Bike%20Chase.mp3",
+    "Binary": "binaries/Chrono Trigger/Bike Chase.bin",
+    "Duration": 26.761336875
+  },
+  {
+    "Game": "Chrono Trigger",
+    "Song": "Wind Scene",
+    "Category": "bgm",
+    "Composers": "Yasunori Mitsuda",
+    "Converters": "Schwartz Gandhi",
+    "Tags": [
+      "Exteriors",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Sun Mar 24 2024 13:56:52 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Chrono%20Trigger/Wind%20Scene.mp3",
+    "Binary": "binaries/Chrono Trigger/Wind Scene.bin",
+    "Duration": 93.15413333333333
+  },
+  {
+    "Game": "The Legend of Zelda: Ocarina of Time",
+    "Song": "Learned a Song",
+    "Composers": "Koji Kondo",
+    "Converters": "Fiy3ro",
+    "Category": "events",
+    "Update Notes": "Rebalanced sound levels (integrated -16.44 LUFS), Rerecorded in Bizhawk",
+    "Tags": [
+      "Spawning"
+    ],
+    "Verified": true,
+    "Date": "Sun Mar 24 2024 13:57:56 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/The%20Legend%20of%20Zelda%20Ocarina%20of%20Time/Learned%20a%20Song%20(REV%201).mp3",
+    "Binary": "binaries/The Legend of Zelda Ocarina of Time/Learned a Song (REV 1).bin",
+    "Duration": 8.264287000000001
+  },
+  {
+    "Game": "Chrono Trigger",
+    "Song": "Robo's Theme",
+    "Composers": "Yasunori Mitsuda",
+    "Converters": "OnlySpaghettiCode",
+    "Category": "bgm",
+    "Tags": [
+      "Interiors",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Mon Mar 25 2024 10:35:00 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Chrono%20Trigger/Robos%20Theme.mp3",
+    "Binary": "binaries/Chrono Trigger/Robos Theme.bin",
+    "Duration": 41.50859025000001
+  },
+  {
+    "Game": "The Legend of Zelda: Ocarina of Time",
+    "Song": "I Have Found It! (Got Item)",
+    "Composers": "Koji Kondo",
+    "Converters": "Fiy3ro",
+    "Category": "majoritems",
+    "Update Notes": "Rebalanced sound levels (integrated -15.00 LUFS), Rerecorded in Bizhawk",
+    "Tags": [
+      "Collection"
+    ],
+    "Verified": true,
+    "Date": "Tue Mar 26 2024 10:39:22 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/The%20Legend%20of%20Zelda%20Ocarina%20of%20Time/I%20Have%20Found%20It%20(Got%20Item)%20(REV%201).mp3",
+    "Binary": "binaries/The Legend of Zelda Ocarina of Time/I Have Found It (Got Item) (REV 1).bin",
+    "Duration": 2.75
+  },
+  {
+    "Game": "Pokémon XD: Gale of Darkness",
+    "Song": "Miror B. Battle",
+    "Composers": "Tsukasa Tawada",
+    "Converters": "WingullFTW",
+    "Category": "bgm",
+    "Update Notes": "- Fixed percussion track not playing all notes - Rebalanced audio to improve average volume - Re-selected instruments to more align with the original song",
+    "Additional Notes": "I made a lot of mistakes on my first try and felt like I could do better. This should sound much better in-game and sound closer to the original song. Thanks to OnlySpaghettiCode, Schwartz Gandhi, and Wibdiwoh in the discord for their advice and insight!",
+    "Tags": [
+      "Fights",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Tue Mar 26 2024 14:25:13 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Pok%C3%A9mon%20XD%20Gale%20of%20Darkness/Miror%20B%20Battle%20(REV%201).mp3",
+    "Binary": "binaries/Pokémon XD Gale of Darkness/Miror B Battle (REV 1).bin",
+    "Duration": 52.88245932291667
+  },
+  {
+    "Game": "Mother 3",
+    "Song": "Passing Down Secrets",
+    "Composers": "Shogo Sakai",
+    "Converters": "nerosomething",
+    "Category": "bgm",
+    "Tags": [
+      "Lobbies and Shops",
+      "Gloomy",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Wed Mar 27 2024 19:08:51 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Mother%203/Passing%20Down%20Secrets.mp3",
+    "Binary": "binaries/Mother 3/Passing Down Secrets.bin",
+    "Duration": 36.40147875
+  },
+  {
+    "Game": "Mother 3",
+    "Song": "Enter the Pigmasks!",
+    "Composers": "Shogo Sakai",
+    "Converters": "nerosomething",
+    "Category": "events",
+    "Tags": [
+      "Spawning"
+    ],
+    "Verified": true,
+    "Date": "Wed Mar 27 2024 19:10:06 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Mother%203/Enter%20the%20Pigmasks.mp3",
+    "Binary": "binaries/Mother 3/Enter the Pigmasks.bin",
+    "Duration": 5.201061166666667
+  },
+  {
+    "Game": "Donkey Kong Country",
+    "Song": "Simian Segue",
+    "Category": "bgm",
+    "Composers": "David Wise",
+    "Converters": "Schwartz Gandhi",
+    "Tags": [
+      "Exteriors",
+      "Calm",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Wed Mar 27 2024 19:40:00 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Donkey%20Kong%20Country/Simian%20Segue.mp3",
+    "Binary": "binaries/Donkey Kong Country/Simian Segue.bin",
+    "Duration": 72.9098715625
+  },
+  {
+    "Game": "Mario Party 2",
+    "Song": "Let The Game Begin",
+    "Composers": "Kazuhiko Sawaguchi",
+    "Converters": "UmedMuzl",
+    "Category": "bgm",
+    "Tags": [
+      "Lobbies and Shops",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Thu Mar 28 2024 10:15:09 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Mario%20Party%202/Let%20The%20Game%20Begin.mp3",
+    "Binary": "binaries/Mario Party 2/Let The Game Begin.bin",
+    "Duration": 11.978522416666666
+  },
+  {
+    "Game": "Chrono Trigger",
+    "Song": "Remains of the Factory",
+    "Composers": "Yasunori Mitsuda",
+    "Converters": "OnlySpaghettiCode",
+    "Category": "bgm",
+    "Tags": [
+      "Interiors",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Thu Mar 28 2024 12:24:21 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Chrono%20Trigger/Remains%20of%20the%20Factory.mp3",
+    "Binary": "binaries/Chrono Trigger/Remains of the Factory.bin",
+    "Duration": 95.19795475000001
+  },
+  {
+    "Game": "Portal",
+    "Song": "Still Alive",
+    "Composers": "Jonathan Coulton, Ellen McLain",
+    "Converters": "Ballaam",
+    "Category": "bgm",
+    "Audio": "https://youtu.be/WBx3_oQeQ1g",
+    "Update Notes": "I'm doing science and I'm still alive",
+    "Additional Notes": "I'm doing science and I'm still alive",
+    "Tags": [
+      "Exteriors",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Thu Mar 28 2024 16:04:29 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Portal/Still Alive.bin",
+    "Duration": 173.99947916666667
+  },
+  {
+    "Game": "Touhou Seireisen ~ Undefined Fantastic Object",
+    "Song": "Provincial Makai City Esoteria",
+    "Category": "bgm",
+    "Composers": "ZUN",
+    "Converters": "Schwartz Gandhi",
+    "Tags": [
+      "Exteriors",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Thu Mar 28 2024 21:40:40 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Touhou%20Seireisen%20~%20Undefined%20Fantastic%20Object/Provincial%20Makai%20City%20Esoteria.mp3",
+    "Binary": "binaries/Touhou Seireisen ~ Undefined Fantastic Object/Provincial Makai City Esoteria.bin",
+    "Duration": 162.28769551041665
+  },
+  {
+    "Game": "Banjo-Kazooie",
+    "Song": "Complete Mozand's Song",
+    "Category": "events",
+    "Composers": "Grant Kirkhope",
+    "Converters": "Schwartz Gandhi",
+    "Tags": [
+      "Spawning",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Thu Mar 28 2024 21:42:32 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Banjo-Kazooie/Complete%20Mozands%20Song.mp3",
+    "Binary": "binaries/Banjo-Kazooie/Complete Mozands Song.bin",
+    "Duration": 2.1818
+  },
+  {
+    "Game": "Banjo-Tooie",
+    "Song": "Hailfire Peaks (IcyHot)",
+    "Composers": "Grant Kirkhope",
+    "Converters": "UmedMuzl",
+    "Category": "bgm",
+    "Audio": "https://www.youtube.com/watch?v=7r26BYnQRDk",
+    "Tags": [
+      "Interiors",
+      "Exteriors"
+    ],
+    "Verified": true,
+    "Date": "Fri Mar 29 2024 09:49:38 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Banjo-Tooie/Hailfire Peaks (IcyHot).bin",
+    "Duration": 145.71071145833335
+  },
+  {
+    "Game": "Banjo-Tooie",
+    "Song": "Humba Wumba's Wigwam",
+    "Composers": "Grant Kirkhope",
+    "Converters": "Ballaam",
+    "Category": "bgm",
+    "Audio": "https://www.youtube.com/watch?v=wpVOqbAKq6A",
+    "Tags": [
+      "Lobbies and Shops",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Fri Mar 29 2024 21:10:10 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Banjo-Tooie/Humba Wumbas Wigwam.bin",
+    "Duration": 47.99916666666667
+  },
+  {
+    "Game": "Viva Piñata",
+    "Song": "Day 10",
+    "Composers": "Grant Kirkhope",
+    "Converters": "UmedMuzl",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Sat Mar 30 2024 09:57:20 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Viva%20Pi%C3%B1ata/Day%2010.mp3",
+    "Binary": "binaries/Viva Piñata/Day 10.bin",
+    "Duration": 111.3
+  },
+  {
+    "Game": "Donkey Kong 64",
+    "Song": "Creepy Castle Lobby in C Major",
+    "Category": "bgm",
+    "Composers": "Grant Kirkhope",
+    "Converters": "Schwartz Gandhi",
+    "Tags": [
+      "Lobbies and Shops",
+      "Happy"
+    ],
+    "Update Notes": "<Decided to submit this, might do more of these in the future>",
+    "Verified": true,
+    "Date": "Sat Mar 30 2024 21:23:48 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Donkey%20Kong%2064/Creepy%20Castle%20Lobby%20in%20C%20Major.mp3",
+    "Binary": "binaries/Donkey Kong 64/Creepy Castle Lobby in C Major.bin",
+    "Duration": 89.4538
   }
 ]
