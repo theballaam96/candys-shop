@@ -18441,5 +18441,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Donkey%20Kong%2064/Creepy%20Castle%20Lobby%20in%20C%20Major.mp3",
     "Binary": "binaries/Donkey Kong 64/Creepy Castle Lobby in C Major.bin",
     "Duration": 89.4538
+  },
+  {
+    "Game": "Mario Party 2",
+    "Song": "Know What I Mean?",
+    "Composers": "Kazuhiko Sawaguchi",
+    "Converters": "UmedMuzl",
+    "Category": "bgm",
+    "Tags": [
+      "Minigames",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Sun Mar 31 2024 11:09:50 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Mario%20Party%202/Know%20What%20I%20Mean.mp3",
+    "Binary": "binaries/Mario Party 2/Know What I Mean.bin",
+    "Duration": 39.9224038125
   }
 ]
