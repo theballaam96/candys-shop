@@ -6635,8 +6635,7 @@
     "Duration": 51.625744499999996,
     "Tracks": 11,
     "Tags": [
-      "Fights",
-      "Exteriors"
+      "Fights"
     ],
     "Verified": true
   },
@@ -11914,10 +11913,7 @@
     "Duration": 67.60000000000001,
     "Tracks": 13,
     "Tags": [
-      "Fights",
-      "Lobbies and Shops",
-      "Exteriors",
-      "Gloomy"
+      "Exteriors"
     ],
     "Verified": true
   },
@@ -12034,10 +12030,7 @@
     "Duration": 56.32648109375,
     "Tracks": 13,
     "Tags": [
-      "Fights",
-      "Exteriors",
-      "Minigames",
-      "Happy"
+      "Exteriors"
     ],
     "Verified": true
   },
@@ -12607,9 +12600,7 @@
     "Duration": 36.034526,
     "Tracks": 13,
     "Tags": [
-      "Fights",
-      "Lobbies and Shops",
-      "Minigames"
+      "Fights"
     ],
     "Verified": true
   },
@@ -12729,9 +12720,7 @@
     "Duration": 34.235277,
     "Tracks": 11,
     "Tags": [
-      "Fights",
-      "Exteriors",
-      "Minigames"
+      "Exteriors"
     ],
     "Verified": true
   },
@@ -12764,9 +12753,7 @@
     "Duration": 49.68359375,
     "Tracks": 14,
     "Tags": [
-      "Fights",
-      "Exteriors",
-      "Minigames"
+      "Exteriors"
     ],
     "Verified": true
   },
@@ -12822,9 +12809,7 @@
     "Duration": 58.8828125,
     "Tracks": 11,
     "Tags": [
-      "Fights",
-      "Exteriors",
-      "Minigames"
+      "Exteriors"
     ],
     "Verified": true
   },
@@ -12840,10 +12825,7 @@
     "Duration": 50.93978640624999,
     "Tracks": 15,
     "Tags": [
-      "Fights",
-      "Lobbies and Shops",
-      "Interiors",
-      "Happy"
+      "Interiors"
     ],
     "Verified": true
   },
@@ -12913,10 +12895,7 @@
     "Duration": 29.8235145,
     "Tracks": 16,
     "Tags": [
-      "Fights",
-      "Lobbies and Shops",
-      "Exteriors",
-      "Happy"
+      "Fights"
     ],
     "Verified": true,
     "Update Notes": "For some reason the Bass clips in FL, but sounds fine in game. If its too much let me know"
