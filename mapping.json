@@ -18485,5 +18485,22 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Super%20Mario%20Bros%20Wonder/Piranha%20Plants%20on%20Parade.mp3",
     "Binary": "binaries/Super Mario Bros Wonder/Piranha Plants on Parade.bin",
     "Duration": 48.26708567708334
+  },
+  {
+    "Game": "Tony Hawk's Pro Skater",
+    "Song": "Main Menu",
+    "Composers": "Brian Bright",
+    "Converters": "Zion Jaymes",
+    "Category": "bgm",
+    "Additional Notes": "I wish there was a whammy guitar in the dk64 soundfont so I didn't have to modulate a trombone, clarinet, theremin, and choir to sound like one. Oh well",
+    "Tags": [
+      "Lobbies and Shops",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Mon Apr 01 2024 14:38:46 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Tony%20Hawks%20Pro%20Skater/Main%20Menu.mp3",
+    "Binary": "binaries/Tony Hawks Pro Skater/Main Menu.bin",
+    "Duration": 33.191496
   }
 ]
