@@ -18552,5 +18552,20 @@
     "Date": "Tue Apr 02 2024 10:30:31 GMT+0000 (Coordinated Universal Time)",
     "Binary": "binaries/Touhou Hyouibana ~ Antinomy of Common Flowers/Tonight Stars an Easygoing Egoist (Live ver) ~ Egoistic Flowers.bin",
     "Duration": 234.13821199999998
+  },
+  {
+    "Game": "Banjo-Kazooie",
+    "Song": "Collect Extra Life",
+    "Category": "majoritems",
+    "Composers": "Grant Kirkhope",
+    "Converters": "Schwartz Gandhi",
+    "Tags": [
+      "Collection"
+    ],
+    "Verified": true,
+    "Date": "Tue Apr 02 2024 23:36:18 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Banjo-Kazooie/Collect%20Extra%20Life.mp3",
+    "Binary": "binaries/Banjo-Kazooie/Collect Extra Life.bin",
+    "Duration": 2.4017777083333334
   }
 ]
