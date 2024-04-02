@@ -18535,5 +18535,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Tony%20Hawks%20Pro%20Skater/Get%20Tape%20%20Special%20Trick.mp3",
     "Binary": "binaries/Tony Hawks Pro Skater/Get Tape  Special Trick.bin",
     "Duration": 1.2
+  },
+  {
+    "Game": "Touhou Hyouibana ~ Antinomy of Common Flowers",
+    "Song": "Tonight Stars an Easygoing Egoist (Live ver.) ~ Egoistic Flowers.",
+    "Category": "bgm",
+    "Composers": "ZUN",
+    "Converters": "Schwartz Gandhi",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Touhou%20Hyouibana%20~%20Antinomy%20of%20Common%20Flowers/Tonight%20Stars%20an%20Easygoing%20Egoist%20(Live%20ver)%20~%20Egoistic%20Flowers.mp3",
+    "Tags": [
+      "Fights",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Tue Apr 02 2024 10:30:31 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Touhou Hyouibana ~ Antinomy of Common Flowers/Tonight Stars an Easygoing Egoist (Live ver) ~ Egoistic Flowers.bin",
+    "Duration": 234.13821199999998
   }
 ]
