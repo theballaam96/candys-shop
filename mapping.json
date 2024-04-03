@@ -6635,8 +6635,7 @@
     "Duration": 51.625744499999996,
     "Tracks": 11,
     "Tags": [
-      "Fights",
-      "Exteriors"
+      "Fights"
     ],
     "Verified": true
   },
@@ -11000,7 +10999,7 @@
     "Composers": "Shoji Meguro",
     "Converters": "Schwartz Gandhi",
     "Binary": "binaries/Persona 5/Throw Away Your Mask (Royal) by Schwartz Gandhi.bin",
-    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Persona%205/Throw%20Away%20Your%20Mask%20%28Royal%29%20by%20Schwartz%20Gandhi.mp3",
+    "Audio": "https://www.youtube.com/watch?v=qcz8lh3gWZU",
     "Duration": 239.99967199999998,
     "Tracks": 12,
     "Tags": [
@@ -11914,10 +11913,7 @@
     "Duration": 67.60000000000001,
     "Tracks": 13,
     "Tags": [
-      "Fights",
-      "Lobbies and Shops",
-      "Exteriors",
-      "Gloomy"
+      "Exteriors"
     ],
     "Verified": true
   },
@@ -12034,10 +12030,7 @@
     "Duration": 56.32648109375,
     "Tracks": 13,
     "Tags": [
-      "Fights",
-      "Exteriors",
-      "Minigames",
-      "Happy"
+      "Exteriors"
     ],
     "Verified": true
   },
@@ -12607,9 +12600,7 @@
     "Duration": 36.034526,
     "Tracks": 13,
     "Tags": [
-      "Fights",
-      "Lobbies and Shops",
-      "Minigames"
+      "Fights"
     ],
     "Verified": true
   },
@@ -12729,9 +12720,7 @@
     "Duration": 34.235277,
     "Tracks": 11,
     "Tags": [
-      "Fights",
-      "Exteriors",
-      "Minigames"
+      "Exteriors"
     ],
     "Verified": true
   },
@@ -12764,9 +12753,7 @@
     "Duration": 49.68359375,
     "Tracks": 14,
     "Tags": [
-      "Fights",
-      "Exteriors",
-      "Minigames"
+      "Exteriors"
     ],
     "Verified": true
   },
@@ -12822,9 +12809,7 @@
     "Duration": 58.8828125,
     "Tracks": 11,
     "Tags": [
-      "Fights",
-      "Exteriors",
-      "Minigames"
+      "Exteriors"
     ],
     "Verified": true
   },
@@ -12840,10 +12825,7 @@
     "Duration": 50.93978640624999,
     "Tracks": 15,
     "Tags": [
-      "Fights",
-      "Lobbies and Shops",
-      "Interiors",
-      "Happy"
+      "Interiors"
     ],
     "Verified": true
   },
@@ -12913,10 +12895,7 @@
     "Duration": 29.8235145,
     "Tracks": 16,
     "Tags": [
-      "Fights",
-      "Lobbies and Shops",
-      "Exteriors",
-      "Happy"
+      "Fights"
     ],
     "Verified": true,
     "Update Notes": "For some reason the Bass clips in FL, but sounds fine in game. If its too much let me know"
@@ -18441,5 +18420,152 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Donkey%20Kong%2064/Creepy%20Castle%20Lobby%20in%20C%20Major.mp3",
     "Binary": "binaries/Donkey Kong 64/Creepy Castle Lobby in C Major.bin",
     "Duration": 89.4538
+  },
+  {
+    "Game": "Mario Party 2",
+    "Song": "Know What I Mean?",
+    "Composers": "Kazuhiko Sawaguchi",
+    "Converters": "UmedMuzl",
+    "Category": "bgm",
+    "Tags": [
+      "Minigames",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Sun Mar 31 2024 11:09:50 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Mario%20Party%202/Know%20What%20I%20Mean.mp3",
+    "Binary": "binaries/Mario Party 2/Know What I Mean.bin",
+    "Duration": 39.9224038125
+  },
+  {
+    "Game": "Adibou 2",
+    "Song": "Intro Song",
+    "Composers": "Coktel Vision",
+    "Converters": "MorKs",
+    "Category": "events",
+    "Tags": [
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Sun Mar 31 2024 11:10:57 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Adibou%202/Intro%20Song.mp3",
+    "Binary": "binaries/Adibou 2/Intro Song.bin",
+    "Duration": 6.007278749999999
+  },
+  {
+    "Game": "Castlevania: Circle of the Moon",
+    "Song": "Awake",
+    "Composers": "Sōtarō Tojima, Hiroshi Mitsuoka",
+    "Converters": "Fiy3ro",
+    "Category": "bgm",
+    "Tags": [
+      "Interiors",
+      "Exteriors"
+    ],
+    "Verified": true,
+    "Date": "Mon Apr 01 2024 14:36:19 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Castlevania%20Circle%20of%20the%20Moon/Awake.mp3",
+    "Binary": "binaries/Castlevania Circle of the Moon/Awake.bin",
+    "Duration": 78.195245375
+  },
+  {
+    "Game": "Super Mario Bros. Wonder",
+    "Song": "Piranha Plants on Parade",
+    "Composers": "Koji Kondo, Shiho Fuji, Sayako Doi, Chisake Shimazu",
+    "Converters": "UmedMuzl",
+    "Category": "bgm",
+    "Update Notes": "MIDI Transposed by LoadingError from MMR",
+    "Additional Notes": "MIDI Transposed by LoadingError from MMR",
+    "Tags": [
+      "Minigames",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Mon Apr 01 2024 14:37:40 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Super%20Mario%20Bros%20Wonder/Piranha%20Plants%20on%20Parade.mp3",
+    "Binary": "binaries/Super Mario Bros Wonder/Piranha Plants on Parade.bin",
+    "Duration": 48.26708567708334
+  },
+  {
+    "Game": "Tony Hawk's Pro Skater",
+    "Song": "Main Menu",
+    "Composers": "Brian Bright",
+    "Converters": "Zion Jaymes",
+    "Category": "bgm",
+    "Additional Notes": "I wish there was a whammy guitar in the dk64 soundfont so I didn't have to modulate a trombone, clarinet, theremin, and choir to sound like one. Oh well",
+    "Tags": [
+      "Lobbies and Shops",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Mon Apr 01 2024 14:38:46 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Tony%20Hawks%20Pro%20Skater/Main%20Menu.mp3",
+    "Binary": "binaries/Tony Hawks Pro Skater/Main Menu.bin",
+    "Duration": 33.191496
+  },
+  {
+    "Game": "Other",
+    "Song": "Mirotic Illusion",
+    "Composers": "MorKs",
+    "Converters": "MorKs",
+    "Category": "bgm",
+    "Tags": [
+      "Interiors",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Mon Apr 01 2024 20:15:30 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Other/Mirotic%20Illusion.mp3",
+    "Binary": "binaries/Other/Mirotic Illusion.bin",
+    "Duration": 158.684073
+  },
+  {
+    "Game": "Tony Hawk's Pro Skater",
+    "Song": "Get Tape / Special Trick",
+    "Composers": "Brian Bright",
+    "Converters": "Zion Jaymes",
+    "Category": "majoritems",
+    "Additional Notes": "You got a tape!",
+    "Tags": [
+      "Collection",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Mon Apr 01 2024 20:16:47 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Tony%20Hawks%20Pro%20Skater/Get%20Tape%20%20Special%20Trick.mp3",
+    "Binary": "binaries/Tony Hawks Pro Skater/Get Tape  Special Trick.bin",
+    "Duration": 1.2
+  },
+  {
+    "Game": "Touhou Hyouibana ~ Antinomy of Common Flowers",
+    "Song": "Tonight Stars an Easygoing Egoist (Live ver.) ~ Egoistic Flowers.",
+    "songshort": "Egoistic Flowers",
+    "Category": "bgm",
+    "Composers": "ZUN",
+    "Converters": "Schwartz Gandhi",
+    "Audio": "https://www.youtube.com/watch?v=493OWHACDaI",
+    "Tags": [
+      "Fights",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Tue Apr 02 2024 10:30:31 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Touhou Hyouibana ~ Antinomy of Common Flowers/Tonight Stars an Easygoing Egoist (Live ver) ~ Egoistic Flowers.bin",
+    "Duration": 234.13821199999998
+  },
+  {
+    "Game": "Banjo-Kazooie",
+    "Song": "Collect Extra Life",
+    "Category": "majoritems",
+    "Composers": "Grant Kirkhope",
+    "Converters": "Schwartz Gandhi",
+    "Tags": [
+      "Collection"
+    ],
+    "Verified": true,
+    "Date": "Tue Apr 02 2024 23:36:18 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Banjo-Kazooie/Collect%20Extra%20Life.mp3",
+    "Binary": "binaries/Banjo-Kazooie/Collect Extra Life.bin",
+    "Duration": 2.4017777083333334
   }
 ]
