@@ -18599,5 +18599,21 @@
     "Date": "Fri Apr 05 2024 23:35:12 GMT+0000 (Coordinated Universal Time)",
     "Binary": "binaries/EarthBound/The Metropolis of Fourside.bin",
     "Duration": 103.24121712499999
+  },
+  {
+    "Game": "Super Mario World",
+    "Song": "Overworld",
+    "Category": "bgm",
+    "Composers": "Koji Kondo",
+    "Converters": "Schwartz Gandhi",
+    "Tags": [
+      "Exteriors",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Sun Apr 07 2024 18:02:15 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Super%20Mario%20World/Overworld.mp3",
+    "Binary": "binaries/Super Mario World/Overworld.bin",
+    "Duration": 41.93658235416667
   }
 ]
