@@ -18633,5 +18633,23 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Touhou%20Kouryudou%20~%20Unconnected%20Marketeers/The%20Perpetual%20Snow%20of%20Komakusa%20Blossoms.mp3",
     "Binary": "binaries/Touhou Kouryudou ~ Unconnected Marketeers/The Perpetual Snow of Komakusa Blossoms.bin",
     "Duration": 160.957888
+  },
+  {
+    "Game": "Kirby's Dream Land",
+    "Song": "Green Greens",
+    "Composers": "Jun Ishikawa",
+    "Converters": "Mr_Rippe",
+    "Category": "bgm",
+    "Update Notes": "Normalizes volume",
+    "Tags": [
+      "Exteriors",
+      "Minigames",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Mon Apr 08 2024 16:19:01 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Kirbys%20Dream%20Land/Green%20Greens%20(REV%201).mp3",
+    "Binary": "binaries/Kirbys Dream Land/Green Greens (REV 1).bin",
+    "Duration": 58.38066624999999
   }
 ]
