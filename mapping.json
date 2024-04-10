@@ -18714,5 +18714,20 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Mega%20Man%20Battle%20Network%202/Fear%20in%20the%20Castle.mp3",
     "Binary": "binaries/Mega Man Battle Network 2/Fear in the Castle.bin",
     "Duration": 32.119791666666664
+  },
+  {
+    "Game": "Mega Man Battle Network 2",
+    "Song": "And You Will Know The Truth",
+    "Composers": "Yoshino Aoki",
+    "Converters": "Wibdiwoh",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors"
+    ],
+    "Verified": true,
+    "Date": "Wed Apr 10 2024 10:51:09 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Mega%20Man%20Battle%20Network%202/And%20You%20Will%20Know%20The%20Truth.mp3",
+    "Binary": "binaries/Mega Man Battle Network 2/And You Will Know The Truth.bin",
+    "Duration": 43.81692046875
   }
 ]
