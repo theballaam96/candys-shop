@@ -18806,5 +18806,20 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Mega%20Man%20Battle%20Network%204/Vampire.mp3",
     "Binary": "binaries/Mega Man Battle Network 4/Vampire.bin",
     "Duration": 42.64973958333333
+  },
+  {
+    "Game": "Mega Man Battle Network 5",
+    "Song": "Liberate Mission",
+    "Composers": "Akari Kaida",
+    "Converters": "Wibdiwoh",
+    "Category": "bgm",
+    "Tags": [
+      "Interiors"
+    ],
+    "Verified": true,
+    "Date": "Wed Apr 10 2024 11:03:37 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Mega%20Man%20Battle%20Network%205/Liberate%20Mission.mp3",
+    "Binary": "binaries/Mega Man Battle Network 5/Liberate Mission.bin",
+    "Duration": 29.24550646875
   }
 ]
