@@ -18683,5 +18683,20 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Mega%20Man%20Battle%20Network/Fire%20Field.mp3",
     "Binary": "binaries/Mega Man Battle Network/Fire Field.bin",
     "Duration": 55.17405196875001
+  },
+  {
+    "Game": "Mega Man Battle Network",
+    "Song": "Red Or Blue",
+    "Composers": "Akari Kaida",
+    "Converters": "Wibdiwoh",
+    "Category": "bgm",
+    "Tags": [
+      "Interiors"
+    ],
+    "Verified": true,
+    "Date": "Wed Apr 10 2024 10:48:08 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Mega%20Man%20Battle%20Network/Red%20Or%20Blue.mp3",
+    "Binary": "binaries/Mega Man Battle Network/Red Or Blue.bin",
+    "Duration": 38.026331
   }
 ]
