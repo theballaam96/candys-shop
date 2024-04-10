@@ -18883,5 +18883,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Shinobi%20III%20Return%20of%20the%20Ninja%20Master/Izayoi.mp3",
     "Binary": "binaries/Shinobi III Return of the Ninja Master/Izayoi.bin",
     "Duration": 99.246357
+  },
+  {
+    "Game": "Diddy Kong Racing",
+    "Song": "T.T.'s Theme",
+    "Composers": "David Wise",
+    "Converters": "MorKs",
+    "Category": "bgm",
+    "Tags": [
+      "Lobbies and Shops",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Wed Apr 10 2024 11:20:12 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Diddy%20Kong%20Racing/TTs%20Theme.mp3",
+    "Binary": "binaries/Diddy Kong Racing/TTs Theme.bin",
+    "Duration": 30.422520000000002
   }
 ]
