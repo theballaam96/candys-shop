@@ -18851,5 +18851,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Mega%20Man%20Battle%20Network%206/Surge%20of%20Power.mp3",
     "Binary": "binaries/Mega Man Battle Network 6/Surge of Power.bin",
     "Duration": 57.7
+  },
+  {
+    "Game": "System Shock",
+    "Song": "Energy Systems",
+    "Composers": "Greg LoPiccolo",
+    "Converters": "CaptainofGarbage",
+    "Category": "bgm",
+    "Audio": "https://www.youtube.com/watch?v=b8MzkAnLn1c",
+    "Tags": [
+      "Exteriors",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Wed Apr 10 2024 11:08:04 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/System Shock/Energy Systems.bin",
+    "Duration": 168
   }
 ]
