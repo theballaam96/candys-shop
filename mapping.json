@@ -18867,5 +18867,21 @@
     "Date": "Wed Apr 10 2024 11:08:04 GMT+0000 (Coordinated Universal Time)",
     "Binary": "binaries/System Shock/Energy Systems.bin",
     "Duration": 168
+  },
+  {
+    "Game": "Shinobi III: Return of the Ninja Master",
+    "Song": "Izayoi",
+    "Composers": "Masayuki Nagao",
+    "Converters": "MorKs",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Wed Apr 10 2024 11:17:20 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Shinobi%20III%20Return%20of%20the%20Ninja%20Master/Izayoi.mp3",
+    "Binary": "binaries/Shinobi III Return of the Ninja Master/Izayoi.bin",
+    "Duration": 99.246357
   }
 ]
