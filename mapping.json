@@ -18836,5 +18836,20 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Mega%20Man%20Battle%20Network%205/Castle%20of%20NINJA.mp3",
     "Binary": "binaries/Mega Man Battle Network 5/Castle of NINJA.bin",
     "Duration": 51.80764049999999
+  },
+  {
+    "Game": "Mega Man Battle Network 6",
+    "Song": "Surge of Power!",
+    "Composers": "Yoshino Aoki",
+    "Converters": "Wibdiwoh",
+    "Category": "bgm",
+    "Tags": [
+      "Fights"
+    ],
+    "Verified": true,
+    "Date": "Wed Apr 10 2024 11:06:56 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Mega%20Man%20Battle%20Network%206/Surge%20of%20Power.mp3",
+    "Binary": "binaries/Mega Man Battle Network 6/Surge of Power.bin",
+    "Duration": 57.7
   }
 ]
