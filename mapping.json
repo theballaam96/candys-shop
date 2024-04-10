@@ -18729,5 +18729,20 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Mega%20Man%20Battle%20Network%202/And%20You%20Will%20Know%20The%20Truth.mp3",
     "Binary": "binaries/Mega Man Battle Network 2/And You Will Know The Truth.bin",
     "Duration": 43.81692046875
+  },
+  {
+    "Game": "Mega Man Battle Network 3",
+    "Song": "Navi Customizer",
+    "Composers": "Yoshino Aoki",
+    "Converters": "Wibdiwoh",
+    "Category": "bgm",
+    "Tags": [
+      "Lobbies and Shops"
+    ],
+    "Verified": true,
+    "Date": "Wed Apr 10 2024 10:52:44 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Mega%20Man%20Battle%20Network%203/Navi%20Customizer.mp3",
+    "Binary": "binaries/Mega Man Battle Network 3/Navi Customizer.bin",
+    "Duration": 48.4090425
   }
 ]
