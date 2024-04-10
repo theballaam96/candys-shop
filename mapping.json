@@ -18774,5 +18774,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Mega%20Man%20Battle%20Network%204/Save%20Our%20Planet.mp3",
     "Binary": "binaries/Mega Man Battle Network 4/Save Our Planet.bin",
     "Duration": 47.7974684375
+  },
+  {
+    "Game": "Mega Man Battle Network 4",
+    "Song": "Story of Wonder",
+    "Composers": "Toshihiko Horiyama",
+    "Converters": "Wibdiwoh",
+    "Category": "bgm",
+    "Tags": [
+      "Interiors",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Wed Apr 10 2024 10:58:01 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Mega%20Man%20Battle%20Network%204/Story%20of%20Wonder.mp3",
+    "Binary": "binaries/Mega Man Battle Network 4/Story of Wonder.bin",
+    "Duration": 30.572084812499995
   }
 ]
