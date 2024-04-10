@@ -18759,5 +18759,20 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Mega%20Man%20Battle%20Network%204/Densan%20Stadium.mp3",
     "Binary": "binaries/Mega Man Battle Network 4/Densan Stadium.bin",
     "Duration": 35.24550046875
+  },
+  {
+    "Game": "Mega Man Battle Network 4",
+    "Song": "Save Our Planet",
+    "Composers": "Toshihiko Horiyama",
+    "Converters": "Wibdiwoh",
+    "Category": "bgm",
+    "Tags": [
+      "Minigames"
+    ],
+    "Verified": true,
+    "Date": "Wed Apr 10 2024 10:56:43 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Mega%20Man%20Battle%20Network%204/Save%20Our%20Planet.mp3",
+    "Binary": "binaries/Mega Man Battle Network 4/Save Our Planet.bin",
+    "Duration": 47.7974684375
   }
 ]
