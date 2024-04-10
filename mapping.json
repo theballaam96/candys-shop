@@ -18698,5 +18698,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Mega%20Man%20Battle%20Network/Red%20Or%20Blue.mp3",
     "Binary": "binaries/Mega Man Battle Network/Red Or Blue.bin",
     "Duration": 38.026331
+  },
+  {
+    "Game": "Mega Man Battle Network 2",
+    "Song": "Fear in the Castle",
+    "Composers": "Yoshino Aoki",
+    "Converters": "Wibdiwoh",
+    "Category": "bgm",
+    "Tags": [
+      "Interiors",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Wed Apr 10 2024 10:49:28 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Mega%20Man%20Battle%20Network%202/Fear%20in%20the%20Castle.mp3",
+    "Binary": "binaries/Mega Man Battle Network 2/Fear in the Castle.bin",
+    "Duration": 32.119791666666664
   }
 ]
