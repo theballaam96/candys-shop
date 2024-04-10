@@ -18651,5 +18651,22 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Kirbys%20Dream%20Land/Green%20Greens%20(REV%201).mp3",
     "Binary": "binaries/Kirbys Dream Land/Green Greens (REV 1).bin",
     "Duration": 58.38066624999999
+  },
+  {
+    "Game": "Mother 3",
+    "Song": "Dry Guys",
+    "Composers": "Shogo Sakai",
+    "Converters": "nerosomething",
+    "Category": "bgm",
+    "Tags": [
+      "Minigames",
+      "Happy",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Tue Apr 09 2024 19:39:55 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Mother%203/Dry%20Guys.mp3",
+    "Binary": "binaries/Mother 3/Dry Guys.bin",
+    "Duration": 54.98266087499999
   }
 ]
