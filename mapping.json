@@ -18917,5 +18917,21 @@
     "Date": "Wed Apr 10 2024 11:21:54 GMT+0000 (Coordinated Universal Time)",
     "Binary": "binaries/Castlevania II Simons Quest/The Silence of Daylight (REV 1).bin",
     "Duration": 34.90798363541667
+  },
+  {
+    "Game": "Donkey Kong Country 3: Dixie Kong's Double Trouble!",
+    "Song": "Water World",
+    "Composers": "Eveline Fischer",
+    "Converters": "MorKs",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Wed Apr 10 2024 19:15:24 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Donkey%20Kong%20Country%203%20Dixie%20Kongs%20Double%20Trouble/Water%20World.mp3",
+    "Binary": "binaries/Donkey Kong Country 3 Dixie Kongs Double Trouble/Water World.bin",
+    "Duration": 95.8480715
   }
 ]
