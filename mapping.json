@@ -18899,5 +18899,23 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Diddy%20Kong%20Racing/TTs%20Theme.mp3",
     "Binary": "binaries/Diddy Kong Racing/TTs Theme.bin",
     "Duration": 30.422520000000002
+  },
+  {
+    "Game": "Castlevania II: Simon's Quest",
+    "Song": "The Silence of Daylight",
+    "Category": "bgm",
+    "Composers": "Matsubara Kenichi, Terashima Satoe, Murata Kouji",
+    "Converters": "Schwartz Gandhi",
+    "Audio": "https://youtu.be/1UILq0d_0Cc",
+    "Tags": [
+      "Lobbies and Shops",
+      "Exteriors",
+      "Calm"
+    ],
+    "Update Notes": "goodbye piano",
+    "Verified": true,
+    "Date": "Wed Apr 10 2024 11:21:54 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Castlevania II Simons Quest/The Silence of Daylight (REV 1).bin",
+    "Duration": 34.90798363541667
   }
 ]
