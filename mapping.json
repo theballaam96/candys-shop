@@ -18950,5 +18950,22 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Final%20Fantasy%20VI/Johnny%20C%20Bad.mp3",
     "Binary": "binaries/Final Fantasy VI/Johnny C Bad.bin",
     "Duration": 81.340976875
+  },
+  {
+    "Game": "Donkey Kong 64",
+    "Song": "Angry Aztec (Electronic Remix)",
+    "Composers": "Grant Kirkhope, Dr. Fruitcake",
+    "Converters": "UmedMuzl",
+    "Category": "bgm",
+    "Tags": [
+      "Fights",
+      "Exteriors",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Fri Apr 12 2024 04:05:47 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Donkey%20Kong%2064/Angry%20Aztec%20(Electronic%20Remix).mp3",
+    "Binary": "binaries/Donkey Kong 64/Angry Aztec (Electronic Remix).bin",
+    "Duration": 122.0703125
   }
 ]
