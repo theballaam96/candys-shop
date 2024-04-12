@@ -18933,5 +18933,22 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Donkey%20Kong%20Country%203%20Dixie%20Kongs%20Double%20Trouble/Water%20World.mp3",
     "Binary": "binaries/Donkey Kong Country 3 Dixie Kongs Double Trouble/Water World.bin",
     "Duration": 95.8480715
+  },
+  {
+    "Game": "Final Fantasy VI",
+    "Song": "Johnny C. Bad",
+    "Composers": "Nobuo Uematsu",
+    "Converters": "OnlySpaghettiCode",
+    "Category": "bgm",
+    "Tags": [
+      "Lobbies and Shops",
+      "Interiors",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Fri Apr 12 2024 00:11:11 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Final%20Fantasy%20VI/Johnny%20C%20Bad.mp3",
+    "Binary": "binaries/Final Fantasy VI/Johnny C Bad.bin",
+    "Duration": 81.340976875
   }
 ]
