@@ -19014,5 +19014,20 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Final%20Fantasy%20VI/Save%20Them.mp3",
     "Binary": "binaries/Final Fantasy VI/Save Them.bin",
     "Duration": 52.279385624999996
+  },
+  {
+    "Game": "Shin Megami Tensei IV",
+    "Song": "Tokyo",
+    "Composers": "Ryota Kozuka",
+    "Converters": "AaronDobbe",
+    "Category": "bgm",
+    "Audio": "https://www.youtube.com/watch?v=46HT2XhH9t0",
+    "Tags": [
+      "Exteriors"
+    ],
+    "Verified": true,
+    "Date": "Fri Apr 12 2024 23:42:23 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Shin Megami Tensei IV/Tokyo.bin",
+    "Duration": 84.1875
   }
 ]
