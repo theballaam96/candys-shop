@@ -18967,5 +18967,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Donkey%20Kong%2064/Angry%20Aztec%20(Electronic%20Remix).mp3",
     "Binary": "binaries/Donkey Kong 64/Angry Aztec (Electronic Remix).bin",
     "Duration": 122.0703125
+  },
+  {
+    "Game": "Donkey Kong 64",
+    "Song": "DK Isles (SSBM Remix)",
+    "Composers": "Grant Kirkhope, Dave Phaneuf",
+    "Converters": "UmedMuzl",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Fri Apr 12 2024 09:51:33 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Donkey%20Kong%2064/DK%20Isles%20(SSBM%20Remix).mp3",
+    "Binary": "binaries/Donkey Kong 64/DK Isles (SSBM Remix).bin",
+    "Duration": 189.13333333333335
   }
 ]
