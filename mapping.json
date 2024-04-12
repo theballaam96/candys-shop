@@ -18983,5 +18983,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Donkey%20Kong%2064/DK%20Isles%20(SSBM%20Remix).mp3",
     "Binary": "binaries/Donkey Kong 64/DK Isles (SSBM Remix).bin",
     "Duration": 189.13333333333335
+  },
+  {
+    "Game": "Castlevania: Aria of Sorrow",
+    "Song": "Clock Tower",
+    "Composers": "Michiru Yamane",
+    "Converters": "CaptainofGarbage",
+    "Category": "bgm",
+    "Audio": "https://www.youtube.com/watch?v=CEUSjIQwOSQ",
+    "Tags": [
+      "Exteriors",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Fri Apr 12 2024 23:24:48 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Castlevania Aria of Sorrow/Clock Tower.bin",
+    "Duration": 96.79249800000001
   }
 ]
