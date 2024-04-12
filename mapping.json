@@ -18999,5 +18999,20 @@
     "Date": "Fri Apr 12 2024 23:24:48 GMT+0000 (Coordinated Universal Time)",
     "Binary": "binaries/Castlevania Aria of Sorrow/Clock Tower.bin",
     "Duration": 96.79249800000001
+  },
+  {
+    "Game": "Final Fantasy VI",
+    "Song": "Save Them!",
+    "Composers": "Nobuo Uematsu",
+    "Converters": "OnlySpaghettiCode",
+    "Category": "bgm",
+    "Tags": [
+      "Minigames"
+    ],
+    "Verified": true,
+    "Date": "Fri Apr 12 2024 23:26:12 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Final%20Fantasy%20VI/Save%20Them.mp3",
+    "Binary": "binaries/Final Fantasy VI/Save Them.bin",
+    "Duration": 52.279385624999996
   }
 ]
