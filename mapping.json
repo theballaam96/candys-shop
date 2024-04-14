@@ -19081,5 +19081,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/The%20Legend%20of%20Zelda%20Ocarina%20of%20Time/I%20Have%20Found%20It%20(Got%20Item)%20(REV%202).mp3",
     "Binary": "binaries/The Legend of Zelda Ocarina of Time/I Have Found It (Got Item) (REV 2).bin",
     "Duration": 2.75
+  },
+  {
+    "Game": "Impossible Creatures",
+    "Song": "Objective Complete",
+    "Composers": "Crispin Hands",
+    "Converters": "LBFrank",
+    "Category": "events",
+    "Tags": [
+      "Spawning",
+      "Collection"
+    ],
+    "Verified": true,
+    "Date": "Sun Apr 14 2024 03:31:03 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Impossible%20Creatures/Objective%20Complete.mp3",
+    "Binary": "binaries/Impossible Creatures/Objective Complete.bin",
+    "Duration": 2.9791666666666665
   }
 ]
