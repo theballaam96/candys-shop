@@ -19030,5 +19030,21 @@
     "Date": "Fri Apr 12 2024 23:42:23 GMT+0000 (Coordinated Universal Time)",
     "Binary": "binaries/Shin Megami Tensei IV/Tokyo.bin",
     "Duration": 84.1875
+  },
+  {
+    "Game": "Donkey Kong Country 3: Dixie Kong's Double Trouble!",
+    "Song": "Waterfall",
+    "Composers": "Eveline Fischer",
+    "Converters": "MorKs",
+    "Category": "bgm",
+    "Tags": [
+      "Interiors",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Sun Apr 14 2024 01:48:14 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Donkey%20Kong%20Country%203%20Dixie%20Kongs%20Double%20Trouble/Waterfall.mp3",
+    "Binary": "binaries/Donkey Kong Country 3 Dixie Kongs Double Trouble/Waterfall.bin",
+    "Duration": 85.581344
   }
 ]
