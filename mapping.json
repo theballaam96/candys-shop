@@ -19065,5 +19065,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Tony%20Hawks%20Pro%20Skater/Get%20Tape%20%20Special%20Trick%20(REV%201).mp3",
     "Binary": "binaries/Tony Hawks Pro Skater/Get Tape  Special Trick (REV 1).bin",
     "Duration": 1.2
+  },
+  {
+    "Game": "The Legend of Zelda: Ocarina of Time",
+    "Song": "I Have Found It! (Got Item)",
+    "Composers": "Koji Kondo",
+    "Converters": "Fiy3ro",
+    "Category": "majoritems",
+    "Update Notes": "Noticed that there are long periods of silence after collecting. Opened the MIDI and found more stray volume events. Deleted them and used the FL \"Full song\" playlist export. Tested with a custom .candy file.",
+    "Tags": [
+      "Collection"
+    ],
+    "Verified": true,
+    "Date": "Sun Apr 14 2024 03:07:21 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/The%20Legend%20of%20Zelda%20Ocarina%20of%20Time/I%20Have%20Found%20It%20(Got%20Item)%20(REV%202).mp3",
+    "Binary": "binaries/The Legend of Zelda Ocarina of Time/I Have Found It (Got Item) (REV 2).bin",
+    "Duration": 2.75
   }
 ]
