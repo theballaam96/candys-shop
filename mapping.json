@@ -19097,5 +19097,23 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Impossible%20Creatures/Objective%20Complete.mp3",
     "Binary": "binaries/Impossible Creatures/Objective Complete.bin",
     "Duration": 2.9791666666666665
+  },
+  {
+    "Game": "Tony Hawk's Pro Skater",
+    "Song": "Get Tape / Special Trick",
+    "Composers": "Brian Bright",
+    "Converters": "Zion Jaymes",
+    "Category": "majoritems",
+    "Update Notes": "Fixes a bug that causes jingle last for 7+ minutes when applied to some major items (For real this time)",
+    "Additional Notes": "You got a tape!",
+    "Tags": [
+      "Collection",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Sun Apr 14 2024 04:20:57 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Tony%20Hawks%20Pro%20Skater/Get%20Tape%20%20Special%20Trick%20(REV%202).mp3",
+    "Binary": "binaries/Tony Hawks Pro Skater/Get Tape  Special Trick (REV 2).bin",
+    "Duration": 1.2
   }
 ]
