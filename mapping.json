@@ -19132,5 +19132,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Diddy%20Kong%20Racing/TTs%20Theme%20(REV%201).mp3",
     "Binary": "binaries/Diddy Kong Racing/TTs Theme (REV 1).bin",
     "Duration": 30.422520000000002
+  },
+  {
+    "Game": "The Legend of Zelda: Skyward Sword",
+    "Song": "Tadtone Song",
+    "Category": "events",
+    "Composers": "Hajime Wakai",
+    "Converters": "Schwartz Gandhi",
+    "Tags": [
+      "Collection",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Mon Apr 15 2024 20:06:15 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/The%20Legend%20of%20Zelda%20Skyward%20Sword/Tadtone%20Song%20(REV%201).mp3",
+    "Binary": "binaries/The Legend of Zelda Skyward Sword/Tadtone Song (REV 1).bin",
+    "Duration": 20.00001
   }
 ]
