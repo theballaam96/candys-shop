@@ -19148,5 +19148,20 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/The%20Legend%20of%20Zelda%20Skyward%20Sword/Tadtone%20Song%20(REV%201).mp3",
     "Binary": "binaries/The Legend of Zelda Skyward Sword/Tadtone Song (REV 1).bin",
     "Duration": 20.00001
+  },
+  {
+    "Game": "Street Fighter II",
+    "Song": "Vega",
+    "Composers": "Yoko Shimomura",
+    "Converters": "OnlySpaghettiCode",
+    "Category": "bgm",
+    "Tags": [
+      "Fights"
+    ],
+    "Verified": true,
+    "Date": "Mon Apr 15 2024 23:22:52 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Street%20Fighter%20II/Vega.mp3",
+    "Binary": "binaries/Street Fighter II/Vega.bin",
+    "Duration": 52.40379375
   }
 ]
