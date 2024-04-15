@@ -19115,5 +19115,22 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Tony%20Hawks%20Pro%20Skater/Get%20Tape%20%20Special%20Trick%20(REV%202).mp3",
     "Binary": "binaries/Tony Hawks Pro Skater/Get Tape  Special Trick (REV 2).bin",
     "Duration": 1.2
+  },
+  {
+    "Game": "Diddy Kong Racing",
+    "Song": "T.T.'s Theme",
+    "Composers": "David Wise",
+    "Converters": "MorKs",
+    "Category": "bgm",
+    "Update Notes": "Had reverb on the track, which made it sound super low volume in-game. Fixed it",
+    "Tags": [
+      "Lobbies and Shops",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Mon Apr 15 2024 20:00:00 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Diddy%20Kong%20Racing/TTs%20Theme%20(REV%201).mp3",
+    "Binary": "binaries/Diddy Kong Racing/TTs Theme (REV 1).bin",
+    "Duration": 30.422520000000002
   }
 ]
