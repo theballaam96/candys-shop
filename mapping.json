@@ -19163,5 +19163,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Street%20Fighter%20II/Vega.mp3",
     "Binary": "binaries/Street Fighter II/Vega.bin",
     "Duration": 52.40379375
+  },
+  {
+    "Game": "WarioWare: Twisted!",
+    "Song": "Helterskelter",
+    "Composers": "Kenichi Nishimaki, Masanobu Matsunaga, Yasuhisa Baba",
+    "Converters": "AaronDobbe",
+    "Category": "bgm",
+    "Audio": "https://www.youtube.com/watch?v=1vfE0kKUx98",
+    "Tags": [
+      "Interiors",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Thu Apr 18 2024 10:05:59 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/WarioWare Twisted/Helterskelter.bin",
+    "Duration": 82.32134625
   }
 ]
