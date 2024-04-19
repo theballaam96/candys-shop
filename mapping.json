@@ -19179,5 +19179,21 @@
     "Date": "Thu Apr 18 2024 10:05:59 GMT+0000 (Coordinated Universal Time)",
     "Binary": "binaries/WarioWare Twisted/Helterskelter.bin",
     "Duration": 82.32134625
+  },
+  {
+    "Game": "Doom (1993)",
+    "Song": "Suspense",
+    "Composers": "Bobby Prince",
+    "Converters": "CaptainofGarbage",
+    "Category": "bgm",
+    "Audio": "https://www.youtube.com/watch?v=QdwGoLMlwFU",
+    "Tags": [
+      "Exteriors",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Fri Apr 19 2024 10:06:33 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Doom (1993)/Suspense.bin",
+    "Duration": 164
   }
 ]
