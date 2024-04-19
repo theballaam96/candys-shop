@@ -19242,5 +19242,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Star%20Fox%2064/Zoness.mp3",
     "Binary": "binaries/Star Fox 64/Zoness.bin",
     "Duration": 130.83608249999997
+  },
+  {
+    "Game": "Banjo-Tooie",
+    "Song": "Witchyworld (The Inferno)",
+    "Category": "bgm",
+    "Composers": "Grant Kirkhope",
+    "Converters": "Schwartz Gandhi",
+    "Tags": [
+      "Interiors",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Fri Apr 19 2024 22:25:50 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Banjo-Tooie/Witchyworld%20(The%20Inferno).mp3",
+    "Binary": "binaries/Banjo-Tooie/Witchyworld (The Inferno).bin",
+    "Duration": 125.99874000000001
   }
 ]
