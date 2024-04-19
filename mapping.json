@@ -19195,5 +19195,20 @@
     "Date": "Fri Apr 19 2024 10:06:33 GMT+0000 (Coordinated Universal Time)",
     "Binary": "binaries/Doom (1993)/Suspense.bin",
     "Duration": 164
+  },
+  {
+    "Game": "Banjo-Kazooie",
+    "Song": "Win Mini-Game",
+    "Composers": "Grant Kirkhope",
+    "Converters": "CaptainofGarbage",
+    "Category": "events",
+    "Tags": [
+      "Spawning"
+    ],
+    "Verified": true,
+    "Date": "Fri Apr 19 2024 22:22:18 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Banjo-Kazooie/Win%20Mini-Game.mp3",
+    "Binary": "binaries/Banjo-Kazooie/Win Mini-Game.bin",
+    "Duration": 2.9187499999999997
   }
 ]
