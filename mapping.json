@@ -19290,5 +19290,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Banjo-Tooie/Isle%20o%20Hags%20(Witchyworld).mp3",
     "Binary": "binaries/Banjo-Tooie/Isle o Hags (Witchyworld).bin",
     "Duration": 148.18953638020832
+  },
+  {
+    "Game": "Banjo-Tooie",
+    "Song": "Isle o' Hags (Cauldron Keep)",
+    "Category": "bgm",
+    "Composers": "Grant Kirkhope",
+    "Converters": "Schwartz Gandhi",
+    "Tags": [
+      "Exteriors",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Fri Apr 19 2024 23:26:07 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Banjo-Tooie/Isle%20o%20Hags%20(Cauldron%20Keep).mp3",
+    "Binary": "binaries/Banjo-Tooie/Isle o Hags (Cauldron Keep).bin",
+    "Duration": 148.09149804687502
   }
 ]
