@@ -19258,5 +19258,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Banjo-Tooie/Witchyworld%20(The%20Inferno).mp3",
     "Binary": "binaries/Banjo-Tooie/Witchyworld (The Inferno).bin",
     "Duration": 125.99874000000001
+  },
+  {
+    "Game": "Banjo-Tooie",
+    "Song": "Isle o' Hags (Cloud Cuckooland)",
+    "Category": "bgm",
+    "Composers": "Grant Kirkhope",
+    "Converters": "Schwartz Gandhi",
+    "Tags": [
+      "Exteriors",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Fri Apr 19 2024 23:21:30 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Banjo-Tooie/Isle%20o%20Hags%20(Cloud%20Cuckooland).mp3",
+    "Binary": "binaries/Banjo-Tooie/Isle o Hags (Cloud Cuckooland).bin",
+    "Duration": 148.23396
   }
 ]
