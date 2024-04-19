@@ -19226,5 +19226,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Gremlins%202%20The%20New%20Batch/Ventilation%20Shafts.mp3",
     "Binary": "binaries/Gremlins 2 The New Batch/Ventilation Shafts.bin",
     "Duration": 51.69225599999999
+  },
+  {
+    "Game": "Star Fox 64",
+    "Song": "Zoness",
+    "Composers": "Hajime Wakai",
+    "Converters": "MorKs",
+    "Category": "bgm",
+    "Tags": [
+      "Fights",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Fri Apr 19 2024 22:24:33 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Star%20Fox%2064/Zoness.mp3",
+    "Binary": "binaries/Star Fox 64/Zoness.bin",
+    "Duration": 130.83608249999997
   }
 ]
