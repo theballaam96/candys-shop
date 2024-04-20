@@ -19306,5 +19306,22 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Banjo-Tooie/Isle%20o%20Hags%20(Cauldron%20Keep).mp3",
     "Binary": "binaries/Banjo-Tooie/Isle o Hags (Cauldron Keep).bin",
     "Duration": 148.09149804687502
+  },
+  {
+    "Game": "Mario + Rabbids: Kingdom Battle",
+    "Song": "Through the Lawns",
+    "Composers": "Grant Kirkhope",
+    "Converters": "LBFrank",
+    "Category": "bgm",
+    "Tags": [
+      "Lobbies and Shops",
+      "Happy",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Sat Apr 20 2024 19:13:12 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Mario%20%20Rabbids%20Kingdom%20Battle/Through%20the%20Lawns.mp3",
+    "Binary": "binaries/Mario  Rabbids Kingdom Battle/Through the Lawns.bin",
+    "Duration": 38
   }
 ]
