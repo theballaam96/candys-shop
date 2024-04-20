@@ -25,7 +25,7 @@
   },
   {
     "Game": "Banjo-Kazooie",
-    "Song": "Banjos House",
+    "Song": "Banjo's House",
     "Category": "bgm",
     "Composers": "Grant Kirkhope",
     "Converters": "Bismuth",
@@ -75,7 +75,7 @@
   },
   {
     "Game": "Banjo-Kazooie",
-    "Song": "Gruntys Lair",
+    "Song": "Gruntilda's Lair",
     "Category": "bgm",
     "Composers": "Grant Kirkhope",
     "Converters": "Bismuth",
@@ -102,7 +102,7 @@
   },
   {
     "Game": "Banjo-Kazooie",
-    "Song": "Mumbos Hut",
+    "Song": "Mumbo's Hut",
     "Category": "bgm",
     "Composers": "Grant Kirkhope",
     "Converters": "Bismuth",
@@ -120,7 +120,7 @@
   },
   {
     "Game": "Banjo-Kazooie",
-    "Song": "Mumbos Mountain",
+    "Song": "Mumbo's Mountain",
     "Category": "bgm",
     "Composers": "Grant Kirkhope",
     "Converters": "Bismuth",
@@ -585,7 +585,7 @@
   },
   {
     "Game": "Banjo-Tooie",
-    "Song": "Isle o Hags",
+    "Song": "Isle o' Hags",
     "Category": "bgm",
     "Composers": "Grant Kirkhope",
     "Converters": "gloomy",
@@ -714,7 +714,7 @@
   },
   {
     "Game": "Banjo-Tooie",
-    "Song": "Mumbos Skull",
+    "Song": "Mumbo's Skull",
     "Category": "bgm",
     "Composers": "Grant Kirkhope",
     "Converters": "gloomy",
@@ -4350,7 +4350,7 @@
   {
     "Date": "Sat Jul 08 2023 22:17:51 GMT-0500 (Central Daylight Time)",
     "Game": "Banjo-Kazooie",
-    "Song": "Gruntys Lair",
+    "Song": "Grunty's Lair",
     "Category": "bgm",
     "Composers": "Grant Kirkhope",
     "Converters": "Ballaam",
@@ -12091,7 +12091,7 @@
   {
     "Date": "Sun Nov 26 2023 18:29:15 GMT-0600 (Central Standard Time)",
     "Game": "Banjo-Kazooie",
-    "Song": "Mumbos Hut",
+    "Song": "Mumbo's Hut",
     "Category": "bgm",
     "Composers": "Grant Kirkhope",
     "Converters": "Bismuth",
@@ -12109,7 +12109,7 @@
   {
     "Date": "Sun Nov 26 2023 18:31:18 GMT-0600 (Central Standard Time)",
     "Game": "Banjo-Kazooie",
-    "Song": "Mumbos Mountain",
+    "Song": "Mumbo's Mountain",
     "Category": "bgm",
     "Composers": "Grant Kirkhope",
     "Converters": "Bismuth",
@@ -12573,7 +12573,7 @@
   {
     "Date": "Sun Nov 26 2023 19:50:35 GMT-0600 (Central Standard Time)",
     "Game": "Banjo-Kazooie",
-    "Song": "Mumbos Hut",
+    "Song": "Mumbo's Hut",
     "Category": "bgm",
     "Composers": "Grant Kirkhope",
     "Converters": "Bismuth",
@@ -15764,7 +15764,7 @@
   {
     "Date": "Mon Jan 29 2024 11:31:32 GMT-0600 (Central Standard Time)",
     "Game": "Banjo-Tooie",
-    "Song": "Isle o Hags",
+    "Song": "Isle o' Hags",
     "Category": "bgm",
     "Composers": "Grant Kirkhope",
     "Converters": "gloomy",
@@ -16879,8 +16879,8 @@
     "Composers": "Tsunku♂️",
     "Converters": "Schwartz Gandhi",
     "Tags": [
-      "spawning",
-      "collection"
+      "Spawning",
+      "Collection"
     ],
     "Verified": true,
     "Date": "Tue Feb 21 2024 14:11:43 GMT+0000 (Coordinated Universal Time)",
