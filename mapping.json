@@ -19339,5 +19339,17 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Star%20Fox%2064/Boss%20B.mp3",
     "Binary": "binaries/Star Fox 64/Boss B.bin",
     "Duration": 49.013933
+  },
+  {
+    "Game": "Banjo-Kazooie",
+    "Song": "Skull Tile",
+    "Category": "majoritems",
+    "Composers": "Grant Kirkhope",
+    "Converters": "Schwartz Gandhi",
+    "Verified": true,
+    "Date": "Sun Apr 21 2024 12:11:12 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Banjo-Kazooie/Skull%20Tile.mp3",
+    "Binary": "binaries/Banjo-Kazooie/Skull Tile.bin",
+    "Duration": 1.3571383333333333
   }
 ]
