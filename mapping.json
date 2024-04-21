@@ -25,7 +25,7 @@
   },
   {
     "Game": "Banjo-Kazooie",
-    "Song": "Banjos House",
+    "Song": "Banjo's House",
     "Category": "bgm",
     "Composers": "Grant Kirkhope",
     "Converters": "Bismuth",
@@ -75,7 +75,7 @@
   },
   {
     "Game": "Banjo-Kazooie",
-    "Song": "Gruntys Lair",
+    "Song": "Gruntilda's Lair",
     "Category": "bgm",
     "Composers": "Grant Kirkhope",
     "Converters": "Bismuth",
@@ -102,7 +102,7 @@
   },
   {
     "Game": "Banjo-Kazooie",
-    "Song": "Mumbos Hut",
+    "Song": "Mumbo's Hut",
     "Category": "bgm",
     "Composers": "Grant Kirkhope",
     "Converters": "Bismuth",
@@ -120,7 +120,7 @@
   },
   {
     "Game": "Banjo-Kazooie",
-    "Song": "Mumbos Mountain",
+    "Song": "Mumbo's Mountain",
     "Category": "bgm",
     "Composers": "Grant Kirkhope",
     "Converters": "Bismuth",
@@ -340,7 +340,7 @@
   },
   {
     "Game": "Banjo-Tooie",
-    "Song": "Boggys Igloo",
+    "Song": "Boggy's Igloo",
     "Category": "bgm",
     "Composers": "Grant Kirkhope",
     "Converters": "Ballaam",
@@ -441,7 +441,7 @@
   },
   {
     "Game": "Banjo-Tooie",
-    "Song": "Clinkers Cavern",
+    "Song": "Clinker's Cavern",
     "Category": "bgm",
     "Composers": "Grant Kirkhope",
     "Converters": "Ballaam",
@@ -473,7 +473,7 @@
   },
   {
     "Game": "Banjo-Tooie",
-    "Song": "Fun n Games",
+    "Song": "Fun 'n' Games",
     "Category": "bgm",
     "Composers": "Grant Kirkhope",
     "Converters": "Ballaam",
@@ -585,7 +585,7 @@
   },
   {
     "Game": "Banjo-Tooie",
-    "Song": "Isle o Hags",
+    "Song": "Isle o' Hags",
     "Category": "bgm",
     "Composers": "Grant Kirkhope",
     "Converters": "gloomy",
@@ -714,7 +714,7 @@
   },
   {
     "Game": "Banjo-Tooie",
-    "Song": "Mumbos Skull",
+    "Song": "Mumbo's Skull",
     "Category": "bgm",
     "Composers": "Grant Kirkhope",
     "Converters": "gloomy",
@@ -730,7 +730,7 @@
   },
   {
     "Game": "Banjo-Tooie",
-    "Song": "Targitzans Temple",
+    "Song": "Targitzan's Temple",
     "Category": "bgm",
     "Composers": "Grant Kirkhope",
     "Converters": "gloomy",
@@ -4350,7 +4350,7 @@
   {
     "Date": "Sat Jul 08 2023 22:17:51 GMT-0500 (Central Daylight Time)",
     "Game": "Banjo-Kazooie",
-    "Song": "Gruntys Lair",
+    "Song": "Gruntilda's Lair",
     "Category": "bgm",
     "Composers": "Grant Kirkhope",
     "Converters": "Ballaam",
@@ -12091,7 +12091,7 @@
   {
     "Date": "Sun Nov 26 2023 18:29:15 GMT-0600 (Central Standard Time)",
     "Game": "Banjo-Kazooie",
-    "Song": "Mumbos Hut",
+    "Song": "Mumbo's Hut",
     "Category": "bgm",
     "Composers": "Grant Kirkhope",
     "Converters": "Bismuth",
@@ -12109,7 +12109,7 @@
   {
     "Date": "Sun Nov 26 2023 18:31:18 GMT-0600 (Central Standard Time)",
     "Game": "Banjo-Kazooie",
-    "Song": "Mumbos Mountain",
+    "Song": "Mumbo's Mountain",
     "Category": "bgm",
     "Composers": "Grant Kirkhope",
     "Converters": "Bismuth",
@@ -12573,7 +12573,7 @@
   {
     "Date": "Sun Nov 26 2023 19:50:35 GMT-0600 (Central Standard Time)",
     "Game": "Banjo-Kazooie",
-    "Song": "Mumbos Hut",
+    "Song": "Mumbo's Hut",
     "Category": "bgm",
     "Composers": "Grant Kirkhope",
     "Converters": "Bismuth",
@@ -14421,7 +14421,7 @@
   {
     "Date": "Wed Dec 27 2023 13:17:54 GMT-0600 (Central Standard Time)",
     "Game": "Banjo-Tooie",
-    "Song": "Targitzans Temple",
+    "Song": "Targitzan's Temple",
     "Category": "bgm",
     "Composers": "Grant Kirkhope",
     "Converters": "gloomy",
@@ -14781,7 +14781,7 @@
     "Game": "Friday Night Funkin'",
     "Song": "Fresh",
     "Category": "bgm",
-    "Composers": "PhantomArcade",
+    "Composers": "Kawai Sprite",
     "Converters": "Snolid Ice",
     "Binary": "binaries/Friday Night Funkin/Fresh by Snolid Ice.bin",
     "Audio": "https://youtu.be/jWpIdgOQurc",
@@ -15764,7 +15764,7 @@
   {
     "Date": "Mon Jan 29 2024 11:31:32 GMT-0600 (Central Standard Time)",
     "Game": "Banjo-Tooie",
-    "Song": "Isle o Hags",
+    "Song": "Isle o' Hags",
     "Category": "bgm",
     "Composers": "Grant Kirkhope",
     "Converters": "gloomy",
@@ -16080,7 +16080,7 @@
   {
     "Date": "Fri Feb 02 2024 20:54:17 GMT-0600 (Central Standard Time)",
     "Game": "Phoenix Wright: Ace Attorney",
-    "Song": "Phoenix Wright: Objection ~ 2001",
+    "Song": "Objection (2001)",
     "Category": "bgm",
     "Composers": "Masakazu Sugimori",
     "Converters": "HothRaka",
@@ -16879,8 +16879,8 @@
     "Composers": "Tsunku♂️",
     "Converters": "Schwartz Gandhi",
     "Tags": [
-      "spawning",
-      "collection"
+      "Spawning",
+      "Collection"
     ],
     "Verified": true,
     "Date": "Tue Feb 21 2024 14:11:43 GMT+0000 (Coordinated Universal Time)",
@@ -19195,5 +19195,194 @@
     "Date": "Fri Apr 19 2024 10:06:33 GMT+0000 (Coordinated Universal Time)",
     "Binary": "binaries/Doom (1993)/Suspense.bin",
     "Duration": 164
+  },
+  {
+    "Game": "Banjo-Kazooie",
+    "Song": "Win Mini-Game",
+    "Composers": "Grant Kirkhope",
+    "Converters": "CaptainofGarbage",
+    "Category": "events",
+    "Tags": [
+      "Spawning"
+    ],
+    "Verified": true,
+    "Date": "Fri Apr 19 2024 22:22:18 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Banjo-Kazooie/Win%20Mini-Game.mp3",
+    "Binary": "binaries/Banjo-Kazooie/Win Mini-Game.bin",
+    "Duration": 2.9187499999999997
+  },
+  {
+    "Game": "Gremlins 2: The New Batch",
+    "Song": "Ventilation Shafts",
+    "Composers": "Naoki Kodaka",
+    "Converters": "MorKs",
+    "Category": "bgm",
+    "Tags": [
+      "Interiors",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Fri Apr 19 2024 22:23:22 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Gremlins%202%20The%20New%20Batch/Ventilation%20Shafts.mp3",
+    "Binary": "binaries/Gremlins 2 The New Batch/Ventilation Shafts.bin",
+    "Duration": 51.69225599999999
+  },
+  {
+    "Game": "Star Fox 64",
+    "Song": "Zoness",
+    "Composers": "Hajime Wakai",
+    "Converters": "MorKs",
+    "Category": "bgm",
+    "Tags": [
+      "Fights",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Fri Apr 19 2024 22:24:33 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Star%20Fox%2064/Zoness.mp3",
+    "Binary": "binaries/Star Fox 64/Zoness.bin",
+    "Duration": 130.83608249999997
+  },
+  {
+    "Game": "Banjo-Tooie",
+    "Song": "Witchyworld (The Inferno)",
+    "Category": "bgm",
+    "Composers": "Grant Kirkhope",
+    "Converters": "Schwartz Gandhi",
+    "Tags": [
+      "Interiors",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Fri Apr 19 2024 22:25:50 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Banjo-Tooie/Witchyworld%20(The%20Inferno).mp3",
+    "Binary": "binaries/Banjo-Tooie/Witchyworld (The Inferno).bin",
+    "Duration": 125.99874000000001
+  },
+  {
+    "Game": "Banjo-Tooie",
+    "Song": "Isle o' Hags (Cloud Cuckooland)",
+    "Category": "bgm",
+    "Composers": "Grant Kirkhope",
+    "Converters": "Schwartz Gandhi",
+    "Tags": [
+      "Exteriors",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Fri Apr 19 2024 23:21:30 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Banjo-Tooie/Isle%20o%20Hags%20(Cloud%20Cuckooland).mp3",
+    "Binary": "binaries/Banjo-Tooie/Isle o Hags (Cloud Cuckooland).bin",
+    "Duration": 148.23396
+  },
+  {
+    "Game": "Banjo-Tooie",
+    "Song": "Isle o' Hags (Witchyworld)",
+    "Category": "bgm",
+    "Composers": "Grant Kirkhope",
+    "Converters": "Schwartz Gandhi",
+    "Tags": [
+      "Exteriors",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Fri Apr 19 2024 23:22:41 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Banjo-Tooie/Isle%20o%20Hags%20(Witchyworld).mp3",
+    "Binary": "binaries/Banjo-Tooie/Isle o Hags (Witchyworld).bin",
+    "Duration": 148.18953638020832
+  },
+  {
+    "Game": "Banjo-Tooie",
+    "Song": "Isle o' Hags (Cauldron Keep)",
+    "Category": "bgm",
+    "Composers": "Grant Kirkhope",
+    "Converters": "Schwartz Gandhi",
+    "Tags": [
+      "Exteriors",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Fri Apr 19 2024 23:26:07 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Banjo-Tooie/Isle%20o%20Hags%20(Cauldron%20Keep).mp3",
+    "Binary": "binaries/Banjo-Tooie/Isle o Hags (Cauldron Keep).bin",
+    "Duration": 148.09149804687502
+  },
+  {
+    "Game": "Mario + Rabbids: Kingdom Battle",
+    "Song": "Through the Lawns",
+    "Composers": "Grant Kirkhope",
+    "Converters": "LBFrank",
+    "Category": "bgm",
+    "Tags": [
+      "Lobbies and Shops",
+      "Happy",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Sat Apr 20 2024 19:13:12 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Mario%20%20Rabbids%20Kingdom%20Battle/Through%20the%20Lawns.mp3",
+    "Binary": "binaries/Mario  Rabbids Kingdom Battle/Through the Lawns.bin",
+    "Duration": 38
+  },
+  {
+    "Game": "Star Fox 64",
+    "Song": "Boss B",
+    "Composers": "Hajime Wakai",
+    "Converters": "MorKs",
+    "Category": "bgm",
+    "Tags": [
+      "Fights",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Sat Apr 20 2024 19:14:27 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Star%20Fox%2064/Boss%20B.mp3",
+    "Binary": "binaries/Star Fox 64/Boss B.bin",
+    "Duration": 49.013933
+  },
+  {
+    "Game": "Banjo-Kazooie",
+    "Song": "Skull Tile",
+    "Category": "majoritems",
+    "Composers": "Grant Kirkhope",
+    "Converters": "Schwartz Gandhi",
+    "Tags": [
+      "Spawning"
+    ],
+    "Verified": true,
+    "Date": "Sun Apr 21 2024 12:11:12 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Banjo-Kazooie/Skull%20Tile.mp3",
+    "Binary": "binaries/Banjo-Kazooie/Skull Tile.bin",
+    "Duration": 1.3571383333333333
+  },
+  {
+    "Game": "Banjo-Kazooie",
+    "Song": "Music Tile",
+    "Category": "minoritems",
+    "Composers": "Grant Kirkhope",
+    "Converters": "Schwartz Gandhi",
+    "Tags": [
+      "Collection"
+    ],
+    "Verified": true,
+    "Date": "Sun Apr 21 2024 12:12:15 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Banjo-Kazooie/Music%20Tile.mp3",
+    "Binary": "binaries/Banjo-Kazooie/Music Tile.bin",
+    "Duration": 0.6922950000000001
+  },
+  {
+    "Game": "Banjo-Kazooie",
+    "Song": "Joker Tile",
+    "Category": "majoritems",
+    "Composers": "Grant Kirkhope",
+    "Converters": "Schwartz Gandhi",
+    "Tags": [
+      "Collection"
+    ],
+    "Verified": true,
+    "Date": "Sun Apr 21 2024 12:13:34 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Banjo-Kazooie/Joker%20Tile.mp3",
+    "Binary": "binaries/Banjo-Kazooie/Joker Tile.bin",
+    "Duration": 2.1620154166666663
   }
 ]
