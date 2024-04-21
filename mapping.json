@@ -19363,5 +19363,17 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Banjo-Kazooie/Music%20Tile.mp3",
     "Binary": "binaries/Banjo-Kazooie/Music Tile.bin",
     "Duration": 0.6922950000000001
+  },
+  {
+    "Game": "Banjo-Kazooie",
+    "Song": "Joker Tile",
+    "Category": "majoritems",
+    "Composers": "Grant Kirkhope",
+    "Converters": "Schwartz Gandhi",
+    "Verified": true,
+    "Date": "Sun Apr 21 2024 12:13:34 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Banjo-Kazooie/Joker%20Tile.mp3",
+    "Binary": "binaries/Banjo-Kazooie/Joker Tile.bin",
+    "Duration": 2.1620154166666663
   }
 ]
