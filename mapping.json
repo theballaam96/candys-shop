@@ -19538,5 +19538,22 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Mario%20Party%202/Look%20Away%20(REV%201).mp3",
     "Binary": "binaries/Mario Party 2/Look Away (REV 1).bin",
     "Duration": 5.57291109375
+  },
+  {
+    "Game": "Pokémon Stadium",
+    "Song": "Battle End",
+    "Composers": "Hajime Wakai, Kenta Nagata, Toru Minegishi",
+    "Converters": "SirEnobMort",
+    "Category": "events",
+    "Update Notes": "Removed excess event from MIDI to cut down silence at end and boosted overall volume.",
+    "Tags": [
+      "Spawning",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Mon Apr 22 2024 11:52:09 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Pok%C3%A9mon%20Stadium/Battle%20End%20(REV%201).mp3",
+    "Binary": "binaries/Pokémon Stadium/Battle End (REV 1).bin",
+    "Duration": 6.764961406250001
   }
 ]
