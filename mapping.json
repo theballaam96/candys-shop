@@ -19555,5 +19555,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Pok%C3%A9mon%20Stadium/Battle%20End%20(REV%201).mp3",
     "Binary": "binaries/Pokémon Stadium/Battle End (REV 1).bin",
     "Duration": 6.764961406250001
+  },
+  {
+    "Game": "Bomberman 64: The Second Attack!",
+    "Song": "Prison Planet Thantos",
+    "Composers": "Tomohiko Kira, Yasunori Mitsuda, Hidenobu Otsuki, Tomori Kudo, Hiroyo Yamanaka, Yoshitaka Hirota, Kenji Hiramatsu",
+    "Converters": "The Specialize",
+    "Category": "bgm",
+    "Audio": "https://www.youtube.com/watch?v=CU3ZaSRyMCE",
+    "Tags": [
+      "Exteriors",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Mon Apr 22 2024 12:19:37 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Bomberman 64 The Second Attack/Prison Planet Thantos.bin",
+    "Duration": 77.46102625
   }
 ]
