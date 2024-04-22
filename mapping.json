@@ -19486,5 +19486,22 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Pok%C3%A9mon%20Stadium/VS%20Intro%20(REV%203).mp3",
     "Binary": "binaries/Pokémon Stadium/VS Intro (REV 3).bin",
     "Duration": 7.658446875000001
+  },
+  {
+    "Game": "Pokémon Stadium",
+    "Song": "Mini Game End",
+    "Composers": "Hajime Wakai, Kenta Nagata, Toru Minegishi",
+    "Converters": "SirEnobMort",
+    "Category": "events",
+    "Update Notes": "Removed excess event from MIDI to cut down silence at end.",
+    "Tags": [
+      "Minigames",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Mon Apr 22 2024 11:46:32 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Pok%C3%A9mon%20Stadium/Mini%20Game%20End%20(REV%201).mp3",
+    "Binary": "binaries/Pokémon Stadium/Mini Game End (REV 1).bin",
+    "Duration": 2.8124971875
   }
 ]
