@@ -19503,5 +19503,23 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Pok%C3%A9mon%20Stadium/Mini%20Game%20End%20(REV%201).mp3",
     "Binary": "binaries/Pokémon Stadium/Mini Game End (REV 1).bin",
     "Duration": 2.8124971875
+  },
+  {
+    "Game": "Pokémon Stadium",
+    "Song": "VS Won",
+    "Composers": "Hajime Wakai, Kenta Nagata, Toru Minegishi",
+    "Converters": "SirEnobMort",
+    "Category": "events",
+    "Update Notes": "Removed excess event from MIDI to cut down silence at end.",
+    "Tags": [
+      "Minigames",
+      "Exteriors",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Mon Apr 22 2024 11:47:33 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Pok%C3%A9mon%20Stadium/VS%20Won%20(REV%201).mp3",
+    "Binary": "binaries/Pokémon Stadium/VS Won (REV 1).bin",
+    "Duration": 21.097665375
   }
 ]
