@@ -19571,5 +19571,22 @@
     "Date": "Mon Apr 22 2024 12:19:37 GMT+0000 (Coordinated Universal Time)",
     "Binary": "binaries/Bomberman 64 The Second Attack/Prison Planet Thantos.bin",
     "Duration": 77.46102625
+  },
+  {
+    "Game": "Metroid Fusion",
+    "Song": "Sector 3 Cooling Device Restoration Timer Mission",
+    "Category": "bgm",
+    "Composers": "Minako Adachi, Akira Fujiwara",
+    "Converters": "Schwartz Gandhi",
+    "Tags": [
+      "Interiors",
+      "Gloomy"
+    ],
+    "Additional Notes": "Emergency in FrankerZ",
+    "Verified": true,
+    "Date": "Tue Apr 23 2024 21:19:11 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Metroid%20Fusion/Sector%203%20Cooling%20Device%20Restoration%20Timer%20Mission.mp3",
+    "Binary": "binaries/Metroid Fusion/Sector 3 Cooling Device Restoration Timer Mission.bin",
+    "Duration": 149.50811199999998
   }
 ]
