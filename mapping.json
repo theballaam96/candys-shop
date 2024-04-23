@@ -19588,5 +19588,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Metroid%20Fusion/Sector%203%20Cooling%20Device%20Restoration%20Timer%20Mission.mp3",
     "Binary": "binaries/Metroid Fusion/Sector 3 Cooling Device Restoration Timer Mission.bin",
     "Duration": 149.50811199999998
+  },
+  {
+    "Game": "Final Fantasy VI",
+    "Song": "Kefka",
+    "Composers": "Nobuo Uematsu",
+    "Converters": "OnlySpaghettiCode",
+    "Category": "bgm",
+    "Tags": [
+      "Interiors",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Tue Apr 23 2024 21:20:36 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Final%20Fantasy%20VI/Kefka.mp3",
+    "Binary": "binaries/Final Fantasy VI/Kefka.bin",
+    "Duration": 77.34375
   }
 ]
