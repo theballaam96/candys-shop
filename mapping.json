@@ -19619,5 +19619,21 @@
     "Audio": "https://www.youtube.com/watch?v=IZxhxeDH5Cg",
     "Binary": "binaries/Double Dragon/Mission 1 (NES).bin",
     "Duration": 77.21588849999999
+  },
+  {
+    "Game": "Mario + Rabbids: Kingdom Battle",
+    "Song": "Beep-0's Lesson",
+    "Composers": "Grant Kirkhope",
+    "Converters": "LBFrank",
+    "Category": "bgm",
+    "Tags": [
+      "Fights",
+      "Minigames"
+    ],
+    "Verified": true,
+    "Date": "Wed Apr 24 2024 10:05:10 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Mario%20%20Rabbids%20Kingdom%20Battle/Beep-0s%20Lesson.mp3",
+    "Binary": "binaries/Mario  Rabbids Kingdom Battle/Beep-0s Lesson.bin",
+    "Duration": 46.571409166666676
   }
 ]
