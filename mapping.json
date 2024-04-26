@@ -19667,5 +19667,21 @@
     "Date": "Fri Apr 26 2024 10:31:25 GMT+0000 (Coordinated Universal Time)",
     "Binary": "binaries/Mario  Luigi Dream Team/Never Let Up (REV 1).bin",
     "Duration": 82.04493268554687
+  },
+  {
+    "Game": "Castlevania: Portrait of Ruin",
+    "Song": "Hail from the Past",
+    "Composers": "Michiru Yamane",
+    "Converters": "Wibdiwoh",
+    "Category": "bgm",
+    "Tags": [
+      "Interiors",
+      "Exteriors"
+    ],
+    "Verified": true,
+    "Date": "Fri Apr 26 2024 10:32:46 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Castlevania%20Portrait%20of%20Ruin/Hail%20from%20the%20Past.mp3",
+    "Binary": "binaries/Castlevania Portrait of Ruin/Hail from the Past.bin",
+    "Duration": 136.58540000000002
   }
 ]
