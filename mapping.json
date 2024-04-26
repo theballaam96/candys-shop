@@ -19650,5 +19650,22 @@
     "Date": "Wed Apr 24 2024 19:57:28 GMT+0000 (Coordinated Universal Time)",
     "Binary": "binaries/Iggys Reckin Balls/Tower 6.bin",
     "Duration": 80.20145305
+  },
+  {
+    "Game": "Mario & Luigi: Dream Team",
+    "Song": "Never Let Up!",
+    "Category": "bgm",
+    "Composers": "Yoko Shimomura",
+    "Converters": "Schwartz Gandhi",
+    "Audio": "https://youtu.be/fMF9pUgtRLg",
+    "Tags": [
+      "Fights",
+      "Happy"
+    ],
+    "Update Notes": "Better Orchestra Hits, rabalancing, compacted channels to fit more orchestra hits, fixed a thing with the piccolo, did I mention better orchestra hits yet?",
+    "Verified": true,
+    "Date": "Fri Apr 26 2024 10:31:25 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Mario  Luigi Dream Team/Never Let Up (REV 1).bin",
+    "Duration": 82.04493268554687
   }
 ]
