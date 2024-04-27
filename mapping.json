@@ -19744,5 +19744,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Banjo-Tooie/Cheato%20Page%20Appears.mp3",
     "Binary": "binaries/Banjo-Tooie/Cheato Page Appears.bin",
     "Duration": 4
+  },
+  {
+    "Game": "Banjo-Tooie",
+    "Song": "Shootin' With The Fishes",
+    "Composers": "Grant Kirkhope",
+    "Converters": "UmedMuzl",
+    "Category": "bgm",
+    "Tags": [
+      "Minigames",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Sat Apr 27 2024 21:13:40 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Banjo-Tooie/Shootin%20With%20The%20Fishes.mp3",
+    "Binary": "binaries/Banjo-Tooie/Shootin With The Fishes.bin",
+    "Duration": 63.1875
   }
 ]
