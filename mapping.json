@@ -19760,5 +19760,22 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Banjo-Tooie/Shootin%20With%20The%20Fishes.mp3",
     "Binary": "binaries/Banjo-Tooie/Shootin With The Fishes.bin",
     "Duration": 63.1875
+  },
+  {
+    "Game": "Super Mario Sunshine",
+    "Song": "Secret Course",
+    "Composers": "Koji Kondo",
+    "Converters": "UmedMuzl",
+    "Category": "bgm",
+    "Update Notes": "Dont even ask why I did this",
+    "Tags": [
+      "Minigames",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Sat Apr 27 2024 21:21:30 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Super%20Mario%20Sunshine/Secret%20Course.mp3",
+    "Binary": "binaries/Super Mario Sunshine/Secret Course.bin",
+    "Duration": 89.28562500000001
   }
 ]
