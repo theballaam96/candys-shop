@@ -25,7 +25,7 @@
   },
   {
     "Game": "Banjo-Kazooie",
-    "Song": "Banjos House",
+    "Song": "Banjo's House",
     "Category": "bgm",
     "Composers": "Grant Kirkhope",
     "Converters": "Bismuth",
@@ -75,7 +75,7 @@
   },
   {
     "Game": "Banjo-Kazooie",
-    "Song": "Gruntys Lair",
+    "Song": "Gruntilda's Lair",
     "Category": "bgm",
     "Composers": "Grant Kirkhope",
     "Converters": "Bismuth",
@@ -102,7 +102,7 @@
   },
   {
     "Game": "Banjo-Kazooie",
-    "Song": "Mumbos Hut",
+    "Song": "Mumbo's Hut",
     "Category": "bgm",
     "Composers": "Grant Kirkhope",
     "Converters": "Bismuth",
@@ -120,7 +120,7 @@
   },
   {
     "Game": "Banjo-Kazooie",
-    "Song": "Mumbos Mountain",
+    "Song": "Mumbo's Mountain",
     "Category": "bgm",
     "Composers": "Grant Kirkhope",
     "Converters": "Bismuth",
@@ -340,7 +340,7 @@
   },
   {
     "Game": "Banjo-Tooie",
-    "Song": "Boggys Igloo",
+    "Song": "Boggy's Igloo",
     "Category": "bgm",
     "Composers": "Grant Kirkhope",
     "Converters": "Ballaam",
@@ -441,7 +441,7 @@
   },
   {
     "Game": "Banjo-Tooie",
-    "Song": "Clinkers Cavern",
+    "Song": "Clinker's Cavern",
     "Category": "bgm",
     "Composers": "Grant Kirkhope",
     "Converters": "Ballaam",
@@ -473,7 +473,7 @@
   },
   {
     "Game": "Banjo-Tooie",
-    "Song": "Fun n Games",
+    "Song": "Fun 'n' Games",
     "Category": "bgm",
     "Composers": "Grant Kirkhope",
     "Converters": "Ballaam",
@@ -585,7 +585,7 @@
   },
   {
     "Game": "Banjo-Tooie",
-    "Song": "Isle o Hags",
+    "Song": "Isle o' Hags",
     "Category": "bgm",
     "Composers": "Grant Kirkhope",
     "Converters": "gloomy",
@@ -714,7 +714,7 @@
   },
   {
     "Game": "Banjo-Tooie",
-    "Song": "Mumbos Skull",
+    "Song": "Mumbo's Skull",
     "Category": "bgm",
     "Composers": "Grant Kirkhope",
     "Converters": "gloomy",
@@ -730,7 +730,7 @@
   },
   {
     "Game": "Banjo-Tooie",
-    "Song": "Targitzans Temple",
+    "Song": "Targitzan's Temple",
     "Category": "bgm",
     "Composers": "Grant Kirkhope",
     "Converters": "gloomy",
@@ -4350,7 +4350,7 @@
   {
     "Date": "Sat Jul 08 2023 22:17:51 GMT-0500 (Central Daylight Time)",
     "Game": "Banjo-Kazooie",
-    "Song": "Gruntys Lair",
+    "Song": "Gruntilda's Lair",
     "Category": "bgm",
     "Composers": "Grant Kirkhope",
     "Converters": "Ballaam",
@@ -12091,7 +12091,7 @@
   {
     "Date": "Sun Nov 26 2023 18:29:15 GMT-0600 (Central Standard Time)",
     "Game": "Banjo-Kazooie",
-    "Song": "Mumbos Hut",
+    "Song": "Mumbo's Hut",
     "Category": "bgm",
     "Composers": "Grant Kirkhope",
     "Converters": "Bismuth",
@@ -12109,7 +12109,7 @@
   {
     "Date": "Sun Nov 26 2023 18:31:18 GMT-0600 (Central Standard Time)",
     "Game": "Banjo-Kazooie",
-    "Song": "Mumbos Mountain",
+    "Song": "Mumbo's Mountain",
     "Category": "bgm",
     "Composers": "Grant Kirkhope",
     "Converters": "Bismuth",
@@ -12573,7 +12573,7 @@
   {
     "Date": "Sun Nov 26 2023 19:50:35 GMT-0600 (Central Standard Time)",
     "Game": "Banjo-Kazooie",
-    "Song": "Mumbos Hut",
+    "Song": "Mumbo's Hut",
     "Category": "bgm",
     "Composers": "Grant Kirkhope",
     "Converters": "Bismuth",
@@ -14421,7 +14421,7 @@
   {
     "Date": "Wed Dec 27 2023 13:17:54 GMT-0600 (Central Standard Time)",
     "Game": "Banjo-Tooie",
-    "Song": "Targitzans Temple",
+    "Song": "Targitzan's Temple",
     "Category": "bgm",
     "Composers": "Grant Kirkhope",
     "Converters": "gloomy",
@@ -14781,7 +14781,7 @@
     "Game": "Friday Night Funkin'",
     "Song": "Fresh",
     "Category": "bgm",
-    "Composers": "PhantomArcade",
+    "Composers": "Kawai Sprite",
     "Converters": "Snolid Ice",
     "Binary": "binaries/Friday Night Funkin/Fresh by Snolid Ice.bin",
     "Audio": "https://youtu.be/jWpIdgOQurc",
@@ -15764,7 +15764,7 @@
   {
     "Date": "Mon Jan 29 2024 11:31:32 GMT-0600 (Central Standard Time)",
     "Game": "Banjo-Tooie",
-    "Song": "Isle o Hags",
+    "Song": "Isle o' Hags",
     "Category": "bgm",
     "Composers": "Grant Kirkhope",
     "Converters": "gloomy",
@@ -16080,7 +16080,7 @@
   {
     "Date": "Fri Feb 02 2024 20:54:17 GMT-0600 (Central Standard Time)",
     "Game": "Phoenix Wright: Ace Attorney",
-    "Song": "Phoenix Wright: Objection ~ 2001",
+    "Song": "Objection (2001)",
     "Category": "bgm",
     "Composers": "Masakazu Sugimori",
     "Converters": "HothRaka",
@@ -16879,8 +16879,8 @@
     "Composers": "Tsunku♂️",
     "Converters": "Schwartz Gandhi",
     "Tags": [
-      "spawning",
-      "collection"
+      "Spawning",
+      "Collection"
     ],
     "Verified": true,
     "Date": "Tue Feb 21 2024 14:11:43 GMT+0000 (Coordinated Universal Time)",
@@ -18528,7 +18528,8 @@
     "Additional Notes": "You got a tape!",
     "Tags": [
       "Collection",
-      "Happy"
+      "Happy",
+      "Delisted"
     ],
     "Verified": true,
     "Date": "Mon Apr 01 2024 20:16:47 GMT+0000 (Coordinated Universal Time)",
@@ -18567,5 +18568,1120 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Banjo-Kazooie/Collect%20Extra%20Life.mp3",
     "Binary": "binaries/Banjo-Kazooie/Collect Extra Life.bin",
     "Duration": 2.4017777083333334
+  },
+  {
+    "Game": "Donkey Kong 64",
+    "Song": "DK Rap (Instrumental)",
+    "Composers": "Grant Kirkhope",
+    "Converters": "UmedMuzl",
+    "Category": "bgm",
+    "Audio": "https://www.youtube.com/watch?v=jIitx1R7yog",
+    "Tags": [
+      "Exteriors",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Wed Apr 03 2024 12:54:57 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Donkey Kong 64/DK Rap (Instrumental).bin",
+    "Duration": 213.14517550000002
+  },
+  {
+    "Game": "EarthBound",
+    "Song": "The Metropolis of Fourside",
+    "Composers": "Keiichi Suzuki",
+    "Converters": "CaptainofGarbage",
+    "Category": "bgm",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/EarthBound/The%20Metropolis%20of%20Fourside.mp3",
+    "Tags": [
+      "Exteriors",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Fri Apr 05 2024 23:35:12 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/EarthBound/The Metropolis of Fourside.bin",
+    "Duration": 103.24121712499999
+  },
+  {
+    "Game": "Super Mario World",
+    "Song": "Overworld",
+    "Category": "bgm",
+    "Composers": "Koji Kondo",
+    "Converters": "Schwartz Gandhi",
+    "Tags": [
+      "Exteriors",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Sun Apr 07 2024 18:02:15 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Super%20Mario%20World/Overworld.mp3",
+    "Binary": "binaries/Super Mario World/Overworld.bin",
+    "Duration": 41.93658235416667
+  },
+  {
+    "Game": "Touhou Kouryudou ~ Unconnected Marketeers",
+    "Song": "The Perpetual Snow of Komakusa Blossoms",
+    "Category": "bgm",
+    "Composers": "ZUN",
+    "Converters": "Schwartz Gandhi",
+    "Tags": [
+      "Exteriors",
+      "Happy",
+      "Calm"
+    ],
+    "Additional Notes": "mmm myess dedicated 808 channel at max volume",
+    "Verified": true,
+    "Date": "Sun Apr 07 2024 22:32:32 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Touhou%20Kouryudou%20~%20Unconnected%20Marketeers/The%20Perpetual%20Snow%20of%20Komakusa%20Blossoms.mp3",
+    "Binary": "binaries/Touhou Kouryudou ~ Unconnected Marketeers/The Perpetual Snow of Komakusa Blossoms.bin",
+    "Duration": 160.957888
+  },
+  {
+    "Game": "Kirby's Dream Land",
+    "Song": "Green Greens",
+    "Composers": "Jun Ishikawa",
+    "Converters": "Mr_Rippe",
+    "Category": "bgm",
+    "Update Notes": "Normalizes volume",
+    "Tags": [
+      "Exteriors",
+      "Minigames",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Mon Apr 08 2024 16:19:01 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Kirbys%20Dream%20Land/Green%20Greens%20(REV%201).mp3",
+    "Binary": "binaries/Kirbys Dream Land/Green Greens (REV 1).bin",
+    "Duration": 58.38066624999999
+  },
+  {
+    "Game": "Mother 3",
+    "Song": "Dry Guys",
+    "Composers": "Shogo Sakai",
+    "Converters": "nerosomething",
+    "Category": "bgm",
+    "Tags": [
+      "Minigames",
+      "Happy",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Tue Apr 09 2024 19:39:55 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Mother%203/Dry%20Guys.mp3",
+    "Binary": "binaries/Mother 3/Dry Guys.bin",
+    "Duration": 54.98266087499999
+  },
+  {
+    "Game": "Mega Man Battle Network",
+    "Song": "Fire Field",
+    "Composers": "Akari Kaida",
+    "Converters": "Wibdiwoh",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors"
+    ],
+    "Verified": true,
+    "Date": "Wed Apr 10 2024 10:46:27 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://www.youtube.com/watch?v=2L9lmJ0o7Os",
+    "Binary": "binaries/Mega Man Battle Network/Fire Field.bin",
+    "Duration": 55.17405196875001
+  },
+  {
+    "Game": "Mega Man Battle Network",
+    "Song": "Red Or Blue",
+    "Composers": "Akari Kaida",
+    "Converters": "Wibdiwoh",
+    "Category": "bgm",
+    "Tags": [
+      "Interiors"
+    ],
+    "Verified": true,
+    "Date": "Wed Apr 10 2024 10:48:08 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://www.youtube.com/watch?v=w3bI421UB4g",
+    "Binary": "binaries/Mega Man Battle Network/Red Or Blue.bin",
+    "Duration": 38.026331
+  },
+  {
+    "Game": "Mega Man Battle Network 2",
+    "Song": "Fear in the Castle",
+    "Composers": "Yoshino Aoki",
+    "Converters": "Wibdiwoh",
+    "Category": "bgm",
+    "Tags": [
+      "Interiors",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Wed Apr 10 2024 10:49:28 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://www.youtube.com/watch?v=In1rGUbl8qE",
+    "Binary": "binaries/Mega Man Battle Network 2/Fear in the Castle.bin",
+    "Duration": 32.119791666666664
+  },
+  {
+    "Game": "Mega Man Battle Network 2",
+    "Song": "And You Will Know The Truth",
+    "Composers": "Yoshino Aoki",
+    "Converters": "Wibdiwoh",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors"
+    ],
+    "Verified": true,
+    "Date": "Wed Apr 10 2024 10:51:09 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://www.youtube.com/watch?v=YFGYxYPvtYo",
+    "Binary": "binaries/Mega Man Battle Network 2/And You Will Know The Truth.bin",
+    "Duration": 43.81692046875
+  },
+  {
+    "Game": "Mega Man Battle Network 3",
+    "Song": "Navi Customizer",
+    "Composers": "Yoshino Aoki",
+    "Converters": "Wibdiwoh",
+    "Category": "bgm",
+    "Tags": [
+      "Lobbies and Shops"
+    ],
+    "Verified": true,
+    "Date": "Wed Apr 10 2024 10:52:44 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://www.youtube.com/watch?v=TLWyKxkoTRw",
+    "Binary": "binaries/Mega Man Battle Network 3/Navi Customizer.bin",
+    "Duration": 48.4090425
+  },
+  {
+    "Game": "Mega Man Battle Network 4",
+    "Song": "Densan Stadium",
+    "Composers": "Toshihiko Horiyama",
+    "Converters": "Wibdiwoh",
+    "Category": "bgm",
+    "Tags": [
+      "Lobbies and Shops"
+    ],
+    "Verified": true,
+    "Date": "Wed Apr 10 2024 10:54:17 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://www.youtube.com/watch?v=NQvFoxT40CY",
+    "Binary": "binaries/Mega Man Battle Network 4/Densan Stadium.bin",
+    "Duration": 35.24550046875
+  },
+  {
+    "Game": "Mega Man Battle Network 4",
+    "Song": "Save Our Planet",
+    "Composers": "Toshihiko Horiyama",
+    "Converters": "Wibdiwoh",
+    "Category": "bgm",
+    "Tags": [
+      "Minigames"
+    ],
+    "Verified": true,
+    "Date": "Wed Apr 10 2024 10:56:43 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://www.youtube.com/watch?v=AB2obuPbNvg",
+    "Binary": "binaries/Mega Man Battle Network 4/Save Our Planet.bin",
+    "Duration": 47.7974684375
+  },
+  {
+    "Game": "Mega Man Battle Network 4",
+    "Song": "Story of Wonder",
+    "Composers": "Toshihiko Horiyama",
+    "Converters": "Wibdiwoh",
+    "Category": "bgm",
+    "Tags": [
+      "Interiors",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Wed Apr 10 2024 10:58:01 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://www.youtube.com/watch?v=Q1XCojV-9RY",
+    "Binary": "binaries/Mega Man Battle Network 4/Story of Wonder.bin",
+    "Duration": 30.572084812499995
+  },
+  {
+    "Game": "Mega Man Battle Network 4",
+    "Song": "Vampire",
+    "Composers": "Toshihiko Horiyama",
+    "Converters": "Wibdiwoh",
+    "Category": "bgm",
+    "Tags": [
+      "Interiors",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Wed Apr 10 2024 11:01:19 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://www.youtube.com/watch?v=tcJmoxNGRtg",
+    "Binary": "binaries/Mega Man Battle Network 4/Vampire.bin",
+    "Duration": 42.64973958333333
+  },
+  {
+    "Game": "Mega Man Battle Network 5",
+    "Song": "Liberate Mission",
+    "Composers": "Akari Kaida",
+    "Converters": "Wibdiwoh",
+    "Category": "bgm",
+    "Tags": [
+      "Interiors"
+    ],
+    "Verified": true,
+    "Date": "Wed Apr 10 2024 11:03:37 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://www.youtube.com/watch?v=f_lKLSg8rgU",
+    "Binary": "binaries/Mega Man Battle Network 5/Liberate Mission.bin",
+    "Duration": 29.24550646875
+  },
+  {
+    "Game": "Mega Man Battle Network 5",
+    "Song": "Castle of NINJA!",
+    "Composers": "Akari Kaida",
+    "Converters": "Wibdiwoh",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors"
+    ],
+    "Verified": true,
+    "Date": "Wed Apr 10 2024 11:05:22 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://www.youtube.com/watch?v=tLLQUjUaPO8",
+    "Binary": "binaries/Mega Man Battle Network 5/Castle of NINJA.bin",
+    "Duration": 51.80764049999999
+  },
+  {
+    "Game": "Mega Man Battle Network 6",
+    "Song": "Surge of Power!",
+    "Composers": "Yoshino Aoki",
+    "Converters": "Wibdiwoh",
+    "Category": "bgm",
+    "Tags": [
+      "Fights"
+    ],
+    "Verified": true,
+    "Date": "Wed Apr 10 2024 11:06:56 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://www.youtube.com/watch?v=jdFirVDWPZo",
+    "Binary": "binaries/Mega Man Battle Network 6/Surge of Power.bin",
+    "Duration": 57.7
+  },
+  {
+    "Game": "System Shock",
+    "Song": "Energy Systems",
+    "Composers": "Greg LoPiccolo",
+    "Converters": "CaptainofGarbage",
+    "Category": "bgm",
+    "Audio": "https://www.youtube.com/watch?v=b8MzkAnLn1c",
+    "Tags": [
+      "Exteriors",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Wed Apr 10 2024 11:08:04 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/System Shock/Energy Systems.bin",
+    "Duration": 168
+  },
+  {
+    "Game": "Shinobi III: Return of the Ninja Master",
+    "Song": "Izayoi",
+    "Composers": "Masayuki Nagao",
+    "Converters": "MorKs",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Wed Apr 10 2024 11:17:20 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Shinobi%20III%20Return%20of%20the%20Ninja%20Master/Izayoi.mp3",
+    "Binary": "binaries/Shinobi III Return of the Ninja Master/Izayoi.bin",
+    "Duration": 99.246357
+  },
+  {
+    "Game": "Diddy Kong Racing",
+    "Song": "T.T.'s Theme",
+    "Composers": "David Wise",
+    "Converters": "MorKs",
+    "Category": "bgm",
+    "Tags": [
+      "Lobbies and Shops",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Wed Apr 10 2024 11:20:12 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Diddy%20Kong%20Racing/TTs%20Theme.mp3",
+    "Binary": "binaries/Diddy Kong Racing/TTs Theme.bin",
+    "Duration": 30.422520000000002
+  },
+  {
+    "Game": "Castlevania II: Simon's Quest",
+    "Song": "The Silence of Daylight",
+    "Category": "bgm",
+    "Composers": "Matsubara Kenichi, Terashima Satoe, Murata Kouji",
+    "Converters": "Schwartz Gandhi",
+    "Audio": "https://youtu.be/1UILq0d_0Cc",
+    "Tags": [
+      "Lobbies and Shops",
+      "Exteriors",
+      "Calm"
+    ],
+    "Update Notes": "goodbye piano",
+    "Verified": true,
+    "Date": "Wed Apr 10 2024 11:21:54 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Castlevania II Simons Quest/The Silence of Daylight (REV 1).bin",
+    "Duration": 34.90798363541667
+  },
+  {
+    "Game": "Donkey Kong Country 3: Dixie Kong's Double Trouble!",
+    "Song": "Water World",
+    "Composers": "Eveline Fischer",
+    "Converters": "MorKs",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Wed Apr 10 2024 19:15:24 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Donkey%20Kong%20Country%203%20Dixie%20Kongs%20Double%20Trouble/Water%20World.mp3",
+    "Binary": "binaries/Donkey Kong Country 3 Dixie Kongs Double Trouble/Water World.bin",
+    "Duration": 95.8480715
+  },
+  {
+    "Game": "Final Fantasy VI",
+    "Song": "Johnny C. Bad",
+    "Composers": "Nobuo Uematsu",
+    "Converters": "OnlySpaghettiCode",
+    "Category": "bgm",
+    "Tags": [
+      "Lobbies and Shops",
+      "Interiors",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Fri Apr 12 2024 00:11:11 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Final%20Fantasy%20VI/Johnny%20C%20Bad.mp3",
+    "Binary": "binaries/Final Fantasy VI/Johnny C Bad.bin",
+    "Duration": 81.340976875
+  },
+  {
+    "Game": "Donkey Kong 64",
+    "Song": "Angry Aztec (Electronic Remix)",
+    "Composers": "Grant Kirkhope, Dr. Fruitcake",
+    "Converters": "UmedMuzl",
+    "Category": "bgm",
+    "Tags": [
+      "Fights",
+      "Exteriors",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Fri Apr 12 2024 04:05:47 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Donkey%20Kong%2064/Angry%20Aztec%20(Electronic%20Remix).mp3",
+    "Binary": "binaries/Donkey Kong 64/Angry Aztec (Electronic Remix).bin",
+    "Duration": 122.0703125
+  },
+  {
+    "Game": "Donkey Kong 64",
+    "Song": "DK Isles (SSBM Remix)",
+    "Composers": "Grant Kirkhope, Dave Phaneuf",
+    "Converters": "UmedMuzl",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Fri Apr 12 2024 09:51:33 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Donkey%20Kong%2064/DK%20Isles%20(SSBM%20Remix).mp3",
+    "Binary": "binaries/Donkey Kong 64/DK Isles (SSBM Remix).bin",
+    "Duration": 189.13333333333335
+  },
+  {
+    "Game": "Castlevania: Aria of Sorrow",
+    "Song": "Clock Tower",
+    "Composers": "Michiru Yamane",
+    "Converters": "CaptainofGarbage",
+    "Category": "bgm",
+    "Audio": "https://www.youtube.com/watch?v=CEUSjIQwOSQ",
+    "Tags": [
+      "Exteriors",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Fri Apr 12 2024 23:24:48 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Castlevania Aria of Sorrow/Clock Tower.bin",
+    "Duration": 96.79249800000001
+  },
+  {
+    "Game": "Final Fantasy VI",
+    "Song": "Save Them!",
+    "Composers": "Nobuo Uematsu",
+    "Converters": "OnlySpaghettiCode",
+    "Category": "bgm",
+    "Tags": [
+      "Minigames"
+    ],
+    "Verified": true,
+    "Date": "Fri Apr 12 2024 23:26:12 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Final%20Fantasy%20VI/Save%20Them.mp3",
+    "Binary": "binaries/Final Fantasy VI/Save Them.bin",
+    "Duration": 52.279385624999996
+  },
+  {
+    "Game": "Shin Megami Tensei IV",
+    "Song": "Tokyo",
+    "Composers": "Ryota Kozuka",
+    "Converters": "AaronDobbe",
+    "Category": "bgm",
+    "Audio": "https://www.youtube.com/watch?v=46HT2XhH9t0",
+    "Tags": [
+      "Exteriors"
+    ],
+    "Verified": true,
+    "Date": "Fri Apr 12 2024 23:42:23 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Shin Megami Tensei IV/Tokyo.bin",
+    "Duration": 84.1875
+  },
+  {
+    "Game": "Donkey Kong Country 3: Dixie Kong's Double Trouble!",
+    "Song": "Waterfall",
+    "Composers": "Eveline Fischer",
+    "Converters": "MorKs",
+    "Category": "bgm",
+    "Tags": [
+      "Interiors",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Sun Apr 14 2024 01:48:14 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Donkey%20Kong%20Country%203%20Dixie%20Kongs%20Double%20Trouble/Waterfall.mp3",
+    "Binary": "binaries/Donkey Kong Country 3 Dixie Kongs Double Trouble/Waterfall.bin",
+    "Duration": 85.581344
+  },
+  {
+    "Game": "Tony Hawk's Pro Skater",
+    "Song": "Get Tape / Special Trick",
+    "Composers": "Brian Bright",
+    "Converters": "Zion Jaymes",
+    "Category": "majoritems",
+    "Update Notes": "(Hopefully) Fixed a bug that causes all music to cease. Also tweaked the sound slightly",
+    "Additional Notes": "You got a Tape!",
+    "Tags": [
+      "Collection",
+      "Happy",
+      "Delisted"
+    ],
+    "Verified": true,
+    "Date": "Sun Apr 14 2024 01:52:43 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Tony%20Hawks%20Pro%20Skater/Get%20Tape%20%20Special%20Trick%20(REV%201).mp3",
+    "Binary": "binaries/Tony Hawks Pro Skater/Get Tape  Special Trick (REV 1).bin",
+    "Duration": 1.2
+  },
+  {
+    "Game": "The Legend of Zelda: Ocarina of Time",
+    "Song": "I Have Found It! (Got Item)",
+    "Composers": "Koji Kondo",
+    "Converters": "Fiy3ro",
+    "Category": "majoritems",
+    "Update Notes": "Noticed that there are long periods of silence after collecting. Opened the MIDI and found more stray volume events. Deleted them and used the FL \"Full song\" playlist export. Tested with a custom .candy file.",
+    "Tags": [
+      "Collection"
+    ],
+    "Verified": true,
+    "Date": "Sun Apr 14 2024 03:07:21 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/The%20Legend%20of%20Zelda%20Ocarina%20of%20Time/I%20Have%20Found%20It%20(Got%20Item)%20(REV%202).mp3",
+    "Binary": "binaries/The Legend of Zelda Ocarina of Time/I Have Found It (Got Item) (REV 2).bin",
+    "Duration": 2.75
+  },
+  {
+    "Game": "Impossible Creatures",
+    "Song": "Objective Complete",
+    "Composers": "Crispin Hands",
+    "Converters": "LBFrank",
+    "Category": "events",
+    "Tags": [
+      "Spawning",
+      "Collection"
+    ],
+    "Verified": true,
+    "Date": "Sun Apr 14 2024 03:31:03 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Impossible%20Creatures/Objective%20Complete.mp3",
+    "Binary": "binaries/Impossible Creatures/Objective Complete.bin",
+    "Duration": 2.9791666666666665
+  },
+  {
+    "Game": "Tony Hawk's Pro Skater",
+    "Song": "Get Tape / Special Trick",
+    "Composers": "Brian Bright",
+    "Converters": "Zion Jaymes",
+    "Category": "majoritems",
+    "Update Notes": "Fixes a bug that causes jingle last for 7+ minutes when applied to some major items (For real this time)",
+    "Additional Notes": "You got a tape!",
+    "Tags": [
+      "Collection",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Sun Apr 14 2024 04:20:57 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Tony%20Hawks%20Pro%20Skater/Get%20Tape%20%20Special%20Trick%20(REV%202).mp3",
+    "Binary": "binaries/Tony Hawks Pro Skater/Get Tape  Special Trick (REV 2).bin",
+    "Duration": 1.2
+  },
+  {
+    "Game": "Diddy Kong Racing",
+    "Song": "T.T.'s Theme",
+    "Composers": "David Wise",
+    "Converters": "MorKs",
+    "Category": "bgm",
+    "Update Notes": "Had reverb on the track, which made it sound super low volume in-game. Fixed it",
+    "Tags": [
+      "Lobbies and Shops",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Mon Apr 15 2024 20:00:00 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Diddy%20Kong%20Racing/TTs%20Theme%20(REV%201).mp3",
+    "Binary": "binaries/Diddy Kong Racing/TTs Theme (REV 1).bin",
+    "Duration": 30.422520000000002
+  },
+  {
+    "Game": "The Legend of Zelda: Skyward Sword",
+    "Song": "Tadtone Song",
+    "Category": "events",
+    "Composers": "Hajime Wakai",
+    "Converters": "Schwartz Gandhi",
+    "Tags": [
+      "Collection",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Mon Apr 15 2024 20:06:15 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/The%20Legend%20of%20Zelda%20Skyward%20Sword/Tadtone%20Song%20(REV%201).mp3",
+    "Binary": "binaries/The Legend of Zelda Skyward Sword/Tadtone Song (REV 1).bin",
+    "Duration": 20.00001
+  },
+  {
+    "Game": "Street Fighter II",
+    "Song": "Vega",
+    "Composers": "Yoko Shimomura",
+    "Converters": "OnlySpaghettiCode",
+    "Category": "bgm",
+    "Tags": [
+      "Fights"
+    ],
+    "Verified": true,
+    "Date": "Mon Apr 15 2024 23:22:52 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Street%20Fighter%20II/Vega.mp3",
+    "Binary": "binaries/Street Fighter II/Vega.bin",
+    "Duration": 52.40379375
+  },
+  {
+    "Game": "WarioWare: Twisted!",
+    "Song": "Helterskelter",
+    "Composers": "Kenichi Nishimaki, Masanobu Matsunaga, Yasuhisa Baba",
+    "Converters": "AaronDobbe",
+    "Category": "bgm",
+    "Audio": "https://www.youtube.com/watch?v=1vfE0kKUx98",
+    "Tags": [
+      "Interiors",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Thu Apr 18 2024 10:05:59 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/WarioWare Twisted/Helterskelter.bin",
+    "Duration": 82.32134625
+  },
+  {
+    "Game": "Doom (1993)",
+    "Song": "Suspense",
+    "Composers": "Bobby Prince",
+    "Converters": "CaptainofGarbage",
+    "Category": "bgm",
+    "Audio": "https://www.youtube.com/watch?v=QdwGoLMlwFU",
+    "Tags": [
+      "Exteriors",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Fri Apr 19 2024 10:06:33 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Doom (1993)/Suspense.bin",
+    "Duration": 164
+  },
+  {
+    "Game": "Banjo-Kazooie",
+    "Song": "Win Mini-Game",
+    "Composers": "Grant Kirkhope",
+    "Converters": "CaptainofGarbage",
+    "Category": "events",
+    "Tags": [
+      "Spawning"
+    ],
+    "Verified": true,
+    "Date": "Fri Apr 19 2024 22:22:18 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Banjo-Kazooie/Win%20Mini-Game.mp3",
+    "Binary": "binaries/Banjo-Kazooie/Win Mini-Game.bin",
+    "Duration": 2.9187499999999997
+  },
+  {
+    "Game": "Gremlins 2: The New Batch",
+    "Song": "Ventilation Shafts",
+    "Composers": "Naoki Kodaka",
+    "Converters": "MorKs",
+    "Category": "bgm",
+    "Tags": [
+      "Interiors",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Fri Apr 19 2024 22:23:22 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Gremlins%202%20The%20New%20Batch/Ventilation%20Shafts.mp3",
+    "Binary": "binaries/Gremlins 2 The New Batch/Ventilation Shafts.bin",
+    "Duration": 51.69225599999999
+  },
+  {
+    "Game": "Star Fox 64",
+    "Song": "Zoness",
+    "Composers": "Hajime Wakai",
+    "Converters": "MorKs",
+    "Category": "bgm",
+    "Tags": [
+      "Fights",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Fri Apr 19 2024 22:24:33 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Star%20Fox%2064/Zoness.mp3",
+    "Binary": "binaries/Star Fox 64/Zoness.bin",
+    "Duration": 130.83608249999997
+  },
+  {
+    "Game": "Banjo-Tooie",
+    "Song": "Witchyworld (The Inferno)",
+    "Category": "bgm",
+    "Composers": "Grant Kirkhope",
+    "Converters": "Schwartz Gandhi",
+    "Tags": [
+      "Interiors",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Fri Apr 19 2024 22:25:50 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Banjo-Tooie/Witchyworld%20(The%20Inferno).mp3",
+    "Binary": "binaries/Banjo-Tooie/Witchyworld (The Inferno).bin",
+    "Duration": 125.99874000000001
+  },
+  {
+    "Game": "Banjo-Tooie",
+    "Song": "Isle o' Hags (Cloud Cuckooland)",
+    "Category": "bgm",
+    "Composers": "Grant Kirkhope",
+    "Converters": "Schwartz Gandhi",
+    "Tags": [
+      "Exteriors",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Fri Apr 19 2024 23:21:30 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Banjo-Tooie/Isle%20o%20Hags%20(Cloud%20Cuckooland).mp3",
+    "Binary": "binaries/Banjo-Tooie/Isle o Hags (Cloud Cuckooland).bin",
+    "Duration": 148.23396
+  },
+  {
+    "Game": "Banjo-Tooie",
+    "Song": "Isle o' Hags (Witchyworld)",
+    "Category": "bgm",
+    "Composers": "Grant Kirkhope",
+    "Converters": "Schwartz Gandhi",
+    "Tags": [
+      "Exteriors",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Fri Apr 19 2024 23:22:41 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Banjo-Tooie/Isle%20o%20Hags%20(Witchyworld).mp3",
+    "Binary": "binaries/Banjo-Tooie/Isle o Hags (Witchyworld).bin",
+    "Duration": 148.18953638020832
+  },
+  {
+    "Game": "Banjo-Tooie",
+    "Song": "Isle o' Hags (Cauldron Keep)",
+    "Category": "bgm",
+    "Composers": "Grant Kirkhope",
+    "Converters": "Schwartz Gandhi",
+    "Tags": [
+      "Exteriors",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Fri Apr 19 2024 23:26:07 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Banjo-Tooie/Isle%20o%20Hags%20(Cauldron%20Keep).mp3",
+    "Binary": "binaries/Banjo-Tooie/Isle o Hags (Cauldron Keep).bin",
+    "Duration": 148.09149804687502
+  },
+  {
+    "Game": "Mario + Rabbids: Kingdom Battle",
+    "Song": "Through the Lawns",
+    "Composers": "Grant Kirkhope",
+    "Converters": "LBFrank",
+    "Category": "bgm",
+    "Tags": [
+      "Lobbies and Shops",
+      "Happy",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Sat Apr 20 2024 19:13:12 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Mario%20%20Rabbids%20Kingdom%20Battle/Through%20the%20Lawns.mp3",
+    "Binary": "binaries/Mario  Rabbids Kingdom Battle/Through the Lawns.bin",
+    "Duration": 38
+  },
+  {
+    "Game": "Star Fox 64",
+    "Song": "Boss B",
+    "Composers": "Hajime Wakai",
+    "Converters": "MorKs",
+    "Category": "bgm",
+    "Tags": [
+      "Fights",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Sat Apr 20 2024 19:14:27 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Star%20Fox%2064/Boss%20B.mp3",
+    "Binary": "binaries/Star Fox 64/Boss B.bin",
+    "Duration": 49.013933
+  },
+  {
+    "Game": "Banjo-Kazooie",
+    "Song": "Skull Tile",
+    "Category": "majoritems",
+    "Composers": "Grant Kirkhope",
+    "Converters": "Schwartz Gandhi",
+    "Tags": [
+      "Spawning"
+    ],
+    "Verified": true,
+    "Date": "Sun Apr 21 2024 12:11:12 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Banjo-Kazooie/Skull%20Tile.mp3",
+    "Binary": "binaries/Banjo-Kazooie/Skull Tile.bin",
+    "Duration": 1.3571383333333333
+  },
+  {
+    "Game": "Banjo-Kazooie",
+    "Song": "Music Tile",
+    "Category": "minoritems",
+    "Composers": "Grant Kirkhope",
+    "Converters": "Schwartz Gandhi",
+    "Tags": [
+      "Collection"
+    ],
+    "Verified": true,
+    "Date": "Sun Apr 21 2024 12:12:15 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Banjo-Kazooie/Music%20Tile.mp3",
+    "Binary": "binaries/Banjo-Kazooie/Music Tile.bin",
+    "Duration": 0.6922950000000001
+  },
+  {
+    "Game": "Banjo-Kazooie",
+    "Song": "Joker Tile",
+    "Category": "majoritems",
+    "Composers": "Grant Kirkhope",
+    "Converters": "Schwartz Gandhi",
+    "Tags": [
+      "Collection"
+    ],
+    "Verified": true,
+    "Date": "Sun Apr 21 2024 12:13:34 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Banjo-Kazooie/Joker%20Tile.mp3",
+    "Binary": "binaries/Banjo-Kazooie/Joker Tile.bin",
+    "Duration": 2.1620154166666663
+  },
+  {
+    "Game": "Pokémon Stadium",
+    "Song": "Gym Leader Castle Stage Clear",
+    "Composers": "Hajime Wakai, Kenta Nagata, Toru Minegishi",
+    "Converters": "SirEnobMort",
+    "Category": "events",
+    "Update Notes": "Removed excess event from MIDI to cut down silence at end.",
+    "Tags": [
+      "Minigames",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Mon Apr 22 2024 11:35:50 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Pok%C3%A9mon%20Stadium/Gym%20Leader%20Castle%20Stage%20Clear%20(REV%202).mp3",
+    "Binary": "binaries/Pokémon Stadium/Gym Leader Castle Stage Clear (REV 2).bin",
+    "Duration": 2.3491407499999997
+  },
+  {
+    "Game": "Pokémon Stadium",
+    "Song": "Pokémon Present Revealed",
+    "Composers": "Hajime Wakai, Kenta Nagata, Toru Minegishi",
+    "Converters": "SirEnobMort",
+    "Category": "majoritems",
+    "Update Notes": "Removed excess event from MIDI to cut down silence at end.",
+    "Tags": [
+      "Collection",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Mon Apr 22 2024 11:36:52 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Pok%C3%A9mon%20Stadium/Pok%C3%A9mon%20Present%20Revealed%20(REV%201).mp3",
+    "Binary": "binaries/Pokémon Stadium/Pokémon Present Revealed (REV 1).bin",
+    "Duration": 4.31596790625
+  },
+  {
+    "Game": "Pokémon Stadium",
+    "Song": "Clefairy Says (Right Version)",
+    "Composers": "Hajime Wakai, Kenta Nagata, Toru Minegishi",
+    "Converters": "SirEnobMort",
+    "Category": "events",
+    "Update Notes": "Removed excess event from MIDI to cut down silence at end.",
+    "Tags": [
+      "Spawning",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Mon Apr 22 2024 11:37:51 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Pok%C3%A9mon%20Stadium/Clefairy%20Says%20(Right%20Version)%20(REV%201).mp3",
+    "Binary": "binaries/Pokémon Stadium/Clefairy Says (Right Version) (REV 1).bin",
+    "Duration": 8.40625
+  },
+  {
+    "Game": "Pokémon Stadium 2",
+    "Song": "Clear!",
+    "Composers": "Hajime Wakai",
+    "Converters": "SirEnobMort",
+    "Category": "events",
+    "Update Notes": "Removed excess event from MIDI to cut down silence at end.",
+    "Tags": [
+      "Collection",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Mon Apr 22 2024 11:38:52 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Pok%C3%A9mon%20Stadium%202/Clear%20(REV%201).mp3",
+    "Binary": "binaries/Pokémon Stadium 2/Clear (REV 1).bin",
+    "Duration": 2.708330625
+  },
+  {
+    "Game": "Pokémon Stadium",
+    "Song": "VS Intro (Short)",
+    "Composers": "Hajime Wakai, Kenta Nagata, Toru Minegishi",
+    "Converters": "SirEnobMort",
+    "Category": "events",
+    "Update Notes": "Removed excess event from MIDI to cut down silence at end.",
+    "Tags": [
+      "Minigames",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Mon Apr 22 2024 11:43:49 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Pok%C3%A9mon%20Stadium/VS%20Intro%20(Short)%20(REV%202).mp3",
+    "Binary": "binaries/Pokémon Stadium/VS Intro (Short) (REV 2).bin",
+    "Duration": 5.044011562500001
+  },
+  {
+    "Game": "Pokémon Stadium",
+    "Song": "VS Intro",
+    "Composers": "Hajime Wakai, Kenta Nagata, Toru Minegishi",
+    "Converters": "SirEnobMort",
+    "Category": "events",
+    "Update Notes": "Removed excess event from MIDI to cut down silence at end.",
+    "Tags": [
+      "Spawning",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Mon Apr 22 2024 11:44:57 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Pok%C3%A9mon%20Stadium/VS%20Intro%20(REV%203).mp3",
+    "Binary": "binaries/Pokémon Stadium/VS Intro (REV 3).bin",
+    "Duration": 7.658446875000001
+  },
+  {
+    "Game": "Pokémon Stadium",
+    "Song": "Mini Game End",
+    "Composers": "Hajime Wakai, Kenta Nagata, Toru Minegishi",
+    "Converters": "SirEnobMort",
+    "Category": "events",
+    "Update Notes": "Removed excess event from MIDI to cut down silence at end.",
+    "Tags": [
+      "Minigames",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Mon Apr 22 2024 11:46:32 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Pok%C3%A9mon%20Stadium/Mini%20Game%20End%20(REV%201).mp3",
+    "Binary": "binaries/Pokémon Stadium/Mini Game End (REV 1).bin",
+    "Duration": 2.8124971875
+  },
+  {
+    "Game": "Pokémon Stadium",
+    "Song": "VS Won",
+    "Composers": "Hajime Wakai, Kenta Nagata, Toru Minegishi",
+    "Converters": "SirEnobMort",
+    "Category": "events",
+    "Update Notes": "Removed excess event from MIDI to cut down silence at end.",
+    "Tags": [
+      "Minigames",
+      "Exteriors",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Mon Apr 22 2024 11:47:33 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Pok%C3%A9mon%20Stadium/VS%20Won%20(REV%201).mp3",
+    "Binary": "binaries/Pokémon Stadium/VS Won (REV 1).bin",
+    "Duration": 21.097665375
+  },
+  {
+    "Game": "Mario Party 2",
+    "Song": "Look Away",
+    "Composers": "Hironao Yamamoto, Shohei Bando, Kazuhiko Sawaguchi",
+    "Converters": "SirEnobMort",
+    "Category": "events",
+    "Update Notes": "I removed an extra event from the end of the MIDI so that there isn't as much silence at the end.",
+    "Tags": [
+      "Exteriors",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Mon Apr 22 2024 11:48:36 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Mario%20Party%202/Look%20Away%20(REV%201).mp3",
+    "Binary": "binaries/Mario Party 2/Look Away (REV 1).bin",
+    "Duration": 5.57291109375
+  },
+  {
+    "Game": "Pokémon Stadium",
+    "Song": "Battle End",
+    "Composers": "Hajime Wakai, Kenta Nagata, Toru Minegishi",
+    "Converters": "SirEnobMort",
+    "Category": "events",
+    "Update Notes": "Removed excess event from MIDI to cut down silence at end and boosted overall volume.",
+    "Tags": [
+      "Spawning",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Mon Apr 22 2024 11:52:09 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Pok%C3%A9mon%20Stadium/Battle%20End%20(REV%201).mp3",
+    "Binary": "binaries/Pokémon Stadium/Battle End (REV 1).bin",
+    "Duration": 6.764961406250001
+  },
+  {
+    "Game": "Bomberman 64: The Second Attack!",
+    "Song": "Prison Planet Thantos",
+    "Composers": "Tomohiko Kira, Yasunori Mitsuda, Hidenobu Otsuki, Tomori Kudo, Hiroyo Yamanaka, Yoshitaka Hirota, Kenji Hiramatsu",
+    "Converters": "The Specialize",
+    "Category": "bgm",
+    "Audio": "https://www.youtube.com/watch?v=CU3ZaSRyMCE",
+    "Tags": [
+      "Exteriors",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Mon Apr 22 2024 12:19:37 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Bomberman 64 The Second Attack/Prison Planet Thantos.bin",
+    "Duration": 77.46102625
+  },
+  {
+    "Game": "Metroid Fusion",
+    "Song": "Sector 3 Cooling Device Restoration Timer Mission",
+    "Category": "bgm",
+    "Composers": "Minako Adachi, Akira Fujiwara",
+    "Converters": "Schwartz Gandhi",
+    "Tags": [
+      "Interiors",
+      "Gloomy"
+    ],
+    "Additional Notes": "Emergency in FrankerZ",
+    "Verified": true,
+    "Date": "Tue Apr 23 2024 21:19:11 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Metroid%20Fusion/Sector%203%20Cooling%20Device%20Restoration%20Timer%20Mission.mp3",
+    "Binary": "binaries/Metroid Fusion/Sector 3 Cooling Device Restoration Timer Mission.bin",
+    "Duration": 149.50811199999998
+  },
+  {
+    "Game": "Final Fantasy VI",
+    "Song": "Kefka",
+    "Composers": "Nobuo Uematsu",
+    "Converters": "OnlySpaghettiCode",
+    "Category": "bgm",
+    "Tags": [
+      "Interiors",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Tue Apr 23 2024 21:20:36 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Final%20Fantasy%20VI/Kefka.mp3",
+    "Binary": "binaries/Final Fantasy VI/Kefka.bin",
+    "Duration": 77.34375
+  },
+  {
+    "Game": "Double Dragon",
+    "Song": "Mission 1 (NES)",
+    "Composers": "Kazunaka Yamane",
+    "Converters": "Wibdiwoh",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors"
+    ],
+    "Verified": true,
+    "Date": "Tue Apr 23 2024 21:22:19 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://www.youtube.com/watch?v=IZxhxeDH5Cg",
+    "Binary": "binaries/Double Dragon/Mission 1 (NES).bin",
+    "Duration": 77.21588849999999
+  },
+  {
+    "Game": "Mario + Rabbids: Kingdom Battle",
+    "Song": "Beep-0's Lesson",
+    "Composers": "Grant Kirkhope",
+    "Converters": "LBFrank",
+    "Category": "bgm",
+    "Tags": [
+      "Fights",
+      "Minigames"
+    ],
+    "Verified": true,
+    "Date": "Wed Apr 24 2024 10:05:10 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Mario%20%20Rabbids%20Kingdom%20Battle/Beep-0s%20Lesson.mp3",
+    "Binary": "binaries/Mario  Rabbids Kingdom Battle/Beep-0s Lesson.bin",
+    "Duration": 46.571409166666676
+  },
+  {
+    "Game": "Iggy's Reckin' Balls",
+    "Song": "Tower 6",
+    "Composers": "Roy Wilkins",
+    "Converters": "The Specialize",
+    "Category": "bgm",
+    "Audio": "https://www.youtube.com/watch?v=OfX3XOkYAtk",
+    "Tags": [
+      "Minigames"
+    ],
+    "Verified": true,
+    "Date": "Wed Apr 24 2024 19:57:28 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Iggys Reckin Balls/Tower 6.bin",
+    "Duration": 80.20145305
+  },
+  {
+    "Game": "Mario & Luigi: Dream Team",
+    "Song": "Never Let Up!",
+    "Category": "bgm",
+    "Composers": "Yoko Shimomura",
+    "Converters": "Schwartz Gandhi",
+    "Audio": "https://youtu.be/fMF9pUgtRLg",
+    "Tags": [
+      "Fights",
+      "Happy"
+    ],
+    "Update Notes": "Better Orchestra Hits, rabalancing, compacted channels to fit more orchestra hits, fixed a thing with the piccolo, did I mention better orchestra hits yet?",
+    "Verified": true,
+    "Date": "Fri Apr 26 2024 10:31:25 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Mario  Luigi Dream Team/Never Let Up (REV 1).bin",
+    "Duration": 82.04493268554687
+  },
+  {
+    "Game": "Castlevania: Portrait of Ruin",
+    "Song": "Hail from the Past",
+    "Composers": "Michiru Yamane",
+    "Converters": "Wibdiwoh",
+    "Category": "bgm",
+    "Tags": [
+      "Interiors",
+      "Exteriors"
+    ],
+    "Verified": true,
+    "Date": "Fri Apr 26 2024 10:32:46 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://www.youtube.com/watch?v=iTrP0nzjtJE",
+    "Binary": "binaries/Castlevania Portrait of Ruin/Hail from the Past.bin",
+    "Duration": 136.58540000000002
   }
 ]
