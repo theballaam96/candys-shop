@@ -19698,5 +19698,20 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Kirby%2064%20The%20Crystal%20Shards/Factory%20Inspection.mp3",
     "Binary": "binaries/Kirby 64 The Crystal Shards/Factory Inspection.bin",
     "Duration": 95.07141171875
+  },
+  {
+    "Game": "Banjo-Tooie",
+    "Song": "Collect Grenade Egg",
+    "Composers": "Grant Kirkhope",
+    "Converters": "CaptainofGarbage",
+    "Category": "minoritems",
+    "Tags": [
+      "Collection"
+    ],
+    "Verified": true,
+    "Date": "Sat Apr 27 2024 10:06:15 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Banjo-Tooie/Collect%20Grenade%20Egg.mp3",
+    "Binary": "binaries/Banjo-Tooie/Collect Grenade Egg.bin",
+    "Duration": 1.0833333333333333
   }
 ]
