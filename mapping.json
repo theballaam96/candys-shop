@@ -19683,5 +19683,20 @@
     "Audio": "https://www.youtube.com/watch?v=iTrP0nzjtJE",
     "Binary": "binaries/Castlevania Portrait of Ruin/Hail from the Past.bin",
     "Duration": 136.58540000000002
+  },
+  {
+    "Game": "Kirby 64: The Crystal Shards",
+    "Song": "Factory Inspection",
+    "Composers": "Jun Ishikawa",
+    "Converters": "Cmellz",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors"
+    ],
+    "Verified": true,
+    "Date": "Sat Apr 27 2024 10:04:58 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Kirby%2064%20The%20Crystal%20Shards/Factory%20Inspection.mp3",
+    "Binary": "binaries/Kirby 64 The Crystal Shards/Factory Inspection.bin",
+    "Duration": 95.07141171875
   }
 ]
