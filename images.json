@@ -63,6 +63,9 @@
    "Castlevania II: Simon's Quest":{
       "icon":"https://i.imgur.com/wN1vswd.png"
    },
+   "Castlevania: Portrait of Ruin":{
+      "icon":"https://i.imgur.com/SNAHeAi.png"
+   },
    "Cave Story":{
       "icon":"https://i.imgur.com/11nLmKz.png"
    },
@@ -162,8 +165,14 @@
    "Doom (1993)":{
       "icon":"https://i.imgur.com/ykeSbhG.png"
    },
+   "Double Dragon":{
+      "icon":"https://i.imgur.com/UFno90d.png"
+   },
    "DuckTales":{
       "icon":"https://i.imgur.com/Lle6c9e.png"
+   },
+   "EarthBound":{
+      "icon":"https://i.imgur.com/Tvw8cMe.png"
    },
    "Earthworm Jim":{
       "icon":"https://i.imgur.com/KnnxCT8.png"
@@ -234,6 +243,9 @@
    "Grand Theft Auto: Vice City":{
       "icon":"https://i.imgur.com/BUwWuud.png"
    },
+   "Gremlins 2: The New Batch":{
+      "icon":"https://i.imgur.com/Aa2kNYq.png"
+   },
    "Gyakuten Kenji 2":{
       "icon":"https://i.imgur.com/VOTPzgT.png"
    },
@@ -243,6 +255,12 @@
    },
    "Hotel Mario":{
       "icon":"https://i.imgur.com/Nlt3RHU.png"
+   },
+   "Iggy's Reckin' Balls":{
+      "icon":"https://i.imgur.com/7r3i457.png"
+   },
+   "Impossible Creatures":{
+      "icon":"https://i.imgur.com/WDRr1Bg.png"
    },
    "International Superstar Soccer 64":{
       "icon":"https://i.imgur.com/jz3SO5d.png",
@@ -339,6 +357,9 @@
    "Mario Party 7":{
       "icon":"https://i.imgur.com/9Ih7ggi.png"
    },
+   "Mario + Rabbids: Kingdom Battle":{
+      "icon":"https://i.imgur.com/OrwRVSj.png"
+   },
    "Mario vs. Donkey Kong: Mini-Land Mayhem!":{
       "icon":"https://i.imgur.com/la43MV7.png",
       "short_name": "Mario vs DK: Mini-Land Mayhem"
@@ -350,8 +371,23 @@
       "icon":"https://i.imgur.com/cfdcJVT.png",
       "short_name": "Mega Man Battle Chip"
    },
+   "Mega Man Battle Network":{
+      "icon":"https://i.imgur.com/AwuTmJw.png"
+   },
+   "Mega Man Battle Network 2":{
+      "icon":"https://i.imgur.com/albtq43.png"
+   },
    "Mega Man Battle Network 3":{
       "icon":"https://i.imgur.com/g1VQR1N.png"
+   },
+   "Mega Man Battle Network 4":{
+      "icon":"https://i.imgur.com/SeYNv9Z.png"
+   },
+   "Mega Man Battle Network 5":{
+      "icon":"https://i.imgur.com/orFUypb.png"
+   },
+   "Mega Man Battle Network 6":{
+      "icon":"https://i.imgur.com/dTzKZe1.png"
    },
    "Mega Man X":{
       "icon":"https://i.imgur.com/B2BtFJ5.png"
@@ -578,6 +614,10 @@
    "Shining Force: The Legacy of Great Intention":{
       "icon":"https://i.imgur.com/g6F6sAI.png",
       "short_name": "Shining Force"
+   },
+   "Shinobi III: Return of the Ninja Master":{
+      "icon":"https://i.imgur.com/0gkGUsp.png",
+      "short_name": "Shinobi III"
    },
    "Shovel Knight":{
       "icon":"https://i.imgur.com/omiKAkK.png"
@@ -844,6 +884,10 @@
       "icon":"https://i.imgur.com/0f9Uu7j.png",
       "short_name": "Touhou 6"
    },
+   "Touhou Kouryudou ~ Unconnected Marketeers":{
+      "icon":"https://i.imgur.com/ZDsMCJ5.png",
+      "short_name": "Touhou 18"
+   },
    "Touhou Reiiden ~ The Highly Responsive to Prayers":{
       "icon":"https://i.imgur.com/u2BfhqJ.png",
       "short_name": "Touhou 1"
@@ -881,6 +925,9 @@
    "WarioWare, Inc.: Mega Microgame$!":{
       "icon":"https://i.imgur.com/gPyR1Tx.png",
       "short_name": "WarioWare: Mega Microgame"
+   },
+   "WarioWare: Twisted!":{
+      "icon":"https://i.imgur.com/dEnrAzt.png"
    },
    "Wave Race 64":{
       "icon":"https://i.imgur.com/ljvsi5r.png"
