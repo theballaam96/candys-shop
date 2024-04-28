@@ -19793,5 +19793,20 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Super%20Mario%20Sunshine/Shadow%20Mario.mp3",
     "Binary": "binaries/Super Mario Sunshine/Shadow Mario.bin",
     "Duration": 49.65084965625
+  },
+  {
+    "Game": "Banjo-Tooie",
+    "Song": "Collect Cheato Page",
+    "Composers": "Grant Kirkhope",
+    "Converters": "CaptainofGarbage",
+    "Category": "majoritems",
+    "Tags": [
+      "Collection"
+    ],
+    "Verified": true,
+    "Date": "Sun Apr 28 2024 11:30:10 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Banjo-Tooie/Collect%20Cheato%20Page.mp3",
+    "Binary": "binaries/Banjo-Tooie/Collect Cheato Page.bin",
+    "Duration": 1.1764700000000001
   }
 ]
