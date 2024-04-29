@@ -19827,5 +19827,22 @@
     "Date": "Mon Apr 29 2024 20:27:42 GMT+0000 (Coordinated Universal Time)",
     "Binary": "binaries/Donkey Kong 64/Helm Awaits.bin",
     "Duration": 137.81901041666666
+  },
+  {
+    "Game": "The Legend of Zelda: Ocarina of Time",
+    "Song": "Kotake and Koume",
+    "Composers": "Koji Kondo",
+    "Converters": "UmedMuzl",
+    "Category": "bgm",
+    "Tags": [
+      "Minigames",
+      "Interiors",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Mon Apr 29 2024 23:03:37 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/The%20Legend%20of%20Zelda%20Ocarina%20of%20Time/Kotake%20and%20Koume.mp3",
+    "Binary": "binaries/The Legend of Zelda Ocarina of Time/Kotake and Koume.bin",
+    "Duration": 47.397766770833336
   }
 ]
