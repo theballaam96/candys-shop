@@ -19860,5 +19860,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Diddy%20Kong%20Racing/Space%20Port%20Alpha.mp3",
     "Binary": "binaries/Diddy Kong Racing/Space Port Alpha.bin",
     "Duration": 76.50822103125
+  },
+  {
+    "Game": "The Legend of Zelda: Ocarina of Time",
+    "Song": "Ganondorf Battle",
+    "Category": "bgm",
+    "Composers": "Koji Kondo",
+    "Converters": "Schwartz Gandhi",
+    "Tags": [
+      "Fights",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Wed May 01 2024 10:15:59 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/The%20Legend%20of%20Zelda%20Ocarina%20of%20Time/Ganondorf%20Battle.mp3",
+    "Binary": "binaries/The Legend of Zelda Ocarina of Time/Ganondorf Battle.bin",
+    "Duration": 64.957394
   }
 ]
