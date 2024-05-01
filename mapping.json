@@ -19893,5 +19893,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Super%20Mario%20Sunshine/Casino%20Delfino%20(REV%201).mp3",
     "Binary": "binaries/Super Mario Sunshine/Casino Delfino (REV 1).bin",
     "Duration": 58.285656
+  },
+  {
+    "Game": "Overwatch 2",
+    "Song": "Play of the Game",
+    "Composers": "Adam Burgess, Mark Petrie, Neal Acree, Sam Cardon, Justin Welgraven, Edouard Brenneisen, Derek Duke, Jon Everist, Richard Jacques, David Arkenstone, Moonlist",
+    "Converters": "HavenKnight93",
+    "Category": "events",
+    "Tags": [
+      "Spawning",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Wed May 01 2024 23:27:35 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Overwatch%202/Play%20of%20the%20Game.wav",
+    "Binary": "binaries/Overwatch 2/Play of the Game.bin",
+    "Duration": 11.96873803125
   }
 ]
