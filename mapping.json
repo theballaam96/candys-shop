@@ -19876,5 +19876,22 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/The%20Legend%20of%20Zelda%20Ocarina%20of%20Time/Ganondorf%20Battle.mp3",
     "Binary": "binaries/The Legend of Zelda Ocarina of Time/Ganondorf Battle.bin",
     "Duration": 64.957394
+  },
+  {
+    "Game": "Super Mario Sunshine",
+    "Song": "Casino Delfino",
+    "Category": "bgm",
+    "Composers": "Koji Kondo",
+    "Converters": "UmedMuzl, Schwartz Gandhi",
+    "Tags": [
+      "Interiors",
+      "Happy"
+    ],
+    "Update Notes": "New and improved for all your unhinted needs!",
+    "Verified": true,
+    "Date": "Wed May 01 2024 17:41:07 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Super%20Mario%20Sunshine/Casino%20Delfino%20(REV%201).mp3",
+    "Binary": "binaries/Super Mario Sunshine/Casino Delfino (REV 1).bin",
+    "Duration": 58.285656
   }
 ]
