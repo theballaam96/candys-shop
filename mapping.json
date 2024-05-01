@@ -13161,7 +13161,7 @@
     "Composers": "ZUN",
     "Converters": "Schwartz Gandhi",
     "Binary": "binaries/Touhou Koumakyou The Embodiment of Scarlet Devil/Septette for the Dead Princess by Schwartz Gandhi.bin",
-    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Touhou%20Koumakyou%20The%20Embodiment%20of%20Scarlet%20Devil/Septette%20for%20the%20Dead%20Princess%20by%20Schwartz%20Gandhi.mp3",
+    "Audio": "https://www.youtube.com/watch?v=pGglsl9urqo",
     "Duration": 148.74034394375005,
     "Tracks": 16,
     "Tags": [
@@ -19571,5 +19571,278 @@
     "Date": "Mon Apr 22 2024 12:19:37 GMT+0000 (Coordinated Universal Time)",
     "Binary": "binaries/Bomberman 64 The Second Attack/Prison Planet Thantos.bin",
     "Duration": 77.46102625
+  },
+  {
+    "Game": "Metroid Fusion",
+    "Song": "Sector 3 Cooling Device Restoration Timer Mission",
+    "Category": "bgm",
+    "Composers": "Minako Adachi, Akira Fujiwara",
+    "Converters": "Schwartz Gandhi",
+    "Tags": [
+      "Interiors",
+      "Gloomy"
+    ],
+    "Additional Notes": "Emergency in FrankerZ",
+    "Verified": true,
+    "Date": "Tue Apr 23 2024 21:19:11 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Metroid%20Fusion/Sector%203%20Cooling%20Device%20Restoration%20Timer%20Mission.mp3",
+    "Binary": "binaries/Metroid Fusion/Sector 3 Cooling Device Restoration Timer Mission.bin",
+    "Duration": 149.50811199999998
+  },
+  {
+    "Game": "Final Fantasy VI",
+    "Song": "Kefka",
+    "Composers": "Nobuo Uematsu",
+    "Converters": "OnlySpaghettiCode",
+    "Category": "bgm",
+    "Tags": [
+      "Interiors",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Tue Apr 23 2024 21:20:36 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Final%20Fantasy%20VI/Kefka.mp3",
+    "Binary": "binaries/Final Fantasy VI/Kefka.bin",
+    "Duration": 77.34375
+  },
+  {
+    "Game": "Double Dragon",
+    "Song": "Mission 1 (NES)",
+    "Composers": "Kazunaka Yamane",
+    "Converters": "Wibdiwoh",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors"
+    ],
+    "Verified": true,
+    "Date": "Tue Apr 23 2024 21:22:19 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://www.youtube.com/watch?v=IZxhxeDH5Cg",
+    "Binary": "binaries/Double Dragon/Mission 1 (NES).bin",
+    "Duration": 77.21588849999999
+  },
+  {
+    "Game": "Mario + Rabbids: Kingdom Battle",
+    "Song": "Beep-0's Lesson",
+    "Composers": "Grant Kirkhope",
+    "Converters": "LBFrank",
+    "Category": "bgm",
+    "Tags": [
+      "Fights",
+      "Minigames"
+    ],
+    "Verified": true,
+    "Date": "Wed Apr 24 2024 10:05:10 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Mario%20%20Rabbids%20Kingdom%20Battle/Beep-0s%20Lesson.mp3",
+    "Binary": "binaries/Mario  Rabbids Kingdom Battle/Beep-0s Lesson.bin",
+    "Duration": 46.571409166666676
+  },
+  {
+    "Game": "Iggy's Reckin' Balls",
+    "Song": "Tower 6",
+    "Composers": "Roy Wilkins",
+    "Converters": "The Specialize",
+    "Category": "bgm",
+    "Audio": "https://www.youtube.com/watch?v=OfX3XOkYAtk",
+    "Tags": [
+      "Minigames"
+    ],
+    "Verified": true,
+    "Date": "Wed Apr 24 2024 19:57:28 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Iggys Reckin Balls/Tower 6.bin",
+    "Duration": 80.20145305
+  },
+  {
+    "Game": "Mario & Luigi: Dream Team",
+    "Song": "Never Let Up!",
+    "Category": "bgm",
+    "Composers": "Yoko Shimomura",
+    "Converters": "Schwartz Gandhi",
+    "Audio": "https://youtu.be/fMF9pUgtRLg",
+    "Tags": [
+      "Fights",
+      "Happy"
+    ],
+    "Update Notes": "Better Orchestra Hits, rabalancing, compacted channels to fit more orchestra hits, fixed a thing with the piccolo, did I mention better orchestra hits yet?",
+    "Verified": true,
+    "Date": "Fri Apr 26 2024 10:31:25 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Mario  Luigi Dream Team/Never Let Up (REV 1).bin",
+    "Duration": 82.04493268554687
+  },
+  {
+    "Game": "Castlevania: Portrait of Ruin",
+    "Song": "Hail from the Past",
+    "Composers": "Michiru Yamane",
+    "Converters": "Wibdiwoh",
+    "Category": "bgm",
+    "Tags": [
+      "Interiors",
+      "Exteriors"
+    ],
+    "Verified": true,
+    "Date": "Fri Apr 26 2024 10:32:46 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://www.youtube.com/watch?v=iTrP0nzjtJE",
+    "Binary": "binaries/Castlevania Portrait of Ruin/Hail from the Past.bin",
+    "Duration": 136.58540000000002
+  },
+  {
+    "Game": "Kirby 64: The Crystal Shards",
+    "Song": "Factory Inspection",
+    "Composers": "Jun Ishikawa",
+    "Converters": "Cmellz",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors"
+    ],
+    "Verified": true,
+    "Date": "Sat Apr 27 2024 10:04:58 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Kirby%2064%20The%20Crystal%20Shards/Factory%20Inspection.mp3",
+    "Binary": "binaries/Kirby 64 The Crystal Shards/Factory Inspection.bin",
+    "Duration": 95.07141171875
+  },
+  {
+    "Game": "Banjo-Tooie",
+    "Song": "Collect Grenade Egg",
+    "Composers": "Grant Kirkhope",
+    "Converters": "CaptainofGarbage",
+    "Category": "minoritems",
+    "Tags": [
+      "Collection"
+    ],
+    "Verified": true,
+    "Date": "Sat Apr 27 2024 10:06:15 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Banjo-Tooie/Collect%20Grenade%20Egg.mp3",
+    "Binary": "binaries/Banjo-Tooie/Collect Grenade Egg.bin",
+    "Duration": 1.0833333333333333
+  },
+  {
+    "Game": "Banjo-Tooie",
+    "Song": "Mayahem Temple (Outside Kickball Stadium)",
+    "Composers": "Grant Kirkhope",
+    "Converters": "UmedMuzl",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Sat Apr 27 2024 10:09:20 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Banjo-Tooie/Mayahem%20Temple%20(Outside%20Kickball%20Stadium).mp3",
+    "Binary": "binaries/Banjo-Tooie/Mayahem Temple (Outside Kickball Stadium).bin",
+    "Duration": 148.72916666666666
+  },
+  {
+    "Game": "Banjo-Tooie",
+    "Song": "Cheato Page Appears",
+    "Composers": "Grant Kirkhope",
+    "Converters": "CaptainofGarbage",
+    "Category": "majoritems",
+    "Tags": [
+      "Spawning"
+    ],
+    "Verified": true,
+    "Date": "Sat Apr 27 2024 18:19:20 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Banjo-Tooie/Cheato%20Page%20Appears.mp3",
+    "Binary": "binaries/Banjo-Tooie/Cheato Page Appears.bin",
+    "Duration": 4
+  },
+  {
+    "Game": "Banjo-Tooie",
+    "Song": "Shootin' With The Fishes",
+    "Composers": "Grant Kirkhope",
+    "Converters": "UmedMuzl",
+    "Category": "bgm",
+    "Tags": [
+      "Minigames",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Sat Apr 27 2024 21:13:40 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Banjo-Tooie/Shootin%20With%20The%20Fishes.mp3",
+    "Binary": "binaries/Banjo-Tooie/Shootin With The Fishes.bin",
+    "Duration": 63.1875
+  },
+  {
+    "Game": "Super Mario Sunshine",
+    "Song": "Secret Course",
+    "Composers": "Koji Kondo",
+    "Converters": "UmedMuzl",
+    "Category": "bgm",
+    "Update Notes": "Dont even ask why I did this",
+    "Tags": [
+      "Minigames",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Sat Apr 27 2024 21:21:30 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Super%20Mario%20Sunshine/Secret%20Course.mp3",
+    "Binary": "binaries/Super Mario Sunshine/Secret Course.bin",
+    "Duration": 89.28562500000001
+  },
+  {
+    "Game": "Super Mario Sunshine",
+    "Song": "Shadow Mario",
+    "Composers": "Koji Kondo",
+    "Converters": "UmedMuzl",
+    "Category": "bgm",
+    "Tags": [
+      "Minigames",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Sat Apr 27 2024 22:43:21 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Super%20Mario%20Sunshine/Shadow%20Mario.mp3",
+    "Binary": "binaries/Super Mario Sunshine/Shadow Mario.bin",
+    "Duration": 49.65084965625
+  },
+  {
+    "Game": "Banjo-Tooie",
+    "Song": "Collect Cheato Page",
+    "Composers": "Grant Kirkhope",
+    "Converters": "CaptainofGarbage",
+    "Category": "majoritems",
+    "Tags": [
+      "Collection"
+    ],
+    "Verified": true,
+    "Date": "Sun Apr 28 2024 11:30:10 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Banjo-Tooie/Collect%20Cheato%20Page.mp3",
+    "Binary": "binaries/Banjo-Tooie/Collect Cheato Page.bin",
+    "Duration": 1.1764700000000001
+  },
+  {
+    "Game": "Donkey Kong 64",
+    "Song": "Helm Awaits",
+    "Composers": "Grant Kirkhope",
+    "Converters": "Ballaam",
+    "Category": "bgm",
+    "Audio": "https://youtu.be/VrV-2TcRg_I",
+    "Additional Notes": "Mashup of Hideout Helm (BoM on) and Awaiting to enter boss",
+    "Tags": [
+      "Lobbies and Shops",
+      "Interiors",
+      "Gloomy",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Mon Apr 29 2024 20:27:42 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Donkey Kong 64/Helm Awaits.bin",
+    "Duration": 137.81901041666666
+  },
+  {
+    "Game": "The Legend of Zelda: Ocarina of Time",
+    "Song": "Kotake and Koume",
+    "Composers": "Koji Kondo",
+    "Converters": "UmedMuzl",
+    "Category": "bgm",
+    "Tags": [
+      "Minigames",
+      "Interiors",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Mon Apr 29 2024 23:03:37 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/The%20Legend%20of%20Zelda%20Ocarina%20of%20Time/Kotake%20and%20Koume.mp3",
+    "Binary": "binaries/The Legend of Zelda Ocarina of Time/Kotake and Koume.bin",
+    "Duration": 47.397766770833336
   }
 ]
