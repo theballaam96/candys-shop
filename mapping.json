@@ -19909,5 +19909,22 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Overwatch%202/Play%20of%20the%20Game.wav",
     "Binary": "binaries/Overwatch 2/Play of the Game.bin",
     "Duration": 11.96873803125
+  },
+  {
+    "Game": "Super Smash Bros.",
+    "Song": "Bonus Game",
+    "Composers": "Hirokazu Ando",
+    "Converters": "CaptainofGarbage",
+    "Category": "bgm",
+    "Audio": "https://www.youtube.com/watch?v=3StukK7qW90",
+    "Update Notes": "Complete overhaul. Redone MIDI (actually ripped from the game this time). Leads boosted with new instruments + echo. Other instruments changed and rebalanced.",
+    "Tags": [
+      "Interiors",
+      "Minigames"
+    ],
+    "Verified": true,
+    "Date": "Thu May 02 2024 10:26:30 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Super Smash Bros/Bonus Game (REV 2).bin",
+    "Duration": 36.917698124999994
   }
 ]
