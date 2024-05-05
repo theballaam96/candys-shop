@@ -19942,5 +19942,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Kirby%20Canvas%20Curse/Drawcia%20Sorceress.mp3",
     "Binary": "binaries/Kirby Canvas Curse/Drawcia Sorceress.bin",
     "Duration": 86.77305461458332
+  },
+  {
+    "Game": "Banjo-Kazooie",
+    "Song": "Main Title",
+    "Composers": "Grant Kirkhope",
+    "Converters": "UmedMuzl",
+    "Category": "bgm",
+    "Audio": "https://www.youtube.com/watch?v=lzJc7LbEFn0",
+    "Tags": [
+      "Exteriors",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Sun May 05 2024 22:40:41 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Banjo-Kazooie/Main Title.bin",
+    "Duration": 62.6
   }
 ]
