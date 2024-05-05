@@ -19958,5 +19958,22 @@
     "Date": "Sun May 05 2024 22:40:41 GMT+0000 (Coordinated Universal Time)",
     "Binary": "binaries/Banjo-Kazooie/Main Title.bin",
     "Duration": 62.6
+  },
+  {
+    "Game": "Super Mario 64",
+    "Song": "Wing Cap",
+    "Composers": "Koji Kondo",
+    "Converters": "UmedMuzl",
+    "Category": "bgm",
+    "Tags": [
+      "Lobbies and Shops",
+      "Minigames",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Sun May 05 2024 22:58:15 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Super%20Mario%2064/Wing%20Cap.mp3",
+    "Binary": "binaries/Super Mario 64/Wing Cap.bin",
+    "Duration": 24.888864
   }
 ]
