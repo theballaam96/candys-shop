@@ -20022,5 +20022,22 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Pok%C3%A9mon%20Gold,%20Silver%20%20Crystal/Champion%20%20Red%20Battle%20Music%20(HGSS)%20(REV%201).mp3",
     "Binary": "binaries/Pokémon Gold, Silver  Crystal/Champion  Red Battle Music (HGSS) (REV 1).bin",
     "Duration": 67.81250904166666
+  },
+  {
+    "Game": "Mario Kart: Double Dash!!",
+    "Song": "Baby Park",
+    "Composers": "Shinobu Tanaka",
+    "Converters": "Zion Jaymes",
+    "Category": "bgm",
+    "Additional Notes": "I would like to hear this during any of the races. Or some bonus barrel. lol",
+    "Tags": [
+      "Minigames",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Tue May 07 2024 21:51:56 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Mario%20Kart%20Double%20Dash/Baby%20Park.mp3",
+    "Binary": "binaries/Mario Kart Double Dash/Baby Park.bin",
+    "Duration": 100.21569199999999
   }
 ]
