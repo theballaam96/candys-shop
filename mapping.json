@@ -569,7 +569,7 @@
   },
   {
     "Game": "Banjo-Tooie",
-    "Song": "Heggys Shed",
+    "Song": "Heggy's Egg Shed",
     "Category": "bgm",
     "Composers": "Grant Kirkhope",
     "Converters": "Ballaam",
@@ -697,7 +697,7 @@
   },
   {
     "Game": "Banjo-Tooie",
-    "Song": "Mr Patch",
+    "Song": "Mr. Patch",
     "Category": "bgm",
     "Composers": "Grant Kirkhope",
     "Converters": "Ballaam",
@@ -18270,7 +18270,7 @@
     ],
     "Verified": true,
     "Date": "Wed Mar 27 2024 19:40:00 GMT+0000 (Coordinated Universal Time)",
-    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Donkey%20Kong%20Country/Simian%20Segue.mp3",
+    "Audio": "https://www.youtube.com/watch?v=9BR3nhLvruM",
     "Binary": "binaries/Donkey Kong Country/Simian Segue.bin",
     "Duration": 72.9098715625
   },
