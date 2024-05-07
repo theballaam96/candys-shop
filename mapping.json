@@ -19990,5 +19990,22 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/San%20Francisco%20Rush%202049/Garage.mp3",
     "Binary": "binaries/San Francisco Rush 2049/Garage.bin",
     "Duration": 168.94332415624996
+  },
+  {
+    "Game": "Super Mario World",
+    "Song": "Wandering the Plains",
+    "Category": "bgm",
+    "Composers": "Koji Kondo",
+    "Converters": "Schwartz Gandhi",
+    "Tags": [
+      "Lobbies and Shops",
+      "Calm",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Tue May 07 2024 21:46:33 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Super%20Mario%20World/Wandering%20the%20Plains.mp3",
+    "Binary": "binaries/Super Mario World/Wandering the Plains.bin",
+    "Duration": 14.061709708333332
   }
 ]
