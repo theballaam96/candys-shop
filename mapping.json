@@ -20007,5 +20007,20 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Super%20Mario%20World/Wandering%20the%20Plains.mp3",
     "Binary": "binaries/Super Mario World/Wandering the Plains.bin",
     "Duration": 14.061709708333332
+  },
+  {
+    "Game": "Pokémon Gold, Silver & Crystal",
+    "Song": "Champion & Red Battle Music (HGSS)",
+    "Composers": "Junichi Masuda",
+    "Converters": "UmedMuzl",
+    "Category": "bgm",
+    "Tags": [
+      "Fights"
+    ],
+    "Verified": true,
+    "Date": "Tue May 07 2024 21:50:40 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Pok%C3%A9mon%20Gold,%20Silver%20%20Crystal/Champion%20%20Red%20Battle%20Music%20(HGSS)%20(REV%201).mp3",
+    "Binary": "binaries/Pokémon Gold, Silver  Crystal/Champion  Red Battle Music (HGSS) (REV 1).bin",
+    "Duration": 67.81250904166666
   }
 ]
