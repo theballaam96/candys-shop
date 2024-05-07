@@ -19975,5 +19975,20 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Super%20Mario%2064/Wing%20Cap.mp3",
     "Binary": "binaries/Super Mario 64/Wing Cap.bin",
     "Duration": 24.888864
+  },
+  {
+    "Game": "San Francisco Rush 2049",
+    "Song": "Garage",
+    "Composers": "Barry Leitch",
+    "Converters": "Wibdiwoh",
+    "Category": "bgm",
+    "Tags": [
+      "Minigames"
+    ],
+    "Verified": true,
+    "Date": "Tue May 07 2024 21:44:41 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/San%20Francisco%20Rush%202049/Garage.mp3",
+    "Binary": "binaries/San Francisco Rush 2049/Garage.bin",
+    "Duration": 168.94332415624996
   }
 ]
