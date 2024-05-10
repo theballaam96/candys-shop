@@ -20040,5 +20040,20 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Mario%20Kart%20Double%20Dash/Baby%20Park.mp3",
     "Binary": "binaries/Mario Kart Double Dash/Baby Park.bin",
     "Duration": 100.21569199999999
+  },
+  {
+    "Game": "Pokémon Colosseum",
+    "Song": "Cipher Admin Battle",
+    "Composers": "Tsukasa Tawada",
+    "Converters": "LBFrank",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors"
+    ],
+    "Verified": true,
+    "Date": "Fri May 10 2024 22:02:27 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Pok%C3%A9mon%20Colosseum/Cipher%20Admin%20Battle.mp3",
+    "Binary": "binaries/Pokémon Colosseum/Cipher Admin Battle.bin",
+    "Duration": 84
   }
 ]
