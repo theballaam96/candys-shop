@@ -20104,5 +20104,22 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Mario%20%20Luigi%20Bowsers%20Inside%20Story/Short%20Break%20in%20Mushroom%20Town%20(REV%202).mp3",
     "Binary": "binaries/Mario  Luigi Bowsers Inside Story/Short Break in Mushroom Town (REV 2).bin",
     "Duration": 69.0957585
+  },
+  {
+    "Game": "Super Mario RPG: Legend of the Seven Stars",
+    "Song": "Going Shopping in Seaside Town",
+    "Composers": "Yoko Shimomura",
+    "Converters": "OnlySpaghettiCode",
+    "Category": "bgm",
+    "Update Notes": "Had some bad volume peaking",
+    "Tags": [
+      "Exteriors",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Mon May 13 2024 17:50:05 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Super%20Mario%20RPG%20Legend%20of%20the%20Seven%20Stars/Going%20Shopping%20in%20Seaside%20Town%20(REV%201).mp3",
+    "Binary": "binaries/Super Mario RPG Legend of the Seven Stars/Going Shopping in Seaside Town (REV 1).bin",
+    "Duration": 37.4999625
   }
 ]
