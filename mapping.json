@@ -20071,5 +20071,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Pok%C3%A9mon%20Gold,%20Silver%20%20Crystal/Title%20Theme.mp3",
     "Binary": "binaries/Pokémon Gold, Silver  Crystal/Title Theme.bin",
     "Duration": 74.76517212499999
+  },
+  {
+    "Game": "Donkey Kong Country 3: Dixie Kong's Double Trouble!",
+    "Song": "Submap Shuffle",
+    "Composers": "David Wise, Eveline Fischer",
+    "Converters": "HavenKnight93",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Mon May 13 2024 11:08:45 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Donkey%20Kong%20Country%203%20Dixie%20Kongs%20Double%20Trouble/Submap%20Shuffle.mp3",
+    "Binary": "binaries/Donkey Kong Country 3 Dixie Kongs Double Trouble/Submap Shuffle.bin",
+    "Duration": 22.1806865
   }
 ]
