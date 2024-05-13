@@ -20121,5 +20121,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Super%20Mario%20RPG%20Legend%20of%20the%20Seven%20Stars/Going%20Shopping%20in%20Seaside%20Town%20(REV%201).mp3",
     "Binary": "binaries/Super Mario RPG Legend of the Seven Stars/Going Shopping in Seaside Town (REV 1).bin",
     "Duration": 37.4999625
+  },
+  {
+    "Game": "Persona 5",
+    "Song": "Last Surprise",
+    "Composers": "Shoji Meguro",
+    "Converters": "OnlySpaghettiCode",
+    "Category": "bgm",
+    "Update Notes": "Big volume nerf",
+    "Tags": [
+      "Fights"
+    ],
+    "Verified": true,
+    "Date": "Mon May 13 2024 17:51:18 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Persona%205/Last%20Surprise%20(REV%201).mp3",
+    "Binary": "binaries/Persona 5/Last Surprise (REV 1).bin",
+    "Duration": 220.97566500000002
   }
 ]
