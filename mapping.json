@@ -20087,5 +20087,22 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Donkey%20Kong%20Country%203%20Dixie%20Kongs%20Double%20Trouble/Submap%20Shuffle.mp3",
     "Binary": "binaries/Donkey Kong Country 3 Dixie Kongs Double Trouble/Submap Shuffle.bin",
     "Duration": 22.1806865
+  },
+  {
+    "Game": "Mario & Luigi: Bowser's Inside Story",
+    "Song": "Short Break in Mushroom Town",
+    "Composers": "Yoko Shimomura",
+    "Converters": "OnlySpaghettiCode",
+    "Category": "bgm",
+    "Update Notes": "Was way too loud",
+    "Tags": [
+      "Exteriors",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Mon May 13 2024 17:48:39 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Mario%20%20Luigi%20Bowsers%20Inside%20Story/Short%20Break%20in%20Mushroom%20Town%20(REV%202).mp3",
+    "Binary": "binaries/Mario  Luigi Bowsers Inside Story/Short Break in Mushroom Town (REV 2).bin",
+    "Duration": 69.0957585
   }
 ]
