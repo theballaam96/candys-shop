@@ -20137,5 +20137,22 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Persona%205/Last%20Surprise%20(REV%201).mp3",
     "Binary": "binaries/Persona 5/Last Surprise (REV 1).bin",
     "Duration": 220.97566500000002
+  },
+  {
+    "Game": "Final Fantasy VII",
+    "Song": "Let the Battles Begin",
+    "Composers": "Nobuo Uematsu",
+    "Converters": "OnlySpaghettiCode",
+    "Category": "bgm",
+    "Update Notes": "Redone since first version was rough",
+    "Tags": [
+      "Fights",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Mon May 13 2024 17:52:39 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Final%20Fantasy%20VII/Let%20the%20Battles%20Begin%20(REV%201).mp3",
+    "Binary": "binaries/Final Fantasy VII/Let the Battles Begin (REV 1).bin",
+    "Duration": 80.94109487499999
   }
 ]
