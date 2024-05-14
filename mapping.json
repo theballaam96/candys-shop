@@ -569,7 +569,7 @@
   },
   {
     "Game": "Banjo-Tooie",
-    "Song": "Heggys Shed",
+    "Song": "Heggy's Egg Shed",
     "Category": "bgm",
     "Composers": "Grant Kirkhope",
     "Converters": "Ballaam",
@@ -697,7 +697,7 @@
   },
   {
     "Game": "Banjo-Tooie",
-    "Song": "Mr Patch",
+    "Song": "Mr. Patch",
     "Category": "bgm",
     "Composers": "Grant Kirkhope",
     "Converters": "Ballaam",
@@ -1342,7 +1342,8 @@
     "Tracks": 16,
     "Tags": [
       "Fights",
-      "Happy"
+      "Happy",
+      "Delisted"
     ],
     "Verified": true
   },
@@ -18270,7 +18271,7 @@
     ],
     "Verified": true,
     "Date": "Wed Mar 27 2024 19:40:00 GMT+0000 (Coordinated Universal Time)",
-    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Donkey%20Kong%20Country/Simian%20Segue.mp3",
+    "Audio": "https://www.youtube.com/watch?v=9BR3nhLvruM",
     "Binary": "binaries/Donkey Kong Country/Simian Segue.bin",
     "Duration": 72.9098715625
   },
@@ -19975,5 +19976,267 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Super%20Mario%2064/Wing%20Cap.mp3",
     "Binary": "binaries/Super Mario 64/Wing Cap.bin",
     "Duration": 24.888864
+  },
+  {
+    "Game": "San Francisco Rush 2049",
+    "Song": "Garage",
+    "Composers": "Barry Leitch",
+    "Converters": "Wibdiwoh",
+    "Category": "bgm",
+    "Tags": [
+      "Minigames"
+    ],
+    "Verified": true,
+    "Date": "Tue May 07 2024 21:44:41 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://www.youtube.com/watch?v=dxaA3Q-FvHk",
+    "Binary": "binaries/San Francisco Rush 2049/Garage.bin",
+    "Duration": 168.94332415624996
+  },
+  {
+    "Game": "Super Mario World",
+    "Song": "Wandering the Plains",
+    "Category": "bgm",
+    "Composers": "Koji Kondo",
+    "Converters": "Schwartz Gandhi",
+    "Tags": [
+      "Lobbies and Shops",
+      "Calm",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Tue May 07 2024 21:46:33 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Super%20Mario%20World/Wandering%20the%20Plains.mp3",
+    "Binary": "binaries/Super Mario World/Wandering the Plains.bin",
+    "Duration": 14.061709708333332
+  },
+  {
+    "Game": "Pokémon Gold, Silver & Crystal",
+    "Song": "Champion & Red Battle Music (HGSS)",
+    "Composers": "Junichi Masuda",
+    "Converters": "UmedMuzl",
+    "Category": "bgm",
+    "Tags": [
+      "Fights"
+    ],
+    "Verified": true,
+    "Date": "Tue May 07 2024 21:50:40 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Pok%C3%A9mon%20Gold,%20Silver%20%20Crystal/Champion%20%20Red%20Battle%20Music%20(HGSS)%20(REV%201).mp3",
+    "Binary": "binaries/Pokémon Gold, Silver  Crystal/Champion  Red Battle Music (HGSS) (REV 1).bin",
+    "Duration": 67.81250904166666
+  },
+  {
+    "Game": "Mario Kart: Double Dash!!",
+    "Song": "Baby Park",
+    "Composers": "Shinobu Tanaka",
+    "Converters": "Zion Jaymes",
+    "Category": "bgm",
+    "Additional Notes": "I would like to hear this during any of the races. Or some bonus barrel. lol",
+    "Tags": [
+      "Minigames",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Tue May 07 2024 21:51:56 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Mario%20Kart%20Double%20Dash/Baby%20Park.mp3",
+    "Binary": "binaries/Mario Kart Double Dash/Baby Park.bin",
+    "Duration": 100.21569199999999
+  },
+  {
+    "Game": "Pokémon Colosseum",
+    "Song": "Cipher Admin Battle",
+    "Composers": "Tsukasa Tawada",
+    "Converters": "LBFrank",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors"
+    ],
+    "Verified": true,
+    "Date": "Fri May 10 2024 22:02:27 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Pok%C3%A9mon%20Colosseum/Cipher%20Admin%20Battle.mp3",
+    "Binary": "binaries/Pokémon Colosseum/Cipher Admin Battle.bin",
+    "Duration": 84
+  },
+  {
+    "Game": "Pokémon Gold, Silver & Crystal",
+    "Song": "Title Theme",
+    "Composers": "Junichi Masuda, Go Ichinose",
+    "Converters": "UmedMuzl",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Sun May 12 2024 13:07:26 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Pok%C3%A9mon%20Gold,%20Silver%20%20Crystal/Title%20Theme.mp3",
+    "Binary": "binaries/Pokémon Gold, Silver  Crystal/Title Theme.bin",
+    "Duration": 74.76517212499999
+  },
+  {
+    "Game": "Donkey Kong Country 3: Dixie Kong's Double Trouble!",
+    "Song": "Submap Shuffle",
+    "Composers": "David Wise, Eveline Fischer",
+    "Converters": "HavenKnight93",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Mon May 13 2024 11:08:45 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Donkey%20Kong%20Country%203%20Dixie%20Kongs%20Double%20Trouble/Submap%20Shuffle.mp3",
+    "Binary": "binaries/Donkey Kong Country 3 Dixie Kongs Double Trouble/Submap Shuffle.bin",
+    "Duration": 22.1806865
+  },
+  {
+    "Game": "Mario & Luigi: Bowser's Inside Story",
+    "Song": "Short Break in Mushroom Town",
+    "Composers": "Yoko Shimomura",
+    "Converters": "OnlySpaghettiCode",
+    "Category": "bgm",
+    "Update Notes": "Was way too loud",
+    "Tags": [
+      "Exteriors",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Mon May 13 2024 17:48:39 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Mario%20%20Luigi%20Bowsers%20Inside%20Story/Short%20Break%20in%20Mushroom%20Town%20(REV%202).mp3",
+    "Binary": "binaries/Mario  Luigi Bowsers Inside Story/Short Break in Mushroom Town (REV 2).bin",
+    "Duration": 69.0957585
+  },
+  {
+    "Game": "Super Mario RPG: Legend of the Seven Stars",
+    "Song": "Going Shopping in Seaside Town",
+    "Composers": "Yoko Shimomura",
+    "Converters": "OnlySpaghettiCode",
+    "Category": "bgm",
+    "Update Notes": "Had some bad volume peaking",
+    "Tags": [
+      "Exteriors",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Mon May 13 2024 17:50:05 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Super%20Mario%20RPG%20Legend%20of%20the%20Seven%20Stars/Going%20Shopping%20in%20Seaside%20Town%20(REV%201).mp3",
+    "Binary": "binaries/Super Mario RPG Legend of the Seven Stars/Going Shopping in Seaside Town (REV 1).bin",
+    "Duration": 37.4999625
+  },
+  {
+    "Game": "Persona 5",
+    "Song": "Last Surprise",
+    "Composers": "Shoji Meguro",
+    "Converters": "OnlySpaghettiCode",
+    "Category": "bgm",
+    "Update Notes": "Big volume nerf",
+    "Tags": [
+      "Fights"
+    ],
+    "Verified": true,
+    "Date": "Mon May 13 2024 17:51:18 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Persona%205/Last%20Surprise%20(REV%201).mp3",
+    "Binary": "binaries/Persona 5/Last Surprise (REV 1).bin",
+    "Duration": 220.97566500000002
+  },
+  {
+    "Game": "Final Fantasy VII",
+    "Song": "Let the Battles Begin",
+    "Composers": "Nobuo Uematsu",
+    "Converters": "OnlySpaghettiCode",
+    "Category": "bgm",
+    "Update Notes": "Redone since first version was rough",
+    "Tags": [
+      "Fights",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Mon May 13 2024 17:52:39 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Final%20Fantasy%20VII/Let%20the%20Battles%20Begin%20(REV%201).mp3",
+    "Binary": "binaries/Final Fantasy VII/Let the Battles Begin (REV 1).bin",
+    "Duration": 80.94109487499999
+  },
+  {
+    "Game": "Rise Of The Triad",
+    "Song": "How'd I Do",
+    "Composers": "Lee Jackson",
+    "Converters": "UmedMuzl",
+    "Category": "bgm",
+    "Update Notes": "Smashed with a nerf hammer",
+    "Tags": [
+      "Lobbies and Shops",
+      "Exteriors",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Tue May 14 2024 01:19:27 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Rise Of The Triad/Howd I Do (REV 1).bin",
+    "Duration": 50.6201171875
+  },
+  {
+    "Game": "Super Mario Galaxy",
+    "Song": "Megaleg",
+    "Composers": "Koji Kondo, Mahito Yokota",
+    "Converters": "Ballaam",
+    "Category": "bgm",
+    "Audio": "https://www.youtube.com/watch?v=Cnb8VsdyOko",
+    "Update Notes": "Part of the rebalancing project",
+    "Tags": [
+      "Fights",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Tue May 14 2024 01:21:14 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Super Mario Galaxy/Megaleg (REV 1).bin",
+    "Duration": 76.66220372916666
+  },
+  {
+    "Game": "Banjo-Tooie",
+    "Song": "Race with Canary Mary (Glitter Gulch Mine)",
+    "Composers": "Grant Kirkhope",
+    "Converters": "Ballaam",
+    "Category": "bgm",
+    "Audio": "https://youtu.be/dWmqC15VMS8",
+    "Additional Notes": "A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A",
+    "Tags": [
+      "Minigames",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Tue May 14 2024 02:24:17 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Banjo-Tooie/Race with Canary Mary (Glitter Gulch Mine).bin",
+    "Duration": 60.800000000000004
+  },
+  {
+    "Game": "Banjo-Tooie",
+    "Song": "Glitter Gulch Mine",
+    "Composers": "Grant Kirkhope",
+    "Converters": "Ballaam",
+    "Category": "bgm",
+    "Audio": "https://youtu.be/jqbmSypuwdw",
+    "Additional Notes": "Glad I got this one. I've always wanted this track in, but thought it impossible to get it sounding good because of the variety of instruments that DK64 just simply lacks.",
+    "Tags": [
+      "Exteriors",
+      "Gloomy",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Tue May 14 2024 14:35:57 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Banjo-Tooie/Glitter Gulch Mine.bin",
+    "Duration": 119.99987999999999
+  },
+  {
+    "Game": "Persona 5",
+    "Song": "Throw Away Your Mask (Royal)",
+    "Category": "bgm",
+    "Composers": "Shoji Meguro",
+    "Converters": "Schwartz Gandhi",
+    "Audio": "https://www.youtube.com/watch?v=qcz8lh3gWZU",
+    "Tags": [
+      "Fights"
+    ],
+    "Update Notes": "turn the music down",
+    "Verified": true,
+    "Date": "Tue May 14 2024 14:37:19 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Persona 5/Throw Away Your Mask (Royal) (REV 1).bin"
   }
 ]
