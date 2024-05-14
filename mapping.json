@@ -20321,5 +20321,21 @@
     "Date": "Tue May 14 2024 21:36:15 GMT+0000 (Coordinated Universal Time)",
     "Binary": "binaries/Shuusou Gyoku/False Strawberry (REV 1).bin",
     "Duration": 91.59518399999999
+  },
+  {
+    "Game": "Banjo-Tooie",
+    "Song": "Jolly Roger's Lagoon",
+    "Composers": "Grant Kirkhope",
+    "Converters": "Ballaam",
+    "Category": "bgm",
+    "Audio": "https://youtu.be/bFwEjWNwFyk",
+    "Tags": [
+      "Exteriors",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Tue May 14 2024 21:37:29 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Banjo-Tooie/Jolly Rogers Lagoon.bin",
+    "Duration": 124.76599999999999
   }
 ]
