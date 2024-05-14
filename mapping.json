@@ -20154,5 +20154,22 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Final%20Fantasy%20VII/Let%20the%20Battles%20Begin%20(REV%201).mp3",
     "Binary": "binaries/Final Fantasy VII/Let the Battles Begin (REV 1).bin",
     "Duration": 80.94109487499999
+  },
+  {
+    "Game": "Rise Of The Triad",
+    "Song": "How'd I Do",
+    "Composers": "Lee Jackson",
+    "Converters": "UmedMuzl",
+    "Category": "bgm",
+    "Update Notes": "Smashed with a nerf hammer",
+    "Tags": [
+      "Lobbies and Shops",
+      "Exteriors",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Tue May 14 2024 01:19:27 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Rise Of The Triad/Howd I Do (REV 1).bin",
+    "Duration": 50.6201171875
   }
 ]
