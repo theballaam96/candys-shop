@@ -20205,5 +20205,23 @@
     "Date": "Tue May 14 2024 02:24:17 GMT+0000 (Coordinated Universal Time)",
     "Binary": "binaries/Banjo-Tooie/Race with Canary Mary (Glitter Gulch Mine).bin",
     "Duration": 60.800000000000004
+  },
+  {
+    "Game": "Banjo-Tooie",
+    "Song": "Glitter Gulch Mine",
+    "Composers": "Grant Kirkhope",
+    "Converters": "Ballaam",
+    "Category": "bgm",
+    "Audio": "https://youtu.be/jqbmSypuwdw",
+    "Additional Notes": "Glad I got this one. I've always wanted this track in, but thought it impossible to get it sounding good because of the variety of instruments that DK64 just simply lacks.",
+    "Tags": [
+      "Exteriors",
+      "Gloomy",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Tue May 14 2024 14:35:57 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Banjo-Tooie/Glitter Gulch Mine.bin",
+    "Duration": 119.99987999999999
   }
 ]
