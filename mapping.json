@@ -20188,5 +20188,22 @@
     "Date": "Tue May 14 2024 01:21:14 GMT+0000 (Coordinated Universal Time)",
     "Binary": "binaries/Super Mario Galaxy/Megaleg (REV 1).bin",
     "Duration": 76.66220372916666
+  },
+  {
+    "Game": "Banjo-Tooie",
+    "Song": "Race with Canary Mary (Glitter Gulch Mine)",
+    "Composers": "Grant Kirkhope",
+    "Converters": "Ballaam",
+    "Category": "bgm",
+    "Audio": "https://youtu.be/dWmqC15VMS8",
+    "Additional Notes": "A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A",
+    "Tags": [
+      "Minigames",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Tue May 14 2024 02:24:17 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Banjo-Tooie/Race with Canary Mary (Glitter Gulch Mine).bin",
+    "Duration": 60.800000000000004
   }
 ]
