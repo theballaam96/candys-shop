@@ -20254,5 +20254,23 @@
     "Date": "Tue May 14 2024 21:28:53 GMT+0000 (Coordinated Universal Time)",
     "Binary": "binaries/Touhou Koumakyou ~ Embodiment of Scarlet Devil/Voile, the Magic Library.bin",
     "Duration": 106.61849503541669
+  },
+  {
+    "Game": "Touhou Kaeidzuka ~ Phantasmagoria of Flower View",
+    "Song": "Flowering Night",
+    "Category": "bgm",
+    "Composers": "ZUN",
+    "Converters": "Schwartz Gandhi",
+    "Audio": "https://www.youtube.com/watch?v=TOrAssXKB4Y",
+    "Tags": [
+      "Fights",
+      "Interiors",
+      "Gloomy"
+    ],
+    "Update Notes": "don't make me come up there and take away that music",
+    "Verified": true,
+    "Date": "Tue May 14 2024 21:30:04 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Touhou Kaeidzuka ~ Phantasmagoria of Flower View/Flowering Night (REV 1).bin",
+    "Duration": 126.27455400000001
   }
 ]
