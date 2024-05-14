@@ -20354,5 +20354,22 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Touhou%20Youyoumu%20~%20Perfect%20Cherry%20Blossom/Crystalized%20Silver.mp3",
     "Binary": "binaries/Touhou Youyoumu ~ Perfect Cherry Blossom/Crystalized Silver.bin",
     "Duration": 68.979547
+  },
+  {
+    "Game": "Castlevania: Aria of Sorrow",
+    "Song": "Castle Corridor",
+    "Composers": "Michiru Yamane",
+    "Converters": "GenericDude1",
+    "Category": "bgm",
+    "Update Notes": "Get The Fortissimo out",
+    "Tags": [
+      "Interiors",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Tue May 14 2024 23:27:27 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Castlevania%20Aria%20of%20Sorrow/Castle%20Corridor%20(REV%201).mp3",
+    "Binary": "binaries/Castlevania Aria of Sorrow/Castle Corridor (REV 1).bin",
+    "Duration": 90.434656
   }
 ]
