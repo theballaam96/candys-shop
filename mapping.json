@@ -20289,5 +20289,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Route%20205%20(Day)/Pok%C3%A9mon%20Diamond,%20Pearl%20%20Platinum.mp3",
     "Binary": "binaries/Route 205 (Day)/Pokémon Diamond, Pearl  Platinum.bin",
     "Duration": 48.0125
+  },
+  {
+    "Game": "Rise of the Triad",
+    "Song": "God Rest Ye, Deadly Gentlemen",
+    "Category": "bgm",
+    "Composers": "Lee Jackson, Unknown",
+    "Converters": "Schwartz Gandhi",
+    "Audio": "https://www.youtube.com/watch?v=5l5EfJ8fkgA",
+    "Tags": [
+      "Exteriors"
+    ],
+    "Update Notes": "my eardrums",
+    "Verified": true,
+    "Date": "Tue May 14 2024 21:33:00 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Rise of the Triad/God Rest Ye, Deadly Gentlemen.bin",
+    "Duration": 95.94097222222223
   }
 ]
