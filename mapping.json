@@ -20238,5 +20238,21 @@
     "Verified": true,
     "Date": "Tue May 14 2024 14:37:19 GMT+0000 (Coordinated Universal Time)",
     "Binary": "binaries/Persona 5/Throw Away Your Mask (Royal) (REV 1).bin"
+  },
+  {
+    "Game": "Touhou Koumakyou ~ Embodiment of Scarlet Devil",
+    "Song": "Voile, the Magic Library",
+    "Category": "bgm",
+    "Composers": "ZUN",
+    "Converters": "Schwartz Gandhi",
+    "Audio": "https://www.youtube.com/watch?v=iq5HpQt0ZAw",
+    "Tags": [
+      "Interiors"
+    ],
+    "Update Notes": "for the love of all that is holy please turn it down",
+    "Verified": true,
+    "Date": "Tue May 14 2024 21:28:53 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Touhou Koumakyou ~ Embodiment of Scarlet Devil/Voile, the Magic Library.bin",
+    "Duration": 106.61849503541669
   }
 ]
