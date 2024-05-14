@@ -20223,5 +20223,20 @@
     "Date": "Tue May 14 2024 14:35:57 GMT+0000 (Coordinated Universal Time)",
     "Binary": "binaries/Banjo-Tooie/Glitter Gulch Mine.bin",
     "Duration": 119.99987999999999
+  },
+  {
+    "Game": "Persona 5",
+    "Song": "Throw Away Your Mask (Royal)",
+    "Category": "bgm",
+    "Composers": "Shoji Meguro",
+    "Converters": "Schwartz Gandhi",
+    "Audio": "https://www.youtube.com/watch?v=qcz8lh3gWZU",
+    "Tags": [
+      "Fights"
+    ],
+    "Update Notes": "turn the music down",
+    "Verified": true,
+    "Date": "Tue May 14 2024 14:37:19 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Persona 5/Throw Away Your Mask (Royal) (REV 1).bin"
   }
 ]
