@@ -20305,5 +20305,21 @@
     "Date": "Tue May 14 2024 21:33:00 GMT+0000 (Coordinated Universal Time)",
     "Binary": "binaries/Rise of the Triad/God Rest Ye, Deadly Gentlemen.bin",
     "Duration": 95.94097222222223
+  },
+  {
+    "Game": "Shuusou Gyoku",
+    "Song": "False Strawberry",
+    "Category": "bgm",
+    "Composers": "ZUN",
+    "Converters": "Schwartz Gandhi",
+    "Tags": [
+      "Exteriors",
+      "Happy"
+    ],
+    "Update Notes": "ouch",
+    "Verified": true,
+    "Date": "Tue May 14 2024 21:36:15 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Shuusou Gyoku/False Strawberry (REV 1).bin",
+    "Duration": 91.59518399999999
   }
 ]
