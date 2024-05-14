@@ -20240,7 +20240,7 @@
     "Binary": "binaries/Persona 5/Throw Away Your Mask (Royal) (REV 1).bin"
   },
   {
-    "Game": "Touhou Koumakyou ~ Embodiment of Scarlet Devil",
+    "Game": "Touhou Koumakyou ~ The Embodiment of Scarlet Devil",
     "Song": "Voile, the Magic Library",
     "Category": "bgm",
     "Composers": "ZUN",
@@ -20274,8 +20274,8 @@
     "Duration": 126.27455400000001
   },
   {
-    "Game": "Route 205 (Day)",
-    "Song": "Pokémon Diamond, Pearl & Platinum",
+    "Game": "Pokémon Diamond, Pearl & Platinum",
+    "Song": "Route 205 (Day)",
     "Category": "bgm",
     "Composers": "Junichi Masuda",
     "Converters": "Schwartz Gandhi",
@@ -20291,7 +20291,7 @@
     "Duration": 48.0125
   },
   {
-    "Game": "Rise of the Triad",
+    "Game": "Rise Of The Triad",
     "Song": "God Rest Ye, Deadly Gentlemen",
     "Category": "bgm",
     "Composers": "Lee Jackson, Unknown",
