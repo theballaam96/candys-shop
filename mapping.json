@@ -20272,5 +20272,22 @@
     "Date": "Tue May 14 2024 21:30:04 GMT+0000 (Coordinated Universal Time)",
     "Binary": "binaries/Touhou Kaeidzuka ~ Phantasmagoria of Flower View/Flowering Night (REV 1).bin",
     "Duration": 126.27455400000001
+  },
+  {
+    "Game": "Route 205 (Day)",
+    "Song": "Pokémon Diamond, Pearl & Platinum",
+    "Category": "bgm",
+    "Composers": "Junichi Masuda",
+    "Converters": "Schwartz Gandhi",
+    "Tags": [
+      "Exteriors",
+      "Happy"
+    ],
+    "Update Notes": "Why don't you go and take that racket outside",
+    "Verified": true,
+    "Date": "Tue May 14 2024 21:31:28 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Route%20205%20(Day)/Pok%C3%A9mon%20Diamond,%20Pearl%20%20Platinum.mp3",
+    "Binary": "binaries/Route 205 (Day)/Pokémon Diamond, Pearl  Platinum.bin",
+    "Duration": 48.0125
   }
 ]
