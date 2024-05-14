@@ -20337,5 +20337,22 @@
     "Date": "Tue May 14 2024 21:37:29 GMT+0000 (Coordinated Universal Time)",
     "Binary": "binaries/Banjo-Tooie/Jolly Rogers Lagoon.bin",
     "Duration": 124.76599999999999
+  },
+  {
+    "Game": "Touhou Youyoumu ~ Perfect Cherry Blossom",
+    "Song": "Crystalized Silver",
+    "Composers": "ZUN",
+    "Converters": "Zion Jaymes",
+    "Category": "bgm",
+    "Additional Notes": "Why are there no snow levels in DK64? No, Crystal Caves doesn't count.",
+    "Tags": [
+      "Fights",
+      "Minigames"
+    ],
+    "Verified": true,
+    "Date": "Tue May 14 2024 21:38:59 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Touhou%20Youyoumu%20~%20Perfect%20Cherry%20Blossom/Crystalized%20Silver.mp3",
+    "Binary": "binaries/Touhou Youyoumu ~ Perfect Cherry Blossom/Crystalized Silver.bin",
+    "Duration": 68.979547
   }
 ]
