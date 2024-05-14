@@ -20171,5 +20171,22 @@
     "Date": "Tue May 14 2024 01:19:27 GMT+0000 (Coordinated Universal Time)",
     "Binary": "binaries/Rise Of The Triad/Howd I Do (REV 1).bin",
     "Duration": 50.6201171875
+  },
+  {
+    "Game": "Super Mario Galaxy",
+    "Song": "Megaleg",
+    "Composers": "Koji Kondo, Mahito Yokota",
+    "Converters": "Ballaam",
+    "Category": "bgm",
+    "Audio": "https://www.youtube.com/watch?v=Cnb8VsdyOko",
+    "Update Notes": "Part of the rebalancing project",
+    "Tags": [
+      "Fights",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Tue May 14 2024 01:21:14 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Super Mario Galaxy/Megaleg (REV 1).bin",
+    "Duration": 76.66220372916666
   }
 ]
