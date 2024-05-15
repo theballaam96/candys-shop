@@ -20506,5 +20506,22 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Donkey%20Kong%20Country/Fear%20Factory%20(REV%201).mp3",
     "Binary": "binaries/Donkey Kong Country/Fear Factory (REV 1).bin",
     "Duration": 114.85069650000001
+  },
+  {
+    "Game": "Donkey Kong Country",
+    "Song": "Aquatic Ambiance",
+    "Composers": "David Wise",
+    "Converters": "OnlySpaghettiCode",
+    "Category": "bgm",
+    "Update Notes": "Several changes",
+    "Tags": [
+      "Exteriors",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Wed May 15 2024 18:36:04 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Donkey%20Kong%20Country/Aquatic%20Ambiance%20(REV%201).mp3",
+    "Binary": "binaries/Donkey Kong Country/Aquatic Ambiance (REV 1).bin",
+    "Duration": 121.65833333333333
   }
 ]
