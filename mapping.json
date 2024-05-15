@@ -20455,5 +20455,22 @@
     "Date": "Wed May 15 2024 14:05:16 GMT+0000 (Coordinated Universal Time)",
     "Binary": "binaries/Touhou Tenkuushou ~ Hidden Star in Four Seasons/A Midsummer Fairys Dream (REV 3).bin",
     "Duration": 105.71403199999999
+  },
+  {
+    "Game": "Donkey Kong Country: Tropical Freeze",
+    "Song": "Scorch n Torch",
+    "Composers": "David Wise",
+    "Converters": "OnlySpaghettiCode",
+    "Category": "bgm",
+    "Update Notes": "Volume rebalance",
+    "Tags": [
+      "Exteriors",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Wed May 15 2024 18:31:52 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Donkey%20Kong%20Country%20Tropical%20Freeze/Scorch%20n%20Torch%20(REV%201).mp3",
+    "Binary": "binaries/Donkey Kong Country Tropical Freeze/Scorch n Torch (REV 1).bin",
+    "Duration": 94.99455554166667
   }
 ]
