@@ -20387,5 +20387,23 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Chrono%20Trigger/Main%20Theme%20(REV%201).mp3",
     "Binary": "binaries/Chrono Trigger/Main Theme (REV 1).bin",
     "Duration": 117.92295899999998
+  },
+  {
+    "Game": "Chrono Trigger",
+    "Song": "Peaceful Days",
+    "Composers": "Yasunori Mitsuda",
+    "Converters": "OnlySpaghettiCode",
+    "Category": "bgm",
+    "Update Notes": "Part of the rebalancing project",
+    "Tags": [
+      "Exteriors",
+      "Happy",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Wed May 15 2024 14:01:13 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Chrono%20Trigger/Peaceful%20Days%20(REV%201).mp3",
+    "Binary": "binaries/Chrono Trigger/Peaceful Days (REV 1).bin",
+    "Duration": 80.17239375000001
   }
 ]
