@@ -20422,5 +20422,22 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Chrono%20Trigger/Schalas%20Theme%20(REV%201).mp3",
     "Binary": "binaries/Chrono Trigger/Schalas Theme (REV 1).bin",
     "Duration": 87.98776674999999
+  },
+  {
+    "Game": "Chrono Trigger",
+    "Song": "Secret of the Forest",
+    "Composers": "Yasunori Mitsuda",
+    "Converters": "OnlySpaghettiCode",
+    "Category": "bgm",
+    "Update Notes": "Part of the rebalancing project",
+    "Tags": [
+      "Exteriors",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Wed May 15 2024 14:03:53 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Chrono%20Trigger/Secret%20of%20the%20Forest%20(REV%201).mp3",
+    "Binary": "binaries/Chrono Trigger/Secret of the Forest (REV 1).bin",
+    "Duration": 134.5666666666667
   }
 ]
