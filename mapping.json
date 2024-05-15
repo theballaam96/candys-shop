@@ -20523,5 +20523,23 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Donkey%20Kong%20Country/Aquatic%20Ambiance%20(REV%201).mp3",
     "Binary": "binaries/Donkey Kong Country/Aquatic Ambiance (REV 1).bin",
     "Duration": 121.65833333333333
+  },
+  {
+    "Game": "Persona 4",
+    "Song": "Heaven",
+    "Category": "bgm",
+    "Composers": "Shoji Meguro",
+    "Converters": "Schwartz Gandhi",
+    "Audio": "https://youtu.be/BB7NcSeuhk0",
+    "Tags": [
+      "Exteriors",
+      "Gloomy",
+      "Calm"
+    ],
+    "Update Notes": "fixed things",
+    "Verified": true,
+    "Date": "Wed May 15 2024 23:29:00 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Persona 4/Heaven (REV 1).bin",
+    "Duration": 80.655692
   }
 ]
