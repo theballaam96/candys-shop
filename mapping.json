@@ -20472,5 +20472,22 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Donkey%20Kong%20Country%20Tropical%20Freeze/Scorch%20n%20Torch%20(REV%201).mp3",
     "Binary": "binaries/Donkey Kong Country Tropical Freeze/Scorch n Torch (REV 1).bin",
     "Duration": 94.99455554166667
+  },
+  {
+    "Game": "Donkey Kong Country 2: Diddy's Kong Quest",
+    "Song": "Jib Jig",
+    "Composers": "David Wise",
+    "Converters": "OnlySpaghettiCode",
+    "Category": "bgm",
+    "Update Notes": "Volume rebalance",
+    "Tags": [
+      "Exteriors",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Wed May 15 2024 18:33:05 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Donkey%20Kong%20Country%202%20Diddys%20Kong%20Quest/Jib%20Jig%20(REV%201).mp3",
+    "Binary": "binaries/Donkey Kong Country 2 Diddys Kong Quest/Jib Jig (REV 1).bin",
+    "Duration": 58.08511800000001
   }
 ]
