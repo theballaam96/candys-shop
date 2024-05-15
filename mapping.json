@@ -20371,5 +20371,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Castlevania%20Aria%20of%20Sorrow/Castle%20Corridor%20(REV%201).mp3",
     "Binary": "binaries/Castlevania Aria of Sorrow/Castle Corridor (REV 1).bin",
     "Duration": 90.434656
+  },
+  {
+    "Game": "Chrono Trigger",
+    "Song": "Main Theme",
+    "Composers": "Yasunori Mitsuda",
+    "Converters": "OnlySpaghettiCode",
+    "Category": "bgm",
+    "Update Notes": "Part of the rebalancing project",
+    "Tags": [
+      "Exteriors"
+    ],
+    "Verified": true,
+    "Date": "Wed May 15 2024 13:59:52 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Chrono%20Trigger/Main%20Theme%20(REV%201).mp3",
+    "Binary": "binaries/Chrono Trigger/Main Theme (REV 1).bin",
+    "Duration": 117.92295899999998
   }
 ]
