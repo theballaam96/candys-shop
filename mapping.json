@@ -20489,5 +20489,22 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Donkey%20Kong%20Country%202%20Diddys%20Kong%20Quest/Jib%20Jig%20(REV%201).mp3",
     "Binary": "binaries/Donkey Kong Country 2 Diddys Kong Quest/Jib Jig (REV 1).bin",
     "Duration": 58.08511800000001
+  },
+  {
+    "Game": "Donkey Kong Country",
+    "Song": "Fear Factory",
+    "Composers": "David Wise",
+    "Converters": "OnlySpaghettiCode",
+    "Category": "bgm",
+    "Update Notes": "Volume rebalance",
+    "Tags": [
+      "Interiors",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Wed May 15 2024 18:34:37 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Donkey%20Kong%20Country/Fear%20Factory%20(REV%201).mp3",
+    "Binary": "binaries/Donkey Kong Country/Fear Factory (REV 1).bin",
+    "Duration": 114.85069650000001
   }
 ]
