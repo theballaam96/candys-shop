@@ -20439,5 +20439,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Chrono%20Trigger/Secret%20of%20the%20Forest%20(REV%201).mp3",
     "Binary": "binaries/Chrono Trigger/Secret of the Forest (REV 1).bin",
     "Duration": 134.5666666666667
+  },
+  {
+    "Game": "Touhou Tenkuushou ~ Hidden Star in Four Seasons",
+    "Song": "A Midsummer Fairy's Dream",
+    "Category": "bgm",
+    "Composers": "ZUN",
+    "Converters": "Schwartz Gandhi",
+    "Audio": "https://www.youtube.com/watch?v=SywPCnudL1I",
+    "Tags": [
+      "Fights"
+    ],
+    "Update Notes": "this song goes hard at -17 LUFS integrated",
+    "Verified": true,
+    "Date": "Wed May 15 2024 14:05:16 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Touhou Tenkuushou ~ Hidden Star in Four Seasons/A Midsummer Fairys Dream (REV 3).bin",
+    "Duration": 105.71403199999999
   }
 ]
