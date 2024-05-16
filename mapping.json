@@ -20558,5 +20558,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Super%20Bomberman%205/Extreme%20Chaos%20(REV%202).mp3",
     "Binary": "binaries/Super Bomberman 5/Extreme Chaos (REV 2).bin",
     "Duration": 62.430944062500004
+  },
+  {
+    "Game": "Earthworm Jim",
+    "Song": "Buttville - The Descent",
+    "Composers": "Mark Miller",
+    "Converters": "Wibdiwoh",
+    "Category": "bgm",
+    "Update Notes": "minor tweaks on volume and two instrument changes",
+    "Tags": [
+      "Minigames"
+    ],
+    "Verified": true,
+    "Date": "Thu May 16 2024 01:01:20 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Earthworm%20Jim/Buttville%20-%20The%20Descent%20(REV%202).mp3",
+    "Binary": "binaries/Earthworm Jim/Buttville - The Descent (REV 2).bin",
+    "Duration": 45.25102312499999
   }
 ]
