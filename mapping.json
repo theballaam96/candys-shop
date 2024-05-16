@@ -20591,5 +20591,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Earthworm%20Jim/For%20Petes%20Sake%20(REV%202).mp3",
     "Binary": "binaries/Earthworm Jim/For Petes Sake (REV 2).bin",
     "Duration": 93.67519268750002
+  },
+  {
+    "Game": "Earthworm Jim",
+    "Song": "Level 5",
+    "Composers": "Mark Miller",
+    "Converters": "Wibdiwoh",
+    "Category": "bgm",
+    "Update Notes": "some remixing and an attempt at improving the hits",
+    "Tags": [
+      "Exteriors"
+    ],
+    "Verified": true,
+    "Date": "Thu May 16 2024 01:03:31 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Earthworm%20Jim/Level%205%20(REV%202).mp3",
+    "Binary": "binaries/Earthworm Jim/Level 5 (REV 2).bin",
+    "Duration": 96.65321927083333
   }
 ]
