@@ -20541,5 +20541,22 @@
     "Date": "Wed May 15 2024 23:29:00 GMT+0000 (Coordinated Universal Time)",
     "Binary": "binaries/Persona 4/Heaven (REV 1).bin",
     "Duration": 80.655692
+  },
+  {
+    "Game": "Super Bomberman 5",
+    "Song": "Extreme Chaos",
+    "Composers": "Jun Chikuma",
+    "Converters": "Wibdiwoh",
+    "Category": "bgm",
+    "Update Notes": "changed 2 shehnais to 2 handpans, lowered velocity on sharp notes. lufs dropped by 7 max 4 integrated comparing just these instruments alone and 0.7 max 0.2 integrated on the full song",
+    "Tags": [
+      "Fights",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Thu May 16 2024 00:47:55 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Super%20Bomberman%205/Extreme%20Chaos%20(REV%202).mp3",
+    "Binary": "binaries/Super Bomberman 5/Extreme Chaos (REV 2).bin",
+    "Duration": 62.430944062500004
   }
 ]
