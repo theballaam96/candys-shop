@@ -20607,5 +20607,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Earthworm%20Jim/Level%205%20(REV%202).mp3",
     "Binary": "binaries/Earthworm Jim/Level 5 (REV 2).bin",
     "Duration": 96.65321927083333
+  },
+  {
+    "Game": "Earthworm Jim",
+    "Song": "New Junk City",
+    "Composers": "Mark Miller",
+    "Converters": "Wibdiwoh",
+    "Category": "bgm",
+    "Update Notes": "changes in volume and swap one instrument",
+    "Tags": [
+      "Exteriors"
+    ],
+    "Verified": true,
+    "Date": "Thu May 16 2024 01:07:43 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Earthworm%20Jim/New%20Junk%20City%20(REV%202).mp3",
+    "Binary": "binaries/Earthworm Jim/New Junk City (REV 2).bin",
+    "Duration": 120.11979166666667
   }
 ]
