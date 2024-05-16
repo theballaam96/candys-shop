@@ -20639,5 +20639,22 @@
     "Date": "Thu May 16 2024 03:48:15 GMT+0000 (Coordinated Universal Time)",
     "Binary": "binaries/Super Mario Galaxy 2/Bowser Jrs Fiery Flotilla (REV 1).bin",
     "Duration": 54.16113250000001
+  },
+  {
+    "Game": "Perfect Dark",
+    "Song": "Pause Menu",
+    "Composers": "Grant Kirkhope",
+    "Converters": "Zion Jaymes",
+    "Category": "bgm",
+    "Additional Notes": "Filter sweeps are not easy to do in DK64, but it was too cool not to try. Also Rambi returns lol",
+    "Tags": [
+      "Lobbies and Shops",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Thu May 16 2024 20:37:05 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Perfect%20Dark/Pause%20Menu.mp3",
+    "Binary": "binaries/Perfect Dark/Pause Menu.bin",
+    "Duration": 46.08
   }
 ]
