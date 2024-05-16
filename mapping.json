@@ -20623,5 +20623,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Earthworm%20Jim/New%20Junk%20City%20(REV%202).mp3",
     "Binary": "binaries/Earthworm Jim/New Junk City (REV 2).bin",
     "Duration": 120.11979166666667
+  },
+  {
+    "Game": "Super Mario Galaxy 2",
+    "Song": "Bowser Jr's Fiery Flotilla",
+    "Composers": "Koji Kondo",
+    "Converters": "UmedMuzl",
+    "Category": "bgm",
+    "Update Notes": "Nuked the volume",
+    "Tags": [
+      "Exteriors",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Thu May 16 2024 03:48:15 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Super Mario Galaxy 2/Bowser Jrs Fiery Flotilla (REV 1).bin",
+    "Duration": 54.16113250000001
   }
 ]
