@@ -20758,5 +20758,22 @@
     "Date": "Fri May 17 2024 17:48:35 GMT+0000 (Coordinated Universal Time)",
     "Binary": "binaries/Sonic the Hedgehog 2/Oil Ocean Zone (REV 2).bin",
     "Duration": 47.57681730208333
+  },
+  {
+    "Game": "StarTropics",
+    "Song": "Test Of Island Courage (Dungeon)",
+    "Composers": "Yoshio Hirai",
+    "Converters": "Wibdiwoh",
+    "Category": "bgm",
+    "Audio": "https://www.youtube.com/watch?v=APHhnHOpaiM",
+    "Update Notes": "rebalancing project (68%)",
+    "Tags": [
+      "Interiors",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Fri May 17 2024 17:50:06 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/StarTropics/Test Of Island Courage (Dungeon) (REV 2).bin",
+    "Duration": 41.04164204166666
   }
 ]
