@@ -26,6 +26,9 @@ jobs:
       run: |
         FORBIDDEN_LABEL="batch-merge-ignore"
         PRS=$(jq -c '.[]' pr_list.json)
+
+        echo "$PRS"
+        
         for PR in $PRS; do
           PR_NUMBER=$(echo $PR | jq -r '.number')
 
