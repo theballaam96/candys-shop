@@ -20775,5 +20775,22 @@
     "Date": "Fri May 17 2024 17:50:06 GMT+0000 (Coordinated Universal Time)",
     "Binary": "binaries/StarTropics/Test Of Island Courage (Dungeon) (REV 2).bin",
     "Duration": 41.04164204166666
+  },
+  {
+    "Game": "Pokémon Ruby, Sapphire & Emerald",
+    "Song": "Littleroot Town",
+    "Composers": "Go Ichinose",
+    "Converters": "UmedMuzl",
+    "Category": "bgm",
+    "Update Notes": "Third times the charm",
+    "Tags": [
+      "Exteriors",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Fri May 17 2024 17:51:18 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Pok%C3%A9mon%20Ruby,%20Sapphire%20%20Emerald/Littleroot%20Town%20(REV%202).mp3",
+    "Binary": "binaries/Pokémon Ruby, Sapphire  Emerald/Littleroot Town (REV 2).bin",
+    "Duration": 54.16671
   }
 ]
