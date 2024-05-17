@@ -20724,5 +20724,23 @@
     "Date": "Fri May 17 2024 17:44:45 GMT+0000 (Coordinated Universal Time)",
     "Binary": "binaries/Mr Gimmick/Aporia (REV 2).bin",
     "Duration": 46.91696452083334
+  },
+  {
+    "Game": "Rise Of The Triad",
+    "Song": "Suck This",
+    "Composers": "Lee Jackson",
+    "Converters": "Wibdiwoh",
+    "Category": "bgm",
+    "Audio": "https://www.youtube.com/watch?v=NRtO8YqY5PA",
+    "Update Notes": "rebalancing project (91%)",
+    "Tags": [
+      "Fights",
+      "Minigames",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Fri May 17 2024 17:46:14 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Rise Of The Triad/Suck This (REV 1).bin",
+    "Duration": 109.36562425000001
   }
 ]
