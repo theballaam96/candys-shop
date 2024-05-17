@@ -28,10 +28,12 @@ jobs:
         PRS=$(jq -c '.[]' pr_list.json)
         for PR in $PRS; do
           PR_NUMBER=$(echo $PR | jq -r '.number')
-          LABELS=$(echo $PR | jq -r '.labels.*.name')
+          LABELS=$(echo $PR | jq -r '.labels[].name')
+
+          echo "#$LABELS"
 
           if echo "$LABELS" | grep -q "$FORBIDDEN_LABEL"; then
-            echo "Skipping PR $PR_NUMBER"
+            echo "Skipping PR #$PR_NUMBER"
           else
             echo "Merging PR #$PR_NUMBER"
           fi
