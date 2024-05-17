@@ -20707,5 +20707,22 @@
     "Date": "Fri May 17 2024 17:43:18 GMT+0000 (Coordinated Universal Time)",
     "Binary": "binaries/Mario Kart 64/3 Raceways  Wario Stadium (REV 1).bin",
     "Duration": 72.0981421875
+  },
+  {
+    "Game": "Mr. Gimmick!",
+    "Song": "Aporia",
+    "Composers": "Masashi Kageyama",
+    "Converters": "Wibdiwoh",
+    "Category": "bgm",
+    "Audio": "https://www.youtube.com/watch?v=ynBGFUMCLzA",
+    "Update Notes": "rebalancing project (76%)",
+    "Tags": [
+      "Fights",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Fri May 17 2024 17:44:45 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Mr Gimmick/Aporia (REV 2).bin",
+    "Duration": 46.91696452083334
   }
 ]
