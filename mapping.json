@@ -20742,5 +20742,21 @@
     "Date": "Fri May 17 2024 17:46:14 GMT+0000 (Coordinated Universal Time)",
     "Binary": "binaries/Rise Of The Triad/Suck This (REV 1).bin",
     "Duration": 109.36562425000001
+  },
+  {
+    "Game": "Sonic the Hedgehog 2",
+    "Song": "Oil Ocean Zone",
+    "Composers": "Masato Nakamura",
+    "Converters": "Wibdiwoh",
+    "Category": "bgm",
+    "Audio": "https://www.youtube.com/watch?v=lLb8Xeo09OQ",
+    "Update Notes": "rebalancing project (65%)",
+    "Tags": [
+      "Exteriors"
+    ],
+    "Verified": true,
+    "Date": "Fri May 17 2024 17:48:35 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Sonic the Hedgehog 2/Oil Ocean Zone (REV 2).bin",
+    "Duration": 47.57681730208333
   }
 ]
