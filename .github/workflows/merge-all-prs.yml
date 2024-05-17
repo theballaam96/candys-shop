@@ -13,12 +13,16 @@ jobs:
 
     - name: Fetch pull requests
       id: fetch_prs
+      env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       run: |
         gh pr list --state open --json number,labels > pr_list.json
         cat pr_list.json
 
     - name: Filter and merge pull requests
       id: filter_and_merge
+      env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       run: |
         FORBIDDEN_LABEL="batch-merge-ignore"
         PRS=$(jq -c '.[]' pr_list.json)
@@ -30,7 +34,6 @@ jobs:
             echo "PR #$PR_NUMBER has the forbidden label. Skipping merge."
           else
             echo "Merging PR #$PR_NUMBER"
-            gh pr merge $PR_NUMBER --merge --auto --delete-branch
           fi
         done
 
