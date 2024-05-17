@@ -20827,5 +20827,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Bomberman%20Hero/Mimesis%20(REV%202).mp3",
     "Binary": "binaries/Bomberman Hero/Mimesis (REV 2).bin",
     "Duration": 53.06895225
+  },
+  {
+    "Game": "Pokémon Ruby, Sapphire & Emerald",
+    "Song": "Verdanturf Town",
+    "Composers": "Go Ichinose",
+    "Converters": "UmedMuzl",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Fri May 17 2024 20:55:02 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Pok%C3%A9mon%20Ruby,%20Sapphire%20%20Emerald/Verdanturf%20Town.mp3",
+    "Binary": "binaries/Pokémon Ruby, Sapphire  Emerald/Verdanturf Town.bin",
+    "Duration": 46.242578020833335
   }
 ]
