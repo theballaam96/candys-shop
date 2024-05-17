@@ -20690,5 +20690,22 @@
     "Date": "Fri May 17 2024 17:39:05 GMT+0000 (Coordinated Universal Time)",
     "Binary": "binaries/Harald Hardtand Kampen om de rene taender/Main Theme (REV 3).bin",
     "Duration": 76.86875
+  },
+  {
+    "Game": "Mario Kart 64",
+    "Song": "3 Raceways & Wario Stadium",
+    "Composers": "Kenta Nagata",
+    "Converters": "Wibdiwoh",
+    "Category": "bgm",
+    "Audio": "https://www.youtube.com/watch?v=XQqtNC1_2eA",
+    "Update Notes": "rebalancing project (72%)",
+    "Tags": [
+      "Minigames",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Fri May 17 2024 17:43:18 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Mario Kart 64/3 Raceways  Wario Stadium (REV 1).bin",
+    "Duration": 72.0981421875
   }
 ]
