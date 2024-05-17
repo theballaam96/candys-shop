@@ -31,7 +31,7 @@ jobs:
           LABELS=$(echo $PR | jq -r '.labels[].name')
 
           if echo "$LABELS" | grep -q "$FORBIDDEN_LABEL"; then
-            echo "PR #$PR_NUMBER has the forbidden label. Skipping merge."
+            echo "Skipping PR #$PR_NUMBER"
           else
             echo "Merging PR #$PR_NUMBER"
           fi
