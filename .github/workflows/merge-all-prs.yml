@@ -1,0 +1,41 @@
+name: Auto Merge PRs
+
+on:
+  workflow_dispatch:
+
+jobs:
+  auto-merge:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+
+    - name: Set up GitHub CLI
+      uses: cli/gh-action@v2
+      with:
+        version: latest
+
+    - name: Fetch pull requests
+      id: fetch_prs
+      run: |
+        gh pr list --state open --json number,labels > pr_list.json
+        cat pr_list.json
+
+    - name: Filter and merge pull requests
+      id: filter_and_merge
+      run: |
+        FORBIDDEN_LABEL="do-not-merge"
+        PRS=$(jq -c '.[]' pr_list.json)
+        for PR in $PRS; do
+          PR_NUMBER=$(echo $PR | jq -r '.number')
+          LABELS=$(echo $PR | jq -r '.labels[].name')
+
+          if echo "$LABELS" | grep -q "$FORBIDDEN_LABEL"; then
+            echo "PR #$PR_NUMBER has the forbidden label. Skipping merge."
+          else
+            echo "Merging PR #$PR_NUMBER"
+            gh pr merge $PR_NUMBER --merge --auto --delete-branch
+          fi
+        done
+
