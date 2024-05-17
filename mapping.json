@@ -20792,5 +20792,23 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Pok%C3%A9mon%20Ruby,%20Sapphire%20%20Emerald/Littleroot%20Town%20(REV%202).mp3",
     "Binary": "binaries/Pokémon Ruby, Sapphire  Emerald/Littleroot Town (REV 2).bin",
     "Duration": 54.16671
+  },
+  {
+    "Game": "Super Smash Bros. Ultimate",
+    "Song": "Battlefield",
+    "Composers": "Hideki Sakamoto",
+    "Converters": "UmedMuzl",
+    "Category": "bgm",
+    "Update Notes": "General improvements and volume fix",
+    "Tags": [
+      "Lobbies and Shops",
+      "Exteriors",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Fri May 17 2024 17:57:33 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Super%20Smash%20Bros%20Ultimate/Battlefield%20(REV%201).mp3",
+    "Binary": "binaries/Super Smash Bros Ultimate/Battlefield (REV 1).bin",
+    "Duration": 53.310131875
   }
 ]
