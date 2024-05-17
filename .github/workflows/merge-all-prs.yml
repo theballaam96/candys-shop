@@ -25,7 +25,7 @@ jobs:
     - name: Filter and merge pull requests
       id: filter_and_merge
       run: |
-        FORBIDDEN_LABEL="do-not-merge"
+        FORBIDDEN_LABEL="batch-merge-ignore"
         PRS=$(jq -c '.[]' pr_list.json)
         for PR in $PRS; do
           PR_NUMBER=$(echo $PR | jq -r '.number')
