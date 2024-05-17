@@ -11,11 +11,6 @@ jobs:
     - name: Checkout repository
       uses: actions/checkout@v3
 
-    - name: Set up GitHub CLI
-      uses: cli/gh-action@v2
-      with:
-        version: latest
-
     - name: Fetch pull requests
       id: fetch_prs
       run: |
