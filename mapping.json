@@ -20843,5 +20843,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Pok%C3%A9mon%20Ruby,%20Sapphire%20%20Emerald/Verdanturf%20Town.mp3",
     "Binary": "binaries/Pokémon Ruby, Sapphire  Emerald/Verdanturf Town.bin",
     "Duration": 46.242578020833335
+  },
+  {
+    "Game": "EarthBound",
+    "Song": "Lost Underworld",
+    "Composers": "Hirokazu Tanaka, Keiichi Suzuki",
+    "Converters": "Zion Jaymes",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Sat May 18 2024 10:03:58 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/EarthBound/Lost%20Underworld.mp3",
+    "Binary": "binaries/EarthBound/Lost Underworld.bin",
+    "Duration": 94.006
   }
 ]
