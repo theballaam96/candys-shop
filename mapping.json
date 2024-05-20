@@ -20859,5 +20859,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/EarthBound/Lost%20Underworld.mp3",
     "Binary": "binaries/EarthBound/Lost Underworld.bin",
     "Duration": 94.006
+  },
+  {
+    "Game": "Pokémon Red, Blue & Yellow",
+    "Song": "Lavender Town",
+    "Composers": "Junichi Masuda",
+    "Converters": "UmedMuzl",
+    "Category": "bgm",
+    "Audio": "https://www.youtube.com/watch?v=YAtSXVOn43I",
+    "Tags": [
+      "Interiors",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Mon May 20 2024 06:20:00 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Pokémon Red, Blue  Yellow/Lavender Town.bin",
+    "Duration": 82.5
   }
 ]
