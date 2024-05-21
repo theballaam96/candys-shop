@@ -20907,5 +20907,22 @@
     "Date": "Tue May 21 2024 01:44:53 GMT+0000 (Coordinated Universal Time)",
     "Binary": "binaries/ANTONBLAST/Outta My Way Its Happy Hour.bin",
     "Duration": 231.115509625
+  },
+  {
+    "Game": "Touhou Kanjuden ~ Legacy of Lunatic Kingdom",
+    "Song": "The Sea Where One's Home Planet Reflects",
+    "Category": "bgm",
+    "Composers": "ZUN",
+    "Converters": "Schwartz Gandhi",
+    "Audio": "https://www.youtube.com/watch?v=HBZh0en2ER0",
+    "Tags": [
+      "Exteriors",
+      "Calm"
+    ],
+    "Update Notes": "updated a lot",
+    "Verified": true,
+    "Date": "Tue May 21 2024 10:29:09 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Touhou Kanjuden ~ Legacy of Lunatic Kingdom/The Sea Where Ones Home Planet Reflects (REV 2).bin",
+    "Duration": 133.953408
   }
 ]
