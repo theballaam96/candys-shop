@@ -20890,5 +20890,22 @@
     "Date": "Mon May 20 2024 06:24:08 GMT+0000 (Coordinated Universal Time)",
     "Binary": "binaries/Super Mario RPG Legend of the Seven Stars/Fight Against a Somewhat Stronger Monster.bin",
     "Duration": 37.25
+  },
+  {
+    "Game": "ANTONBLAST",
+    "Song": "Outta My Way... It's Happy Hour!",
+    "Composers": "Tony Grayson",
+    "Converters": "ivelischpfuli",
+    "Category": "bgm",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/ANTONBLAST/Outta%20My%20Way%20Its%20Happy%20Hour.mp3",
+    "Tags": [
+      "Fights",
+      "Minigames",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Tue May 21 2024 01:44:53 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/ANTONBLAST/Outta My Way Its Happy Hour.bin",
+    "Duration": 231.115509625
   }
 ]
