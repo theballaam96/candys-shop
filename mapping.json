@@ -20940,5 +20940,22 @@
     "Audio": "https://www.youtube.com/watch?v=0Tj4e-WK33E",
     "Binary": "binaries/Rush 2 Extreme Racing USA/Menu.bin",
     "Duration": 64
+  },
+  {
+    "Game": "Klonoa: Door to Phantomile",
+    "Song": "Continue",
+    "Composers": "Eriko Imura, Takaki Horigome",
+    "Converters": "ivelischpfuli",
+    "Category": "bgm",
+    "Tags": [
+      "Lobbies and Shops",
+      "Happy",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Tue May 21 2024 19:31:44 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Klonoa%20Door%20to%20Phantomile/Continue.mp3",
+    "Binary": "binaries/Klonoa Door to Phantomile/Continue.bin",
+    "Duration": 13.09092
   }
 ]
