@@ -172,7 +172,7 @@ async function run() {
     const token = process.env.PAT_TOKEN;
 
     // Get a list of the most recent 20 workflow runs with the PR Merge Workflow
-    const action_response = await axios.get(`https://api.github.com/repos/${repo}/actions/workflows/81545140/runs?status=completed&per_page=20`, {
+    const action_response = await axios.get(`https://api.github.com/repos/${repo}/actions/workflows/81545140/runs?status=completed&per_page=100`, {
         headers: {
             Authorization: `Bearer ${token}`,
         }
