@@ -21536,5 +21536,20 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Final%20Fantasy%20IV/Fight%202%20(REV%201).mp3",
     "Binary": "binaries/Final Fantasy IV/Fight 2 (REV 1).bin",
     "Duration": 64.85461225
+  },
+  {
+    "Game": "Banjo-Tooie",
+    "Song": "Collect Ice Egg",
+    "Composers": "Grant Kirkhope",
+    "Converters": "Ballaam",
+    "Category": "minoritems",
+    "Tags": [
+      "Collection"
+    ],
+    "Verified": true,
+    "Date": "Wed May 22 2024 01:15:54 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Banjo-Tooie/Collect%20Ice%20Egg.mp3",
+    "Binary": "binaries/Banjo-Tooie/Collect Ice Egg.bin",
+    "Duration": 1.4544270833333333
   }
 ]
