@@ -21567,5 +21567,23 @@
     "Date": "Wed May 22 2024 01:17:19 GMT+0000 (Coordinated Universal Time)",
     "Binary": "binaries/Banjo-Tooie/Ordnance Storage.bin",
     "Duration": 70.92719999999998
+  },
+  {
+    "Game": "Banjo-Tooie",
+    "Song": "Clockwork Kazooie Theme",
+    "Composers": "Grant Kirkhope",
+    "Converters": "Ballaam",
+    "Category": "bgm",
+    "Audio": "https://youtu.be/qHlzNVSVjLk",
+    "Additional Notes": "The anthem for shenanigans",
+    "Tags": [
+      "Lobbies and Shops",
+      "Minigames",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Wed May 22 2024 01:18:50 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Banjo-Tooie/Clockwork Kazooie Theme.bin",
+    "Duration": 28.137924
   }
 ]
