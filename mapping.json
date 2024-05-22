@@ -21620,5 +21620,22 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Final%20Fantasy%20VII/Prelude%20(REV%201).mp3",
     "Binary": "binaries/Final Fantasy VII/Prelude (REV 1).bin",
     "Duration": 154.25931325
+  },
+  {
+    "Game": "Super Mario RPG: Legend of the Seven Stars",
+    "Song": "Welcome to Booster Tower",
+    "Composers": "Yoko Shimomura",
+    "Converters": "OnlySpaghettiCode",
+    "Category": "bgm",
+    "Update Notes": "Redo",
+    "Tags": [
+      "Lobbies and Shops",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Wed May 22 2024 16:14:50 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Super%20Mario%20RPG%20Legend%20of%20the%20Seven%20Stars/Welcome%20to%20Booster%20Tower%20(REV%201).mp3",
+    "Binary": "binaries/Super Mario RPG Legend of the Seven Stars/Welcome to Booster Tower (REV 1).bin",
+    "Duration": 40.36767262499999
   }
 ]
