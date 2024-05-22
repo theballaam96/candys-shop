@@ -20975,5 +20975,566 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Mario%20%20Luigi%20Bowsers%20Inside%20Story/Forever%20in%20the%20Plains%20(REV%201).mp3",
     "Binary": "binaries/Mario  Luigi Bowsers Inside Story/Forever in the Plains (REV 1).bin",
     "Duration": 89.7058375
+  },
+  {
+    "Game": "Final Fantasy VII",
+    "Song": "J-E-N-O-V-A",
+    "Composers": "Nobuo Uematsu",
+    "Converters": "OnlySpaghettiCode",
+    "Category": "bgm",
+    "Update Notes": "Small change",
+    "Tags": [
+      "Fights",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Wed May 22 2024 01:08:26 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Final%20Fantasy%20VII/J-E-N-O-V-A%20(REV%201).mp3",
+    "Binary": "binaries/Final Fantasy VII/J-E-N-O-V-A (REV 1).bin",
+    "Duration": 76.53051936458333
+  },
+  {
+    "Game": "The Legend of Zelda: Twilight Princess",
+    "Song": "Zoras Domain",
+    "Composers": "Toru Minegishi, Asuka Ota, Koji Kondo",
+    "Converters": "OnlySpaghettiCode",
+    "Category": "bgm",
+    "Update Notes": "Reverb",
+    "Tags": [
+      "Exteriors",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Wed May 22 2024 01:08:27 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/The%20Legend%20of%20Zelda%20Twilight%20Princess/Zoras%20Domain%20(REV%201).mp3",
+    "Binary": "binaries/The Legend of Zelda Twilight Princess/Zoras Domain (REV 1).bin",
+    "Duration": 106.875
+  },
+  {
+    "Game": "The Legend of Zelda: Twilight Princess",
+    "Song": "Sacred Grove",
+    "Composers": "Toru Minegishi, Asuka Ota, Koji Kondo",
+    "Converters": "OnlySpaghettiCode",
+    "Category": "bgm",
+    "Update Notes": "Reverb",
+    "Tags": [
+      "Exteriors",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Wed May 22 2024 01:08:28 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/The%20Legend%20of%20Zelda%20Twilight%20Princess/Sacred%20Grove%20(REV%201).mp3",
+    "Binary": "binaries/The Legend of Zelda Twilight Princess/Sacred Grove (REV 1).bin",
+    "Duration": 49.761855000000004
+  },
+  {
+    "Game": "The Legend of Zelda: Twilight Princess",
+    "Song": "Midnas Lament",
+    "Composers": "Toru Minegishi",
+    "Converters": "OnlySpaghettiCode",
+    "Category": "bgm",
+    "Update Notes": "Rebalance",
+    "Tags": [
+      "Exteriors",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Wed May 22 2024 01:08:28 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/The%20Legend%20of%20Zelda%20Twilight%20Princess/Midnas%20Lament%20(REV%201).mp3",
+    "Binary": "binaries/The Legend of Zelda Twilight Princess/Midnas Lament (REV 1).bin",
+    "Duration": 86.83744075
+  },
+  {
+    "Game": "The Legend of Zelda: Twilight Princess",
+    "Song": "Faron Woods",
+    "Composers": "Toru Minegishi, Asuka Ota, Koji Kondo",
+    "Converters": "OnlySpaghettiCode",
+    "Category": "bgm",
+    "Update Notes": "Rebalance",
+    "Tags": [
+      "Exteriors",
+      "Gloomy",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Wed May 22 2024 01:08:29 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/The%20Legend%20of%20Zelda%20Twilight%20Princess/Faron%20Woods%20(REV%201).mp3",
+    "Binary": "binaries/The Legend of Zelda Twilight Princess/Faron Woods (REV 1).bin",
+    "Duration": 107.91666666666666
+  },
+  {
+    "Game": "The Legend of Zelda: The Wind Waker",
+    "Song": "Outset Island",
+    "Composers": "Hajime Wakai, Kenta Nagata, Toru Minegishi, Koji Kondo",
+    "Converters": "OnlySpaghettiCode",
+    "Category": "bgm",
+    "Update Notes": "Rebalance",
+    "Tags": [
+      "Exteriors",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Wed May 22 2024 01:08:30 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/The%20Legend%20of%20Zelda%20The%20Wind%20Waker/Outset%20Island%20(REV%201).mp3",
+    "Binary": "binaries/The Legend of Zelda The Wind Waker/Outset Island (REV 1).bin",
+    "Duration": 115.66653527083334
+  },
+  {
+    "Game": "The Legend of Zelda: The Minish Cap",
+    "Song": "Minish Woods",
+    "Composers": "Mitsuhiko Takano",
+    "Converters": "OnlySpaghettiCode",
+    "Category": "bgm",
+    "Update Notes": "Rebalance",
+    "Tags": [
+      "Exteriors",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Wed May 22 2024 01:08:30 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/The%20Legend%20of%20Zelda%20The%20Minish%20Cap/Minish%20Woods%20(REV%201).mp3",
+    "Binary": "binaries/The Legend of Zelda The Minish Cap/Minish Woods (REV 1).bin",
+    "Duration": 34.68
+  },
+  {
+    "Game": "The Legend of Zelda: Spirit Tracks",
+    "Song": "Realm Overworld",
+    "Composers": "Toru Minegishi & Manaka Tominaga",
+    "Converters": "OnlySpaghettiCode",
+    "Category": "bgm",
+    "Update Notes": "Rebalance",
+    "Tags": [
+      "Exteriors",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Wed May 22 2024 01:08:31 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/The%20Legend%20of%20Zelda%20Spirit%20Tracks/Realm%20Overworld%20(REV%201).mp3",
+    "Binary": "binaries/The Legend of Zelda Spirit Tracks/Realm Overworld (REV 1).bin",
+    "Duration": 122.02909533333334
+  },
+  {
+    "Game": "The Legend of Zelda: Majora's Mask",
+    "Song": "Termina Field",
+    "Composers": "Koji Kondo",
+    "Converters": "OnlySpaghettiCode",
+    "Category": "bgm",
+    "Update Notes": "Rebalance",
+    "Tags": [
+      "Exteriors",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Wed May 22 2024 01:08:32 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/The%20Legend%20of%20Zelda%20Majoras%20Mask/Termina%20Field%20(REV%201).mp3",
+    "Binary": "binaries/The Legend of Zelda Majoras Mask/Termina Field (REV 1).bin",
+    "Duration": 82.87586399999999
+  },
+  {
+    "Game": "Super Metroid",
+    "Song": "Brinstar Overgrown Area",
+    "Composers": "Kenji Yamamoto, Minako Hamano",
+    "Converters": "OnlySpaghettiCode",
+    "Category": "bgm",
+    "Update Notes": "Rebalance",
+    "Tags": [
+      "Exteriors",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Wed May 22 2024 01:08:33 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Super%20Metroid/Brinstar%20Overgrown%20Area%20(REV%201).mp3",
+    "Binary": "binaries/Super Metroid/Brinstar Overgrown Area (REV 1).bin",
+    "Duration": 109.62122308333332
+  },
+  {
+    "Game": "Super Mario RPG: Legend of the Seven Stars",
+    "Song": "Still the Road is Full of Dangers",
+    "Composers": "Yoko Shimomura",
+    "Converters": "OnlySpaghettiCode",
+    "Category": "bgm",
+    "Update Notes": "Rebalance",
+    "Tags": [
+      "Exteriors",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Wed May 22 2024 01:08:34 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Super%20Mario%20RPG%20Legend%20of%20the%20Seven%20Stars/Still%20the%20Road%20is%20Full%20of%20Dangers%20(REV%202).mp3",
+    "Binary": "binaries/Super Mario RPG Legend of the Seven Stars/Still the Road is Full of Dangers (REV 2).bin",
+    "Duration": 45.629325
+  },
+  {
+    "Game": "Super Mario RPG: Legend of the Seven Stars",
+    "Song": "Nimbus Land",
+    "Composers": "Yoko Shimomura",
+    "Converters": "OnlySpaghettiCode",
+    "Category": "bgm",
+    "Update Notes": "Rebalance",
+    "Tags": [
+      "Lobbies and Shops",
+      "Interiors",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Wed May 22 2024 01:08:34 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Super%20Mario%20RPG%20Legend%20of%20the%20Seven%20Stars/Nimbus%20Land%20(REV%201).mp3",
+    "Binary": "binaries/Super Mario RPG Legend of the Seven Stars/Nimbus Land (REV 1).bin",
+    "Duration": 84.21420150000002
+  },
+  {
+    "Game": "Super Mario RPG: Legend of the Seven Stars",
+    "Song": "Beware the Forests Mushrooms",
+    "Composers": "Yoko Shimomura",
+    "Converters": "OnlySpaghettiCode",
+    "Category": "bgm",
+    "Update Notes": "Rebalance",
+    "Tags": [
+      "Exteriors",
+      "Gloomy",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Wed May 22 2024 01:08:35 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Super%20Mario%20RPG%20Legend%20of%20the%20Seven%20Stars/Beware%20the%20Forests%20Mushrooms%20(REV%201).mp3",
+    "Binary": "binaries/Super Mario RPG Legend of the Seven Stars/Beware the Forests Mushrooms (REV 1).bin",
+    "Duration": 56.469426187500005
+  },
+  {
+    "Game": "Super Mario Kart",
+    "Song": "Koopa Beach",
+    "Composers": "Soyo Oka",
+    "Converters": "OnlySpaghettiCode",
+    "Category": "bgm",
+    "Update Notes": "Rebalance",
+    "Tags": [
+      "Interiors",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Wed May 22 2024 01:08:36 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Super%20Mario%20Kart/Koopa%20Beach%20(REV%201).mp3",
+    "Binary": "binaries/Super Mario Kart/Koopa Beach (REV 1).bin",
+    "Duration": 41.625
+  },
+  {
+    "Game": "Sonic the Hedgehog 2",
+    "Song": "Chemical Plant Zone",
+    "Composers": "Masato Nakamura",
+    "Converters": "OnlySpaghettiCode",
+    "Category": "bgm",
+    "Update Notes": "Rebalance",
+    "Tags": [
+      "Minigames"
+    ],
+    "Verified": true,
+    "Date": "Wed May 22 2024 01:08:37 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Sonic%20the%20Hedgehog%202/Chemical%20Plant%20Zone%20(REV%201).mp3",
+    "Binary": "binaries/Sonic the Hedgehog 2/Chemical Plant Zone (REV 1).bin",
+    "Duration": 61.928509500000004
+  },
+  {
+    "Game": "Pokémon Mystery Dungeon: Explorers of Sky",
+    "Song": "Through the Sea of Time",
+    "Composers": "Hideki Sakamoto, Arata Liyoshi & Yoshihiro Maeda",
+    "Converters": "OnlySpaghettiCode",
+    "Category": "bgm",
+    "Update Notes": "Rebalance",
+    "Tags": [
+      "Exteriors",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Wed May 22 2024 01:08:38 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Pok%C3%A9mon%20Mystery%20Dungeon%20Explorers%20of%20Sky/Through%20the%20Sea%20of%20Time%20(REV%201).mp3",
+    "Binary": "binaries/Pokémon Mystery Dungeon Explorers of Sky/Through the Sea of Time (REV 1).bin",
+    "Duration": 97.6171875
+  },
+  {
+    "Game": "Pokémon Diamond, Pearl & Platinum",
+    "Song": "Route 209",
+    "Composers": "Junichi Masuda, Go Ichinose, Hitomi Satō",
+    "Converters": "OnlySpaghettiCode",
+    "Category": "bgm",
+    "Update Notes": "Rebalance",
+    "Tags": [
+      "Exteriors"
+    ],
+    "Verified": true,
+    "Date": "Wed May 22 2024 01:08:38 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Pok%C3%A9mon%20Diamond,%20Pearl%20%20Platinum/Route%20209%20(REV%201).mp3",
+    "Binary": "binaries/Pokémon Diamond, Pearl  Platinum/Route 209 (REV 1).bin",
+    "Duration": 75.5232105
+  },
+  {
+    "Game": "Pokémon Black & White",
+    "Song": "Route 10",
+    "Composers": "Shota Kageyama",
+    "Converters": "OnlySpaghettiCode",
+    "Category": "bgm",
+    "Update Notes": "Rebalance",
+    "Tags": [
+      "Exteriors",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Wed May 22 2024 01:08:39 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Pok%C3%A9mon%20Black%20%20White/Route%2010%20(REV%201).mp3",
+    "Binary": "binaries/Pokémon Black  White/Route 10 (REV 1).bin",
+    "Duration": 68.66957418749999
+  },
+  {
+    "Game": "Pokémon Black & White",
+    "Song": "Battle (Elite Four)",
+    "Composers": "Junichi Masuda & Go Ichinose",
+    "Converters": "OnlySpaghettiCode",
+    "Category": "bgm",
+    "Update Notes": "Rebalance",
+    "Tags": [
+      "Fights",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Wed May 22 2024 01:08:40 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Pok%C3%A9mon%20Black%20%20White/Battle%20(Elite%20Four)%20(REV%201).mp3",
+    "Binary": "binaries/Pokémon Black  White/Battle (Elite Four) (REV 1).bin",
+    "Duration": 93.63143849999999
+  },
+  {
+    "Game": "Persona 5",
+    "Song": "Ark",
+    "Composers": "Shoji Meguro",
+    "Converters": "OnlySpaghettiCode",
+    "Category": "bgm",
+    "Update Notes": "Rebalance",
+    "Tags": [
+      "Exteriors"
+    ],
+    "Verified": true,
+    "Date": "Wed May 22 2024 01:08:41 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Persona%205/Ark%20(REV%201).mp3",
+    "Binary": "binaries/Persona 5/Ark (REV 1).bin",
+    "Duration": 131.193712
+  },
+  {
+    "Game": "Mario Kart 64",
+    "Song": "Rainbow Road",
+    "Composers": "Kenta Nagata",
+    "Converters": "OnlySpaghettiCode",
+    "Category": "bgm",
+    "Update Notes": "Rebalance",
+    "Tags": [
+      "Exteriors",
+      "Happy",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Wed May 22 2024 01:08:41 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Mario%20Kart%2064/Rainbow%20Road%20(REV%201).mp3",
+    "Binary": "binaries/Mario Kart 64/Rainbow Road (REV 1).bin",
+    "Duration": 132.30084370833336
+  },
+  {
+    "Game": "Mario & Luigi: Bowser's Inside Story",
+    "Song": "Plack Beach",
+    "Composers": "Yoko Shimomura",
+    "Converters": "OnlySpaghettiCode",
+    "Category": "bgm",
+    "Update Notes": "Rebalance",
+    "Tags": [
+      "Exteriors",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Wed May 22 2024 01:08:42 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Mario%20%20Luigi%20Bowsers%20Inside%20Story/Plack%20Beach%20(REV%201).mp3",
+    "Binary": "binaries/Mario  Luigi Bowsers Inside Story/Plack Beach (REV 1).bin",
+    "Duration": 70.8823175
+  },
+  {
+    "Game": "Mario & Luigi: Bowser's Inside Story",
+    "Song": "Dimble Wood",
+    "Composers": "Yoko Shimomura",
+    "Converters": "OnlySpaghettiCode",
+    "Category": "bgm",
+    "Update Notes": "Rebalance",
+    "Tags": [
+      "Exteriors",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Wed May 22 2024 01:08:43 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Mario%20%20Luigi%20Bowsers%20Inside%20Story/Dimble%20Wood%20(REV%201).mp3",
+    "Binary": "binaries/Mario  Luigi Bowsers Inside Story/Dimble Wood (REV 1).bin",
+    "Duration": 55.09114583333333
+  },
+  {
+    "Game": "Mario & Luigi: Bowser's Inside Story",
+    "Song": "Cavi Cape",
+    "Composers": "Yoko Shimomura",
+    "Converters": "OnlySpaghettiCode",
+    "Category": "bgm",
+    "Update Notes": "Rebalance",
+    "Tags": [
+      "Exteriors",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Wed May 22 2024 01:08:44 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Mario%20%20Luigi%20Bowsers%20Inside%20Story/Cavi%20Cape%20(REV%201).mp3",
+    "Binary": "binaries/Mario  Luigi Bowsers Inside Story/Cavi Cape (REV 1).bin",
+    "Duration": 65.82119988541666
+  },
+  {
+    "Game": "Kirby Super Star",
+    "Song": "Cocoa Cave",
+    "Composers": "Jun Ishikawa",
+    "Converters": "OnlySpaghettiCode",
+    "Category": "bgm",
+    "Update Notes": "Rebalance",
+    "Tags": [
+      "Minigames"
+    ],
+    "Verified": true,
+    "Date": "Wed May 22 2024 01:08:44 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Kirby%20Super%20Star/Cocoa%20Cave%20(REV%201).mp3",
+    "Binary": "binaries/Kirby Super Star/Cocoa Cave (REV 1).bin",
+    "Duration": 63.52
+  },
+  {
+    "Game": "Final Fantasy X",
+    "Song": "Silence Before the Storm",
+    "Composers": "Nobuo Uematsu",
+    "Converters": "OnlySpaghettiCode",
+    "Category": "bgm",
+    "Update Notes": "Rebalance",
+    "Tags": [
+      "Exteriors",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Wed May 22 2024 01:08:45 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Final%20Fantasy%20X/Silence%20Before%20the%20Storm%20(REV%201).mp3",
+    "Binary": "binaries/Final Fantasy X/Silence Before the Storm (REV 1).bin",
+    "Duration": 169.76462099999998
+  },
+  {
+    "Game": "Final Fantasy VIII",
+    "Song": "The Man With the Machine Gun",
+    "Composers": "Nobuo Uematsu",
+    "Converters": "OnlySpaghettiCode",
+    "Category": "bgm",
+    "Update Notes": "Rebalance",
+    "Tags": [
+      "Fights",
+      "Minigames"
+    ],
+    "Verified": true,
+    "Date": "Wed May 22 2024 01:08:46 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Final%20Fantasy%20VIII/The%20Man%20With%20the%20Machine%20Gun%20(REV%201).mp3",
+    "Binary": "binaries/Final Fantasy VIII/The Man With the Machine Gun (REV 1).bin",
+    "Duration": 89.03562525
+  },
+  {
+    "Game": "Final Fantasy VII",
+    "Song": "Forested Temple",
+    "Composers": "Nobuo Uematsu",
+    "Converters": "OnlySpaghettiCode",
+    "Category": "bgm",
+    "Update Notes": "Rebalance",
+    "Tags": [
+      "Exteriors",
+      "Gloomy",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Wed May 22 2024 01:08:47 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Final%20Fantasy%20VII/Forested%20Temple%20(REV%201).mp3",
+    "Binary": "binaries/Final Fantasy VII/Forested Temple (REV 1).bin",
+    "Duration": 103.12494500000001
+  },
+  {
+    "Game": "Final Fantasy VI",
+    "Song": "Terra's Theme",
+    "Composers": "Nobuo Uematsu",
+    "Converters": "OnlySpaghettiCode",
+    "Category": "bgm",
+    "Update Notes": "Rebalance",
+    "Tags": [
+      "Exteriors",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Wed May 22 2024 01:08:47 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Final%20Fantasy%20VI/Terras%20Theme%20(REV%201).mp3",
+    "Binary": "binaries/Final Fantasy VI/Terras Theme (REV 1).bin",
+    "Duration": 114.77426049999998
+  },
+  {
+    "Game": "Final Fantasy VI",
+    "Song": "Blackjack",
+    "Composers": "Nobuo Uematsu",
+    "Converters": "OnlySpaghettiCode",
+    "Category": "bgm",
+    "Update Notes": "Rebalance",
+    "Tags": [
+      "Exteriors"
+    ],
+    "Verified": true,
+    "Date": "Wed May 22 2024 01:08:48 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Final%20Fantasy%20VI/Blackjack%20(REV%201).mp3",
+    "Binary": "binaries/Final Fantasy VI/Blackjack (REV 1).bin",
+    "Duration": 82.86204825
+  },
+  {
+    "Game": "Final Fantasy IX",
+    "Song": "Freya's Theme",
+    "Composers": "Nobuo Uematsu",
+    "Converters": "OnlySpaghettiCode",
+    "Category": "bgm",
+    "Update Notes": "Rebalance",
+    "Tags": [
+      "Interiors",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Wed May 22 2024 01:08:49 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Final%20Fantasy%20IX/Freyas%20Theme%20(REV%201).mp3",
+    "Binary": "binaries/Final Fantasy IX/Freyas Theme (REV 1).bin",
+    "Duration": 163.90922750000001
+  },
+  {
+    "Game": "Final Fantasy IX",
+    "Song": "Black Mage Village",
+    "Composers": "Nobuo Uematsu",
+    "Converters": "OnlySpaghettiCode",
+    "Category": "bgm",
+    "Update Notes": "Rebalance",
+    "Tags": [
+      "Exteriors",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Wed May 22 2024 01:08:50 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Final%20Fantasy%20IX/Black%20Mage%20Village%20(REV%201).mp3",
+    "Binary": "binaries/Final Fantasy IX/Black Mage Village (REV 1).bin",
+    "Duration": 94.7646585
+  },
+  {
+    "Game": "Final Fantasy IV",
+    "Song": "Fight 2",
+    "Composers": "Nobuo Uematsu",
+    "Converters": "OnlySpaghettiCode",
+    "Category": "bgm",
+    "Update Notes": "Rebalance",
+    "Tags": [
+      "Fights",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Wed May 22 2024 01:08:51 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Final%20Fantasy%20IV/Fight%202%20(REV%201).mp3",
+    "Binary": "binaries/Final Fantasy IV/Fight 2 (REV 1).bin",
+    "Duration": 64.85461225
   }
 ]
