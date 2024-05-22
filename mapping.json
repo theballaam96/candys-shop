@@ -21738,5 +21738,22 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Klonoa%202%20Lunateas%20Veil/Memory%20Doll%20Collect.mp3",
     "Binary": "binaries/Klonoa 2 Lunateas Veil/Memory Doll Collect.bin",
     "Duration": 1.27327153125
+  },
+  {
+    "Game": "Klonoa 2: Lunatea's Veil",
+    "Song": "Memory Doll Completed",
+    "Composers": "Yuji Masubuchi, Tomomitsu Kaneko, Katsurō Tajima",
+    "Converters": "ivelischpfuli",
+    "Category": "majoritems",
+    "Tags": [
+      "Spawning",
+      "Collection",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Wed May 22 2024 20:58:40 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Klonoa%202%20Lunateas%20Veil/Memory%20Doll%20Completed.mp3",
+    "Binary": "binaries/Klonoa 2 Lunateas Veil/Memory Doll Completed.bin",
+    "Duration": 2.9245245000000004
   }
 ]
