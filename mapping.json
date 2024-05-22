@@ -21688,5 +21688,22 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Yu-Gi-Oh%20Forbidden%20Memories/Priest%20Seto%20(REV%201).mp3",
     "Binary": "binaries/Yu-Gi-Oh Forbidden Memories/Priest Seto (REV 1).bin",
     "Duration": 74.36669130208334
+  },
+  {
+    "Game": "Yu-Gi-Oh! Forbidden Memories",
+    "Song": "Sebek/Neku",
+    "Composers": "Naoko Ishii, Hiroshi Tanabe, Waichiro Ozaki",
+    "Converters": "HavenKnight93",
+    "Category": "bgm",
+    "Update Notes": "Velocity Improvements | Instrument Changes | Volume Improvements",
+    "Tags": [
+      "Fights",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Wed May 22 2024 18:56:56 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Yu-Gi-Oh%20Forbidden%20Memories/SebekNeku%20(REV%201).mp3",
+    "Binary": "binaries/Yu-Gi-Oh Forbidden Memories/SebekNeku (REV 1).bin",
+    "Duration": 72.24075908333334
   }
 ]
