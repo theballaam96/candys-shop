@@ -21671,5 +21671,22 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Super%20Mario%20RPG%20Legend%20of%20the%20Seven%20Stars/And%20My%20Names%20Booster%20(REV%201).mp3",
     "Binary": "binaries/Super Mario RPG Legend of the Seven Stars/And My Names Booster (REV 1).bin",
     "Duration": 74.31635567708334
+  },
+  {
+    "Game": "Yu-Gi-Oh! Forbidden Memories",
+    "Song": "Priest Seto",
+    "Composers": "Naoko Ishii, Hiroshi Tanabe, Waichiro Ozaki",
+    "Converters": "HavenKnight93",
+    "Category": "bgm",
+    "Update Notes": "Volume Improvements Instrument Changes",
+    "Tags": [
+      "Fights",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Wed May 22 2024 17:44:20 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Yu-Gi-Oh%20Forbidden%20Memories/Priest%20Seto%20(REV%201).mp3",
+    "Binary": "binaries/Yu-Gi-Oh Forbidden Memories/Priest Seto (REV 1).bin",
+    "Duration": 74.36669130208334
   }
 ]
