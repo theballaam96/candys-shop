@@ -21705,5 +21705,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Yu-Gi-Oh%20Forbidden%20Memories/SebekNeku%20(REV%201).mp3",
     "Binary": "binaries/Yu-Gi-Oh Forbidden Memories/SebekNeku (REV 1).bin",
     "Duration": 72.24075908333334
+  },
+  {
+    "Game": "Klonoa 2: Lunatea's Veil",
+    "Song": "Dream Stone Collect",
+    "Composers": "Yuji Masubuchi, Tomomitsu Kaneko, Katsurō Tajima",
+    "Converters": "ivelischpfuli",
+    "Category": "minoritems",
+    "Tags": [
+      "Collection",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Wed May 22 2024 20:54:21 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Klonoa%202%20Lunateas%20Veil/Dream%20Stone%20Collect.mp3",
+    "Binary": "binaries/Klonoa 2 Lunateas Veil/Dream Stone Collect.bin",
+    "Duration": 0.625
   }
 ]
