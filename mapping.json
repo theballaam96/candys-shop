@@ -21551,5 +21551,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Banjo-Tooie/Collect%20Ice%20Egg.mp3",
     "Binary": "binaries/Banjo-Tooie/Collect Ice Egg.bin",
     "Duration": 1.4544270833333333
+  },
+  {
+    "Game": "Banjo-Tooie",
+    "Song": "Ordnance Storage",
+    "Composers": "Grant Kirkhope",
+    "Converters": "Ballaam",
+    "Category": "bgm",
+    "Audio": "https://youtu.be/8M7JdFfY_KA",
+    "Tags": [
+      "Minigames",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Wed May 22 2024 01:17:19 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Banjo-Tooie/Ordnance Storage.bin",
+    "Duration": 70.92719999999998
   }
 ]
