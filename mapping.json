@@ -21654,5 +21654,22 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Final%20Fantasy%20VI/Searching%20for%20Friends%20(REV%201).mp3",
     "Binary": "binaries/Final Fantasy VI/Searching for Friends (REV 1).bin",
     "Duration": 78.84
+  },
+  {
+    "Game": "Super Mario RPG: Legend of the Seven Stars",
+    "Song": "And My Names Booster",
+    "Composers": "Yoko Shimomura",
+    "Converters": "OnlySpaghettiCode",
+    "Category": "bgm",
+    "Update Notes": "Redo",
+    "Tags": [
+      "Interiors",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Wed May 22 2024 17:02:31 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Super%20Mario%20RPG%20Legend%20of%20the%20Seven%20Stars/And%20My%20Names%20Booster%20(REV%201).mp3",
+    "Binary": "binaries/Super Mario RPG Legend of the Seven Stars/And My Names Booster (REV 1).bin",
+    "Duration": 74.31635567708334
   }
 ]
