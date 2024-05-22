@@ -21602,5 +21602,23 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/The%20Legend%20of%20Zelda%20Spirit%20Tracks/In%20the%20Fields%20(REV%201).mp3",
     "Binary": "binaries/The Legend of Zelda Spirit Tracks/In the Fields (REV 1).bin",
     "Duration": 52.99313304166667
+  },
+  {
+    "Game": "Final Fantasy VII",
+    "Song": "Prelude",
+    "Composers": "Nobuo Uematsu",
+    "Converters": "OnlySpaghettiCode",
+    "Category": "bgm",
+    "Update Notes": "Redo",
+    "Tags": [
+      "Lobbies and Shops",
+      "Interiors",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Wed May 22 2024 16:13:07 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Final%20Fantasy%20VII/Prelude%20(REV%201).mp3",
+    "Binary": "binaries/Final Fantasy VII/Prelude (REV 1).bin",
+    "Duration": 154.25931325
   }
 ]
