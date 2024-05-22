@@ -21755,5 +21755,22 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Klonoa%202%20Lunateas%20Veil/Memory%20Doll%20Completed.mp3",
     "Binary": "binaries/Klonoa 2 Lunateas Veil/Memory Doll Completed.bin",
     "Duration": 2.9245245000000004
+  },
+  {
+    "Game": "Super Mario RPG: Legend of the Seven Stars",
+    "Song": "Welcome to Booster Tower",
+    "Composers": "Yoko Shimomura",
+    "Converters": "OnlySpaghettiCode",
+    "Category": "bgm",
+    "Update Notes": "Was very very quiet",
+    "Tags": [
+      "Lobbies and Shops",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Wed May 22 2024 23:48:09 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Super%20Mario%20RPG%20Legend%20of%20the%20Seven%20Stars/Welcome%20to%20Booster%20Tower%20(REV%202).mp3",
+    "Binary": "binaries/Super Mario RPG Legend of the Seven Stars/Welcome to Booster Tower (REV 2).bin",
+    "Duration": 40.36767262499999
   }
 ]
