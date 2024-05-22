@@ -21772,5 +21772,22 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Super%20Mario%20RPG%20Legend%20of%20the%20Seven%20Stars/Welcome%20to%20Booster%20Tower%20(REV%202).mp3",
     "Binary": "binaries/Super Mario RPG Legend of the Seven Stars/Welcome to Booster Tower (REV 2).bin",
     "Duration": 40.36767262499999
+  },
+  {
+    "Game": "The Legend of Zelda: Spirit Tracks",
+    "Song": "In the Fields",
+    "Composers": "Toru Minegishi & Manaka Tominaga",
+    "Converters": "OnlySpaghettiCode",
+    "Category": "bgm",
+    "Update Notes": "Was very quiet",
+    "Tags": [
+      "Exteriors",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Wed May 22 2024 23:49:30 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/The%20Legend%20of%20Zelda%20Spirit%20Tracks/In%20the%20Fields%20(REV%202).mp3",
+    "Binary": "binaries/The Legend of Zelda Spirit Tracks/In the Fields (REV 2).bin",
+    "Duration": 52.99230191666666
   }
 ]
