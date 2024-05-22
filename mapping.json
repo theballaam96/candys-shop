@@ -20958,5 +20958,22 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Klonoa%20Door%20to%20Phantomile/Continue.mp3",
     "Binary": "binaries/Klonoa Door to Phantomile/Continue.bin",
     "Duration": 13.09092
+  },
+  {
+    "Game": "Mario & Luigi: Bowser's Inside Story",
+    "Song": "Forever in the Plains",
+    "Composers": "Yoko Shimomura",
+    "Converters": "OnlySpaghettiCode",
+    "Category": "bgm",
+    "Update Notes": "Slight change",
+    "Tags": [
+      "Exteriors",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Wed May 22 2024 01:04:41 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Mario%20%20Luigi%20Bowsers%20Inside%20Story/Forever%20in%20the%20Plains%20(REV%201).mp3",
+    "Binary": "binaries/Mario  Luigi Bowsers Inside Story/Forever in the Plains (REV 1).bin",
+    "Duration": 89.7058375
   }
 ]
