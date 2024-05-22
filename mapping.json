@@ -21637,5 +21637,22 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Super%20Mario%20RPG%20Legend%20of%20the%20Seven%20Stars/Welcome%20to%20Booster%20Tower%20(REV%201).mp3",
     "Binary": "binaries/Super Mario RPG Legend of the Seven Stars/Welcome to Booster Tower (REV 1).bin",
     "Duration": 40.36767262499999
+  },
+  {
+    "Game": "Final Fantasy VI",
+    "Song": "Searching for Friends",
+    "Composers": "Nobuo Uematsu",
+    "Converters": "OnlySpaghettiCode",
+    "Category": "bgm",
+    "Update Notes": "flute too flutey",
+    "Tags": [
+      "Exteriors",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Wed May 22 2024 16:16:54 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Final%20Fantasy%20VI/Searching%20for%20Friends%20(REV%201).mp3",
+    "Binary": "binaries/Final Fantasy VI/Searching for Friends (REV 1).bin",
+    "Duration": 78.84
   }
 ]
