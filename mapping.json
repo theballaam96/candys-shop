@@ -21855,5 +21855,23 @@
     "Date": "Thu May 23 2024 22:09:35 GMT+0000 (Coordinated Universal Time)",
     "Binary": "binaries/The Legend of Zelda Ocarina of Time/Spirit Temple.bin",
     "Duration": 164.38359999999997
+  },
+  {
+    "Game": "Mario + Rabbids: Kingdom Battle",
+    "Song": "Through the Lawns",
+    "Composers": "Grant Kirkhope",
+    "Converters": "LBFrank",
+    "Category": "bgm",
+    "Update Notes": "Volume rebalanced to 110% what it was originally. Also added some missing notes to some tracks.",
+    "Tags": [
+      "Lobbies and Shops",
+      "Happy",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Thu May 23 2024 22:24:32 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Mario%20%20Rabbids%20Kingdom%20Battle/Through%20the%20Lawns%20(REV%201).mp3",
+    "Binary": "binaries/Mario  Rabbids Kingdom Battle/Through the Lawns (REV 1).bin",
+    "Duration": 38
   }
 ]
