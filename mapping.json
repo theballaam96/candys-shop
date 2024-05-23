@@ -9601,7 +9601,8 @@
     "Tracks": 12,
     "Tags": [
       "Fights",
-      "Gloomy"
+      "Gloomy",
+      "Delisted"
     ],
     "Verified": true
   },
@@ -9673,7 +9674,8 @@
     "Tracks": 12,
     "Tags": [
       "Fights",
-      "Gloomy"
+      "Gloomy",
+      "Delisted"
     ],
     "Verified": true
   },
@@ -10181,7 +10183,8 @@
     "Tags": [
       "Fights",
       "Interiors",
-      "Gloomy"
+      "Gloomy",
+      "Delisted"
     ],
     "Update of": 584,
     "Verified": true
@@ -14216,7 +14219,8 @@
     "Tags": [
       "Fights",
       "Interiors",
-      "Gloomy"
+      "Gloomy",
+      "Delisted"
     ],
     "Verified": true,
     "Additional Notes": "Fixed the loop point (I think!) and added a youtube link."
