@@ -21789,5 +21789,22 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/The%20Legend%20of%20Zelda%20Spirit%20Tracks/In%20the%20Fields%20(REV%202).mp3",
     "Binary": "binaries/The Legend of Zelda Spirit Tracks/In the Fields (REV 2).bin",
     "Duration": 52.99230191666666
+  },
+  {
+    "Game": "Bomberman 64: The Second Attack!",
+    "Song": "Lost Planet Alcatraz",
+    "Composers": "Tomohiko Kira, Yasunori Mitsuda, Hidenobu Otsuki, Tomori Kudo, Hiroyo Yamanaka, Yoshitaka Hirota, Kenji Hiramatsu",
+    "Converters": "The Specialize",
+    "Category": "bgm",
+    "Audio": "https://www.youtube.com/watch?v=0f81JnijEbE",
+    "Update Notes": "Volume Adjustments",
+    "Tags": [
+      "Interiors",
+      "Exteriors"
+    ],
+    "Verified": true,
+    "Date": "Thu May 23 2024 17:36:07 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Bomberman 64 The Second Attack/Lost Planet Alcatraz (REV 2).bin",
+    "Duration": 58.496249999999996
   }
 ]
