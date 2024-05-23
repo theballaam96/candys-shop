@@ -21822,5 +21822,22 @@
     "Date": "Thu May 23 2024 17:37:42 GMT+0000 (Coordinated Universal Time)",
     "Binary": "binaries/ToeJam  Earl/Rapmaster Rocket Racket (REV 2).bin",
     "Duration": 110.76921600000001
+  },
+  {
+    "Game": "Pokémon Stadium 2",
+    "Song": "Team Preparations",
+    "Composers": "Hajime Wakai",
+    "Converters": "HavenKnight93",
+    "Category": "bgm",
+    "Update Notes": "Volume Improvements",
+    "Tags": [
+      "Lobbies and Shops",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Thu May 23 2024 17:39:01 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Pok%C3%A9mon%20Stadium%202/Team%20Preparations%20(REV%201).mp3",
+    "Binary": "binaries/Pokémon Stadium 2/Team Preparations (REV 1).bin",
+    "Duration": 44.30764799999999
   }
 ]
