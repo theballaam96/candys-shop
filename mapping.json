@@ -21839,5 +21839,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Pok%C3%A9mon%20Stadium%202/Team%20Preparations%20(REV%201).mp3",
     "Binary": "binaries/Pokémon Stadium 2/Team Preparations (REV 1).bin",
     "Duration": 44.30764799999999
+  },
+  {
+    "Game": "The Legend of Zelda: Ocarina of Time",
+    "Song": "Spirit Temple",
+    "Composers": "Koji Kondo",
+    "Converters": "CaptainofGarbage",
+    "Category": "bgm",
+    "Audio": "https://youtu.be/BeECZFj6qqY",
+    "Tags": [
+      "Exteriors",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Thu May 23 2024 22:09:35 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/The Legend of Zelda Ocarina of Time/Spirit Temple.bin",
+    "Duration": 164.38359999999997
   }
 ]
