@@ -21806,5 +21806,21 @@
     "Date": "Thu May 23 2024 17:36:07 GMT+0000 (Coordinated Universal Time)",
     "Binary": "binaries/Bomberman 64 The Second Attack/Lost Planet Alcatraz (REV 2).bin",
     "Duration": 58.496249999999996
+  },
+  {
+    "Game": "ToeJam & Earl",
+    "Song": "Rapmaster Rocket Racket",
+    "Composers": "John Baker",
+    "Converters": "RandomFlyingMagikarp",
+    "Category": "bgm",
+    "Update Notes": "rebalance + small edits to make it sound better",
+    "Tags": [
+      "Exteriors",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Thu May 23 2024 17:37:42 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/ToeJam  Earl/Rapmaster Rocket Racket (REV 2).bin",
+    "Duration": 110.76921600000001
   }
 ]
