@@ -21895,5 +21895,22 @@
     "Date": "Fri May 24 2024 19:12:43 GMT+0000 (Coordinated Universal Time)",
     "Binary": "binaries/Chameleon Twist/Boss of Kids Land (REV 1).bin",
     "Duration": 59.06666666666666
+  },
+  {
+    "Game": "Drakengard",
+    "Song": "Chapter XIII - Closing",
+    "Composers": "Nobuyoshi Sano",
+    "Converters": "ivelischpfuli",
+    "Category": "bgm",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Drakengard/Chapter%20XIII%20-%20Closing.mp3",
+    "Tags": [
+      "Lobbies and Shops",
+      "Interiors",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Fri May 24 2024 20:07:28 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Drakengard/Chapter XIII - Closing.bin",
+    "Duration": 143.995226375
   }
 ]
