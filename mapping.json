@@ -21911,5 +21911,21 @@
     "Date": "Fri May 24 2024 20:07:28 GMT+0000 (Coordinated Universal Time)",
     "Binary": "binaries/Drakengard/Chapter XIII - Closing.bin",
     "Duration": 143.995226375
+  },
+  {
+    "Game": "The Legend of Zelda: Majora's Mask",
+    "Song": "Ikana Castle",
+    "Composers": "Koji Kondo",
+    "Converters": "Cmellz",
+    "Category": "bgm",
+    "Update Notes": "Rebalanced volume to 66%, changed instruments to sound more like the original, added some reverb here and there for more atmosphere",
+    "Tags": [
+      "Exteriors"
+    ],
+    "Verified": true,
+    "Date": "Sun May 26 2024 14:37:54 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/The%20Legend%20of%20Zelda%20Majoras%20Mask/Ikana%20Castle%20(REV%201).mp3",
+    "Binary": "binaries/The Legend of Zelda Majoras Mask/Ikana Castle (REV 1).bin",
+    "Duration": 107.479064875
   }
 ]
