@@ -21977,5 +21977,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Mario%20Kart%2064/Select%20Screen.mp3",
     "Binary": "binaries/Mario Kart 64/Select Screen.bin",
     "Duration": 28.444416
+  },
+  {
+    "Game": "Mario Kart 64",
+    "Song": "Select Screen",
+    "Composers": "Kenta Nagata",
+    "Converters": "Zion Jaymes",
+    "Category": "bgm",
+    "Update Notes": "Fixed piano and hats lol",
+    "Tags": [
+      "Lobbies and Shops"
+    ],
+    "Verified": true,
+    "Date": "Mon May 27 2024 22:39:28 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Mario%20Kart%2064/Select%20Screen%20(REV%201).mp3",
+    "Binary": "binaries/Mario Kart 64/Select Screen (REV 1).bin",
+    "Duration": 28.444416
   }
 ]
