@@ -21945,5 +21945,21 @@
     "Date": "Sun May 26 2024 23:17:18 GMT+0000 (Coordinated Universal Time)",
     "Binary": "binaries/Crash Bandicoot 2 Cortex Strikes Back/Crash Dash (REV 2).bin",
     "Duration": 109.367136
+  },
+  {
+    "Game": "Disney's Aladdin (Capcom)",
+    "Song": "The Cave of Wonders",
+    "Composers": "Yuki Iwai, Yuko Takehara, Setsuo Yamamoto",
+    "Converters": "Wibdiwoh",
+    "Category": "bgm",
+    "Tags": [
+      "Interiors",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Mon May 27 2024 12:04:04 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Disneys%20Aladdin%20(Capcom)/The%20Cave%20of%20Wonders%20(REV%201).mp3",
+    "Binary": "binaries/Disneys Aladdin (Capcom)/The Cave of Wonders (REV 1).bin",
+    "Duration": 30.715
   }
 ]
