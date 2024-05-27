@@ -21993,5 +21993,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Mario%20Kart%2064/Select%20Screen%20(REV%201).mp3",
     "Binary": "binaries/Mario Kart 64/Select Screen (REV 1).bin",
     "Duration": 28.444416
+  },
+  {
+    "Game": "The Legend of Zelda: Majora's Mask",
+    "Song": "Ikana Castle",
+    "Composers": "Koji Kondo",
+    "Converters": "Cmellz",
+    "Category": "bgm",
+    "Update Notes": "Volume increase",
+    "Tags": [
+      "Exteriors"
+    ],
+    "Verified": true,
+    "Date": "Mon May 27 2024 22:41:01 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/The%20Legend%20of%20Zelda%20Majoras%20Mask/Ikana%20Castle%20(REV%202).mp3",
+    "Binary": "binaries/The Legend of Zelda Majoras Mask/Ikana Castle (REV 2).bin",
+    "Duration": 107.479064875
   }
 ]
