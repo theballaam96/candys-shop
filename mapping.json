@@ -21961,5 +21961,21 @@
     "Audio": "https://www.youtube.com/watch?v=G2CN9UhaSNQ",
     "Binary": "binaries/Disneys Aladdin (Capcom)/The Cave of Wonders (REV 1).bin",
     "Duration": 30.715
+  },
+  {
+    "Game": "Mario Kart 64",
+    "Song": "Select Screen",
+    "Composers": "Kenta Nagata",
+    "Converters": "Zion Jaymes",
+    "Category": "bgm",
+    "Tags": [
+      "Lobbies and Shops",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Mon May 27 2024 20:41:37 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Mario%20Kart%2064/Select%20Screen.mp3",
+    "Binary": "binaries/Mario Kart 64/Select Screen.bin",
+    "Duration": 28.444416
   }
 ]
