@@ -22057,5 +22057,20 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Kirby%2064%20The%20Crystal%20Shards/Factory%20Inspection%20(REV%201).mp3",
     "Binary": "binaries/Kirby 64 The Crystal Shards/Factory Inspection (REV 1).bin",
     "Duration": 95.06721708333335
+  },
+  {
+    "Game": "Pokémon Black & White",
+    "Song": "Driftveil City",
+    "Composers": "Hitomi Satō",
+    "Converters": "OnlySpaghettiCode",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors"
+    ],
+    "Verified": true,
+    "Date": "Tue May 28 2024 22:52:01 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Pok%C3%A9mon%20Black%20%20White/Driftveil%20City.mp3",
+    "Binary": "binaries/Pokémon Black  White/Driftveil City.bin",
+    "Duration": 40.9444035
   }
 ]
