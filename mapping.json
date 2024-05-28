@@ -22072,5 +22072,22 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Pok%C3%A9mon%20Black%20%20White/Driftveil%20City.mp3",
     "Binary": "binaries/Pokémon Black  White/Driftveil City.bin",
     "Duration": 40.9444035
+  },
+  {
+    "Game": "Crash Bandicoot 2: Cortex Strikes Back",
+    "Song": "Snow Go",
+    "Composers": "Josh Mancell",
+    "Converters": "GlitchGlider",
+    "Category": "bgm",
+    "Audio": "https://www.youtube.com/watch?v=YQJY0ZDOans",
+    "Update Notes": "Volume balanced and misc compositional changes...",
+    "Tags": [
+      "Exteriors",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Tue May 28 2024 23:34:42 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Crash Bandicoot 2 Cortex Strikes Back/Snow Go (REV 2).bin",
+    "Duration": 102.4
   }
 ]
