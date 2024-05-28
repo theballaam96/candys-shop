@@ -22009,5 +22009,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/The%20Legend%20of%20Zelda%20Majoras%20Mask/Ikana%20Castle%20(REV%202).mp3",
     "Binary": "binaries/The Legend of Zelda Majoras Mask/Ikana Castle (REV 2).bin",
     "Duration": 107.479064875
+  },
+  {
+    "Game": "Hey You, Pikachu!",
+    "Song": "Tutorial",
+    "Composers": "Miki Obata",
+    "Converters": "SirEnobMort",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Tue May 28 2024 03:31:43 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Hey%20You,%20Pikachu/Tutorial.mp3",
+    "Binary": "binaries/Hey You, Pikachu/Tutorial.bin",
+    "Duration": 157.625
   }
 ]
