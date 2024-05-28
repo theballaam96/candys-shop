@@ -22041,5 +22041,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/New%20Super%20Mario%20Bros/The%20Plains.mp3",
     "Binary": "binaries/New Super Mario Bros/The Plains.bin",
     "Duration": 47.650827125000006
+  },
+  {
+    "Game": "Kirby 64: The Crystal Shards",
+    "Song": "Factory Inspection",
+    "Composers": "Jun Ishikawa",
+    "Converters": "Cmellz",
+    "Category": "bgm",
+    "Update Notes": "Added some panning, increased tom volume, changed some awkward instruments, added reverb",
+    "Tags": [
+      "Exteriors"
+    ],
+    "Verified": true,
+    "Date": "Tue May 28 2024 19:38:37 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Kirby%2064%20The%20Crystal%20Shards/Factory%20Inspection%20(REV%201).mp3",
+    "Binary": "binaries/Kirby 64 The Crystal Shards/Factory Inspection (REV 1).bin",
+    "Duration": 95.06721708333335
   }
 ]
