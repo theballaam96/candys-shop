@@ -22105,5 +22105,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Pok%C3%A9mon%20Stadium%202/Clear%20Cut%20Challenge%20Round%20End.mp3",
     "Binary": "binaries/Pokémon Stadium 2/Clear Cut Challenge Round End.bin",
     "Duration": 5.120688375
+  },
+  {
+    "Game": "Touhou Kouryudou ~ Unconnected Marketeers",
+    "Song": "Dragon-King-Slaying Princess",
+    "Composers": "ZUN",
+    "Converters": "Zion Jaymes",
+    "Category": "bgm",
+    "Additional Notes": "Nobody asked for this but it was fun anyway :P",
+    "Tags": [
+      "Fights"
+    ],
+    "Verified": true,
+    "Date": "Wed May 29 2024 11:53:16 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Touhou%20Kouryudou%20~%20Unconnected%20Marketeers/Dragon-King-Slaying%20Princess.mp3",
+    "Binary": "binaries/Touhou Kouryudou ~ Unconnected Marketeers/Dragon-King-Slaying Princess.bin",
+    "Duration": 152.470512
   }
 ]
