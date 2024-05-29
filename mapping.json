@@ -22089,5 +22089,21 @@
     "Date": "Tue May 28 2024 23:34:42 GMT+0000 (Coordinated Universal Time)",
     "Binary": "binaries/Crash Bandicoot 2 Cortex Strikes Back/Snow Go (REV 2).bin",
     "Duration": 102.4
+  },
+  {
+    "Game": "Pokémon Stadium 2",
+    "Song": "Clear Cut Challenge Round End",
+    "Composers": "Hajime Wakai",
+    "Converters": "HavenKnight93",
+    "Category": "majoritems",
+    "Tags": [
+      "Collection",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Wed May 29 2024 00:40:02 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Pok%C3%A9mon%20Stadium%202/Clear%20Cut%20Challenge%20Round%20End.mp3",
+    "Binary": "binaries/Pokémon Stadium 2/Clear Cut Challenge Round End.bin",
+    "Duration": 5.120688375
   }
 ]
