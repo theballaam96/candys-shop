@@ -22402,5 +22402,23 @@
     "Date": "Wed May 29 2024 11:55:11 GMT+0000 (Coordinated Universal Time)",
     "Binary": "binaries/Kingdom Hearts/Night of Fate (REV 1).bin",
     "Duration": 59.305923718749995
+  },
+  {
+    "Game": "Mario Kart DS",
+    "Song": "Waluigi Pinball & Wario Stadium",
+    "Composers": "Shinobu Tanaka",
+    "Converters": "adeleine64DS",
+    "Category": "bgm",
+    "Audio": "https://www.youtube.com/watch?v=EYH9Tu5xKE4",
+    "Update Notes": "Rebalanced",
+    "Tags": [
+      "Exteriors",
+      "Minigames",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Wed May 29 2024 21:39:21 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Mario Kart DS/Waluigi Pinball  Wario Stadium (REV 1).bin",
+    "Duration": 64.20363950000001
   }
 ]
