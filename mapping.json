@@ -22420,5 +22420,126 @@
     "Date": "Wed May 29 2024 21:39:21 GMT+0000 (Coordinated Universal Time)",
     "Binary": "binaries/Mario Kart DS/Waluigi Pinball  Wario Stadium (REV 1).bin",
     "Duration": 64.20363950000001
+  },
+  {
+    "Game": "The Legend of Zelda: Majora's Mask",
+    "Song": "Astral Observatory",
+    "Composers": "Koji Kondo",
+    "Converters": "adeleine64DS",
+    "Category": "bgm",
+    "Audio": "https://www.youtube.com/watch?v=FIW0FLt2dDg",
+    "Update Notes": "Rebalanced and new mix",
+    "Tags": [
+      "Interiors",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Wed May 29 2024 21:40:50 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/The Legend of Zelda Majoras Mask/Astral Observatory (REV 2).bin",
+    "Duration": 33.666683500000005
+  },
+  {
+    "Game": "Persona 3",
+    "Song": "Iwatodai Dorm",
+    "Composers": "Shoji Meguro",
+    "Converters": "adeleine64DS",
+    "Category": "bgm",
+    "Audio": "https://www.youtube.com/watch?v=9Fv1-Jrv45E",
+    "Update Notes": "Rebalanced",
+    "Tags": [
+      "Interiors",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Wed May 29 2024 21:40:51 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Persona 3/Iwatodai Dorm (REV 3).bin",
+    "Duration": 65.49646228125
+  },
+  {
+    "Game": "Rise Of The Triad",
+    "Song": "Going Up",
+    "Composers": "Lee Jackson",
+    "Converters": "adeleine64DS",
+    "Category": "bgm",
+    "Audio": "https://www.youtube.com/watch?v=dBgQO14XDbw",
+    "Update Notes": "Rebalanced",
+    "Tags": [
+      "Lobbies and Shops",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Wed May 29 2024 21:40:51 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Rise Of The Triad/Going Up (REV 1).bin",
+    "Duration": 16.244791666666664
+  },
+  {
+    "Game": "Super Smash Bros. Melee",
+    "Song": "Dr. Mario",
+    "Composers": "Shogo Sakai, Hirokazu Tanaka",
+    "Converters": "adeleine64DS, pringles",
+    "Category": "bgm",
+    "Audio": "https://www.youtube.com/watch?v=T8j0ueHclMA",
+    "Update Notes": "Rebalanced and scriptified",
+    "Tags": [
+      "Fights",
+      "Exteriors",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Wed May 29 2024 21:40:52 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Super Smash Bros Melee/Dr Mario (REV 1).bin",
+    "Duration": 70.42308402083334
+  },
+  {
+    "Game": "Super Smash Bros.",
+    "Song": "Duel Zone",
+    "Composers": "Hirokazu Ando",
+    "Converters": "adeleine64DS",
+    "Category": "bgm",
+    "Audio": "https://www.youtube.com/watch?v=5jR6mZx0kec",
+    "Update Notes": "Rebalanced",
+    "Tags": [
+      "Fights",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Wed May 29 2024 21:40:53 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Super Smash Bros/Duel Zone (REV 1).bin",
+    "Duration": 44.319400125
+  },
+  {
+    "Game": "Puyo Puyo",
+    "Song": "Final of Puyo Puyo (Arcade)",
+    "Composers": "Masanobu Tsukamoto, Akiyoshi Nagao",
+    "Converters": "adeleine64DS, Wibdiwoh",
+    "Category": "bgm",
+    "Audio": "https://www.youtube.com/watch?v=Urlt_M7fTcA",
+    "Update Notes": "Rebalanced",
+    "Tags": [
+      "Fights",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Wed May 29 2024 21:40:53 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Puyo Puyo/Final of Puyo Puyo (Arcade) (REV 1).bin",
+    "Duration": 69.52428068750001
+  },
+  {
+    "Game": "Shadowgate",
+    "Song": "Hall of Mirrors (NES)",
+    "Composers": "Hiroyuki Masuno",
+    "Converters": "adeleine64DS",
+    "Category": "bgm",
+    "Audio": "https://www.youtube.com/watch?v=rcPmXyGIBnw",
+    "Update Notes": "Rebalanced",
+    "Tags": [
+      "Lobbies and Shops",
+      "Interiors",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Wed May 29 2024 21:40:54 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Shadowgate/Hall of Mirrors (NES) (REV 1).bin",
+    "Duration": 22.040697656250003
   }
 ]
