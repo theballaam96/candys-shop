@@ -22121,5 +22121,286 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Touhou%20Kouryudou%20~%20Unconnected%20Marketeers/Dragon-King-Slaying%20Princess.mp3",
     "Binary": "binaries/Touhou Kouryudou ~ Unconnected Marketeers/Dragon-King-Slaying Princess.bin",
     "Duration": 152.470512
+  },
+  {
+    "Game": "Yakuza 0",
+    "Song": "Pledge of Demon",
+    "Composers": "Hidenori Shoji",
+    "Converters": "GlitchGlider",
+    "Category": "bgm",
+    "Audio": "https://www.youtube.com/watch?v=Vx_SQC_Y2Oo",
+    "Update Notes": "Volume balanced and misc compositional changes...",
+    "Tags": [
+      "Fights",
+      "Exteriors",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Wed May 29 2024 11:55:02 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Yakuza 0/Pledge of Demon (REV 2).bin",
+    "Duration": 141.63257739583335
+  },
+  {
+    "Game": "The Legend of Zelda: Spirit Tracks",
+    "Song": "Tower of Spirits Staircase",
+    "Composers": "Koji Kondo",
+    "Converters": "GlitchGlider",
+    "Category": "bgm",
+    "Audio": "https://www.youtube.com/watch?v=q3T2QgvDCcM",
+    "Update Notes": "Volume balanced and misc compositional changes...",
+    "Tags": [
+      "Interiors",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Wed May 29 2024 11:55:03 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/The Legend of Zelda Spirit Tracks/Tower of Spirits Staircase (REV 2).bin",
+    "Duration": 135
+  },
+  {
+    "Game": "The Angry Video Game Nerd II: ASSimilation",
+    "Song": "Shitty Security Breach",
+    "Composers": "Sam Beddoes",
+    "Converters": "GlitchGlider",
+    "Category": "bgm",
+    "Audio": "https://www.youtube.com/watch?v=YKbbxeggzq8",
+    "Update Notes": "Volume balanced and misc compositional changes...",
+    "Tags": [
+      "Fights",
+      "Interiors"
+    ],
+    "Verified": true,
+    "Date": "Wed May 29 2024 11:55:03 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/The Angry Video Game Nerd II ASSimilation/Shitty Security Breach (REV 1).bin",
+    "Duration": 137.13825571875
+  },
+  {
+    "Game": "Super Smash Bros.",
+    "Song": "Meta Crystal",
+    "Composers": "Hirokazu Ando",
+    "Converters": "GlitchGlider",
+    "Category": "bgm",
+    "Audio": "https://www.youtube.com/watch?v=2TH8Zkl0e1A",
+    "Update Notes": "Volume balanced...",
+    "Tags": [
+      "Fights",
+      "Interiors"
+    ],
+    "Verified": true,
+    "Date": "Wed May 29 2024 11:55:04 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Super Smash Bros/Meta Crystal (REV 1).bin",
+    "Duration": 32.59007597916667
+  },
+  {
+    "Game": "Rise Of The Triad",
+    "Song": "KISS OFF",
+    "Composers": "Lee Jackson",
+    "Converters": "GlitchGlider",
+    "Category": "bgm",
+    "Update Notes": "Volume balanced...",
+    "Tags": [
+      "Interiors",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Wed May 29 2024 11:55:05 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Rise%20Of%20The%20Triad/KISS%20OFF%20(REV%201).mp3",
+    "Binary": "binaries/Rise Of The Triad/KISS OFF (REV 1).bin",
+    "Duration": 102.39583333333334
+  },
+  {
+    "Game": "Rise Of The Triad",
+    "Song": "CCCool",
+    "Composers": "Lee Jackson",
+    "Converters": "GlitchGlider",
+    "Category": "bgm",
+    "Update Notes": "Volume balanced...",
+    "Tags": [
+      "Lobbies and Shops",
+      "Interiors",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Wed May 29 2024 11:55:05 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Rise%20Of%20The%20Triad/CCCool%20(REV%201).mp3",
+    "Binary": "binaries/Rise Of The Triad/CCCool (REV 1).bin",
+    "Duration": 157.48046875
+  },
+  {
+    "Game": "Other",
+    "Song": "Tiny Mod 8",
+    "Composers": "Burnt Fishy",
+    "Converters": "GlitchGlider",
+    "Category": "bgm",
+    "Audio": "https://www.youtube.com/watch?v=xdx9wrdijxs",
+    "Update Notes": "Volume balanced and misc compositional changes...",
+    "Tags": [
+      "Exteriors",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Wed May 29 2024 11:55:06 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Other/Tiny Mod 8 (REV 1).bin",
+    "Duration": 86.76349450000001
+  },
+  {
+    "Game": "Other",
+    "Song": "Porrel",
+    "Composers": "GlitchGlider",
+    "Converters": "GlitchGlider",
+    "Category": "bgm",
+    "Audio": "https://www.youtube.com/watch?v=rEZQpsHJtXg",
+    "Update Notes": "Volume balanced...",
+    "Tags": [
+      "Interiors",
+      "Exteriors",
+      "Gloomy",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Wed May 29 2024 11:55:06 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Other/Porrel (REV 2).bin",
+    "Duration": 220
+  },
+  {
+    "Game": "Other",
+    "Song": "Platinum Gun",
+    "Composers": "Paul Koffman, Timothy Foy",
+    "Converters": "GlitchGlider",
+    "Category": "bgm",
+    "Audio": "https://www.youtube.com/watch?v=b8NDBVVGLbo",
+    "Update Notes": "Volume balanced...",
+    "Tags": [
+      "Exteriors",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Wed May 29 2024 11:55:07 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Other/Platinum Gun (REV 2).bin",
+    "Duration": 84.12689999999999
+  },
+  {
+    "Game": "Other",
+    "Song": "Ozymandias",
+    "Composers": "Red Vox",
+    "Converters": "GlitchGlider",
+    "Category": "bgm",
+    "Audio": "https://www.youtube.com/watch?v=PimsTR4nGaI",
+    "Update Notes": "Volume balanced...",
+    "Tags": [
+      "Exteriors",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Wed May 29 2024 11:55:08 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Other/Ozymandias (REV 1).bin",
+    "Duration": 177.92012814583336
+  },
+  {
+    "Game": "Other",
+    "Song": "Lost Legends",
+    "Composers": "GlitchGlider",
+    "Converters": "GlitchGlider",
+    "Category": "bgm",
+    "Audio": "https://www.youtube.com/watch?v=Y0PddGANNoM",
+    "Update Notes": "Volume balanced and misc compositional changes...",
+    "Tags": [
+      "Fights",
+      "Exteriors",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Wed May 29 2024 11:55:08 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Other/Lost Legends (REV 2).bin",
+    "Duration": 102.85257571875002
+  },
+  {
+    "Game": "Other",
+    "Song": "In the Garden",
+    "Composers": "Red Vox",
+    "Converters": "GlitchGlider",
+    "Category": "bgm",
+    "Audio": "https://www.youtube.com/watch?v=WRzg5ao5vcM",
+    "Update Notes": "Volume balanced...",
+    "Tags": [
+      "Exteriors",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Wed May 29 2024 11:55:09 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Other/In the Garden (REV 1).bin",
+    "Duration": 195.68730431249998
+  },
+  {
+    "Game": "Other",
+    "Song": "Funky Kong Anthem",
+    "Composers": "GlitchGlider",
+    "Converters": "GlitchGlider",
+    "Category": "bgm",
+    "Audio": "https://www.youtube.com/watch?v=g3yS4fW-hC0",
+    "Update Notes": "Volume balanced and misc compositional changes...",
+    "Tags": [
+      "Lobbies and Shops",
+      "Interiors",
+      "Happy",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Wed May 29 2024 11:55:09 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Other/Funky Kong Anthem (REV 2).bin",
+    "Duration": 92.16
+  },
+  {
+    "Game": "Other",
+    "Song": "Dew Mountain",
+    "Composers": "GlitchGlider",
+    "Converters": "GlitchGlider",
+    "Category": "bgm",
+    "Audio": "https://www.youtube.com/watch?v=aPhmiTpJEOM",
+    "Update Notes": "Volume balanced...",
+    "Tags": [
+      "Fights",
+      "Exteriors",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Wed May 29 2024 11:55:10 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Other/Dew Mountain (REV 1).bin",
+    "Duration": 110.76912
+  },
+  {
+    "Game": "Other",
+    "Song": "Choking on the Spite",
+    "Composers": "Red Vox",
+    "Converters": "GlitchGlider",
+    "Category": "bgm",
+    "Audio": "https://www.youtube.com/watch?v=csYLZvBaZWg",
+    "Update Notes": "Volume balanced...",
+    "Tags": [
+      "Fights",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Wed May 29 2024 11:55:11 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Other/Choking on the Spite (REV 1).bin",
+    "Duration": 159.990336
+  },
+  {
+    "Game": "Kingdom Hearts",
+    "Song": "Night of Fate",
+    "Composers": "Yoko Shimomura",
+    "Converters": "GlitchGlider",
+    "Category": "bgm",
+    "Audio": "https://www.youtube.com/watch?v=MV6FXvpgYhQ",
+    "Update Notes": "Volume balanced and misc compositional changes...",
+    "Tags": [
+      "Fights",
+      "Exteriors",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Wed May 29 2024 11:55:11 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Kingdom Hearts/Night of Fate (REV 1).bin",
+    "Duration": 59.305923718749995
   }
 ]
