@@ -22607,5 +22607,90 @@
     "Date": "Thu May 30 2024 21:16:42 GMT+0000 (Coordinated Universal Time)",
     "Binary": "binaries/International Superstar Soccer 64/Fanfare 3 (REV 1).bin",
     "Duration": 6.305739
+  },
+  {
+    "Game": "Rayman",
+    "Song": "Yeah! (PS1)",
+    "Composers": "Rémi Gazel",
+    "Converters": "adeleine64DS",
+    "Category": "events",
+    "Audio": "https://www.youtube.com/watch?v=L2dpO1P-i2w",
+    "Update Notes": "Rebalanced",
+    "Tags": [
+      "Collection",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Thu May 30 2024 21:19:38 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Rayman/Yeah (PS1) (REV 1).bin",
+    "Duration": 5.345117604166666
+  },
+  {
+    "Game": "Team Fortress 2",
+    "Song": "Victory",
+    "Composers": "Mike Morasky",
+    "Converters": "adeleine64DS",
+    "Category": "events",
+    "Audio": "https://www.youtube.com/watch?v=kTIHjtywhLc",
+    "Update Notes": "Rebalanced",
+    "Tags": [
+      "Spawning",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Thu May 30 2024 21:19:39 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Team Fortress 2/Victory (REV 2).bin",
+    "Duration": 5.5101044166666675
+  },
+  {
+    "Game": "International Superstar Soccer 64",
+    "Song": "Title Screen",
+    "Composers": "Tsutomu Ogura, Harumi Ueko",
+    "Converters": "adeleine64DS",
+    "Category": "events",
+    "Audio": "https://www.youtube.com/watch?v=JoTJxKd_XLA",
+    "Update Notes": "Rebalanced",
+    "Tags": [
+      "Collection",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Thu May 30 2024 21:19:39 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/International Superstar Soccer 64/Title Screen (REV 1).bin",
+    "Duration": 5.32258375
+  },
+  {
+    "Game": "The Town with No Name",
+    "Song": "Mr. Diablo",
+    "Composers": "The Jester",
+    "Converters": "adeleine64DS",
+    "Category": "events",
+    "Audio": "https://www.youtube.com/watch?v=hwikgUckAHs",
+    "Update Notes": "Rebalanced",
+    "Tags": [
+      "Spawning",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Thu May 30 2024 21:19:40 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/The Town with No Name/Mr Diablo (REV 1).bin",
+    "Duration": 3.9423037499999993
+  },
+  {
+    "Game": "Skull Island: Rise of Kong",
+    "Song": "Kong Has Conquered!",
+    "Composers": "Ronny Antares",
+    "Converters": "adeleine64DS",
+    "Category": "events",
+    "Audio": "https://www.youtube.com/watch?v=GogfXuzOehA",
+    "Update Notes": "Rebalanced",
+    "Tags": [
+      "Collection",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Thu May 30 2024 21:19:41 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Skull Island Rise of Kong/Kong Has Conquered (REV 1).bin",
+    "Duration": 4.4117625
   }
 ]
