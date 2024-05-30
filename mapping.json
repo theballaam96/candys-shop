@@ -22803,5 +22803,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Pac-Man/Level%20Intro%20(REV%201).mp3",
     "Binary": "binaries/Pac-Man/Level Intro (REV 1).bin",
     "Duration": 4.609374385416667
+  },
+  {
+    "Game": "Kingdom Hearts II",
+    "Song": "Darkness of the Unknown: Armored Xemnas",
+    "Composers": "Yoko Shimomura",
+    "Converters": "Cmellz",
+    "Category": "bgm",
+    "Update Notes": "Rebalanced Volume to -16db integrated",
+    "Tags": [
+      "Fights"
+    ],
+    "Verified": true,
+    "Date": "Thu May 30 2024 22:51:48 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Kingdom%20Hearts%20II/Darkness%20of%20the%20Unknown%20Armored%20Xemnas%20(REV%201).wav",
+    "Binary": "binaries/Kingdom Hearts II/Darkness of the Unknown Armored Xemnas (REV 1).bin",
+    "Duration": 106.05734915625
   }
 ]
