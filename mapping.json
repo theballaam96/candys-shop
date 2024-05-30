@@ -22541,5 +22541,21 @@
     "Date": "Wed May 29 2024 21:40:54 GMT+0000 (Coordinated Universal Time)",
     "Binary": "binaries/Shadowgate/Hall of Mirrors (NES) (REV 1).bin",
     "Duration": 22.040697656250003
+  },
+  {
+    "Game": "Fortnite",
+    "Song": "Lord of the Wasteland",
+    "Composers": "3TEETH",
+    "Converters": "ivelischpfuli",
+    "Category": "bgm",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Fortnite/Lord%20of%20the%20Wasteland.mp3",
+    "Tags": [
+      "Fights",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Thu May 30 2024 00:31:24 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Fortnite/Lord of the Wasteland.bin",
+    "Duration": 227.36381274999997
   }
 ]
