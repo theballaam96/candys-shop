@@ -22692,5 +22692,21 @@
     "Date": "Thu May 30 2024 21:19:41 GMT+0000 (Coordinated Universal Time)",
     "Binary": "binaries/Skull Island Rise of Kong/Kong Has Conquered (REV 1).bin",
     "Duration": 4.4117625
+  },
+  {
+    "Game": "The Legend of Zelda: The Wind Waker",
+    "Song": "Grandma's Theme",
+    "Composers": "Koji Kondo",
+    "Converters": "UmedMuzl",
+    "Category": "bgm",
+    "Tags": [
+      "Interiors",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Thu May 30 2024 21:31:26 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/The%20Legend%20of%20Zelda%20The%20Wind%20Waker/Grandmas%20Theme.mp3",
+    "Binary": "binaries/The Legend of Zelda The Wind Waker/Grandmas Theme.bin",
+    "Duration": 89.10585809374999
   }
 ]
