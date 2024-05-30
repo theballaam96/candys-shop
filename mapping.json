@@ -22708,5 +22708,100 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/The%20Legend%20of%20Zelda%20The%20Wind%20Waker/Grandmas%20Theme.mp3",
     "Binary": "binaries/The Legend of Zelda The Wind Waker/Grandmas Theme.bin",
     "Duration": 89.10585809374999
+  },
+  {
+    "Game": "Super Mario Land",
+    "Song": "Easton Kingdom (Aztec Remix)",
+    "Composers": "Hirokazu Tanaka",
+    "Converters": "LBFrank",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors"
+    ],
+    "Verified": true,
+    "Date": "Thu May 30 2024 21:33:50 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Super%20Mario%20Land/Easton%20Kingdom%20(Aztec%20Remix).mp3",
+    "Binary": "binaries/Super Mario Land/Easton Kingdom (Aztec Remix).bin",
+    "Duration": 158.608656
+  },
+  {
+    "Game": "Final Fantasy VII",
+    "Song": "Fanfare",
+    "Composers": "Nobuo Uematsu",
+    "Converters": "OnlySpaghettiCode",
+    "Category": "majoritems",
+    "Update Notes": "Rebalanced",
+    "Tags": [
+      "Collection"
+    ],
+    "Verified": true,
+    "Date": "Thu May 30 2024 21:33:51 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Final%20Fantasy%20VII/Fanfare%20(REV%202).mp3",
+    "Binary": "binaries/Final Fantasy VII/Fanfare (REV 2).bin",
+    "Duration": 4.44
+  },
+  {
+    "Game": "Sonic the Hedgehog",
+    "Song": "Chaos Emerald",
+    "Composers": "Masato Nakamura",
+    "Converters": "OnlySpaghettiCode",
+    "Category": "majoritems",
+    "Update Notes": "Rebalanced",
+    "Tags": [
+      "Collection"
+    ],
+    "Verified": true,
+    "Date": "Thu May 30 2024 21:33:51 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Sonic%20the%20Hedgehog/Chaos%20Emerald%20(REV%201).mp3",
+    "Binary": "binaries/Sonic the Hedgehog/Chaos Emerald (REV 1).bin",
+    "Duration": 3.0769199999999994
+  },
+  {
+    "Game": "The Legend of Zelda: Spirit Tracks",
+    "Song": "Song of Light",
+    "Composers": "Toru Minegishi, Manaka Tominaga",
+    "Converters": "OnlySpaghettiCode",
+    "Category": "events",
+    "Update Notes": "Rebalanced",
+    "Tags": [
+      "Spawning"
+    ],
+    "Verified": true,
+    "Date": "Thu May 30 2024 21:33:52 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/The%20Legend%20of%20Zelda%20Spirit%20Tracks/Song%20of%20Light%20(REV%201).mp3",
+    "Binary": "binaries/The Legend of Zelda Spirit Tracks/Song of Light (REV 1).bin",
+    "Duration": 4.579166666666667
+  },
+  {
+    "Game": "The Legend of Zelda: Spirit Tracks",
+    "Song": "Song of Healing",
+    "Composers": "Toru Minegishi, Manaka Tominaga",
+    "Converters": "OnlySpaghettiCode",
+    "Category": "events",
+    "Update Notes": "Rebalanced",
+    "Tags": [
+      "Spawning"
+    ],
+    "Verified": true,
+    "Date": "Thu May 30 2024 21:33:52 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/The%20Legend%20of%20Zelda%20Spirit%20Tracks/Song%20of%20Healing%20(REV%201).mp3",
+    "Binary": "binaries/The Legend of Zelda Spirit Tracks/Song of Healing (REV 1).bin",
+    "Duration": 2.8030321249999997
+  },
+  {
+    "Game": "Pac-Man",
+    "Song": "Level Intro",
+    "Composers": "Shigeichi Ishimura",
+    "Converters": "OnlySpaghettiCode",
+    "Category": "events",
+    "Update Notes": "Rebalanced",
+    "Tags": [
+      "Spawning"
+    ],
+    "Verified": true,
+    "Date": "Thu May 30 2024 21:33:53 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Pac-Man/Level%20Intro%20(REV%201).mp3",
+    "Binary": "binaries/Pac-Man/Level Intro (REV 1).bin",
+    "Duration": 4.609374385416667
   }
 ]
