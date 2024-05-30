@@ -22574,5 +22574,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/The%20Legend%20of%20Zelda%20Majoras%20Mask/Boss%20Battle%20(REV%201).mp3",
     "Binary": "binaries/The Legend of Zelda Majoras Mask/Boss Battle (REV 1).bin",
     "Duration": 69.39705541666667
+  },
+  {
+    "Game": "Live A Live",
+    "Song": "Kiss of Jealousy",
+    "Composers": "Yoko Shimomura",
+    "Converters": "OnlySpaghettiCode",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors",
+      "Minigames"
+    ],
+    "Verified": true,
+    "Date": "Thu May 30 2024 11:02:20 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Live%20A%20Live/Kiss%20of%20Jealousy.mp3",
+    "Binary": "binaries/Live A Live/Kiss of Jealousy.bin",
+    "Duration": 52.440423749999994
   }
 ]
