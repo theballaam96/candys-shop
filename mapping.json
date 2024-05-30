@@ -22590,5 +22590,22 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Live%20A%20Live/Kiss%20of%20Jealousy.mp3",
     "Binary": "binaries/Live A Live/Kiss of Jealousy.bin",
     "Duration": 52.440423749999994
+  },
+  {
+    "Game": "International Superstar Soccer 64",
+    "Song": "Fanfare 3",
+    "Composers": "Tsutomu Ogura, Harumi Ueko",
+    "Converters": "adeleine64DS",
+    "Category": "events",
+    "Audio": "https://www.youtube.com/watch?v=h0t0RYiTfRg",
+    "Update Notes": "Rebalanced",
+    "Tags": [
+      "Spawning",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Thu May 30 2024 21:16:42 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/International Superstar Soccer 64/Fanfare 3 (REV 1).bin",
+    "Duration": 6.305739
   }
 ]
