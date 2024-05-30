@@ -22557,5 +22557,22 @@
     "Date": "Thu May 30 2024 00:31:24 GMT+0000 (Coordinated Universal Time)",
     "Binary": "binaries/Fortnite/Lord of the Wasteland.bin",
     "Duration": 227.36381274999997
+  },
+  {
+    "Game": "The Legend of Zelda: Majora's Mask",
+    "Song": "Boss Battle",
+    "Composers": "Koji Kondo",
+    "Converters": "HavenKnight93",
+    "Category": "bgm",
+    "Update Notes": "Increased volume | Added missing instruments | Fixed drum issue",
+    "Tags": [
+      "Fights",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Thu May 30 2024 11:00:46 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/The%20Legend%20of%20Zelda%20Majoras%20Mask/Boss%20Battle%20(REV%201).mp3",
+    "Binary": "binaries/The Legend of Zelda Majoras Mask/Boss Battle (REV 1).bin",
+    "Duration": 69.39705541666667
   }
 ]
