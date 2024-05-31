@@ -22835,5 +22835,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Mario%20Hoops%203-on-3/Junior%20Street.mp3",
     "Binary": "binaries/Mario Hoops 3-on-3/Junior Street.bin",
     "Duration": 65.5768575
+  },
+  {
+    "Game": "Mario Hoops 3-on-3",
+    "Song": "Who is the CoinHunter?",
+    "Composers": "Masayoshi Soken",
+    "Converters": "SirEnobMort",
+    "Category": "bgm",
+    "Tags": [
+      "Minigames",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Fri May 31 2024 12:18:04 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Mario%20Hoops%203-on-3/Who%20is%20the%20CoinHunter.mp3",
+    "Binary": "binaries/Mario Hoops 3-on-3/Who is the CoinHunter.bin",
+    "Duration": 69.47371199999999
   }
 ]
