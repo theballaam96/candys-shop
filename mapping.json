@@ -22851,5 +22851,23 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Mario%20Hoops%203-on-3/Who%20is%20the%20CoinHunter.mp3",
     "Binary": "binaries/Mario Hoops 3-on-3/Who is the CoinHunter.bin",
     "Duration": 69.47371199999999
+  },
+  {
+    "Game": "Mario Party",
+    "Song": "Play a Mini-game!",
+    "Composers": "Yasunori Mitsuda",
+    "Converters": "Zion Jaymes",
+    "Category": "bgm",
+    "Additional Notes": "Even though \"Minigame\" is in the title, I feel that this one is much more appropriate for shops and stuff",
+    "Tags": [
+      "Lobbies and Shops",
+      "Happy",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Fri May 31 2024 12:20:16 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Mario%20Party/Play%20a%20Mini-game.mp3",
+    "Binary": "binaries/Mario Party/Play a Mini-game.bin",
+    "Duration": 17
   }
 ]
