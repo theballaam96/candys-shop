@@ -22869,5 +22869,22 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Mario%20Party/Play%20a%20Mini-game.mp3",
     "Binary": "binaries/Mario Party/Play a Mini-game.bin",
     "Duration": 17
+  },
+  {
+    "Game": "Corpse Party: BloodCovered",
+    "Song": "Ray of hope",
+    "Category": "bgm",
+    "Composers": "Mao Hamamoto",
+    "Converters": "Schwartz Gandhi",
+    "Tags": [
+      "Interiors",
+      "Gloomy"
+    ],
+    "Additional Notes": "https://www.youtube.com/@ShinkoNet",
+    "Verified": true,
+    "Date": "Sat Jun 01 2024 21:33:50 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Corpse%20Party%20BloodCovered/Ray%20of%20hope.mp3",
+    "Binary": "binaries/Corpse Party BloodCovered/Ray of hope.bin",
+    "Duration": 64.96243199999999
   }
 ]
