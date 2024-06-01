@@ -22904,5 +22904,22 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Mario%20%20Rabbids%20Kingdom%20Battle/Through%20the%20Lawns%20(REV%202).mp3",
     "Binary": "binaries/Mario  Rabbids Kingdom Battle/Through the Lawns (REV 2).bin",
     "Duration": 38
+  },
+  {
+    "Game": "No More Heroes",
+    "Song": "N.M.H.",
+    "Composers": "Masafumi Takada",
+    "Converters": "ivelischpfuli",
+    "Category": "bgm",
+    "Audio": "https://youtu.be/4LecBjvnY90?si=r_Bjnbkhd6bZKkR1",
+    "Tags": [
+      "Interiors",
+      "Exteriors",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Sat Jun 01 2024 23:04:18 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/No More Heroes/NMH.bin",
+    "Duration": 146.62109375
   }
 ]
