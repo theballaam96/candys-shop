@@ -22921,5 +22921,20 @@
     "Date": "Sat Jun 01 2024 23:04:18 GMT+0000 (Coordinated Universal Time)",
     "Binary": "binaries/No More Heroes/NMH.bin",
     "Duration": 146.62109375
+  },
+  {
+    "Game": "Corpse Party: BloodCovered",
+    "Song": "Gameover",
+    "Category": "events",
+    "Composers": "Mao Hamamoto",
+    "Converters": "Schwartz Gandhi",
+    "Tags": [
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Sun Jun 02 2024 06:25:45 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Corpse%20Party%20BloodCovered/Gameover.mp3",
+    "Binary": "binaries/Corpse Party BloodCovered/Gameover.bin",
+    "Duration": 7.016133125
   }
 ]
