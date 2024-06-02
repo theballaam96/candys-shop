@@ -22952,5 +22952,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Super%20Mario%203D%20World/Bowsers%20Lava%20Lake%20Keep%20(REV%201).mp3",
     "Binary": "binaries/Super Mario 3D World/Bowsers Lava Lake Keep (REV 1).bin",
     "Duration": 67.8409283125
+  },
+  {
+    "Game": "Mario Kart 64",
+    "Song": "Finish Line (1st Place)",
+    "Composers": "Kenta Nagata",
+    "Converters": "CaptainofGarbage",
+    "Category": "events",
+    "Audio": "https://www.youtube.com/watch?v=qlsN3NfwEOo",
+    "Update Notes": "Rebalanced",
+    "Tags": [
+      "REBALANCED_mariokart64_finishline.mid"
+    ],
+    "Verified": true,
+    "Date": "Sun Jun 02 2024 20:18:16 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Mario Kart 64/Finish Line (1st Place) (REV 1).bin",
+    "Duration": 6.297623770833333
   }
 ]
