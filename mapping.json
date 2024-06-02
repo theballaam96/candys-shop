@@ -22968,5 +22968,22 @@
     "Date": "Sun Jun 02 2024 20:18:16 GMT+0000 (Coordinated Universal Time)",
     "Binary": "binaries/Mario Kart 64/Finish Line (1st Place) (REV 1).bin",
     "Duration": 6.297623770833333
+  },
+  {
+    "Game": "No More Heroes",
+    "Song": "You Rock",
+    "Composers": "Masafumi Takada",
+    "Converters": "ivelischpfuli",
+    "Category": "events",
+    "Tags": [
+      "Spawning",
+      "Collection",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Sun Jun 02 2024 20:19:40 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/No%20More%20Heroes/You%20Rock.mp3",
+    "Binary": "binaries/No More Heroes/You Rock.bin",
+    "Duration": 4.27155065625
   }
 ]
