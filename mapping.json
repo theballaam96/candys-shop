@@ -22936,5 +22936,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Corpse%20Party%20BloodCovered/Gameover.mp3",
     "Binary": "binaries/Corpse Party BloodCovered/Gameover.bin",
     "Duration": 7.016133125
+  },
+  {
+    "Game": "Super Mario 3D World",
+    "Song": "Bowser's Lava Lake Keep",
+    "Composers": "Mahito Yokota, Toru Minegishi, et. al.",
+    "Converters": "Fiy3ro",
+    "Category": "bgm",
+    "Update Notes": "Volume rebalance, fix some duplicated notes in percussion",
+    "Tags": [
+      "Interiors"
+    ],
+    "Verified": true,
+    "Date": "Sun Jun 02 2024 19:01:09 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Super%20Mario%203D%20World/Bowsers%20Lava%20Lake%20Keep%20(REV%201).mp3",
+    "Binary": "binaries/Super Mario 3D World/Bowsers Lava Lake Keep (REV 1).bin",
+    "Duration": 67.8409283125
   }
 ]
