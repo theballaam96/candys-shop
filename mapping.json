@@ -23053,5 +23053,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Mario%20%20Rabbids%20Kingdom%20Battle/The%20Waterfall%20Puzzle.mp3",
     "Binary": "binaries/Mario  Rabbids Kingdom Battle/The Waterfall Puzzle.bin",
     "Duration": 92.0000637158203
+  },
+  {
+    "Game": "Touhou Shinreibyou ~ Ten Desires",
+    "Song": "Old Yuanxian",
+    "Category": "bgm",
+    "Composers": "ZUN",
+    "Converters": "Schwartz Gandhi",
+    "Tags": [
+      "Fights",
+      "Minigames"
+    ],
+    "Verified": true,
+    "Date": "Mon Jun 03 2024 22:05:18 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Touhou%20Shinreibyou%20~%20Ten%20Desires/Old%20Yuanxian.mp3",
+    "Binary": "binaries/Touhou Shinreibyou ~ Ten Desires/Old Yuanxian.bin",
+    "Duration": 100.689484
   }
 ]
