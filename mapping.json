@@ -23069,5 +23069,23 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Touhou%20Shinreibyou%20~%20Ten%20Desires/Old%20Yuanxian.mp3",
     "Binary": "binaries/Touhou Shinreibyou ~ Ten Desires/Old Yuanxian.bin",
     "Duration": 100.689484
+  },
+  {
+    "Game": "Touhou Eiyashou ~ Imperishable Night",
+    "Song": "Love-coloured Master Spark",
+    "Category": "bgm",
+    "Composers": "ZUN",
+    "Converters": "Schwartz Gandhi",
+    "Tags": [
+      "Exteriors",
+      "Fights",
+      "Happy"
+    ],
+    "Update Notes": "guitar is wip. rebalance hotifx",
+    "Verified": true,
+    "Date": "Mon Jun 03 2024 23:55:56 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Touhou%20Eiyashou%20~%20Imperishable%20Night/Love-coloured%20Master%20Spark%20(REV%202).mp3",
+    "Binary": "binaries/Touhou Eiyashou ~ Imperishable Night/Love-coloured Master Spark (REV 2).bin",
+    "Duration": 116.44984000000001
   }
 ]
