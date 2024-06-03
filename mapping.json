@@ -23020,5 +23020,22 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Kirbys%20Dream%20Land%203/Grass%20Land%201%20(REV%201).mp3",
     "Binary": "binaries/Kirbys Dream Land 3/Grass Land 1 (REV 1).bin",
     "Duration": 93.36392390625001
+  },
+  {
+    "Game": "The Legend of Zelda: Ocarina of Time",
+    "Song": "The Race Is On!",
+    "Composers": "Koji Kondo",
+    "Converters": "Fiy3ro",
+    "Category": "bgm",
+    "Update Notes": "Rebalances volume",
+    "Tags": [
+      "Minigames",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Mon Jun 03 2024 19:42:30 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/The%20Legend%20of%20Zelda%20Ocarina%20of%20Time/The%20Race%20Is%20On%20(REV%201).mp3",
+    "Binary": "binaries/The Legend of Zelda Ocarina of Time/The Race Is On (REV 1).bin",
+    "Duration": 40.89276473958333
   }
 ]
