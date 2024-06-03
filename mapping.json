@@ -23002,5 +23002,23 @@
     "Date": "Mon Jun 03 2024 19:38:02 GMT+0000 (Coordinated Universal Time)",
     "Binary": "binaries/Dark Souls II/Majula.bin",
     "Duration": 188
+  },
+  {
+    "Game": "Kirby's Dream Land 3",
+    "Song": "Grass Land 1",
+    "Composers": "Jun Ishikawa",
+    "Converters": "Cmellz",
+    "Category": "bgm",
+    "Update Notes": "Fixed peaking issue, added more reverb",
+    "Tags": [
+      "Exteriors",
+      "Minigames",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Mon Jun 03 2024 19:40:47 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Kirbys%20Dream%20Land%203/Grass%20Land%201%20(REV%201).mp3",
+    "Binary": "binaries/Kirbys Dream Land 3/Grass Land 1 (REV 1).bin",
+    "Duration": 93.36392390625001
   }
 ]
