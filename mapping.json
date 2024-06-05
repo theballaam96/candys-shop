@@ -13688,7 +13688,7 @@
     "Song": "Chant",
     "Category": "bgm",
     "Composers": "Lee Jackson",
-    "Converters": "ivelischpfuli, GlitchGlider",
+    "Converters": "iveli_alpaca, GlitchGlider",
     "Binary": "binaries/Rise Of The Triad/Chant by ivelischpfuli, GlitchGlider.bin",
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Rise%20Of%20The%20Triad/Chant%20by%20ivelischpfuli%2C%20GlitchGlider.mp3",
     "Duration": 185.488450875,
@@ -23172,7 +23172,7 @@
     "Game": "Mario Kart 64",
     "Song": "Race Start",
     "Composers": "Kenta Nagata",
-    "Converters": "ivelischpfuli",
+    "Converters": "iveli_alpaca",
     "Category": "events",
     "Tags": [
       "Spawning",
