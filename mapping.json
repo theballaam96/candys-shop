@@ -23167,5 +23167,22 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Super%20Mario%20Sunshine/Corona%20Mountain.mp3",
     "Binary": "binaries/Super Mario Sunshine/Corona Mountain.bin",
     "Duration": 109.71417600000001
+  },
+  {
+    "Game": "Mario Kart 64",
+    "Song": "Race Start",
+    "Composers": "Kenta Nagata",
+    "Converters": "ivelischpfuli",
+    "Category": "events",
+    "Tags": [
+      "Spawning",
+      "Collection",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Wed Jun 05 2024 23:19:15 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Mario%20Kart%2064/Race%20Start.mp3",
+    "Binary": "binaries/Mario Kart 64/Race Start.bin",
+    "Duration": 6.0606
   }
 ]
