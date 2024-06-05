@@ -23119,5 +23119,22 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Mario%20Kart%2064/Final%20Lap.mp3",
     "Binary": "binaries/Mario Kart 64/Final Lap.bin",
     "Duration": 3.7773704999999995
+  },
+  {
+    "Game": "Plok",
+    "Song": "Akrillic",
+    "Composers": "Tim Follin, Geoff Follin",
+    "Converters": "CaptainofGarbage",
+    "Category": "bgm",
+    "Audio": "https://www.youtube.com/watch?v=ACSWFSPHcpM",
+    "Additional Notes": "RIP Geoff Follin",
+    "Tags": [
+      "Exteriors",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Wed Jun 05 2024 22:31:38 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Plok/Akrillic.bin",
+    "Duration": 227.77014144791664
   }
 ]
