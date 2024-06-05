@@ -23136,5 +23136,20 @@
     "Date": "Wed Jun 05 2024 22:31:38 GMT+0000 (Coordinated Universal Time)",
     "Binary": "binaries/Plok/Akrillic.bin",
     "Duration": 227.77014144791664
+  },
+  {
+    "Game": "Action 52",
+    "Song": "Game 52: Cheetahmen [BGM] (NES)",
+    "Composers": "Mario González, Javier Pérez, Ed Bogas",
+    "Converters": "Wibdiwoh",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors"
+    ],
+    "Verified": true,
+    "Date": "Wed Jun 05 2024 22:33:51 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Action%2052/Game%2052%20Cheetahmen%20%5BBGM%5D%20(NES).mp3",
+    "Binary": "binaries/Action 52/Game 52 Cheetahmen [BGM] (NES).bin",
+    "Duration": 140.79583333333332
   }
 ]
