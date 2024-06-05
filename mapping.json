@@ -23151,5 +23151,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Action%2052/Game%2052%20Cheetahmen%20%5BBGM%5D%20(NES).mp3",
     "Binary": "binaries/Action 52/Game 52 Cheetahmen [BGM] (NES).bin",
     "Duration": 140.79583333333332
+  },
+  {
+    "Game": "Super Mario Sunshine",
+    "Song": "Corona Mountain",
+    "Composers": "Koji Kondo",
+    "Converters": "UmedMuzl",
+    "Category": "bgm",
+    "Tags": [
+      "Interiors",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Wed Jun 05 2024 23:10:27 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Super%20Mario%20Sunshine/Corona%20Mountain.mp3",
+    "Binary": "binaries/Super Mario Sunshine/Corona Mountain.bin",
+    "Duration": 109.71417600000001
   }
 ]
