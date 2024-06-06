@@ -23184,5 +23184,22 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Mario%20Kart%2064/Race%20Start.mp3",
     "Binary": "binaries/Mario Kart 64/Race Start.bin",
     "Duration": 6.0606
+  },
+  {
+    "Game": "Mario + Rabbids: Kingdom Battle",
+    "Song": "The Waterfall Puzzle",
+    "Composers": "Grant Kirkhope",
+    "Converters": "LBFrank",
+    "Category": "bgm",
+    "Update Notes": "Slight volume adjustments to high and bass string sections.",
+    "Tags": [
+      "Exteriors",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Thu Jun 06 2024 23:13:39 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Mario%20%20Rabbids%20Kingdom%20Battle/The%20Waterfall%20Puzzle%20(REV%201).mp3",
+    "Binary": "binaries/Mario  Rabbids Kingdom Battle/The Waterfall Puzzle (REV 1).bin",
+    "Duration": 92.0000637158203
   }
 ]
