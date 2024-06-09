@@ -23201,5 +23201,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Mario%20%20Rabbids%20Kingdom%20Battle/The%20Waterfall%20Puzzle%20(REV%201).mp3",
     "Binary": "binaries/Mario  Rabbids Kingdom Battle/The Waterfall Puzzle (REV 1).bin",
     "Duration": 92.0000637158203
+  },
+  {
+    "Game": "Killer Instinct 2",
+    "Song": "Maya",
+    "Composers": "Robin Beanland",
+    "Converters": "HavenKnight93",
+    "Category": "bgm",
+    "Tags": [
+      "Fights",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Sun Jun 09 2024 00:27:36 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Killer%20Instinct%202/Maya.mp3",
+    "Binary": "binaries/Killer Instinct 2/Maya.bin",
+    "Duration": 48.01780912500001
   }
 ]
