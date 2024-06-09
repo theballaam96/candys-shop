@@ -23217,5 +23217,24 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Killer%20Instinct%202/Maya.mp3",
     "Binary": "binaries/Killer Instinct 2/Maya.bin",
     "Duration": 48.01780912500001
+  },
+  {
+    "Game": "A Hat in Time",
+    "Song": "Peace and Tranquility",
+    "Composers": "Pascal Michael Stiefel",
+    "Converters": "Ballaam",
+    "Category": "bgm",
+    "Audio": "https://youtu.be/qfbfY2h8wQ4",
+    "Additional Notes": "boop",
+    "Tags": [
+      "Lobbies and Shops",
+      "Exteriors",
+      "Happy",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Sun Jun 09 2024 00:29:08 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/A Hat in Time/Peace and Tranquility.bin",
+    "Duration": 181.41597574999997
   }
 ]
