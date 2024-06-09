@@ -23253,5 +23253,22 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/The%20Legend%20of%20Zelda%20Ocarina%20of%20Time/Across%20the%20Finish%20Line%20(REV%201).mp3",
     "Binary": "binaries/The Legend of Zelda Ocarina of Time/Across the Finish Line (REV 1).bin",
     "Duration": 3.233872854166666
+  },
+  {
+    "Game": "Wii Sports",
+    "Song": "Wii Sports Theme",
+    "Composers": "Kazumi Totaka",
+    "Converters": "UmedMuzl",
+    "Category": "bgm",
+    "Update Notes": "Improvements and volume rebalancing",
+    "Tags": [
+      "Exteriors",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Sun Jun 09 2024 00:32:22 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Wii%20Sports/Wii%20Sports%20Theme%20(REV%201).mp3",
+    "Binary": "binaries/Wii Sports/Wii Sports Theme (REV 1).bin",
+    "Duration": 64.789957
   }
 ]
