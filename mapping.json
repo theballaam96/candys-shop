@@ -23236,5 +23236,22 @@
     "Date": "Sun Jun 09 2024 00:29:08 GMT+0000 (Coordinated Universal Time)",
     "Binary": "binaries/A Hat in Time/Peace and Tranquility.bin",
     "Duration": 181.41597574999997
+  },
+  {
+    "Game": "The Legend of Zelda: Ocarina of Time",
+    "Song": "Across the Finish Line",
+    "Composers": "Koji Kondo",
+    "Converters": "Fiy3ro",
+    "Category": "events",
+    "Update Notes": "Rebalances volume / panning",
+    "Tags": [
+      "Spawning",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Sun Jun 09 2024 00:30:46 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/The%20Legend%20of%20Zelda%20Ocarina%20of%20Time/Across%20the%20Finish%20Line%20(REV%201).mp3",
+    "Binary": "binaries/The Legend of Zelda Ocarina of Time/Across the Finish Line (REV 1).bin",
+    "Duration": 3.233872854166666
   }
 ]
