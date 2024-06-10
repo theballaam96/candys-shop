@@ -23286,5 +23286,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Super%20Smash%20Bros/Credits.mp3",
     "Binary": "binaries/Super Smash Bros/Credits.bin",
     "Duration": 65.686855
+  },
+  {
+    "Game": "Donkey Kong Country 2: Diddy's Kong Quest",
+    "Song": "Bonus Level Win",
+    "Composers": "David Wise",
+    "Converters": "Fiy3ro",
+    "Category": "majoritems",
+    "Update Notes": "Rebalances volume/panning",
+    "Tags": [
+      "Collection"
+    ],
+    "Verified": true,
+    "Date": "Mon Jun 10 2024 13:00:17 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Donkey%20Kong%20Country%202%20Diddys%20Kong%20Quest/Bonus%20Level%20Win%20(REV%201).mp3",
+    "Binary": "binaries/Donkey Kong Country 2 Diddys Kong Quest/Bonus Level Win (REV 1).bin",
+    "Duration": 2.3118921249999995
   }
 ]
