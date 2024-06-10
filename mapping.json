@@ -23319,5 +23319,22 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Mario%20Kart%20Wii/Mushroom%20Gorge%20(REV%202).mp3",
     "Binary": "binaries/Mario Kart Wii/Mushroom Gorge (REV 2).bin",
     "Duration": 53.953455999999996
+  },
+  {
+    "Game": "Crash Bandicoot: The Wrath of Cortex",
+    "Song": "Wizards and Lizards",
+    "Composers": "Andy Blythe, Marten Joustra",
+    "Converters": "Ballaam",
+    "Category": "bgm",
+    "Audio": "https://www.youtube.com/watch?v=JW-eWqPb2Ls",
+    "Update Notes": "Better version after 11 months of knowledge",
+    "Tags": [
+      "Exteriors",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Mon Jun 10 2024 14:21:39 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Crash Bandicoot The Wrath of Cortex/Wizards and Lizards (REV 1).bin",
+    "Duration": 119.9951171875
   }
 ]
