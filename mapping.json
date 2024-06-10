@@ -23302,5 +23302,22 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Donkey%20Kong%20Country%202%20Diddys%20Kong%20Quest/Bonus%20Level%20Win%20(REV%201).mp3",
     "Binary": "binaries/Donkey Kong Country 2 Diddys Kong Quest/Bonus Level Win (REV 1).bin",
     "Duration": 2.3118921249999995
+  },
+  {
+    "Game": "Mario Kart Wii",
+    "Song": "Mushroom Gorge",
+    "Composers": "Asuka Hayazaki",
+    "Converters": "UmedMuzl",
+    "Category": "bgm",
+    "Update Notes": "Improvements",
+    "Tags": [
+      "Exteriors",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Mon Jun 10 2024 13:01:50 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Mario%20Kart%20Wii/Mushroom%20Gorge%20(REV%202).mp3",
+    "Binary": "binaries/Mario Kart Wii/Mushroom Gorge (REV 2).bin",
+    "Duration": 53.953455999999996
   }
 ]
