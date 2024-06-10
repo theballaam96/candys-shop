@@ -23270,5 +23270,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Wii%20Sports/Wii%20Sports%20Theme%20(REV%201).mp3",
     "Binary": "binaries/Wii Sports/Wii Sports Theme (REV 1).bin",
     "Duration": 64.789957
+  },
+  {
+    "Game": "Super Smash Bros.",
+    "Song": "Credits",
+    "Composers": "Hirokazu Ando",
+    "Converters": "Zion Jaymes",
+    "Category": "bgm",
+    "Tags": [
+      "Lobbies and Shops",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Mon Jun 10 2024 12:58:33 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Super%20Smash%20Bros/Credits.mp3",
+    "Binary": "binaries/Super Smash Bros/Credits.bin",
+    "Duration": 65.686855
   }
 ]
