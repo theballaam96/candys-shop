@@ -19889,7 +19889,7 @@
     "Category": "bgm",
     "Composers": "Koji Kondo",
     "Converters": "UmedMuzl, Schwartz Gandhi",
-    "Audio": "https://www.youtube.com/watch?v=ZXrKLcdww6Q",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Super%20Mario%20Sunshine/Casino%20Delfino%20(REV%201).mp3",
     "Tags": [
       "Interiors",
       "Happy"
@@ -19897,7 +19897,6 @@
     "Update Notes": "New and improved for all your unhinted needs!",
     "Verified": true,
     "Date": "Wed May 01 2024 17:41:07 GMT+0000 (Coordinated Universal Time)",
-    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Super%20Mario%20Sunshine/Casino%20Delfino%20(REV%201).mp3",
     "Binary": "binaries/Super Mario Sunshine/Casino Delfino (REV 1).bin",
     "Duration": 58.285656
   },
@@ -23337,5 +23336,22 @@
     "Date": "Mon Jun 10 2024 14:21:39 GMT+0000 (Coordinated Universal Time)",
     "Binary": "binaries/Crash Bandicoot The Wrath of Cortex/Wizards and Lizards (REV 1).bin",
     "Duration": 119.9951171875
+  },
+  {
+    "Game": "Higurashi: When They Cry Kai",
+    "Song": "Night When the Invisible Scares You",
+    "Category": "bgm",
+    "Composers": "Rengoku Teien",
+    "Converters": "Schwartz Gandhi",
+    "Tags": [
+      "Fights",
+      "Exteriors"
+    ],
+    "Additional Notes": "Technically royalty free music, but this is where most people would know the song from",
+    "Verified": true,
+    "Date": "Tue Jun 11 2024 14:06:10 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Higurashi%20When%20They%20Cry%20Kai/Night%20When%20the%20Invisible%20Scares%20You.mp3",
+    "Binary": "binaries/Higurashi When They Cry Kai/Night When the Invisible Scares You.bin",
+    "Duration": 261.599375
   }
 ]
