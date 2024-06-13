@@ -8583,7 +8583,8 @@
     "Duration": 101.20708503124999,
     "Tracks": 16,
     "Tags": [
-      "Fights"
+      "Fights",
+      "stream-unsafe"
     ],
     "Verified": true
   },
@@ -8791,7 +8792,8 @@
     "Tracks": 8,
     "Tags": [
       "Lobbies and Shops",
-      "Minigames"
+      "Minigames",
+      "stream-unsafe"
     ],
     "Verified": true
   },
