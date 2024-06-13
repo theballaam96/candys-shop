@@ -23388,5 +23388,23 @@
     "Date": "Thu Jun 13 2024 10:57:16 GMT+0000 (Coordinated Universal Time)",
     "Binary": "binaries/Deltarune/BIG SHOT.bin",
     "Duration": 140.571288
+  },
+  {
+    "Game": "Pilotwings 64",
+    "Song": "Mission Menu",
+    "Composers": "Dan Hess",
+    "Converters": "AbscondWithAPie",
+    "Category": "bgm",
+    "Audio": "https://www.youtube.com/watch?v=oGEo19JUNts",
+    "Additional Notes": "Dedicated to Sp0ck1",
+    "Tags": [
+      "Lobbies and Shops",
+      "Interiors",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Thu Jun 13 2024 10:59:28 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Pilotwings 64/Mission Menu.bin",
+    "Duration": 44.26978746093749
   }
 ]
