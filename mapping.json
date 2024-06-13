@@ -23371,5 +23371,22 @@
     "Date": "Thu Jun 13 2024 10:55:18 GMT+0000 (Coordinated Universal Time)",
     "Binary": "binaries/Pilotwings 64/Birdman.bin",
     "Duration": 206.63880623333333
+  },
+  {
+    "Game": "Deltarune",
+    "Song": "BIG SHOT",
+    "Composers": "Toby Fox",
+    "Converters": "iveli_alpaca",
+    "Category": "bgm",
+    "Audio": "https://www.youtube.com/watch?v=8GM8u0xUMAA",
+    "Tags": [
+      "Fights",
+      "Happy",
+      "stream-unsafe"
+    ],
+    "Verified": true,
+    "Date": "Thu Jun 13 2024 10:57:16 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Deltarune/BIG SHOT.bin",
+    "Duration": 140.571288
   }
 ]
