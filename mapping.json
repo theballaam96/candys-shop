@@ -23425,5 +23425,21 @@
     "Date": "Thu Jun 13 2024 11:01:05 GMT+0000 (Coordinated Universal Time)",
     "Binary": "binaries/Pilotwings 64/Bravissimo.bin",
     "Duration": 161.333184
+  },
+  {
+    "Game": "Killing Floor",
+    "Song": "Abandon All",
+    "Composers": "zYnthetic",
+    "Converters": "iveli_alpaca",
+    "Category": "bgm",
+    "Audio": "https://www.youtube.com/watch?v=i81xfVlxVDc",
+    "Tags": [
+      "Fights",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Fri Jun 14 2024 20:25:57 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Killing Floor/Abandon All.bin",
+    "Duration": 193.77295437499998
   }
 ]
