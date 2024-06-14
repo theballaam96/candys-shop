@@ -23441,5 +23441,20 @@
     "Date": "Fri Jun 14 2024 20:25:57 GMT+0000 (Coordinated Universal Time)",
     "Binary": "binaries/Killing Floor/Abandon All.bin",
     "Duration": 193.77295437499998
+  },
+  {
+    "Game": "The Legend of Zelda: The Wind Waker",
+    "Song": "The Great Sea",
+    "Composers": "Koji Kondo, Kenta Nagata",
+    "Converters": "UmedMuzl",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors"
+    ],
+    "Verified": true,
+    "Date": "Fri Jun 14 2024 21:40:48 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/The%20Legend%20of%20Zelda%20The%20Wind%20Waker/The%20Great%20Sea.mp3",
+    "Binary": "binaries/The Legend of Zelda The Wind Waker/The Great Sea.bin",
+    "Duration": 150.856992
   }
 ]
