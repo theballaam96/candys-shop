@@ -23456,5 +23456,22 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/The%20Legend%20of%20Zelda%20The%20Wind%20Waker/The%20Great%20Sea.mp3",
     "Binary": "binaries/The Legend of Zelda The Wind Waker/The Great Sea.bin",
     "Duration": 150.856992
+  },
+  {
+    "Game": "Mario Paint",
+    "Song": "Monkey Song",
+    "Composers": "Kazumi Totaka, Hirokazu Tanaka, Ryoji Yoshitomi",
+    "Converters": "AbscondWithAPie",
+    "Category": "bgm",
+    "Audio": "https://www.youtube.com/watch?v=6jCqBnLbUaQ",
+    "Tags": [
+      "Lobbies and Shops",
+      "Interiors",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Sat Jun 15 2024 09:17:59 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Mario Paint/Monkey Song.bin",
+    "Duration": 174.72
   }
 ]
