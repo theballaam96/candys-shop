@@ -23524,5 +23524,21 @@
     "Date": "Sat Jun 15 2024 09:24:32 GMT+0000 (Coordinated Universal Time)",
     "Binary": "binaries/Pilotwings 64/Replay.bin",
     "Duration": 135.50360871875
+  },
+  {
+    "Game": "Shuusou Gyoku",
+    "Song": "Dichromatic Lotus Butterfly ~ Ancients",
+    "Category": "bgm",
+    "Composers": "ZUN",
+    "Converters": "Schwartz Gandhi",
+    "Tags": [
+      "Fights",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Sun Jun 16 2024 09:58:51 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Shuusou%20Gyoku/Dichromatic%20Lotus%20Butterfly%20~%20Ancients.mp3",
+    "Binary": "binaries/Shuusou Gyoku/Dichromatic Lotus Butterfly ~ Ancients.bin",
+    "Duration": 118.07420313124999
   }
 ]
