@@ -275,6 +275,9 @@
       "icon":"https://i.imgur.com/kZzhHjq.png",
       "short_name": "Higurashi Kai"
    },
+   "Hotel Dusk":{
+      "icon":"https://i.imgur.com/TK6CvDp.png"
+   },
    "Hotel Mario":{
       "icon":"https://i.imgur.com/Nlt3RHU.png"
    },
@@ -553,7 +556,12 @@
       "icon":"https://i.imgur.com/47qHHu4.png"
    },
    "Phoenix Wright: Ace Attorney":{
-      "icon":"https://i.imgur.com/Zj0YCtN.png"
+      "icon":"https://i.imgur.com/Zj0YCtN.png",
+      "short_name": "Ace Attorney"
+   },
+   "Phoenix Wright: Ace Attorney - Trials and Tribulations":{
+      "icon":"https://i.imgur.com/18kzRwk.png",
+      "short_name": "Ace Attorney 3"
    },
    "Pikmin 2":{
       "icon":"https://i.imgur.com/6VaO7Rz.png"
