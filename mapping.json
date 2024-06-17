@@ -23539,5 +23539,22 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Shuusou%20Gyoku/Dichromatic%20Lotus%20Butterfly%20~%20Ancients.mp3",
     "Binary": "binaries/Shuusou Gyoku/Dichromatic Lotus Butterfly ~ Ancients.bin",
     "Duration": 118.07420313124999
+  },
+  {
+    "Game": "Ghost Trick: Phantom Detective",
+    "Song": "Cabanela ~ A White Lovely Lanky Man",
+    "Composers": "Yasumasa Kitagawa",
+    "Converters": "AbscondWithAPie",
+    "Category": "bgm",
+    "Audio": "https://www.youtube.com/watch?v=0o9HtPoiBas",
+    "Tags": [
+      "Lobbies and Shops",
+      "Interiors",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Mon Jun 17 2024 10:46:53 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Ghost Trick Phantom Detective/Cabanela ~ A White Lovely Lanky Man.bin",
+    "Duration": 64.77499999999999
   }
 ]
