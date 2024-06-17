@@ -23623,5 +23623,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Fortnite/Dance%20Moves%20(REV%201).mp3",
     "Binary": "binaries/Fortnite/Dance Moves (REV 1).bin",
     "Duration": 7.1937500000000005
+  },
+  {
+    "Game": "Jets'n'Guns",
+    "Song": "Death from above",
+    "Composers": "Machinae Supremacy",
+    "Converters": "iveli_alpaca",
+    "Category": "bgm",
+    "Audio": "https://www.youtube.com/watch?v=8c7Ql1HXgMI",
+    "Tags": [
+      "Fights",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Mon Jun 17 2024 19:23:46 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/JetsnGuns/Death from above.bin",
+    "Duration": 159.57077296875
   }
 ]
