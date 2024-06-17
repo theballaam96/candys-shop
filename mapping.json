@@ -23639,5 +23639,20 @@
     "Date": "Mon Jun 17 2024 19:23:46 GMT+0000 (Coordinated Universal Time)",
     "Binary": "binaries/JetsnGuns/Death from above.bin",
     "Duration": 159.57077296875
+  },
+  {
+    "Game": "Final Fantasy VII",
+    "Song": "Fight On!",
+    "Composers": "Nobuo Uematsu",
+    "Converters": "OnlySpaghettiCode",
+    "Category": "bgm",
+    "Tags": [
+      "Fights"
+    ],
+    "Verified": true,
+    "Date": "Mon Jun 17 2024 19:25:32 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Final%20Fantasy%20VII/Fight%20On.mp3",
+    "Binary": "binaries/Final Fantasy VII/Fight On.bin",
+    "Duration": 108.63099583333336
   }
 ]
