@@ -23589,5 +23589,22 @@
     "Date": "Mon Jun 17 2024 10:52:56 GMT+0000 (Coordinated Universal Time)",
     "Binary": "binaries/Mario Party 3/Chilly Waters.bin",
     "Duration": 43.03265897916666
+  },
+  {
+    "Game": "Paper Mario",
+    "Song": "Ghost Gulping",
+    "Composers": "Yuka Tsujiyoko",
+    "Converters": "Altermentality",
+    "Category": "bgm",
+    "Audio": "https://youtu.be/Fc8qlqSxClQ",
+    "Additional Notes": "\"I'm actually a really sensitive guy trapped in a huge body.\"",
+    "Tags": [
+      "Fights",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Mon Jun 17 2024 10:55:23 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Paper Mario/Ghost Gulping.bin",
+    "Duration": 35.47411191666667
   }
 ]
