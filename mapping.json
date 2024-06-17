@@ -23606,5 +23606,22 @@
     "Date": "Mon Jun 17 2024 10:55:23 GMT+0000 (Coordinated Universal Time)",
     "Binary": "binaries/Paper Mario/Ghost Gulping.bin",
     "Duration": 35.47411191666667
+  },
+  {
+    "Game": "Fortnite",
+    "Song": "Dance Moves",
+    "Composers": "Phill Boucher",
+    "Converters": "iveli_alpaca",
+    "Category": "events",
+    "Update Notes": "Volume adjustment",
+    "Tags": [
+      "Collection",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Mon Jun 17 2024 17:57:39 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Fortnite/Dance%20Moves%20(REV%201).mp3",
+    "Binary": "binaries/Fortnite/Dance Moves (REV 1).bin",
+    "Duration": 7.1937500000000005
   }
 ]
