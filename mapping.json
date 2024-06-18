@@ -23688,5 +23688,22 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Banjo-Kazooie/Bubblegloop%20Swamp.mp3",
     "Binary": "binaries/Banjo-Kazooie/Bubblegloop Swamp.bin",
     "Duration": 127.999872
+  },
+  {
+    "Game": "Banjo-Kazooie",
+    "Song": "Click Clock Wood (Spring)",
+    "Category": "bgm",
+    "Composers": "Grant Kirkhope",
+    "Converters": "Ballaam, UmedMuzl, Schwartz Gandhi",
+    "Tags": [
+      "Exteriors",
+      "Happy"
+    ],
+    "Update Notes": "The animals have come out to play!",
+    "Verified": true,
+    "Date": "Tue Jun 18 2024 20:10:46 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Banjo-Kazooie/Click%20Clock%20Wood%20(Spring)%20(REV%203).mp3",
+    "Binary": "binaries/Banjo-Kazooie/Click Clock Wood (Spring) (REV 3).bin",
+    "Duration": 150.8563680729167
   }
 ]
