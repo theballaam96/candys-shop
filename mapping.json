@@ -23705,5 +23705,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Banjo-Kazooie/Click%20Clock%20Wood%20(Spring)%20(REV%203).mp3",
     "Binary": "binaries/Banjo-Kazooie/Click Clock Wood (Spring) (REV 3).bin",
     "Duration": 150.8563680729167
+  },
+  {
+    "Game": "Crash Bandicoot: Warped",
+    "Song": "Time Twister",
+    "Composers": "Josh Mancell",
+    "Converters": "iveli_alpaca",
+    "Category": "bgm",
+    "Audio": "https://www.youtube.com/watch?v=QPGOiBB3hEc",
+    "Tags": [
+      "Lobbies and Shops",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Tue Jun 18 2024 20:13:36 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Crash Bandicoot Warped/Time Twister.bin",
+    "Duration": 74.94234822916668
   }
 ]
