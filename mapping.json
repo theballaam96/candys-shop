@@ -23770,5 +23770,21 @@
     "Date": "Wed Jun 19 2024 12:02:58 GMT+0000 (Coordinated Universal Time)",
     "Binary": "binaries/Phoenix Wright Ace Attorney - Trials and Tribulations/Godot ~ The Fragrance of Dark-Colored Coffee.bin",
     "Duration": 67.77775066666666
+  },
+  {
+    "Game": "Mario Party 3",
+    "Song": "Woody Woods",
+    "Composers": "Ichiro Shimakura",
+    "Converters": "Altermentality",
+    "Category": "bgm",
+    "Audio": "https://youtu.be/p7Ku8cyh9cY",
+    "Tags": [
+      "Exteriors",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Wed Jun 19 2024 12:04:46 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Mario Party 3/Woody Woods.bin",
+    "Duration": 70.23419058333333
   }
 ]
