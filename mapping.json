@@ -23737,5 +23737,21 @@
     "Date": "Wed Jun 19 2024 11:59:02 GMT+0000 (Coordinated Universal Time)",
     "Binary": "binaries/Hotel Dusk Room 215/Big Dreams.bin",
     "Duration": 77.7764825625
+  },
+  {
+    "Game": "Phoenix Wright: Ace Attorney - Trials and Tribulations",
+    "Song": "Furio Tigre ~ Swingin' Tiger",
+    "Composers": "Noriyuki Iwadare",
+    "Converters": "AbscondWithAPie",
+    "Category": "bgm",
+    "Audio": "https://www.youtube.com/watch?v=YEakR-9RmGE",
+    "Tags": [
+      "Fights",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Wed Jun 19 2024 12:01:20 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Phoenix Wright Ace Attorney - Trials and Tribulations/Furio Tigre ~ Swingin Tiger.bin",
+    "Duration": 49.888839
   }
 ]
