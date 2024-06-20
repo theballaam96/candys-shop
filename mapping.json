@@ -23835,5 +23835,21 @@
     "Date": "Thu Jun 20 2024 11:23:00 GMT+0000 (Coordinated Universal Time)",
     "Binary": "binaries/Chameleon Twist 2/Great Edo Land.bin",
     "Duration": 96.111015
+  },
+  {
+    "Game": "Crash Bandicoot: Warped",
+    "Song": "Dingodile",
+    "Composers": "Josh Mancell",
+    "Converters": "iveli_alpaca",
+    "Category": "bgm",
+    "Audio": "https://www.youtube.com/watch?v=5-1_JOdXmHM",
+    "Tags": [
+      "Fights",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Thu Jun 20 2024 20:44:25 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Crash Bandicoot Warped/Dingodile.bin",
+    "Duration": 100.79687499999999
   }
 ]
