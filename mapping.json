@@ -23818,5 +23818,22 @@
     "Date": "Thu Jun 20 2024 11:21:15 GMT+0000 (Coordinated Universal Time)",
     "Binary": "binaries/Phoenix Wright Ace Attorney - Trials and Tribulations/Mask De Masque ~ Please Listen.bin",
     "Duration": 46.328230000000005
+  },
+  {
+    "Game": "Chameleon Twist 2",
+    "Song": "Great Edo Land",
+    "Composers": "Koichi Fujiwara",
+    "Converters": "Altermentality",
+    "Category": "bgm",
+    "Audio": "https://www.youtube.com/watch?v=ZJNVdZoDYek",
+    "Additional Notes": "Shoutouts to Fred",
+    "Tags": [
+      "Exteriors",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Thu Jun 20 2024 11:23:00 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Chameleon Twist 2/Great Edo Land.bin",
+    "Duration": 96.111015
   }
 ]
