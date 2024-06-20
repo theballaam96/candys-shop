@@ -23786,5 +23786,21 @@
     "Date": "Wed Jun 19 2024 12:04:46 GMT+0000 (Coordinated Universal Time)",
     "Binary": "binaries/Mario Party 3/Woody Woods.bin",
     "Duration": 70.23419058333333
+  },
+  {
+    "Game": "Phoenix Wright: Ace Attorney - Trials and Tribulations",
+    "Song": "Luke Atmey ~ I Just Want Love",
+    "Composers": "Noriyuki Iwadare",
+    "Converters": "AbscondWithAPie",
+    "Category": "bgm",
+    "Audio": "https://www.youtube.com/watch?v=HsEaLMn5LcA",
+    "Tags": [
+      "Interiors",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Thu Jun 20 2024 11:19:33 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Phoenix Wright Ace Attorney - Trials and Tribulations/Luke Atmey ~ I Just Want Love.bin",
+    "Duration": 51.089548
   }
 ]
