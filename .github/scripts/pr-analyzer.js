@@ -1,5 +1,5 @@
 const axios = require('axios');
-const { Octokit } = require("@octokit/rest");
+const { Octokit } = await import("@octokit/rest");
 const fs = require('fs');
 const path = require('path');
 const parseMidi = require("midi-file").parseMidi;
