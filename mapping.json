@@ -23851,5 +23851,22 @@
     "Date": "Thu Jun 20 2024 20:44:25 GMT+0000 (Coordinated Universal Time)",
     "Binary": "binaries/Crash Bandicoot Warped/Dingodile.bin",
     "Duration": 100.79687499999999
+  },
+  {
+    "Game": "Dark Cloud",
+    "Song": "Wise Owl Forest",
+    "Composers": "Tomohito Nishiura",
+    "Converters": "Bismuth",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors",
+      "Happy",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Sat Jun 22 2024 21:29:08 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Dark%20Cloud/Wise%20Owl%20Forest.mp3",
+    "Binary": "binaries/Dark Cloud/Wise Owl Forest.bin",
+    "Duration": 111.17248800000003
   }
 ]
