@@ -23851,5 +23851,72 @@
     "Date": "Thu Jun 20 2024 20:44:25 GMT+0000 (Coordinated Universal Time)",
     "Binary": "binaries/Crash Bandicoot Warped/Dingodile.bin",
     "Duration": 100.79687499999999
+  },
+  {
+    "Game": "Dark Cloud",
+    "Song": "Wise Owl Forest",
+    "Composers": "Tomohito Nishiura",
+    "Converters": "Bismuth",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors",
+      "Happy",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Sat Jun 22 2024 21:29:08 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Dark%20Cloud/Wise%20Owl%20Forest.mp3",
+    "Binary": "binaries/Dark Cloud/Wise Owl Forest.bin",
+    "Duration": 111.17248800000003
+  },
+  {
+    "Game": "Mario Party 2",
+    "Song": "Western Land",
+    "Composers": "Hironao Yamamoto, Shohei Bando, Kazuhiko Sawaguchi",
+    "Converters": "Altermentality",
+    "Category": "bgm",
+    "Audio": "https://www.youtube.com/watch?v=Snz4HTYUBb0",
+    "Additional Notes": "Check it out Sandy, we got square dancin', giant Barby-Qs, homemade peas-in-a-can pies, and we got our very own ten gallon hats!",
+    "Tags": [
+      "Exteriors",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Sat Jun 22 2024 21:31:06 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Mario Party 2/Western Land.bin",
+    "Duration": 68.40433208333334
+  },
+  {
+    "Game": "Pilotwings 64",
+    "Song": "Hang Glider",
+    "Composers": "Dan Hess",
+    "Converters": "AbscondWithAPie",
+    "Category": "bgm",
+    "Audio": "https://www.youtube.com/watch?v=l-3AeWXce8I",
+    "Tags": [
+      "Interiors",
+      "Exteriors",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Sat Jun 22 2024 21:33:06 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Pilotwings 64/Hang Glider.bin",
+    "Duration": 154.66651199999998
+  },
+  {
+    "Game": "Pilotwings 64",
+    "Song": "Jumble Hopper",
+    "Composers": "Dan Hess",
+    "Converters": "AbscondWithAPie",
+    "Category": "bgm",
+    "Audio": "https://www.youtube.com/watch?v=OrwqPAkBVFo",
+    "Tags": [
+      "Minigames",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Sat Jun 22 2024 21:35:18 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Pilotwings 64/Jumble Hopper.bin",
+    "Duration": 92.61258460546875
   }
 ]
