@@ -23918,5 +23918,23 @@
     "Date": "Sat Jun 22 2024 21:35:18 GMT+0000 (Coordinated Universal Time)",
     "Binary": "binaries/Pilotwings 64/Jumble Hopper.bin",
     "Duration": 92.61258460546875
+  },
+  {
+    "Game": "Mario Party",
+    "Song": "Mario's Rainbow Castle",
+    "Composers": "Yasunori Mitsuda",
+    "Converters": "Altermentality",
+    "Category": "bgm",
+    "Audio": "https://youtu.be/q523dvMJ9iY",
+    "Tags": [
+      "Lobbies and Shops",
+      "Interiors",
+      "Happy",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Sat Jun 22 2024 23:09:46 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Mario Party/Marios Rainbow Castle.bin",
+    "Duration": 44.743812
   }
 ]
