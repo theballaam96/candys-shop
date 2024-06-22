@@ -23902,5 +23902,21 @@
     "Date": "Sat Jun 22 2024 21:33:06 GMT+0000 (Coordinated Universal Time)",
     "Binary": "binaries/Pilotwings 64/Hang Glider.bin",
     "Duration": 154.66651199999998
+  },
+  {
+    "Game": "Pilotwings 64",
+    "Song": "Jumble Hopper",
+    "Composers": "Dan Hess",
+    "Converters": "AbscondWithAPie",
+    "Category": "bgm",
+    "Audio": "https://www.youtube.com/watch?v=OrwqPAkBVFo",
+    "Tags": [
+      "Minigames",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Sat Jun 22 2024 21:35:18 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Pilotwings 64/Jumble Hopper.bin",
+    "Duration": 92.61258460546875
   }
 ]
