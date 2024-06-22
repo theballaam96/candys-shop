@@ -23885,5 +23885,22 @@
     "Date": "Sat Jun 22 2024 21:31:06 GMT+0000 (Coordinated Universal Time)",
     "Binary": "binaries/Mario Party 2/Western Land.bin",
     "Duration": 68.40433208333334
+  },
+  {
+    "Game": "Pilotwings 64",
+    "Song": "Hang Glider",
+    "Composers": "Dan Hess",
+    "Converters": "AbscondWithAPie",
+    "Category": "bgm",
+    "Audio": "https://www.youtube.com/watch?v=l-3AeWXce8I",
+    "Tags": [
+      "Interiors",
+      "Exteriors",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Sat Jun 22 2024 21:33:06 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Pilotwings 64/Hang Glider.bin",
+    "Duration": 154.66651199999998
   }
 ]
