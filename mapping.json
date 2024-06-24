@@ -23951,5 +23951,22 @@
     "Audio": "https://www.youtube.com/watch?v=NpnocRI3hNQ",
     "Binary": "binaries/Conkers Bad Fur Day/Sloprano.bin",
     "Duration": 218.42067299999997
+  },
+  {
+    "Game": "Mario Party 3",
+    "Song": "The Beat Goes On",
+    "Composers": "Ichiro Shimakura",
+    "Converters": "Altermentality",
+    "Category": "events",
+    "Additional Notes": "ABZABZABZA.",
+    "Tags": [
+      "Collection",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Mon Jun 24 2024 00:00:43 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Mario%20Party%203/The%20Beat%20Goes%20On.mp3",
+    "Binary": "binaries/Mario Party 3/The Beat Goes On.bin",
+    "Duration": 6.150429447916667
   }
 ]
