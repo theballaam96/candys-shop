@@ -23968,5 +23968,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Mario%20Party%203/The%20Beat%20Goes%20On.mp3",
     "Binary": "binaries/Mario Party 3/The Beat Goes On.bin",
     "Duration": 6.150429447916667
+  },
+  {
+    "Game": "Yu-Gi-Oh! Forbidden Memories",
+    "Song": "DarkNite/NiteMare",
+    "Composers": "Naoko Ishii, Hiroshi Tanabe, Waichiro Ozaki",
+    "Converters": "HavenKnight93",
+    "Category": "bgm",
+    "Tags": [
+      "Fights",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Mon Jun 24 2024 23:21:25 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Yu-Gi-Oh%20Forbidden%20Memories/DarkNiteNiteMare.mp3",
+    "Binary": "binaries/Yu-Gi-Oh Forbidden Memories/DarkNiteNiteMare.bin",
+    "Duration": 60.95
   }
 ]
