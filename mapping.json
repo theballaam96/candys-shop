@@ -23984,5 +23984,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Yu-Gi-Oh%20Forbidden%20Memories/DarkNiteNiteMare.mp3",
     "Binary": "binaries/Yu-Gi-Oh Forbidden Memories/DarkNiteNiteMare.bin",
     "Duration": 60.95
+  },
+  {
+    "Game": "Crash Bandicoot",
+    "Song": "Hog Wild",
+    "Composers": "Josh Mancell",
+    "Converters": "iveli_alpaca",
+    "Category": "bgm",
+    "Audio": "https://www.youtube.com/watch?v=JDf5435w1fY",
+    "Tags": [
+      "Minigames",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Tue Jun 25 2024 14:37:52 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Crash Bandicoot/Hog Wild.bin",
+    "Duration": 56.466523031250006
   }
 ]
