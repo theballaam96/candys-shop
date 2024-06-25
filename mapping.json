@@ -24000,5 +24000,21 @@
     "Date": "Tue Jun 25 2024 14:37:52 GMT+0000 (Coordinated Universal Time)",
     "Binary": "binaries/Crash Bandicoot/Hog Wild.bin",
     "Duration": 56.466523031250006
+  },
+  {
+    "Game": "The Legend of Zelda: The Wind Waker",
+    "Song": "Molgera",
+    "Composers": "Kenta Nagata",
+    "Converters": "UmedMuzl",
+    "Category": "bgm",
+    "Update Notes": "Rework",
+    "Tags": [
+      "Fights"
+    ],
+    "Verified": true,
+    "Date": "Tue Jun 25 2024 21:55:45 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/The%20Legend%20of%20Zelda%20The%20Wind%20Waker/Molgera%20(REV%201).mp3",
+    "Binary": "binaries/The Legend of Zelda The Wind Waker/Molgera (REV 1).bin",
+    "Duration": 140.79999999999998
   }
 ]
