@@ -24033,5 +24033,22 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Soulcalibur%20II/Eternal%20Struggle.mp3",
     "Binary": "binaries/Soulcalibur II/Eternal Struggle.bin",
     "Duration": 109.071128
+  },
+  {
+    "Game": "Mario Party 2",
+    "Song": "Pirate Land",
+    "Composers": "Hironao Yamamoto, Shohei Bando, Kazuhiko Sawaguchi",
+    "Converters": "Altermentality",
+    "Category": "bgm",
+    "Audio": "https://youtu.be/fL2bHvTeLPk",
+    "Additional Notes": "Boat Toad my beloved",
+    "Tags": [
+      "Exteriors",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Wed Jun 26 2024 17:50:07 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Mario Party 2/Pirate Land.bin",
+    "Duration": 72.11124999999998
   }
 ]
