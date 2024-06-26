@@ -24016,5 +24016,22 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/The%20Legend%20of%20Zelda%20The%20Wind%20Waker/Molgera%20(REV%201).mp3",
     "Binary": "binaries/The Legend of Zelda The Wind Waker/Molgera (REV 1).bin",
     "Duration": 140.79999999999998
+  },
+  {
+    "Game": "Soulcalibur II",
+    "Song": "Eternal Struggle",
+    "Composers": "Junichi Nakatsuru, Yoshihito Yano, Asuka Sakai, Rio Hamamoto, Ryuichi Takada, Junichi Takagi",
+    "Converters": "Zion Jaymes",
+    "Category": "bgm",
+    "Additional Notes": "The oboe part is convincing enough, right?",
+    "Tags": [
+      "Fights",
+      "Exteriors"
+    ],
+    "Verified": true,
+    "Date": "Wed Jun 26 2024 00:29:43 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Soulcalibur%20II/Eternal%20Struggle.mp3",
+    "Binary": "binaries/Soulcalibur II/Eternal Struggle.bin",
+    "Duration": 109.071128
   }
 ]
