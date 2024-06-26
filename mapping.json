@@ -24050,5 +24050,21 @@
     "Date": "Wed Jun 26 2024 17:50:07 GMT+0000 (Coordinated Universal Time)",
     "Binary": "binaries/Mario Party 2/Pirate Land.bin",
     "Duration": 72.11124999999998
+  },
+  {
+    "Game": "Mario Party 2",
+    "Song": "Horror Land",
+    "Composers": "Hironao Yamamoto, Shohei Bando, Kazuhiko Sawaguchi",
+    "Converters": "Altermentality",
+    "Category": "bgm",
+    "Audio": "https://youtu.be/a56YO4rqFJ0",
+    "Tags": [
+      "Interiors",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Wed Jun 26 2024 18:10:40 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Mario Party 2/Horror Land.bin",
+    "Duration": 48.14
   }
 ]
