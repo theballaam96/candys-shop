@@ -24114,5 +24114,21 @@
     "Date": "Sat Jun 29 2024 21:46:17 GMT+0000 (Coordinated Universal Time)",
     "Binary": "binaries/Mario Party 2/Space Land.bin",
     "Duration": 63.85
+  },
+  {
+    "Game": "Mario + Rabbids: Kingdom Battle",
+    "Song": "Hoppers!",
+    "Composers": "Grant Kirkhope",
+    "Converters": "LBFrank",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Mon Jul 01 2024 18:19:05 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Mario%20%20Rabbids%20Kingdom%20Battle/Hoppers.mp3",
+    "Binary": "binaries/Mario  Rabbids Kingdom Battle/Hoppers.bin",
+    "Duration": 168.87283579589845
   }
 ]
