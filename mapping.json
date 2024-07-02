@@ -24130,5 +24130,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Mario%20%20Rabbids%20Kingdom%20Battle/Hoppers.mp3",
     "Binary": "binaries/Mario  Rabbids Kingdom Battle/Hoppers.bin",
     "Duration": 168.87283579589845
+  },
+  {
+    "Game": "Mario Party 3",
+    "Song": "Spiny Desert",
+    "Composers": "Ichiro Shimakura",
+    "Converters": "Altermentality",
+    "Category": "bgm",
+    "Audio": "https://youtu.be/OomKfxhPpQ4",
+    "Tags": [
+      "Exteriors",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Tue Jul 02 2024 06:57:25 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Mario Party 3/Spiny Desert.bin",
+    "Duration": 64.07910266249999
   }
 ]
