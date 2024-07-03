@@ -24146,5 +24146,21 @@
     "Date": "Tue Jul 02 2024 06:57:25 GMT+0000 (Coordinated Universal Time)",
     "Binary": "binaries/Mario Party 3/Spiny Desert.bin",
     "Duration": 64.07910266249999
+  },
+  {
+    "Game": "Phoenix Wright: Ace Attorney",
+    "Song": "Jake Marshall ~ Wandering Detective From the Wild West",
+    "Composers": "Naoto Tanaka",
+    "Converters": "AbscondWithAPie",
+    "Category": "bgm",
+    "Audio": "https://www.youtube.com/watch?v=G9DO7Lm9AF4",
+    "Tags": [
+      "Exteriors",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Wed Jul 03 2024 19:24:11 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Phoenix Wright Ace Attorney/Jake Marshall ~ Wandering Detective From the Wild West.bin",
+    "Duration": 48
   }
 ]
