@@ -24213,5 +24213,22 @@
     "Date": "Thu Jul 04 2024 23:00:16 GMT+0000 (Coordinated Universal Time)",
     "Binary": "binaries/Killing Floor/Abandon All (REV 1).bin",
     "Duration": 193.77295437499998
+  },
+  {
+    "Game": "Crash Bandicoot: Warped",
+    "Song": "Time Twister",
+    "Composers": "Josh Mancell",
+    "Converters": "iveli_alpaca",
+    "Category": "bgm",
+    "Audio": "https://youtu.be/QPGOiBB3hEc?si=_NI1PcR7LskZIfbb",
+    "Update Notes": "Volume adjusted",
+    "Tags": [
+      "Lobbies and Shops",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Thu Jul 04 2024 23:03:35 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Crash Bandicoot Warped/Time Twister (REV 1).bin",
+    "Duration": 74.94234822916668
   }
 ]
