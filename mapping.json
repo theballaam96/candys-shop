@@ -24179,5 +24179,22 @@
     "Date": "Thu Jul 04 2024 03:13:41 GMT+0000 (Coordinated Universal Time)",
     "Binary": "binaries/Mario Party 3/Game Guys Mini-Game.bin",
     "Duration": 26.8365473125
+  },
+  {
+    "Game": "Fortnite",
+    "Song": "Lord of the Wasteland",
+    "Composers": "3TEETH",
+    "Converters": "iveli_alpaca",
+    "Category": "bgm",
+    "Audio": "https://youtu.be/Q2jaOafjmIE?si=CAn-pak6EWsKFOti",
+    "Update Notes": "Volume adjusted",
+    "Tags": [
+      "Fights",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Thu Jul 04 2024 22:53:44 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Fortnite/Lord of the Wasteland (REV 1).bin",
+    "Duration": 227.36381274999997
   }
 ]
