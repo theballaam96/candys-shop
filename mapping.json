@@ -24230,5 +24230,21 @@
     "Date": "Thu Jul 04 2024 23:03:35 GMT+0000 (Coordinated Universal Time)",
     "Binary": "binaries/Crash Bandicoot Warped/Time Twister (REV 1).bin",
     "Duration": 74.94234822916668
+  },
+  {
+    "Game": "Mario Party 3",
+    "Song": "Good Luck! (Non-Story Duel)",
+    "Composers": "Ichiro Shimakura",
+    "Converters": "Altermentality",
+    "Category": "bgm",
+    "Audio": "https://youtu.be/GBdZOfoH4L0",
+    "Tags": [
+      "Minigames",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Fri Jul 05 2024 20:04:28 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Mario Party 3/Good Luck (Non-Story Duel).bin",
+    "Duration": 48.4047135
   }
 ]
