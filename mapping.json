@@ -24246,5 +24246,23 @@
     "Date": "Fri Jul 05 2024 20:04:28 GMT+0000 (Coordinated Universal Time)",
     "Binary": "binaries/Mario Party 3/Good Luck (Non-Story Duel).bin",
     "Duration": 48.4047135
+  },
+  {
+    "Game": "Sonic Mania",
+    "Song": "Studiopolis Act 2 - \"Prime Time\"",
+    "Composers": "Tee Lopes",
+    "Converters": "cdh90",
+    "Category": "bgm",
+    "Update Notes": "Updated with rebalanced volume",
+    "Tags": [
+      "Interiors",
+      "Exteriors",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Sat Jul 06 2024 19:45:47 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Sonic%20Mania/Studiopolis%20Act%202%20-%20Prime%20Time.mp3",
+    "Binary": "binaries/Sonic Mania/Studiopolis Act 2 - Prime Time.bin",
+    "Duration": 72.85707000000001
   }
 ]
