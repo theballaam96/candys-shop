@@ -24318,5 +24318,22 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Mega%20Man%20ZX%20Advent/Whisper%20of%20Relics%20(REV%201).mp3",
     "Binary": "binaries/Mega Man ZX Advent/Whisper of Relics (REV 1).bin",
     "Duration": 82.42268086458334
+  },
+  {
+    "Game": "Mario Kart: Double Dash!!",
+    "Song": "Title Screen",
+    "Composers": "Shinobu Tanaka, Kenta Nagata",
+    "Converters": "CaptainofGarbage",
+    "Category": "bgm",
+    "Audio": "https://www.youtube.com/watch?v=eudZTXo45iw",
+    "Update Notes": "Removed duplicate notes, fixing a looping glitch",
+    "Tags": [
+      "Minigames",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Sun Jul 07 2024 09:48:58 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Mario Kart Double Dash/Title Screen (REV 1).bin",
+    "Duration": 82.09527159375
   }
 ]
