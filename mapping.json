@@ -24264,5 +24264,23 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Sonic%20Mania/Studiopolis%20Act%202%20-%20Prime%20Time.mp3",
     "Binary": "binaries/Sonic Mania/Studiopolis Act 2 - Prime Time.bin",
     "Duration": 72.85707000000001
+  },
+  {
+    "Game": "Mega Man X",
+    "Song": "Maverick Battle",
+    "Composers": "Setsuo Yamamoto",
+    "Converters": "cdh90",
+    "Category": "bgm",
+    "Update Notes": "Updated with rebalanced volume",
+    "Tags": [
+      "Fights",
+      "Minigames",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Sun Jul 07 2024 09:40:43 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Mega%20Man%20X/Maverick%20Battle%20(REV%201).mp3",
+    "Binary": "binaries/Mega Man X/Maverick Battle (REV 1).bin",
+    "Duration": 29.8235145
   }
 ]
