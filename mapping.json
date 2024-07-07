@@ -24282,5 +24282,23 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Mega%20Man%20X/Maverick%20Battle%20(REV%201).mp3",
     "Binary": "binaries/Mega Man X/Maverick Battle (REV 1).bin",
     "Duration": 29.8235145
+  },
+  {
+    "Game": "Mega Man X",
+    "Song": "Flame Mammoth",
+    "Composers": "Setsuo Yamamoto",
+    "Converters": "cdh90",
+    "Category": "bgm",
+    "Update Notes": "Updated with rebalanced volume",
+    "Tags": [
+      "Interiors",
+      "Exteriors",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Sun Jul 07 2024 09:43:20 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Mega%20Man%20X/Flame%20Mammoth%20(REV%201).mp3",
+    "Binary": "binaries/Mega Man X/Flame Mammoth (REV 1).bin",
+    "Duration": 58.8828125
   }
 ]
