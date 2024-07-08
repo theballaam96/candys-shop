@@ -24351,5 +24351,22 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Super%20Mario%20Sunshine/Delfino%20Plaza.mp3",
     "Binary": "binaries/Super Mario Sunshine/Delfino Plaza.bin",
     "Duration": 88.92848250000002
+  },
+  {
+    "Game": "Consoles and BIOS",
+    "Song": "Streetpass Mii Plaza Main Theme 1",
+    "Category": "bgm",
+    "Composers": "Kenji Yamamoto",
+    "Converters": "Schwartz Gandhi",
+    "Tags": [
+      "Exteriors",
+      "Lobbies and Shops",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Mon Jul 08 2024 23:32:22 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Consoles%20and%20BIOS/Streetpass%20Mii%20Plaza%20Main%20Theme%201.mp3",
+    "Binary": "binaries/Consoles and BIOS/Streetpass Mii Plaza Main Theme 1.bin",
+    "Duration": 85.99895833333333
   }
 ]
