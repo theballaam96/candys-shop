@@ -24368,5 +24368,22 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Consoles%20and%20BIOS/Streetpass%20Mii%20Plaza%20Main%20Theme%201.mp3",
     "Binary": "binaries/Consoles and BIOS/Streetpass Mii Plaza Main Theme 1.bin",
     "Duration": 85.99895833333333
+  },
+  {
+    "Game": "Super Mario RPG: Legend of the Seven Stars",
+    "Song": "And My Name's Booster",
+    "Composers": "Yoko Shimomura",
+    "Converters": "OnlySpaghettiCode",
+    "Category": "bgm",
+    "Update Notes": "adjusted rough lead sax",
+    "Tags": [
+      "Interiors",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Tue Jul 09 2024 01:41:27 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Super%20Mario%20RPG%20Legend%20of%20the%20Seven%20Stars/And%20My%20Names%20Booster.mp3",
+    "Binary": "binaries/Super Mario RPG Legend of the Seven Stars/And My Names Booster.bin",
+    "Duration": 56.61056937500001
   }
 ]
