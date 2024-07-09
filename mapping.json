@@ -24385,5 +24385,22 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Super%20Mario%20RPG%20Legend%20of%20the%20Seven%20Stars/And%20My%20Names%20Booster.mp3",
     "Binary": "binaries/Super Mario RPG Legend of the Seven Stars/And My Names Booster.bin",
     "Duration": 56.61056937500001
+  },
+  {
+    "Game": "Final Fantasy VII",
+    "Song": "One-Winged Angel",
+    "Composers": "Nobuo Uematsu",
+    "Converters": "Wibdiwoh, UmedMuzl",
+    "Category": "bgm",
+    "Audio": "https://www.youtube.com/watch?v=nqQRY1va8dM",
+    "Update Notes": "More percussion",
+    "Additional Notes": "Thanks to OSC for helping fix some weird shenanigans",
+    "Tags": [
+      "Fights"
+    ],
+    "Verified": true,
+    "Date": "Tue Jul 09 2024 01:47:44 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Final Fantasy VII/One-Winged Angel (REV 1).bin",
+    "Duration": 241.85416666666666
   }
 ]
