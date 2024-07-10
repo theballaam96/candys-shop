@@ -24419,5 +24419,21 @@
     "Date": "Wed Jul 10 2024 21:16:39 GMT+0000 (Coordinated Universal Time)",
     "Binary": "binaries/Bomberman 64/Green Garden.bin",
     "Duration": 71.76387427083334
+  },
+  {
+    "Game": "Super Mario RPG: Legend of the Seven Stars",
+    "Song": "The Road is Full of Dangers",
+    "Composers": "Yoko Shimomura",
+    "Converters": "OnlySpaghettiCode",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Wed Jul 10 2024 21:18:04 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Super%20Mario%20RPG%20Legend%20of%20the%20Seven%20Stars/The%20Road%20is%20Full%20of%20Dangers.mp3",
+    "Binary": "binaries/Super Mario RPG Legend of the Seven Stars/The Road is Full of Dangers.bin",
+    "Duration": 46.225955375000005
   }
 ]
