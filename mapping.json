@@ -24452,5 +24452,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Banjo-Tooie/Isle%20o%20Hags%20(Cauldron%20Keep)%20(REV%201).mp3",
     "Binary": "binaries/Banjo-Tooie/Isle o Hags (Cauldron Keep) (REV 1).bin",
     "Duration": 148.09149804687502
+  },
+  {
+    "Game": "Super Mario Sunshine",
+    "Song": "Vs. Bowser",
+    "Composers": "Koji Kondo",
+    "Converters": "UmedMuzl",
+    "Category": "bgm",
+    "Tags": [
+      "Fights",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Wed Jul 10 2024 22:25:32 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Super%20Mario%20Sunshine/Vs%20Bowser.mp3",
+    "Binary": "binaries/Super Mario Sunshine/Vs Bowser.bin",
+    "Duration": 88.49609375
   }
 ]
