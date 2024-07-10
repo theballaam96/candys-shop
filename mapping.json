@@ -24435,5 +24435,22 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Super%20Mario%20RPG%20Legend%20of%20the%20Seven%20Stars/The%20Road%20is%20Full%20of%20Dangers.mp3",
     "Binary": "binaries/Super Mario RPG Legend of the Seven Stars/The Road is Full of Dangers.bin",
     "Duration": 46.225955375000005
+  },
+  {
+    "Game": "Banjo-Tooie",
+    "Song": "Isle o' Hags (Cauldron Keep)",
+    "Category": "bgm",
+    "Composers": "Grant Kirkhope",
+    "Converters": "Schwartz Gandhi",
+    "Tags": [
+      "Exteriors",
+      "Gloomy"
+    ],
+    "Update Notes": "fix loop",
+    "Verified": true,
+    "Date": "Wed Jul 10 2024 22:23:49 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Banjo-Tooie/Isle%20o%20Hags%20(Cauldron%20Keep)%20(REV%201).mp3",
+    "Binary": "binaries/Banjo-Tooie/Isle o Hags (Cauldron Keep) (REV 1).bin",
+    "Duration": 148.09149804687502
   }
 ]
