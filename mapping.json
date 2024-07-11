@@ -24468,5 +24468,22 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Super%20Mario%20Sunshine/Vs%20Bowser.mp3",
     "Binary": "binaries/Super Mario Sunshine/Vs Bowser.bin",
     "Duration": 88.49609375
+  },
+  {
+    "Game": "Cave Story",
+    "Song": "Victory!",
+    "Category": "events",
+    "Composers": "Pixel",
+    "Converters": "Schwartz Gandhi",
+    "Tags": [
+      "Spawning",
+      "Happy"
+    ],
+    "Update Notes": "rebardance",
+    "Verified": true,
+    "Date": "Thu Jul 11 2024 02:45:37 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Cave%20Story/Victory%20(REV%201).mp3",
+    "Binary": "binaries/Cave Story/Victory (REV 1).bin",
+    "Duration": 3
   }
 ]
