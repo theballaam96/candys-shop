@@ -24518,5 +24518,21 @@
     "Date": "Thu Jul 11 2024 04:33:40 GMT+0000 (Coordinated Universal Time)",
     "Binary": "binaries/Super Mario Galaxy/Buoy Base Galaxy (REV 1).bin",
     "Duration": 101.40751971875001
+  },
+  {
+    "Game": "Pokémon Gold, Silver & Crystal",
+    "Song": "National Park",
+    "Composers": "Junichi Masuda, Go Ichinose, Morikazu Aoki",
+    "Converters": "BashPrime",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Thu Jul 11 2024 08:57:11 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Pok%C3%A9mon%20Gold,%20Silver%20%20Crystal/National%20Park.mp3",
+    "Binary": "binaries/Pokémon Gold, Silver  Crystal/National Park.bin",
+    "Duration": 77.39999999999999
   }
 ]
