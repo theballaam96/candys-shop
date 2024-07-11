@@ -24501,5 +24501,22 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Pok%C3%A9mon%20X%20%20Y/Snowbelle%20City.mp3",
     "Binary": "binaries/Pokémon X  Y/Snowbelle City.bin",
     "Duration": 53.615618214583336
+  },
+  {
+    "Game": "Super Mario Galaxy",
+    "Song": "Buoy Base Galaxy",
+    "Category": "bgm",
+    "Composers": "Mahito Yokota",
+    "Converters": "Schwartz Gandhi",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Super%20Mario%20Galaxy/Buoy%20Base%20Galaxy%20(REV%201).mp3",
+    "Tags": [
+      "Exteriors",
+      "Happy"
+    ],
+    "Update Notes": "rebalance",
+    "Verified": true,
+    "Date": "Thu Jul 11 2024 04:33:40 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Super Mario Galaxy/Buoy Base Galaxy (REV 1).bin",
+    "Duration": 101.40751971875001
   }
 ]
