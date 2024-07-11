@@ -24595,5 +24595,20 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Pok%C3%A9mon%20Trading%20Card%20Game/Imakunis%20Theme.mp3",
     "Binary": "binaries/Pokémon Trading Card Game/Imakunis Theme.bin",
     "Duration": 48.398139895833324
+  },
+  {
+    "Game": "Pokémon Trading Card Game",
+    "Song": "Grand Master Duel",
+    "Composers": "Ichiro Shimakura",
+    "Converters": "Wibdiwoh",
+    "Category": "bgm",
+    "Tags": [
+      "Fights"
+    ],
+    "Verified": true,
+    "Date": "Thu Jul 11 2024 19:47:33 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Pok%C3%A9mon%20Trading%20Card%20Game/Grand%20Master%20Duel.mp3",
+    "Binary": "binaries/Pokémon Trading Card Game/Grand Master Duel.bin",
+    "Duration": 163.435512
   }
 ]
