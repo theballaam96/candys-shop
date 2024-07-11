@@ -24580,5 +24580,20 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Pok%C3%A9mon%20Trading%20Card%20Game/Ronalds%20Theme.mp3",
     "Binary": "binaries/Pokémon Trading Card Game/Ronalds Theme.bin",
     "Duration": 83.41945913541667
+  },
+  {
+    "Game": "Pokémon Trading Card Game",
+    "Song": "Imakuni's Theme",
+    "Composers": "Ichiro Shimakura",
+    "Converters": "Wibdiwoh",
+    "Category": "bgm",
+    "Tags": [
+      "Interiors"
+    ],
+    "Verified": true,
+    "Date": "Thu Jul 11 2024 19:46:01 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Pok%C3%A9mon%20Trading%20Card%20Game/Imakunis%20Theme.mp3",
+    "Binary": "binaries/Pokémon Trading Card Game/Imakunis Theme.bin",
+    "Duration": 48.398139895833324
   }
 ]
