@@ -24610,5 +24610,22 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Pok%C3%A9mon%20Trading%20Card%20Game/Grand%20Master%20Duel.mp3",
     "Binary": "binaries/Pokémon Trading Card Game/Grand Master Duel.bin",
     "Duration": 163.435512
+  },
+  {
+    "Game": "Super Mario RPG: Legend of the Seven Stars",
+    "Song": "Fight Against Monsters",
+    "Composers": "Yoko Shimomura",
+    "Converters": "OnlySpaghettiCode",
+    "Category": "bgm",
+    "Tags": [
+      "Minigames",
+      "Fights",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Thu Jul 11 2024 19:50:51 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Super%20Mario%20RPG%20Legend%20of%20the%20Seven%20Stars/Fight%20Against%20Monsters.mp3",
+    "Binary": "binaries/Super Mario RPG Legend of the Seven Stars/Fight Against Monsters.bin",
+    "Duration": 30.789485999999997
   }
 ]
