@@ -24565,5 +24565,20 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Pok%C3%A9mon%20Trading%20Card%20Game/Club%20Master%20Duel.mp3",
     "Binary": "binaries/Pokémon Trading Card Game/Club Master Duel.bin",
     "Duration": 108.27072
+  },
+  {
+    "Game": "Pokémon Trading Card Game",
+    "Song": "Ronald's Theme",
+    "Composers": "Ichiro Shimakura",
+    "Converters": "Wibdiwoh",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors"
+    ],
+    "Verified": true,
+    "Date": "Thu Jul 11 2024 19:44:46 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Pok%C3%A9mon%20Trading%20Card%20Game/Ronalds%20Theme.mp3",
+    "Binary": "binaries/Pokémon Trading Card Game/Ronalds Theme.bin",
+    "Duration": 83.41945913541667
   }
 ]
