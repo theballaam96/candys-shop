@@ -24468,5 +24468,38 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Super%20Mario%20Sunshine/Vs%20Bowser.mp3",
     "Binary": "binaries/Super Mario Sunshine/Vs Bowser.bin",
     "Duration": 88.49609375
+  },
+  {
+    "Game": "Cave Story",
+    "Song": "Victory!",
+    "Category": "events",
+    "Composers": "Pixel",
+    "Converters": "Schwartz Gandhi",
+    "Tags": [
+      "Spawning",
+      "Happy"
+    ],
+    "Update Notes": "rebardance",
+    "Verified": true,
+    "Date": "Thu Jul 11 2024 02:45:37 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Cave%20Story/Victory%20(REV%201).mp3",
+    "Binary": "binaries/Cave Story/Victory (REV 1).bin",
+    "Duration": 3
+  },
+  {
+    "Game": "Pokémon X & Y",
+    "Song": "Snowbelle City",
+    "Category": "bgm",
+    "Composers": "Shota Kageyama",
+    "Converters": "Schwartz Gandhi",
+    "Tags": [
+      "Exteriors",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Thu Jul 11 2024 02:47:25 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Pok%C3%A9mon%20X%20%20Y/Snowbelle%20City.mp3",
+    "Binary": "binaries/Pokémon X  Y/Snowbelle City.bin",
+    "Duration": 53.615618214583336
   }
 ]
