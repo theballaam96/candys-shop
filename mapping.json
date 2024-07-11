@@ -24534,5 +24534,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Pok%C3%A9mon%20Gold,%20Silver%20%20Crystal/National%20Park.mp3",
     "Binary": "binaries/Pokémon Gold, Silver  Crystal/National Park.bin",
     "Duration": 77.39999999999999
+  },
+  {
+    "Game": "Pokémon Trading Card Game",
+    "Song": "Duel",
+    "Composers": "Ichiro Shimakura",
+    "Converters": "Wibdiwoh",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Thu Jul 11 2024 19:41:57 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Pok%C3%A9mon%20Trading%20Card%20Game/Duel.mp3",
+    "Binary": "binaries/Pokémon Trading Card Game/Duel.bin",
+    "Duration": 130.8642578125
   }
 ]
