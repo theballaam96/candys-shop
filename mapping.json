@@ -24550,5 +24550,20 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Pok%C3%A9mon%20Trading%20Card%20Game/Duel.mp3",
     "Binary": "binaries/Pokémon Trading Card Game/Duel.bin",
     "Duration": 130.8642578125
+  },
+  {
+    "Game": "Pokémon Trading Card Game",
+    "Song": "Club Master Duel",
+    "Composers": "Ichiro Shimakura",
+    "Converters": "Wibdiwoh",
+    "Category": "bgm",
+    "Tags": [
+      "Fights"
+    ],
+    "Verified": true,
+    "Date": "Thu Jul 11 2024 19:43:16 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Pok%C3%A9mon%20Trading%20Card%20Game/Club%20Master%20Duel.mp3",
+    "Binary": "binaries/Pokémon Trading Card Game/Club Master Duel.bin",
+    "Duration": 108.27072
   }
 ]
