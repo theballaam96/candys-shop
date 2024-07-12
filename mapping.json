@@ -24675,5 +24675,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Yoshis%20Story/Yoshi%20on%20the%20Seabed.mp3",
     "Binary": "binaries/Yoshis Story/Yoshi on the Seabed.bin",
     "Duration": 59.258023416666674
+  },
+  {
+    "Game": "Metroid Prime",
+    "Song": "Get Artifact Jingle",
+    "Composers": "Kenji Yamamoto, Kouichi Kyuma",
+    "Converters": "BashPrime",
+    "Category": "majoritems",
+    "Tags": [
+      "Collection",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Fri Jul 12 2024 21:28:43 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Metroid%20Prime/Get%20Artifact%20Jingle.mp3",
+    "Binary": "binaries/Metroid Prime/Get Artifact Jingle.bin",
+    "Duration": 5.60184625
   }
 ]
