@@ -24627,5 +24627,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Super%20Mario%20RPG%20Legend%20of%20the%20Seven%20Stars/Fight%20Against%20Monsters.mp3",
     "Binary": "binaries/Super Mario RPG Legend of the Seven Stars/Fight Against Monsters.bin",
     "Duration": 30.789485999999997
+  },
+  {
+    "Game": "Doki Doki Literature Club!",
+    "Song": "Play With Me",
+    "Category": "bgm",
+    "Composers": "Dan Salvato",
+    "Converters": "Schwartz Gandhi",
+    "Tags": [
+      "Interiors",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Fri Jul 12 2024 21:24:22 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Doki%20Doki%20Literature%20Club/Play%20With%20Me.mp3",
+    "Binary": "binaries/Doki Doki Literature Club/Play With Me.bin",
+    "Duration": 86.18189000000001
   }
 ]
