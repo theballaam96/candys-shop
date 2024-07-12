@@ -24659,5 +24659,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Pok%C3%A9mon%20Gold,%20Silver%20%20Crystal/Azalea%20Town%20(HGSS).mp3",
     "Binary": "binaries/Pokémon Gold, Silver  Crystal/Azalea Town (HGSS).bin",
     "Duration": 68.375
+  },
+  {
+    "Game": "Yoshi's Story",
+    "Song": "Yoshi on the Seabed",
+    "Category": "bgm",
+    "Composers": "Kazumi Totaka",
+    "Converters": "Schwartz Gandhi",
+    "Tags": [
+      "Exteriors",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Fri Jul 12 2024 21:27:11 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Yoshis%20Story/Yoshi%20on%20the%20Seabed.mp3",
+    "Binary": "binaries/Yoshis Story/Yoshi on the Seabed.bin",
+    "Duration": 59.258023416666674
   }
 ]
