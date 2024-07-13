@@ -24691,5 +24691,23 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Metroid%20Prime/Get%20Artifact%20Jingle.mp3",
     "Binary": "binaries/Metroid Prime/Get Artifact Jingle.bin",
     "Duration": 5.60184625
+  },
+  {
+    "Game": "Pokémon Black 2 & White 2",
+    "Song": "Mistralton City Gym",
+    "Composers": "Junichi Masuda, Hitomi Satō",
+    "Converters": "BashPrime",
+    "Category": "bgm",
+    "Additional Notes": "I really hope you enjoy this song because I had to transcribe the arpeggio strings completely by ear",
+    "Tags": [
+      "Lobbies and Shops",
+      "Interiors",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Sat Jul 13 2024 10:01:43 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Pok%C3%A9mon%20Black%202%20%20White%202/Mistralton%20City%20Gym.mp3",
+    "Binary": "binaries/Pokémon Black 2  White 2/Mistralton City Gym.bin",
+    "Duration": 36.057291666666664
   }
 ]
