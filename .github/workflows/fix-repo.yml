@@ -30,8 +30,10 @@ jobs:
           PAT_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Create Zip
-        run: zip -r -q binaries.zip binaries
-
+        run: |
+          python3 zip_mapped.py
+          zip -r -q binaries.zip binaries
+  
       - name: Commit and push changes
         run: |
           git config --global user.email "actions@github.com"
