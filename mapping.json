@@ -24759,5 +24759,20 @@
     "Date": "Mon Jul 15 2024 00:58:01 GMT+0000 (Coordinated Universal Time)",
     "Binary": "binaries/Metroid Prime 2 Echoes/Sanctuary Fortress.bin",
     "Duration": 221.99895833333332
+  },
+  {
+    "Game": "Metroid Prime",
+    "Song": "Event Jingle",
+    "Composers": "Kenji Yamamoto, Kouichi Kyuma",
+    "Converters": "BashPrime",
+    "Category": "events",
+    "Tags": [
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Mon Jul 15 2024 02:40:23 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Metroid%20Prime/Event%20Jingle.mp3",
+    "Binary": "binaries/Metroid Prime/Event Jingle.bin",
+    "Duration": 2.339283375
   }
 ]
