@@ -24725,5 +24725,23 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Touhou%20Chiireiden%20~%20Subterranean%20Animism/Hellfire%20Mantle.mp3",
     "Binary": "binaries/Touhou Chiireiden ~ Subterranean Animism/Hellfire Mantle.bin",
     "Duration": 113.4644445
+  },
+  {
+    "Game": "Papers, Please",
+    "Song": "Papers, Please: Theme Song",
+    "Composers": "Lucas Pope",
+    "Converters": "UmedMuzl, OnlySpaghettiCode",
+    "Category": "bgm",
+    "Audio": "https://www.youtube.com/watch?v=EE7cUImVKaQ",
+    "Update Notes": "Glory to Krem Isle.",
+    "Additional Notes": "Glory to Krem Isle.",
+    "Tags": [
+      "Interiors",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Mon Jul 15 2024 00:10:12 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Papers, Please/Papers, Please Theme Song.bin",
+    "Duration": 103.16213464583333
   }
 ]
