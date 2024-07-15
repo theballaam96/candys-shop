@@ -24743,5 +24743,21 @@
     "Date": "Mon Jul 15 2024 00:10:12 GMT+0000 (Coordinated Universal Time)",
     "Binary": "binaries/Papers, Please/Papers, Please Theme Song.bin",
     "Duration": 103.16213464583333
+  },
+  {
+    "Game": "Metroid Prime 2: Echoes",
+    "Song": "Sanctuary Fortress",
+    "Category": "bgm",
+    "Composers": "Kenji Yamamoto",
+    "Converters": "Schwartz Gandhi",
+    "Audio": "https://www.youtube.com/watch?v=LHOHX7HRLs0",
+    "Tags": [
+      "Exteriors"
+    ],
+    "Additional Notes": "Hear the words of O-Lir, last sentinel of the fortress temple. May they serve you well.",
+    "Verified": true,
+    "Date": "Mon Jul 15 2024 00:58:01 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Metroid Prime 2 Echoes/Sanctuary Fortress.bin",
+    "Duration": 221.99895833333332
   }
 ]
