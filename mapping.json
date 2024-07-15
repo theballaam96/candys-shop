@@ -24709,5 +24709,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Pok%C3%A9mon%20Black%202%20%20White%202/Mistralton%20City%20Gym.mp3",
     "Binary": "binaries/Pokémon Black 2  White 2/Mistralton City Gym.bin",
     "Duration": 36.057291666666664
+  },
+  {
+    "Game": "Touhou Chiireiden ~ Subterranean Animism",
+    "Song": "Hellfire Mantle",
+    "Composers": "ZUN",
+    "Converters": "Zion Jaymes",
+    "Category": "bgm",
+    "Additional Notes": "Left Right Left Right Left Right...",
+    "Tags": [
+      "Interiors"
+    ],
+    "Verified": true,
+    "Date": "Mon Jul 15 2024 00:07:55 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Touhou%20Chiireiden%20~%20Subterranean%20Animism/Hellfire%20Mantle.mp3",
+    "Binary": "binaries/Touhou Chiireiden ~ Subterranean Animism/Hellfire Mantle.bin",
+    "Duration": 113.4644445
   }
 ]
