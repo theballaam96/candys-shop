@@ -1952,7 +1952,7 @@
   },
   {
     "Game": "Super Mario RPG: Legend of the Seven Stars",
-    "Song": "And My Names Booster",
+    "Song": "And My Name's Booster",
     "Category": "bgm",
     "Composers": "Yoko Shimomura",
     "Converters": "OnlySpaghettiCode",
@@ -21662,7 +21662,7 @@
   },
   {
     "Game": "Super Mario RPG: Legend of the Seven Stars",
-    "Song": "And My Names Booster",
+    "Song": "And My Name's Booster",
     "Composers": "Yoko Shimomura",
     "Converters": "OnlySpaghettiCode",
     "Category": "bgm",
@@ -23536,7 +23536,7 @@
     ],
     "Verified": true,
     "Date": "Sun Jun 16 2024 09:58:51 GMT+0000 (Coordinated Universal Time)",
-    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Shuusou%20Gyoku/Dichromatic%20Lotus%20Butterfly%20~%20Ancients.mp3",
+    "Audio": "https://www.youtube.com/watch?v=b8sk1JaHY_A",
     "Binary": "binaries/Shuusou Gyoku/Dichromatic Lotus Butterfly ~ Ancients.bin",
     "Duration": 118.07420313124999
   },
@@ -24246,5 +24246,518 @@
     "Date": "Fri Jul 05 2024 20:04:28 GMT+0000 (Coordinated Universal Time)",
     "Binary": "binaries/Mario Party 3/Good Luck (Non-Story Duel).bin",
     "Duration": 48.4047135
+  },
+  {
+    "Game": "Sonic Mania",
+    "Song": "Studiopolis: Act 2 - \"Prime Time\"",
+    "Composers": "Tee Lopes",
+    "Converters": "cdh90",
+    "Category": "bgm",
+    "Update Notes": "Updated with rebalanced volume",
+    "Tags": [
+      "Interiors",
+      "Exteriors",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Sat Jul 06 2024 19:45:47 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Sonic%20Mania/Studiopolis%20Act%202%20-%20Prime%20Time.mp3",
+    "Binary": "binaries/Sonic Mania/Studiopolis Act 2 - Prime Time.bin",
+    "Duration": 72.85707000000001
+  },
+  {
+    "Game": "Mega Man X",
+    "Song": "Maverick Battle",
+    "Composers": "Setsuo Yamamoto",
+    "Converters": "cdh90",
+    "Category": "bgm",
+    "Update Notes": "Updated with rebalanced volume",
+    "Tags": [
+      "Fights",
+      "Minigames",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Sun Jul 07 2024 09:40:43 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Mega%20Man%20X/Maverick%20Battle%20(REV%201).mp3",
+    "Binary": "binaries/Mega Man X/Maverick Battle (REV 1).bin",
+    "Duration": 29.8235145
+  },
+  {
+    "Game": "Mega Man X",
+    "Song": "Flame Mammoth",
+    "Composers": "Setsuo Yamamoto",
+    "Converters": "cdh90",
+    "Category": "bgm",
+    "Update Notes": "Updated with rebalanced volume",
+    "Tags": [
+      "Interiors",
+      "Exteriors",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Sun Jul 07 2024 09:43:20 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Mega%20Man%20X/Flame%20Mammoth%20(REV%201).mp3",
+    "Binary": "binaries/Mega Man X/Flame Mammoth (REV 1).bin",
+    "Duration": 58.8828125
+  },
+  {
+    "Game": "Mega Man ZX Advent",
+    "Song": "Whisper of Relics",
+    "Composers": "Ryo Kawakami",
+    "Converters": "cdh90",
+    "Category": "bgm",
+    "Update Notes": "Changed some better sounding instruments",
+    "Tags": [
+      "Interiors",
+      "Exteriors",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Sun Jul 07 2024 09:45:05 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Mega%20Man%20ZX%20Advent/Whisper%20of%20Relics%20(REV%201).mp3",
+    "Binary": "binaries/Mega Man ZX Advent/Whisper of Relics (REV 1).bin",
+    "Duration": 82.42268086458334
+  },
+  {
+    "Game": "Mario Kart: Double Dash!!",
+    "Song": "Title Screen",
+    "Composers": "Shinobu Tanaka, Kenta Nagata",
+    "Converters": "CaptainofGarbage",
+    "Category": "bgm",
+    "Audio": "https://www.youtube.com/watch?v=eudZTXo45iw",
+    "Update Notes": "Removed duplicate notes, fixing a looping glitch",
+    "Tags": [
+      "Minigames",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Sun Jul 07 2024 09:48:58 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Mario Kart Double Dash/Title Screen (REV 1).bin",
+    "Duration": 82.09527159375
+  },
+  {
+    "Game": "Super Mario Sunshine",
+    "Song": "Delfino Plaza",
+    "Composers": "Koji Kondo",
+    "Converters": "UmedMuzl",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Sun Jul 07 2024 20:04:58 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Super%20Mario%20Sunshine/Delfino%20Plaza.mp3",
+    "Binary": "binaries/Super Mario Sunshine/Delfino Plaza.bin",
+    "Duration": 88.92848250000002
+  },
+  {
+    "Game": "Consoles and BIOS",
+    "Song": "Streetpass Mii Plaza Main Theme 1",
+    "Category": "bgm",
+    "Composers": "Kenji Yamamoto",
+    "Converters": "Schwartz Gandhi",
+    "Tags": [
+      "Exteriors",
+      "Lobbies and Shops",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Mon Jul 08 2024 23:32:22 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Consoles%20and%20BIOS/Streetpass%20Mii%20Plaza%20Main%20Theme%201.mp3",
+    "Binary": "binaries/Consoles and BIOS/Streetpass Mii Plaza Main Theme 1.bin",
+    "Duration": 85.99895833333333
+  },
+  {
+    "Game": "Super Mario RPG: Legend of the Seven Stars",
+    "Song": "And My Name's Booster",
+    "Composers": "Yoko Shimomura",
+    "Converters": "OnlySpaghettiCode",
+    "Category": "bgm",
+    "Update Notes": "adjusted rough lead sax",
+    "Tags": [
+      "Interiors",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Tue Jul 09 2024 01:41:27 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Super%20Mario%20RPG%20Legend%20of%20the%20Seven%20Stars/And%20My%20Names%20Booster.mp3",
+    "Binary": "binaries/Super Mario RPG Legend of the Seven Stars/And My Names Booster.bin",
+    "Duration": 56.61056937500001
+  },
+  {
+    "Game": "Final Fantasy VII",
+    "Song": "One-Winged Angel",
+    "Composers": "Nobuo Uematsu",
+    "Converters": "Wibdiwoh, UmedMuzl",
+    "Category": "bgm",
+    "Audio": "https://www.youtube.com/watch?v=nqQRY1va8dM",
+    "Update Notes": "More percussion",
+    "Additional Notes": "Thanks to OSC for helping fix some weird shenanigans",
+    "Tags": [
+      "Fights"
+    ],
+    "Verified": true,
+    "Date": "Tue Jul 09 2024 01:47:44 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Final Fantasy VII/One-Winged Angel (REV 1).bin",
+    "Duration": 241.85416666666666
+  },
+  {
+    "Game": "Bomberman 64",
+    "Song": "Green Garden",
+    "Composers": "Akifumi Tada",
+    "Converters": "Altermentality",
+    "Category": "bgm",
+    "Audio": "https://youtu.be/BiS1EPzLEj8",
+    "Additional Notes": "Thanks to OnlySpaghettiCode for helping me make sense of the percussion!",
+    "Tags": [
+      "Exteriors",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Wed Jul 10 2024 21:16:39 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Bomberman 64/Green Garden.bin",
+    "Duration": 71.76387427083334
+  },
+  {
+    "Game": "Super Mario RPG: Legend of the Seven Stars",
+    "Song": "The Road is Full of Dangers",
+    "Composers": "Yoko Shimomura",
+    "Converters": "OnlySpaghettiCode",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Wed Jul 10 2024 21:18:04 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Super%20Mario%20RPG%20Legend%20of%20the%20Seven%20Stars/The%20Road%20is%20Full%20of%20Dangers.mp3",
+    "Binary": "binaries/Super Mario RPG Legend of the Seven Stars/The Road is Full of Dangers.bin",
+    "Duration": 46.225955375000005
+  },
+  {
+    "Game": "Banjo-Tooie",
+    "Song": "Isle o' Hags (Cauldron Keep)",
+    "Category": "bgm",
+    "Composers": "Grant Kirkhope",
+    "Converters": "Schwartz Gandhi",
+    "Tags": [
+      "Exteriors",
+      "Gloomy"
+    ],
+    "Update Notes": "fix loop",
+    "Verified": true,
+    "Date": "Wed Jul 10 2024 22:23:49 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Banjo-Tooie/Isle%20o%20Hags%20(Cauldron%20Keep)%20(REV%201).mp3",
+    "Binary": "binaries/Banjo-Tooie/Isle o Hags (Cauldron Keep) (REV 1).bin",
+    "Duration": 148.09149804687502
+  },
+  {
+    "Game": "Super Mario Sunshine",
+    "Song": "Vs. Bowser",
+    "Composers": "Koji Kondo",
+    "Converters": "UmedMuzl",
+    "Category": "bgm",
+    "Tags": [
+      "Fights",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Wed Jul 10 2024 22:25:32 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Super%20Mario%20Sunshine/Vs%20Bowser.mp3",
+    "Binary": "binaries/Super Mario Sunshine/Vs Bowser.bin",
+    "Duration": 88.49609375
+  },
+  {
+    "Game": "Cave Story",
+    "Song": "Victory!",
+    "Category": "events",
+    "Composers": "Pixel",
+    "Converters": "Schwartz Gandhi",
+    "Tags": [
+      "Spawning",
+      "Happy"
+    ],
+    "Update Notes": "rebardance",
+    "Verified": true,
+    "Date": "Thu Jul 11 2024 02:45:37 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Cave%20Story/Victory%20(REV%201).mp3",
+    "Binary": "binaries/Cave Story/Victory (REV 1).bin",
+    "Duration": 3
+  },
+  {
+    "Game": "Pokémon X & Y",
+    "Song": "Snowbelle City",
+    "Category": "bgm",
+    "Composers": "Shota Kageyama",
+    "Converters": "Schwartz Gandhi",
+    "Tags": [
+      "Exteriors",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Thu Jul 11 2024 02:47:25 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Pok%C3%A9mon%20X%20%20Y/Snowbelle%20City.mp3",
+    "Binary": "binaries/Pokémon X  Y/Snowbelle City.bin",
+    "Duration": 53.615618214583336
+  },
+  {
+    "Game": "Super Mario Galaxy",
+    "Song": "Buoy Base Galaxy",
+    "Category": "bgm",
+    "Composers": "Mahito Yokota",
+    "Converters": "Schwartz Gandhi",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Super%20Mario%20Galaxy/Buoy%20Base%20Galaxy%20(REV%201).mp3",
+    "Tags": [
+      "Exteriors",
+      "Happy"
+    ],
+    "Update Notes": "rebalance",
+    "Verified": true,
+    "Date": "Thu Jul 11 2024 04:33:40 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Super Mario Galaxy/Buoy Base Galaxy (REV 1).bin",
+    "Duration": 101.40751971875001
+  },
+  {
+    "Game": "Pokémon Gold, Silver & Crystal",
+    "Song": "National Park",
+    "Composers": "Junichi Masuda, Go Ichinose, Morikazu Aoki",
+    "Converters": "BashPrime",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Thu Jul 11 2024 08:57:11 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Pok%C3%A9mon%20Gold,%20Silver%20%20Crystal/National%20Park.mp3",
+    "Binary": "binaries/Pokémon Gold, Silver  Crystal/National Park.bin",
+    "Duration": 77.39999999999999
+  },
+  {
+    "Game": "Pokémon Trading Card Game",
+    "Song": "Duel",
+    "Composers": "Ichiro Shimakura",
+    "Converters": "Wibdiwoh",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Thu Jul 11 2024 19:41:57 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://www.youtube.com/watch?v=jiYtFzHg4M4",
+    "Binary": "binaries/Pokémon Trading Card Game/Duel.bin",
+    "Duration": 130.8642578125
+  },
+  {
+    "Game": "Pokémon Trading Card Game",
+    "Song": "Club Master Duel",
+    "Composers": "Ichiro Shimakura",
+    "Converters": "Wibdiwoh",
+    "Category": "bgm",
+    "Tags": [
+      "Fights"
+    ],
+    "Verified": true,
+    "Date": "Thu Jul 11 2024 19:43:16 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://www.youtube.com/watch?v=7f4hjqaWPjo",
+    "Binary": "binaries/Pokémon Trading Card Game/Club Master Duel.bin",
+    "Duration": 108.27072
+  },
+  {
+    "Game": "Pokémon Trading Card Game",
+    "Song": "Ronald's Theme",
+    "Composers": "Ichiro Shimakura",
+    "Converters": "Wibdiwoh",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors"
+    ],
+    "Verified": true,
+    "Date": "Thu Jul 11 2024 19:44:46 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://www.youtube.com/watch?v=3oO5NAtrbKc",
+    "Binary": "binaries/Pokémon Trading Card Game/Ronalds Theme.bin",
+    "Duration": 83.41945913541667
+  },
+  {
+    "Game": "Pokémon Trading Card Game",
+    "Song": "Imakuni's Theme",
+    "Composers": "Ichiro Shimakura",
+    "Converters": "Wibdiwoh",
+    "Category": "bgm",
+    "Tags": [
+      "Interiors"
+    ],
+    "Verified": true,
+    "Date": "Thu Jul 11 2024 19:46:01 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://www.youtube.com/watch?v=Tf6NzHiDlTw",
+    "Binary": "binaries/Pokémon Trading Card Game/Imakunis Theme.bin",
+    "Duration": 48.398139895833324
+  },
+  {
+    "Game": "Pokémon Trading Card Game",
+    "Song": "Grand Master Duel",
+    "Composers": "Ichiro Shimakura",
+    "Converters": "Wibdiwoh",
+    "Category": "bgm",
+    "Tags": [
+      "Fights"
+    ],
+    "Verified": true,
+    "Date": "Thu Jul 11 2024 19:47:33 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://www.youtube.com/watch?v=KDheTDXo6DU",
+    "Binary": "binaries/Pokémon Trading Card Game/Grand Master Duel.bin",
+    "Duration": 163.435512
+  },
+  {
+    "Game": "Super Mario RPG: Legend of the Seven Stars",
+    "Song": "Fight Against Monsters",
+    "Composers": "Yoko Shimomura",
+    "Converters": "OnlySpaghettiCode",
+    "Category": "bgm",
+    "Tags": [
+      "Minigames",
+      "Fights",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Thu Jul 11 2024 19:50:51 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Super%20Mario%20RPG%20Legend%20of%20the%20Seven%20Stars/Fight%20Against%20Monsters.mp3",
+    "Binary": "binaries/Super Mario RPG Legend of the Seven Stars/Fight Against Monsters.bin",
+    "Duration": 30.789485999999997
+  },
+  {
+    "Game": "Doki Doki Literature Club!",
+    "Song": "Play With Me",
+    "Category": "bgm",
+    "Composers": "Dan Salvato",
+    "Converters": "Schwartz Gandhi",
+    "Tags": [
+      "Interiors",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Fri Jul 12 2024 21:24:22 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Doki%20Doki%20Literature%20Club/Play%20With%20Me.mp3",
+    "Binary": "binaries/Doki Doki Literature Club/Play With Me.bin",
+    "Duration": 86.18189000000001
+  },
+  {
+    "Game": "Pokémon Gold, Silver & Crystal",
+    "Song": "Azalea Town (HGSS)",
+    "Composers": "Junichi Masuda, Go Ichinose, Morikazu Aoki",
+    "Converters": "BashPrime",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Fri Jul 12 2024 21:25:48 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Pok%C3%A9mon%20Gold,%20Silver%20%20Crystal/Azalea%20Town%20(HGSS).mp3",
+    "Binary": "binaries/Pokémon Gold, Silver  Crystal/Azalea Town (HGSS).bin",
+    "Duration": 68.375
+  },
+  {
+    "Game": "Yoshi's Story",
+    "Song": "Yoshi on the Seabed",
+    "Category": "bgm",
+    "Composers": "Kazumi Totaka",
+    "Converters": "Schwartz Gandhi",
+    "Tags": [
+      "Exteriors",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Fri Jul 12 2024 21:27:11 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Yoshis%20Story/Yoshi%20on%20the%20Seabed.mp3",
+    "Binary": "binaries/Yoshis Story/Yoshi on the Seabed.bin",
+    "Duration": 59.258023416666674
+  },
+  {
+    "Game": "Metroid Prime",
+    "Song": "Get Artifact Jingle",
+    "Composers": "Kenji Yamamoto, Kouichi Kyuma",
+    "Converters": "BashPrime",
+    "Category": "majoritems",
+    "Tags": [
+      "Collection",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Fri Jul 12 2024 21:28:43 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Metroid%20Prime/Get%20Artifact%20Jingle.mp3",
+    "Binary": "binaries/Metroid Prime/Get Artifact Jingle.bin",
+    "Duration": 5.60184625
+  },
+  {
+    "Game": "Pokémon Black 2 & White 2",
+    "Song": "Mistralton City Gym",
+    "Composers": "Junichi Masuda, Hitomi Satō",
+    "Converters": "BashPrime",
+    "Category": "bgm",
+    "Additional Notes": "I really hope you enjoy this song because I had to transcribe the arpeggio strings completely by ear",
+    "Tags": [
+      "Lobbies and Shops",
+      "Interiors",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Sat Jul 13 2024 10:01:43 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Pok%C3%A9mon%20Black%202%20%20White%202/Mistralton%20City%20Gym.mp3",
+    "Binary": "binaries/Pokémon Black 2  White 2/Mistralton City Gym.bin",
+    "Duration": 36.057291666666664
+  },
+  {
+    "Game": "Touhou Chiireiden ~ Subterranean Animism",
+    "Song": "Hellfire Mantle",
+    "Composers": "ZUN",
+    "Converters": "Zion Jaymes",
+    "Category": "bgm",
+    "Additional Notes": "Left Right Left Right Left Right...",
+    "Tags": [
+      "Interiors"
+    ],
+    "Verified": true,
+    "Date": "Mon Jul 15 2024 00:07:55 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Touhou%20Chiireiden%20~%20Subterranean%20Animism/Hellfire%20Mantle.mp3",
+    "Binary": "binaries/Touhou Chiireiden ~ Subterranean Animism/Hellfire Mantle.bin",
+    "Duration": 113.4644445
+  },
+  {
+    "Game": "Papers, Please",
+    "Song": "Papers, Please: Theme Song",
+    "Composers": "Lucas Pope",
+    "Converters": "UmedMuzl, OnlySpaghettiCode",
+    "Category": "bgm",
+    "Audio": "https://www.youtube.com/watch?v=EE7cUImVKaQ",
+    "Update Notes": "Glory to Krem Isle.",
+    "Additional Notes": "Glory to Krem Isle.",
+    "Tags": [
+      "Interiors",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Mon Jul 15 2024 00:10:12 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Papers, Please/Papers, Please Theme Song.bin",
+    "Duration": 103.16213464583333
+  },
+  {
+    "Game": "Metroid Prime 2: Echoes",
+    "Song": "Sanctuary Fortress",
+    "Category": "bgm",
+    "Composers": "Kenji Yamamoto",
+    "Converters": "Schwartz Gandhi",
+    "Audio": "https://www.youtube.com/watch?v=LHOHX7HRLs0",
+    "Tags": [
+      "Exteriors"
+    ],
+    "Additional Notes": "Hear the words of O-Lir, last sentinel of the fortress temple. May they serve you well.",
+    "Verified": true,
+    "Date": "Mon Jul 15 2024 00:58:01 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Metroid Prime 2 Echoes/Sanctuary Fortress.bin",
+    "Duration": 221.99895833333332
   }
 ]

@@ -35,7 +35,9 @@ jobs:
           DISCORD_WEBHOOK_PUBLICFILE: ${{ secrets.DISCORD_WEBHOOK_PUBLICFILE }}
 
       - name: Create Zip
-        run: zip -r -q binaries.zip binaries
+        run: |
+          python3 zip_mapped.py
+          zip -r -q binaries.zip binaries
 
       - name: Commit and push changes
         run: |
