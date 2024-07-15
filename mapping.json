@@ -5427,7 +5427,8 @@
     "Duration": 45.517208000000444,
     "Tracks": 7,
     "Tags": [
-      "Lobbies and Shops"
+      "Lobbies and Shops",
+      "Delisted"
     ],
     "Verified": true
   },
@@ -6110,7 +6111,8 @@
     "Duration": 141.34963199999999,
     "Tracks": 16,
     "Tags": [
-      "Fights"
+      "Fights",
+      "Delisted"
     ],
     "Verified": true
   },
@@ -6744,7 +6746,8 @@
     "Tracks": 13,
     "Tags": [
       "Exteriors",
-      "Happy"
+      "Happy",
+      "Delisted"
     ],
     "Verified": true
   },
@@ -7729,7 +7732,8 @@
     "Tracks": 14,
     "Tags": [
       "Exteriors",
-      "Happy"
+      "Happy",
+      "Delisted"
     ],
     "Verified": true
   },
@@ -8001,7 +8005,8 @@
     "Duration": 103.98958333333333,
     "Tracks": 16,
     "Tags": [
-      "Fights"
+      "Fights",
+      "Delisted"
     ],
     "Verified": true
   },
@@ -8137,7 +8142,8 @@
     "Tracks": 15,
     "Tags": [
       "Fights",
-      "Minigames"
+      "Minigames",
+      "Delisted"
     ],
     "Verified": true
   },
@@ -14201,7 +14207,8 @@
     "Tags": [
       "Lobbies and Shops",
       "Minigames",
-      "Happy"
+      "Happy",
+      "Delisted"
     ],
     "Verified": true,
     "Additional Notes": "Dear Meddling Monkeys,\nThe Kremlings and I have taken over DK Isle\nYour bananas are now a permanent menu item in one of my seven Kremling hotels\nI dare you to find them if you can!"
