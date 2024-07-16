@@ -24798,5 +24798,21 @@
     "Date": "Mon Jul 15 2024 19:26:16 GMT+0000 (Coordinated Universal Time)",
     "Binary": "binaries/Rogue Galaxy/Shadow of the Sun.bin",
     "Duration": 60.845040000000004
+  },
+  {
+    "Game": "Shovel Knight",
+    "Song": "Strike the Earth! (Plains of Passage)",
+    "Composers": "Jake \"Virt\" Kaufman",
+    "Converters": "cdh90",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Tue Jul 16 2024 20:42:28 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Shovel%20Knight/Strike%20the%20Earth%20(Plains%20of%20Passage).wav",
+    "Binary": "binaries/Shovel Knight/Strike the Earth (Plains of Passage).bin",
+    "Duration": 97.41656925
   }
 ]
