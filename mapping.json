@@ -24864,5 +24864,22 @@
     "Date": "Wed Jul 17 2024 11:03:06 GMT+0000 (Coordinated Universal Time)",
     "Binary": "binaries/EarthBound/Humoresque of a Little Dog.bin",
     "Duration": 31.755999999999997
+  },
+  {
+    "Game": "Mario Party",
+    "Song": "Yoshi's Tropical Island",
+    "Composers": "Yasunori Mitsuda",
+    "Converters": "Altermentality",
+    "Category": "bgm",
+    "Audio": "https://www.youtube.com/watch?v=CKKdrqPQwTo",
+    "Additional Notes": "Here we go!",
+    "Tags": [
+      "Exteriors",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Wed Jul 17 2024 11:04:33 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Mario Party/Yoshis Tropical Island.bin",
+    "Duration": 60.41770833333334
   }
 ]
