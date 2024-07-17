@@ -24831,5 +24831,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Killer%20Instinct/The%20Instinct.mp3",
     "Binary": "binaries/Killer Instinct/The Instinct.bin",
     "Duration": 248.27568000000002
+  },
+  {
+    "Game": "Bomberman Hero",
+    "Song": "Milky",
+    "Composers": "Jun Chikuma",
+    "Converters": "AbscondWithAPie",
+    "Category": "bgm",
+    "Audio": "https://www.youtube.com/watch?v=xrWEr8FzVeo",
+    "Tags": [
+      "Exteriors",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Wed Jul 17 2024 11:01:38 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Bomberman Hero/Milky.bin",
+    "Duration": 70.06860921666666
   }
 ]
