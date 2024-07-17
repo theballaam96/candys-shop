@@ -24847,5 +24847,22 @@
     "Date": "Wed Jul 17 2024 11:01:38 GMT+0000 (Coordinated Universal Time)",
     "Binary": "binaries/Bomberman Hero/Milky.bin",
     "Duration": 70.06860921666666
+  },
+  {
+    "Game": "EarthBound",
+    "Song": "Humoresque of a Little Dog",
+    "Composers": "Keiichi Suzuki, Hirokazu Tanaka",
+    "Converters": "Altermentality",
+    "Category": "bgm",
+    "Audio": "https://youtu.be/YKREXEMPG-Q",
+    "Additional Notes": "Also known as \"Buy Somethin' Will Ya?\"",
+    "Tags": [
+      "Lobbies and Shops",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Wed Jul 17 2024 11:03:06 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/EarthBound/Humoresque of a Little Dog.bin",
+    "Duration": 31.755999999999997
   }
 ]
