@@ -24915,5 +24915,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Mega%20Man%20X/Armored%20Armadillo%20(REV%201).wav",
     "Binary": "binaries/Mega Man X/Armored Armadillo (REV 1).bin",
     "Duration": 56.00273984375
+  },
+  {
+    "Game": "Hotel Dusk: Room 215",
+    "Song": "Easy Feeling",
+    "Composers": "Satoshi Okubo",
+    "Converters": "AbscondWithAPie",
+    "Category": "bgm",
+    "Audio": "https://www.youtube.com/watch?v=Ywiq5EtAgp4",
+    "Tags": [
+      "Interiors",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Thu Jul 18 2024 20:51:48 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Hotel Dusk Room 215/Easy Feeling.bin",
+    "Duration": 48.5875
   }
 ]
