@@ -24881,5 +24881,22 @@
     "Date": "Wed Jul 17 2024 11:04:33 GMT+0000 (Coordinated Universal Time)",
     "Binary": "binaries/Mario Party/Yoshis Tropical Island.bin",
     "Duration": 60.41770833333334
+  },
+  {
+    "Game": "Ghost Trick: Phantom Detective",
+    "Song": "SUSPICION",
+    "Composers": "Masakazu Sugimori",
+    "Converters": "AbscondWithAPie",
+    "Category": "bgm",
+    "Audio": "https://www.youtube.com/watch?v=yCESQq_jM4w",
+    "Tags": [
+      "Exteriors",
+      "Gloomy",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Thu Jul 18 2024 08:11:34 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Ghost Trick Phantom Detective/SUSPICION.bin",
+    "Duration": 82.088848625
   }
 ]
