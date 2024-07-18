@@ -24931,5 +24931,71 @@
     "Date": "Thu Jul 18 2024 20:51:48 GMT+0000 (Coordinated Universal Time)",
     "Binary": "binaries/Hotel Dusk Room 215/Easy Feeling.bin",
     "Duration": 48.5875
+  },
+  {
+    "Game": "Hotel Dusk: Room 215",
+    "Song": "Hangover Blues",
+    "Composers": "Satoshi Okubo",
+    "Converters": "AbscondWithAPie",
+    "Category": "bgm",
+    "Audio": "https://www.youtube.com/watch?v=8LPmSeNR1FU",
+    "Tags": [
+      "Interiors",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Thu Jul 18 2024 20:53:35 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Hotel Dusk Room 215/Hangover Blues.bin",
+    "Duration": 67.88379908333333
+  },
+  {
+    "Game": "Goldeneye 007",
+    "Song": "Byelomorye Dam",
+    "Category": "bgm",
+    "Composers": "Grant Kirkhope",
+    "Converters": "Schwartz Gandhi",
+    "Tags": [
+      "Exteriors"
+    ],
+    "Additional Notes": "https://discord.com/channels/463917049782075395/538254011510554635/1234016350926803046",
+    "Verified": true,
+    "Date": "Thu Jul 18 2024 20:53:36 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Goldeneye%20007/Byelomorye%20Dam.mp3",
+    "Binary": "binaries/Goldeneye 007/Byelomorye Dam.bin",
+    "Duration": 145.73500528645835
+  },
+  {
+    "Game": "Bomberman Hero",
+    "Song": "Ooze (Game Over)",
+    "Composers": "Jun Chikuma",
+    "Converters": "AbscondWithAPie",
+    "Category": "events",
+    "Additional Notes": "lol idk",
+    "Tags": [
+      "Spawning",
+      "Collection",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Thu Jul 18 2024 20:53:37 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Bomberman%20Hero/Ooze%20(Game%20Over).mp3",
+    "Binary": "binaries/Bomberman Hero/Ooze (Game Over).bin",
+    "Duration": 2.5427122
+  },
+  {
+    "Game": "Pilotwings 64",
+    "Song": "Cannonball",
+    "Composers": "Dan Hess",
+    "Converters": "AbscondWithAPie",
+    "Category": "bgm",
+    "Audio": "https://www.youtube.com/watch?v=wVfPMCaNCQ8",
+    "Tags": [
+      "Lobbies and Shops",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Thu Jul 18 2024 20:53:37 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Pilotwings 64/Cannonball.bin",
+    "Duration": 25.367708333333336
   }
 ]
