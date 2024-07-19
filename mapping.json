@@ -5427,7 +5427,8 @@
     "Duration": 45.517208000000444,
     "Tracks": 7,
     "Tags": [
-      "Lobbies and Shops"
+      "Lobbies and Shops",
+      "Delisted"
     ],
     "Verified": true
   },
@@ -6110,7 +6111,8 @@
     "Duration": 141.34963199999999,
     "Tracks": 16,
     "Tags": [
-      "Fights"
+      "Fights",
+      "Delisted"
     ],
     "Verified": true
   },
@@ -6744,7 +6746,8 @@
     "Tracks": 13,
     "Tags": [
       "Exteriors",
-      "Happy"
+      "Happy",
+      "Delisted"
     ],
     "Verified": true
   },
@@ -7729,7 +7732,8 @@
     "Tracks": 14,
     "Tags": [
       "Exteriors",
-      "Happy"
+      "Happy",
+      "Delisted"
     ],
     "Verified": true
   },
@@ -8001,7 +8005,8 @@
     "Duration": 103.98958333333333,
     "Tracks": 16,
     "Tags": [
-      "Fights"
+      "Fights",
+      "Delisted"
     ],
     "Verified": true
   },
@@ -8137,7 +8142,8 @@
     "Tracks": 15,
     "Tags": [
       "Fights",
-      "Minigames"
+      "Minigames",
+      "Delisted"
     ],
     "Verified": true
   },
@@ -14201,7 +14207,8 @@
     "Tags": [
       "Lobbies and Shops",
       "Minigames",
-      "Happy"
+      "Happy",
+      "Delisted"
     ],
     "Verified": true,
     "Additional Notes": "Dear Meddling Monkeys,\nThe Kremlings and I have taken over DK Isle\nYour bananas are now a permanent menu item in one of my seven Kremling hotels\nI dare you to find them if you can!"
@@ -24759,5 +24766,236 @@
     "Date": "Mon Jul 15 2024 00:58:01 GMT+0000 (Coordinated Universal Time)",
     "Binary": "binaries/Metroid Prime 2 Echoes/Sanctuary Fortress.bin",
     "Duration": 221.99895833333332
+  },
+  {
+    "Game": "Metroid Prime",
+    "Song": "Event Jingle",
+    "Composers": "Kenji Yamamoto, Kouichi Kyuma",
+    "Converters": "BashPrime",
+    "Category": "events",
+    "Tags": [
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Mon Jul 15 2024 02:40:23 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Metroid%20Prime/Event%20Jingle.mp3",
+    "Binary": "binaries/Metroid Prime/Event Jingle.bin",
+    "Duration": 2.339283375
+  },
+  {
+    "Game": "Rogue Galaxy",
+    "Song": "Shadow of the Sun",
+    "Composers": "Tomohito Nishiura",
+    "Converters": "The Specialize",
+    "Category": "bgm",
+    "Audio": "https://www.youtube.com/watch?v=I_qJu_q6b30",
+    "Tags": [
+      "Exteriors",
+      "Gloomy",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Mon Jul 15 2024 19:26:16 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Rogue Galaxy/Shadow of the Sun.bin",
+    "Duration": 60.845040000000004
+  },
+  {
+    "Game": "Shovel Knight",
+    "Song": "Strike the Earth! (Plains of Passage)",
+    "Composers": "Jake \"Virt\" Kaufman",
+    "Converters": "cdh90",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Tue Jul 16 2024 20:42:28 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Shovel%20Knight/Strike%20the%20Earth%20(Plains%20of%20Passage).wav",
+    "Binary": "binaries/Shovel Knight/Strike the Earth (Plains of Passage).bin",
+    "Duration": 97.41656925
+  },
+  {
+    "Game": "Killer Instinct",
+    "Song": "The Instinct",
+    "Composers": "Robin Beanland & Graeme Norgate",
+    "Converters": "cdh90",
+    "Category": "bgm",
+    "Tags": [
+      "Interiors",
+      "Exteriors",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Tue Jul 16 2024 20:45:52 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Killer%20Instinct/The%20Instinct.mp3",
+    "Binary": "binaries/Killer Instinct/The Instinct.bin",
+    "Duration": 248.27568000000002
+  },
+  {
+    "Game": "Bomberman Hero",
+    "Song": "Milky",
+    "Composers": "Jun Chikuma",
+    "Converters": "AbscondWithAPie",
+    "Category": "bgm",
+    "Audio": "https://www.youtube.com/watch?v=xrWEr8FzVeo",
+    "Tags": [
+      "Exteriors",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Wed Jul 17 2024 11:01:38 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Bomberman Hero/Milky.bin",
+    "Duration": 70.06860921666666
+  },
+  {
+    "Game": "EarthBound",
+    "Song": "Humoresque of a Little Dog",
+    "Composers": "Keiichi Suzuki, Hirokazu Tanaka",
+    "Converters": "Altermentality",
+    "Category": "bgm",
+    "Audio": "https://youtu.be/YKREXEMPG-Q",
+    "Additional Notes": "Also known as \"Buy Somethin' Will Ya?\"",
+    "Tags": [
+      "Lobbies and Shops",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Wed Jul 17 2024 11:03:06 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/EarthBound/Humoresque of a Little Dog.bin",
+    "Duration": 31.755999999999997
+  },
+  {
+    "Game": "Mario Party",
+    "Song": "Yoshi's Tropical Island",
+    "Composers": "Yasunori Mitsuda",
+    "Converters": "Altermentality",
+    "Category": "bgm",
+    "Audio": "https://www.youtube.com/watch?v=CKKdrqPQwTo",
+    "Additional Notes": "Here we go!",
+    "Tags": [
+      "Exteriors",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Wed Jul 17 2024 11:04:33 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Mario Party/Yoshis Tropical Island.bin",
+    "Duration": 60.41770833333334
+  },
+  {
+    "Game": "Ghost Trick: Phantom Detective",
+    "Song": "SUSPICION",
+    "Composers": "Masakazu Sugimori",
+    "Converters": "AbscondWithAPie",
+    "Category": "bgm",
+    "Audio": "https://www.youtube.com/watch?v=yCESQq_jM4w",
+    "Tags": [
+      "Exteriors",
+      "Gloomy",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Thu Jul 18 2024 08:11:34 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Ghost Trick Phantom Detective/SUSPICION.bin",
+    "Duration": 82.088848625
+  },
+  {
+    "Game": "Mega Man X",
+    "Song": "Armored Armadillo",
+    "Composers": "Setsuo Yamamoto",
+    "Converters": "cdh90",
+    "Category": "bgm",
+    "Update Notes": "updated track with rebalanced volume",
+    "Tags": [
+      "Exteriors",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Thu Jul 18 2024 20:08:02 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Mega%20Man%20X/Armored%20Armadillo%20(REV%201).wav",
+    "Binary": "binaries/Mega Man X/Armored Armadillo (REV 1).bin",
+    "Duration": 56.00273984375
+  },
+  {
+    "Game": "Hotel Dusk: Room 215",
+    "Song": "Easy Feeling",
+    "Composers": "Satoshi Okubo",
+    "Converters": "AbscondWithAPie",
+    "Category": "bgm",
+    "Audio": "https://www.youtube.com/watch?v=Ywiq5EtAgp4",
+    "Tags": [
+      "Interiors",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Thu Jul 18 2024 20:51:48 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Hotel Dusk Room 215/Easy Feeling.bin",
+    "Duration": 48.5875
+  },
+  {
+    "Game": "Hotel Dusk: Room 215",
+    "Song": "Hangover Blues",
+    "Composers": "Satoshi Okubo",
+    "Converters": "AbscondWithAPie",
+    "Category": "bgm",
+    "Audio": "https://www.youtube.com/watch?v=8LPmSeNR1FU",
+    "Tags": [
+      "Interiors",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Thu Jul 18 2024 20:53:35 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Hotel Dusk Room 215/Hangover Blues.bin",
+    "Duration": 67.88379908333333
+  },
+  {
+    "Game": "Goldeneye 007",
+    "Song": "Byelomorye Dam",
+    "Category": "bgm",
+    "Composers": "Grant Kirkhope",
+    "Converters": "Schwartz Gandhi",
+    "Tags": [
+      "Exteriors"
+    ],
+    "Additional Notes": "https://discord.com/channels/463917049782075395/538254011510554635/1234016350926803046",
+    "Verified": true,
+    "Date": "Thu Jul 18 2024 20:53:36 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Goldeneye%20007/Byelomorye%20Dam.mp3",
+    "Binary": "binaries/Goldeneye 007/Byelomorye Dam.bin",
+    "Duration": 145.73500528645835
+  },
+  {
+    "Game": "Bomberman Hero",
+    "Song": "Ooze (Game Over)",
+    "Composers": "Jun Chikuma",
+    "Converters": "AbscondWithAPie",
+    "Category": "events",
+    "Additional Notes": "lol idk",
+    "Tags": [
+      "Spawning",
+      "Collection",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Thu Jul 18 2024 20:53:37 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Bomberman%20Hero/Ooze%20(Game%20Over).mp3",
+    "Binary": "binaries/Bomberman Hero/Ooze (Game Over).bin",
+    "Duration": 2.5427122
+  },
+  {
+    "Game": "Pilotwings 64",
+    "Song": "Cannonball",
+    "Composers": "Dan Hess",
+    "Converters": "AbscondWithAPie",
+    "Category": "bgm",
+    "Audio": "https://www.youtube.com/watch?v=wVfPMCaNCQ8",
+    "Tags": [
+      "Lobbies and Shops",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Thu Jul 18 2024 20:53:37 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Pilotwings 64/Cannonball.bin",
+    "Duration": 25.367708333333336
   }
 ]
