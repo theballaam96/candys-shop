@@ -25047,5 +25047,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Mega%20Man%20X/Chill%20Penguin%20(REV%201).mp3",
     "Binary": "binaries/Mega Man X/Chill Penguin (REV 1).bin",
     "Duration": 50.17989375
+  },
+  {
+    "Game": "Crash Team Racing",
+    "Song": "Boss Race",
+    "Composers": "Josh Mancell",
+    "Converters": "Link",
+    "Category": "bgm",
+    "Tags": [
+      "Fights",
+      "Minigames"
+    ],
+    "Verified": true,
+    "Date": "Fri Jul 19 2024 19:51:55 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Crash%20Team%20Racing/Boss%20Race.mp3",
+    "Binary": "binaries/Crash Team Racing/Boss Race.bin",
+    "Duration": 91.875
   }
 ]
