@@ -25030,5 +25030,22 @@
     "Date": "Fri Jul 19 2024 19:45:49 GMT+0000 (Coordinated Universal Time)",
     "Binary": "binaries/Bomberman Hero/Dessert.bin",
     "Duration": 61.16184418750001
+  },
+  {
+    "Game": "Mega Man X",
+    "Song": "Chill Penguin",
+    "Composers": "Yuki Iwai",
+    "Converters": "cdh90",
+    "Category": "bgm",
+    "Update Notes": "Updated track with rebalanced volume",
+    "Tags": [
+      "Exteriors",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Fri Jul 19 2024 19:47:26 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Mega%20Man%20X/Chill%20Penguin%20(REV%201).mp3",
+    "Binary": "binaries/Mega Man X/Chill Penguin (REV 1).bin",
+    "Duration": 50.17989375
   }
 ]
