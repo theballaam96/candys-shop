@@ -24997,5 +24997,21 @@
     "Date": "Thu Jul 18 2024 20:53:37 GMT+0000 (Coordinated Universal Time)",
     "Binary": "binaries/Pilotwings 64/Cannonball.bin",
     "Duration": 25.367708333333336
+  },
+  {
+    "Game": "Bomberman Hero",
+    "Song": "Supplement",
+    "Composers": "Jun Chikuma",
+    "Converters": "AbscondWithAPie",
+    "Category": "bgm",
+    "Audio": "https://www.youtube.com/watch?v=k3MT8dZwTPA",
+    "Tags": [
+      "Interiors",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Fri Jul 19 2024 19:44:04 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Bomberman Hero/Supplement.bin",
+    "Duration": 59.99288446666667
   }
 ]
