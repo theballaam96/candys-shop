@@ -25013,5 +25013,22 @@
     "Date": "Fri Jul 19 2024 19:44:04 GMT+0000 (Coordinated Universal Time)",
     "Binary": "binaries/Bomberman Hero/Supplement.bin",
     "Duration": 59.99288446666667
+  },
+  {
+    "Game": "Bomberman Hero",
+    "Song": "Dessert",
+    "Composers": "Jun Chikuma",
+    "Converters": "AbscondWithAPie",
+    "Category": "bgm",
+    "Audio": "https://www.youtube.com/watch?v=Rd4sp7UekHE",
+    "Tags": [
+      "Exteriors",
+      "Gloomy",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Fri Jul 19 2024 19:45:49 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Bomberman Hero/Dessert.bin",
+    "Duration": 61.16184418750001
   }
 ]
