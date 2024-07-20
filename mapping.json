@@ -25063,5 +25063,22 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Crash%20Team%20Racing/Boss%20Race.mp3",
     "Binary": "binaries/Crash Team Racing/Boss Race.bin",
     "Duration": 91.875
+  },
+  {
+    "Game": "Banjo-Tooie",
+    "Song": "Collect Clockwork Kazooie Egg",
+    "Category": "minoritems",
+    "Composers": "Grant Kirkhope",
+    "Converters": "Ballaam",
+    "Tags": [
+      "Collection",
+      "Happy"
+    ],
+    "Update Notes": "Added music box whir",
+    "Verified": true,
+    "Date": "Sat Jul 20 2024 11:04:49 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Banjo-Tooie/Collect%20Clockwork%20Kazooie%20Egg%20(REV%201).mp3",
+    "Binary": "binaries/Banjo-Tooie/Collect Clockwork Kazooie Egg (REV 1).bin",
+    "Duration": 0.6031249999999999
   }
 ]
