@@ -25097,5 +25097,22 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Mega%20Man%20X/Launch%20Octopus%20(REV%201).mp3",
     "Binary": "binaries/Mega Man X/Launch Octopus (REV 1).bin",
     "Duration": 49.58984375
+  },
+  {
+    "Game": "Mega Man X",
+    "Song": "Sting Chameleon",
+    "Composers": "Setsuo Yamamoto",
+    "Converters": "cdh90",
+    "Category": "bgm",
+    "Update Notes": "Updated with rebalanced volume",
+    "Tags": [
+      "Exteriors",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Sun Jul 21 2024 09:48:27 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Mega%20Man%20X/Sting%20Chameleon%20(REV%201).mp3",
+    "Binary": "binaries/Mega Man X/Sting Chameleon (REV 1).bin",
+    "Duration": 33.97057125
   }
 ]
