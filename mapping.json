@@ -25080,5 +25080,22 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Banjo-Tooie/Collect%20Clockwork%20Kazooie%20Egg%20(REV%201).mp3",
     "Binary": "binaries/Banjo-Tooie/Collect Clockwork Kazooie Egg (REV 1).bin",
     "Duration": 0.6031249999999999
+  },
+  {
+    "Game": "Mega Man X",
+    "Song": "Launch Octopus",
+    "Composers": "Setsuo Yamamoto",
+    "Converters": "cdh90",
+    "Category": "bgm",
+    "Update Notes": "Updated with rebalanced volume and better instruments for the higher frequencies",
+    "Tags": [
+      "Exteriors",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Sun Jul 21 2024 09:46:05 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Mega%20Man%20X/Launch%20Octopus%20(REV%201).mp3",
+    "Binary": "binaries/Mega Man X/Launch Octopus (REV 1).bin",
+    "Duration": 49.58984375
   }
 ]
