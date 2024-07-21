@@ -25148,5 +25148,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Mega%20Man%20X/Boomer%20Kuwanger%20(REV%201).mp3",
     "Binary": "binaries/Mega Man X/Boomer Kuwanger (REV 1).bin",
     "Duration": 67.3
+  },
+  {
+    "Game": "Pokémon Card GB2: Great Rocket-Dan Sanjo",
+    "Song": "Colorless Altar and Sealed Fort",
+    "Composers": "Ichiro Shimakura",
+    "Converters": "Wibdiwoh",
+    "Category": "bgm",
+    "Tags": [
+      "Interiors",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Sun Jul 21 2024 09:53:16 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Pok%C3%A9mon%20Card%20GB2%20Great%20Rocket-Dan%20Sanjo/Colorless%20Altar%20and%20Sealed%20Fort.mp3",
+    "Binary": "binaries/Pokémon Card GB2 Great Rocket-Dan Sanjo/Colorless Altar and Sealed Fort.bin",
+    "Duration": 73.11938064583335
   }
 ]
