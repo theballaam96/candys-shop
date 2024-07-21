@@ -25131,5 +25131,22 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Mega%20Man%20X/Storm%20Eagle%20(REV%201).mp3",
     "Binary": "binaries/Mega Man X/Storm Eagle (REV 1).bin",
     "Duration": 35.948319
+  },
+  {
+    "Game": "Mega Man X",
+    "Song": "Boomer Kuwanger",
+    "Composers": "Yuko Takehara",
+    "Converters": "cdh90",
+    "Category": "bgm",
+    "Update Notes": "This was my first submission and my conversion skills are much better since starting. This track has updated instrument tracks",
+    "Tags": [
+      "Exteriors",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Sun Jul 21 2024 09:51:32 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Mega%20Man%20X/Boomer%20Kuwanger%20(REV%201).mp3",
+    "Binary": "binaries/Mega Man X/Boomer Kuwanger (REV 1).bin",
+    "Duration": 67.3
   }
 ]
