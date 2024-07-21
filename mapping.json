@@ -25164,5 +25164,20 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Pok%C3%A9mon%20Card%20GB2%20Great%20Rocket-Dan%20Sanjo/Colorless%20Altar%20and%20Sealed%20Fort.mp3",
     "Binary": "binaries/Pokémon Card GB2 Great Rocket-Dan Sanjo/Colorless Altar and Sealed Fort.bin",
     "Duration": 73.11938064583335
+  },
+  {
+    "Game": "Pokémon Card GB2: Great Rocket-Dan Sanjo",
+    "Song": "Invasion of Team GR",
+    "Composers": "Ichiro Shimakura",
+    "Converters": "Wibdiwoh",
+    "Category": "bgm",
+    "Tags": [
+      "Lobbies and Shops"
+    ],
+    "Verified": true,
+    "Date": "Sun Jul 21 2024 09:54:46 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Pok%C3%A9mon%20Card%20GB2%20Great%20Rocket-Dan%20Sanjo/Invasion%20of%20Team%20GR.mp3",
+    "Binary": "binaries/Pokémon Card GB2 Great Rocket-Dan Sanjo/Invasion of Team GR.bin",
+    "Duration": 53.6396790625
   }
 ]
