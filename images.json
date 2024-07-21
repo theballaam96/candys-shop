@@ -615,6 +615,10 @@
    "Pokémon Black 2 & White 2":{
       "icon":"https://i.imgur.com/c5WIW1K.png"
    },
+   "Pokémon Card GB2: Great Rocket-Dan Sanjo":{
+      "icon":"https://i.imgur.com/h8Su4TH.png",
+      "short_name": "Pokémon TCG 2"
+   },
    "Pokémon Colosseum":{
       "icon":"https://i.imgur.com/c9o6GNm.png"
    },
