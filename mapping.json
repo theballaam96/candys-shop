@@ -25114,5 +25114,22 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Mega%20Man%20X/Sting%20Chameleon%20(REV%201).mp3",
     "Binary": "binaries/Mega Man X/Sting Chameleon (REV 1).bin",
     "Duration": 33.97057125
+  },
+  {
+    "Game": "Mega Man X",
+    "Song": "Storm Eagle",
+    "Composers": "Makoto Tomozawa",
+    "Converters": "cdh90",
+    "Category": "bgm",
+    "Update Notes": "Updated with rebalanced volume",
+    "Tags": [
+      "Exteriors",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Sun Jul 21 2024 09:50:04 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Mega%20Man%20X/Storm%20Eagle%20(REV%201).mp3",
+    "Binary": "binaries/Mega Man X/Storm Eagle (REV 1).bin",
+    "Duration": 35.948319
   }
 ]
