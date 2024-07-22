@@ -25273,5 +25273,20 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Mega%20Man%20X5/X%20vs%20Zero%20(REV%201).mp3",
     "Binary": "binaries/Mega Man X5/X vs Zero (REV 1).bin",
     "Duration": 65.639124
+  },
+  {
+    "Game": "Paper Mario",
+    "Song": "Mt. Rugged",
+    "Composers": "Yuka Tsujiyoko",
+    "Converters": "The Specialize",
+    "Category": "bgm",
+    "Audio": "https://www.youtube.com/watch?v=8-xWwyw8wLo",
+    "Tags": [
+      "Exteriors"
+    ],
+    "Verified": true,
+    "Date": "Mon Jul 22 2024 21:28:33 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Paper Mario/Mt Rugged.bin",
+    "Duration": 36.73464
   }
 ]
