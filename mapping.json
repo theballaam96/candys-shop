@@ -25179,5 +25179,99 @@
     "Audio": "https://www.youtube.com/watch?v=zA_OV_bjLP8",
     "Binary": "binaries/Pokémon Card GB2 Great Rocket-Dan Sanjo/Invasion of Team GR.bin",
     "Duration": 53.6396790625
+  },
+  {
+    "Game": "Pokémon Trading Card Game",
+    "Song": "Win",
+    "Composers": "Ichiro Shimakura",
+    "Converters": "Wibdiwoh",
+    "Category": "events",
+    "Tags": [
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Mon Jul 22 2024 16:53:14 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Pok%C3%A9mon%20Trading%20Card%20Game/Win.mp3",
+    "Binary": "binaries/Pokémon Trading Card Game/Win.bin",
+    "Duration": 4.109375
+  },
+  {
+    "Game": "Pokémon Trading Card Game",
+    "Song": "Lost",
+    "Composers": "Ichiro Shimakura",
+    "Converters": "Wibdiwoh",
+    "Category": "events",
+    "Tags": [
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Mon Jul 22 2024 16:59:07 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Pok%C3%A9mon%20Trading%20Card%20Game/Lost.mp3",
+    "Binary": "binaries/Pokémon Trading Card Game/Lost.bin",
+    "Duration": 5.438910114583333
+  },
+  {
+    "Game": "Pokémon Trading Card Game",
+    "Song": "Let's Duel",
+    "Composers": "Ichiro Shimakura",
+    "Converters": "Wibdiwoh",
+    "Category": "majoritems",
+    "Tags": [
+      "Collection"
+    ],
+    "Verified": true,
+    "Date": "Mon Jul 22 2024 16:59:08 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Pok%C3%A9mon%20Trading%20Card%20Game/Lets%20Duel.mp3",
+    "Binary": "binaries/Pokémon Trading Card Game/Lets Duel.bin",
+    "Duration": 0.88636275
+  },
+  {
+    "Game": "Pokémon Trading Card Game",
+    "Song": "Get Master Medal",
+    "Composers": "Ichiro Shimakura",
+    "Converters": "Wibdiwoh",
+    "Category": "majoritems",
+    "Tags": [
+      "Collection",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Mon Jul 22 2024 16:59:09 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Pok%C3%A9mon%20Trading%20Card%20Game/Get%20Master%20Medal.mp3",
+    "Binary": "binaries/Pokémon Trading Card Game/Get Master Medal.bin",
+    "Duration": 5.325633624999999
+  },
+  {
+    "Game": "Pokémon Trading Card Game",
+    "Song": "Get Booster Pack",
+    "Composers": "Ichiro Shimakura",
+    "Converters": "Wibdiwoh",
+    "Category": "majoritems",
+    "Tags": [
+      "Collection",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Mon Jul 22 2024 16:59:10 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Pok%C3%A9mon%20Trading%20Card%20Game/Get%20Booster%20Pack.mp3",
+    "Binary": "binaries/Pokémon Trading Card Game/Get Booster Pack.bin",
+    "Duration": 1.42105275
+  },
+  {
+    "Game": "Mega Man X5",
+    "Song": "X vs Zero",
+    "Composers": "Naoto Tanaka",
+    "Converters": "cdh90",
+    "Category": "bgm",
+    "Update Notes": "rebalanced volume and update a few instruments for a better sound",
+    "Tags": [
+      "Fights",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Mon Jul 22 2024 20:09:42 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Mega%20Man%20X5/X%20vs%20Zero%20(REV%201).mp3",
+    "Binary": "binaries/Mega Man X5/X vs Zero (REV 1).bin",
+    "Duration": 65.639124
   }
 ]
