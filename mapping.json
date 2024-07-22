@@ -25179,5 +25179,20 @@
     "Audio": "https://www.youtube.com/watch?v=zA_OV_bjLP8",
     "Binary": "binaries/Pokémon Card GB2 Great Rocket-Dan Sanjo/Invasion of Team GR.bin",
     "Duration": 53.6396790625
+  },
+  {
+    "Game": "Pokémon Trading Card Game",
+    "Song": "Win",
+    "Composers": "Ichiro Shimakura",
+    "Converters": "Wibdiwoh",
+    "Category": "events",
+    "Tags": [
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Mon Jul 22 2024 16:53:14 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Pok%C3%A9mon%20Trading%20Card%20Game/Win.mp3",
+    "Binary": "binaries/Pokémon Trading Card Game/Win.bin",
+    "Duration": 4.109375
   }
 ]
