@@ -25322,5 +25322,23 @@
     "Date": "Tue Jul 23 2024 20:01:09 GMT+0000 (Coordinated Universal Time)",
     "Binary": "binaries/Mario Party 3/Waluigis Island.bin",
     "Duration": 52.430250675
+  },
+  {
+    "Game": "Ghost Trick: Phantom Detective",
+    "Song": "Chicken Paradise (The Chicken Kitchen)",
+    "Composers": "Masakazu Sugimori, Yasumasa Kitagawa",
+    "Converters": "Altermentality",
+    "Category": "bgm",
+    "Audio": "https://youtu.be/AVnMllFgJwI",
+    "Additional Notes": "Odd girl.",
+    "Tags": [
+      "Lobbies and Shops",
+      "Interiors",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Tue Jul 23 2024 20:02:38 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Ghost Trick Phantom Detective/Chicken Paradise (The Chicken Kitchen).bin",
+    "Duration": 86.38749999999999
   }
 ]
