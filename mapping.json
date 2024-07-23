@@ -25340,5 +25340,23 @@
     "Date": "Tue Jul 23 2024 20:02:38 GMT+0000 (Coordinated Universal Time)",
     "Binary": "binaries/Ghost Trick Phantom Detective/Chicken Paradise (The Chicken Kitchen).bin",
     "Duration": 86.38749999999999
+  },
+  {
+    "Game": "Metroid Prime",
+    "Song": "VS. Meta Ridley",
+    "Composers": "Kenji Yamamoto, Kouichi Kyuma",
+    "Converters": "BashPrime",
+    "Category": "bgm",
+    "Audio": "https://www.youtube.com/watch?v=eRcgRWrWb6E",
+    "Additional Notes": "This is a rearrangement of a MIDI sequence by Mesmo: https://www.vgmusic.com/music/console/nintendo/gamecube/Samus_vs_meta-ridley.mid",
+    "Tags": [
+      "Fights",
+      "Minigames",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Tue Jul 23 2024 22:55:13 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Metroid Prime/VS Meta Ridley.bin",
+    "Duration": 65.55
   }
 ]
