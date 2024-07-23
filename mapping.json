@@ -25305,5 +25305,22 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Rhythm%20Heaven/Tunnel.mp3",
     "Binary": "binaries/Rhythm Heaven/Tunnel.bin",
     "Duration": 42.63478260416667
+  },
+  {
+    "Game": "Mario Party 3",
+    "Song": "Waluigi's Island",
+    "Composers": "Ichiro Shimakura",
+    "Converters": "Altermentality",
+    "Category": "bgm",
+    "Audio": "https://youtu.be/723VMFvjL4E",
+    "Additional Notes": "Happy Birthday, Waluigi!!",
+    "Tags": [
+      "Exteriors",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Tue Jul 23 2024 20:01:09 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Mario Party 3/Waluigis Island.bin",
+    "Duration": 52.430250675
   }
 ]
