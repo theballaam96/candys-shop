@@ -25375,5 +25375,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Cave%20Story/Jenka%202%20(REV%201).mp3",
     "Binary": "binaries/Cave Story/Jenka 2 (REV 1).bin",
     "Duration": 45.76308138333333
+  },
+  {
+    "Game": "The Legend of Zelda: Phantom Hourglass",
+    "Song": "Phantom Hourglass Activated",
+    "Category": "events",
+    "Composers": "Kenta Nagata, Toru Minegeshi",
+    "Converters": "Schwartz Gandhi",
+    "Tags": [
+      "Spawning",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Wed Jul 24 2024 19:57:05 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/The%20Legend%20of%20Zelda%20Phantom%20Hourglass/Phantom%20Hourglass%20Activated.mp3",
+    "Binary": "binaries/The Legend of Zelda Phantom Hourglass/Phantom Hourglass Activated.bin",
+    "Duration": 4.552083333333333
   }
 ]
