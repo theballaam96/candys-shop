@@ -25391,5 +25391,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/The%20Legend%20of%20Zelda%20Phantom%20Hourglass/Phantom%20Hourglass%20Activated.mp3",
     "Binary": "binaries/The Legend of Zelda Phantom Hourglass/Phantom Hourglass Activated.bin",
     "Duration": 4.552083333333333
+  },
+  {
+    "Game": "The Legend of Zelda: Phantom Hourglass",
+    "Song": "Phantom Linebeck",
+    "Category": "bgm",
+    "Composers": "Kenta Nagata, Toru Minegeshi",
+    "Converters": "Schwartz Gandhi",
+    "Tags": [
+      "Fights",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Wed Jul 24 2024 19:59:15 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/The%20Legend%20of%20Zelda%20Phantom%20Hourglass/Phantom%20Linebeck.mp3",
+    "Binary": "binaries/The Legend of Zelda Phantom Hourglass/Phantom Linebeck.bin",
+    "Duration": 76.79966074999999
   }
 ]
