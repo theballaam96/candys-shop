@@ -25358,5 +25358,22 @@
     "Date": "Tue Jul 23 2024 22:55:13 GMT+0000 (Coordinated Universal Time)",
     "Binary": "binaries/Metroid Prime/VS Meta Ridley.bin",
     "Duration": 65.55
+  },
+  {
+    "Game": "Cave Story",
+    "Song": "Jenka 2",
+    "Category": "bgm",
+    "Composers": "Pixel",
+    "Converters": "Schwartz Gandhi",
+    "Tags": [
+      "Interiors",
+      "Gloomy"
+    ],
+    "Update Notes": "remlance",
+    "Verified": true,
+    "Date": "Wed Jul 24 2024 19:55:23 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Cave%20Story/Jenka%202%20(REV%201).mp3",
+    "Binary": "binaries/Cave Story/Jenka 2 (REV 1).bin",
+    "Duration": 45.76308138333333
   }
 ]
