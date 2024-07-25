@@ -25423,5 +25423,22 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/The%20Legend%20of%20Zelda%20Phantom%20Hourglass/Small%20Treasure.mp3",
     "Binary": "binaries/The Legend of Zelda Phantom Hourglass/Small Treasure.bin",
     "Duration": 1.9999995
+  },
+  {
+    "Game": "Phoenix Wright: Ace Attorney",
+    "Song": "Marvin Grossberg ~ Age, Regret, Retribution",
+    "Composers": "Masakazu Sugimori",
+    "Converters": "AbscondWithAPie",
+    "Category": "bgm",
+    "Audio": "https://www.youtube.com/watch?v=bcSTZV1LBxA",
+    "Tags": [
+      "Lobbies and Shops",
+      "Interiors",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Thu Jul 25 2024 21:47:58 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Phoenix Wright Ace Attorney/Marvin Grossberg ~ Age, Regret, Retribution.bin",
+    "Duration": 42.666688
   }
 ]
