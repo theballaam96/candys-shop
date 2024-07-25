@@ -25440,5 +25440,70 @@
     "Date": "Thu Jul 25 2024 21:47:58 GMT+0000 (Coordinated Universal Time)",
     "Binary": "binaries/Phoenix Wright Ace Attorney/Marvin Grossberg ~ Age, Regret, Retribution.bin",
     "Duration": 42.666688
+  },
+  {
+    "Game": "Phoenix Wright: Ace Attorney - Justice for All",
+    "Song": "Congratulations Everybody, Again",
+    "Composers": "Naoto Tanaka",
+    "Converters": "AbscondWithAPie",
+    "Category": "bgm",
+    "Audio": "https://www.youtube.com/watch?v=CqmA0McpnME",
+    "Tags": [
+      "Minigames",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Thu Jul 25 2024 21:52:05 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Phoenix Wright Ace Attorney - Justice for All/Congratulations Everybody, Again.bin",
+    "Duration": 33.233661
+  },
+  {
+    "Game": "Phoenix Wright: Ace Attorney - Justice for All",
+    "Song": "Search ~ In the Midst",
+    "Composers": "Naoto Tanaka",
+    "Converters": "AbscondWithAPie",
+    "Category": "bgm",
+    "Audio": "https://www.youtube.com/watch?v=_Dkv-KHfCMA",
+    "Tags": [
+      "Exteriors",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Thu Jul 25 2024 21:52:06 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Phoenix Wright Ace Attorney - Justice for All/Search ~ In the Midst.bin",
+    "Duration": 45.52172775
+  },
+  {
+    "Game": "Phoenix Wright: Ace Attorney - Justice for All",
+    "Song": "Shelly de Killer ~ The Whim of a Murderous Gentleman",
+    "Composers": "Naoto Tanaka",
+    "Converters": "AbscondWithAPie",
+    "Category": "bgm",
+    "Audio": "https://www.youtube.com/watch?v=8555cUVfnXs",
+    "Tags": [
+      "Lobbies and Shops",
+      "Gloomy",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Thu Jul 25 2024 21:52:06 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Phoenix Wright Ace Attorney - Justice for All/Shelly de Killer ~ The Whim of a Murderous Gentleman.bin",
+    "Duration": 39.75
+  },
+  {
+    "Game": "Phoenix Wright: Ace Attorney - Justice for All",
+    "Song": "Tachimi Circus",
+    "Composers": "Naoto Tanaka",
+    "Converters": "AbscondWithAPie",
+    "Category": "bgm",
+    "Audio": "https://www.youtube.com/watch?v=JrIfp4UZqhU",
+    "Tags": [
+      "Minigames",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Thu Jul 25 2024 21:52:07 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Phoenix Wright Ace Attorney - Justice for All/Tachimi Circus.bin",
+    "Duration": 40.07048
   }
 ]
