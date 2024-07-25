@@ -25407,5 +25407,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/The%20Legend%20of%20Zelda%20Phantom%20Hourglass/Phantom%20Linebeck.mp3",
     "Binary": "binaries/The Legend of Zelda Phantom Hourglass/Phantom Linebeck.bin",
     "Duration": 76.79966074999999
+  },
+  {
+    "Game": "The Legend of Zelda: Phantom Hourglass",
+    "Song": "Small Treasure",
+    "Category": "majoritems",
+    "Composers": "Kenta Nagata, Toru Minegeshi",
+    "Converters": "Schwartz Gandhi",
+    "Tags": [
+      "Collection",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Thu Jul 25 2024 17:38:52 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/The%20Legend%20of%20Zelda%20Phantom%20Hourglass/Small%20Treasure.mp3",
+    "Binary": "binaries/The Legend of Zelda Phantom Hourglass/Small Treasure.bin",
+    "Duration": 1.9999995
   }
 ]
