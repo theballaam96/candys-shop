@@ -25590,5 +25590,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/The%20Legend%20of%20Zelda%20Spirit%20Tracks/Aboda%20Village.mp3",
     "Binary": "binaries/The Legend of Zelda Spirit Tracks/Aboda Village.bin",
     "Duration": 96.0417146875
+  },
+  {
+    "Game": "The Legend of Zelda: Spirit Tracks",
+    "Song": "Anouki Village",
+    "Composers": "Toru Minegishi & Manaka Tominaga",
+    "Converters": "OnlySpaghettiCode",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Sun Jul 28 2024 19:15:48 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/The%20Legend%20of%20Zelda%20Spirit%20Tracks/Anouki%20Village.mp3",
+    "Binary": "binaries/The Legend of Zelda Spirit Tracks/Anouki Village.bin",
+    "Duration": 63.556917500000004
   }
 ]
