@@ -25638,5 +25638,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/The%20Legend%20of%20Zelda%20Spirit%20Tracks/Final%20Exam.mp3",
     "Binary": "binaries/The Legend of Zelda Spirit Tracks/Final Exam.bin",
     "Duration": 82.41469031250001
+  },
+  {
+    "Game": "The Legend of Zelda: Phantom Hourglass",
+    "Song": "Bellum",
+    "Category": "bgm",
+    "Composers": "Kenta Nagata, Toru Minegeshi, Koji Kondo",
+    "Converters": "Schwartz Gandhi",
+    "Tags": [
+      "Fights",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Sun Jul 28 2024 19:21:11 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/The%20Legend%20of%20Zelda%20Phantom%20Hourglass/Bellum.mp3",
+    "Binary": "binaries/The Legend of Zelda Phantom Hourglass/Bellum.bin",
+    "Duration": 113.17967499999999
   }
 ]
