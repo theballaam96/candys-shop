@@ -25654,5 +25654,22 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/The%20Legend%20of%20Zelda%20Phantom%20Hourglass/Bellum.mp3",
     "Binary": "binaries/The Legend of Zelda Phantom Hourglass/Bellum.bin",
     "Duration": 113.17967499999999
+  },
+  {
+    "Game": "Crash Bandicoot: The Wrath of Cortex",
+    "Song": "Medieval Madness",
+    "Composers": "Andy Blythe, Marten Joustra",
+    "Converters": "Ballaam",
+    "Category": "bgm",
+    "Audio": "https://youtu.be/e8jN--eOYd8",
+    "Tags": [
+      "Exteriors",
+      "Minigames",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Sun Jul 28 2024 20:04:43 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Crash Bandicoot The Wrath of Cortex/Medieval Madness.bin",
+    "Duration": 125.14183914375
   }
 ]
