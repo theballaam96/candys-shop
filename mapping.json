@@ -25522,5 +25522,22 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Donkey%20Kong%2064/Fungi%20Forest%20Lobby%20in%20C%20Minor.mp3",
     "Binary": "binaries/Donkey Kong 64/Fungi Forest Lobby in C Minor.bin",
     "Duration": 67.105
+  },
+  {
+    "Game": "Donkey Kong 64",
+    "Song": "Crystal Pork",
+    "Composers": "Grant Kirkhope",
+    "Converters": "Ballaam",
+    "Category": "bgm",
+    "Audio": "https://youtu.be/5nAZ8uZQygI",
+    "Additional Notes": "Mash-up of Crystal Caves and Troff 'n' Scoff",
+    "Tags": [
+      "Exteriors",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Sun Jul 28 2024 00:20:12 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Donkey Kong 64/Crystal Pork.bin",
+    "Duration": 89.741825390625
   }
 ]
