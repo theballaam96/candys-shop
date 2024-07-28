@@ -25556,5 +25556,23 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/The%20Legend%20of%20Zelda%20Phantom%20Hourglass/Linebecks%20Theme%20(REV%201).mp3",
     "Binary": "binaries/The Legend of Zelda Phantom Hourglass/Linebecks Theme (REV 1).bin",
     "Duration": 41.631824666666674
+  },
+  {
+    "Game": "Spyro the Dragon",
+    "Song": "Dark Hollow",
+    "Composers": "Stewart Copeland",
+    "Converters": "cdh90",
+    "Category": "bgm",
+    "Tags": [
+      "Interiors",
+      "Exteriors",
+      "Happy",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Sun Jul 28 2024 17:01:11 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Spyro%20the%20Dragon/Dark%20Hollow.mp3",
+    "Binary": "binaries/Spyro the Dragon/Dark Hollow.bin",
+    "Duration": 90.58324275
   }
 ]
