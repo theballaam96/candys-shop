@@ -25750,5 +25750,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/The%20Legend%20of%20Zelda%20Spirit%20Tracks/Tower%20of%20Spirits%20(Dungeon).mp3",
     "Binary": "binaries/The Legend of Zelda Spirit Tracks/Tower of Spirits (Dungeon).bin",
     "Duration": 99.07728187500001
+  },
+  {
+    "Game": "The Legend of Zelda: Spirit Tracks",
+    "Song": "Cursed Overworld",
+    "Composers": "Toru Minegishi & Manaka Tominaga",
+    "Converters": "OnlySpaghettiCode",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Thu Aug 01 2024 20:59:03 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/The%20Legend%20of%20Zelda%20Spirit%20Tracks/Cursed%20Overworld.mp3",
+    "Binary": "binaries/The Legend of Zelda Spirit Tracks/Cursed Overworld.bin",
+    "Duration": 87.32945812500002
   }
 ]
