@@ -25719,5 +25719,20 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/The%20Legend%20of%20Zelda%20Spirit%20Tracks/ForestSnowOcean%20Temple.mp3",
     "Binary": "binaries/The Legend of Zelda Spirit Tracks/ForestSnowOcean Temple.bin",
     "Duration": 57.084733125
+  },
+  {
+    "Game": "The Legend of Zelda: Spirit Tracks",
+    "Song": "Fraaz",
+    "Composers": "Toru Minegishi & Manaka Tominaga",
+    "Converters": "OnlySpaghettiCode",
+    "Category": "bgm",
+    "Tags": [
+      "Fights"
+    ],
+    "Verified": true,
+    "Date": "Thu Aug 01 2024 20:54:53 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/The%20Legend%20of%20Zelda%20Spirit%20Tracks/Fraaz.mp3",
+    "Binary": "binaries/The Legend of Zelda Spirit Tracks/Fraaz.bin",
+    "Duration": 85.1855335625
   }
 ]
