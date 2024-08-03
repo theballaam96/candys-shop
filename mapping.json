@@ -25766,5 +25766,22 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/The%20Legend%20of%20Zelda%20Spirit%20Tracks/Cursed%20Overworld.mp3",
     "Binary": "binaries/The Legend of Zelda Spirit Tracks/Cursed Overworld.bin",
     "Duration": 87.32945812500002
+  },
+  {
+    "Game": "Super Mario Maker",
+    "Song": "Airship (Super Mario World)",
+    "Composers": "Koji Kondo",
+    "Converters": "LBFrank",
+    "Category": "bgm",
+    "Update Notes": "Note fixes, switched theremin near the end to piccolo",
+    "Tags": [
+      "Exteriors",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Sat Aug 03 2024 19:07:37 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Super%20Mario%20Maker/Airship%20(Super%20Mario%20World)%20(REV%201).mp3",
+    "Binary": "binaries/Super Mario Maker/Airship (Super Mario World) (REV 1).bin",
+    "Duration": 96
   }
 ]
