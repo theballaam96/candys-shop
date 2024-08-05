@@ -25815,5 +25815,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Kingdom%20Hearts/Hollow%20Bastion.mp3",
     "Binary": "binaries/Kingdom Hearts/Hollow Bastion.bin",
     "Duration": 73.33326
+  },
+  {
+    "Game": "Kingdom Hearts",
+    "Song": "Scherzo Di Notte",
+    "Composers": "Yoko Shimomura",
+    "Converters": "Wibdiwoh",
+    "Category": "bgm",
+    "Tags": [
+      "Fights",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Mon Aug 05 2024 22:17:37 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Kingdom%20Hearts/Scherzo%20Di%20Notte.mp3",
+    "Binary": "binaries/Kingdom Hearts/Scherzo Di Notte.bin",
+    "Duration": 59.13833371875001
   }
 ]
