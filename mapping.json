@@ -25799,5 +25799,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Shovel%20Knight/La%20Danse%20Macabre%20(Lich%20Yard).mp3",
     "Binary": "binaries/Shovel Knight/La Danse Macabre (Lich Yard).bin",
     "Duration": 111.63707325000001
+  },
+  {
+    "Game": "Kingdom Hearts",
+    "Song": "Hollow Bastion",
+    "Composers": "Yoko Shimomura",
+    "Converters": "Wibdiwoh",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Mon Aug 05 2024 22:14:46 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Kingdom%20Hearts/Hollow%20Bastion.mp3",
+    "Binary": "binaries/Kingdom Hearts/Hollow Bastion.bin",
+    "Duration": 73.33326
   }
 ]
