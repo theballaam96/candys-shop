@@ -258,7 +258,7 @@
                 }
             }
         }
-        segments.push(`> Something needs changing: ${needs_changing ? "Yes": "No"}`)
+        segments.push(`> Something needs changing: ${needs_changing ? "YES!!! (PLEASE ENSURE YOU FIX ANY ERRORS SO THIS SAYS NO BEFORE MERGING)": "No"}`)
         segments.push("") // Prevent following messges getting indented
         if (song_upload) {
             segments.push("Here's what the output will look like:")
