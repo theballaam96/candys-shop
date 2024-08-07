@@ -25831,5 +25831,22 @@
     "Audio": "https://www.youtube.com/watch?v=agKp3Fxyh6g",
     "Binary": "binaries/Kingdom Hearts/Scherzo Di Notte.bin",
     "Duration": 59.13833371875001
+  },
+  {
+    "Game": "Bomberman 64",
+    "Song": "Masker",
+    "Composers": "Akifumi Tada",
+    "Converters": "AaronDobbe",
+    "Category": "bgm",
+    "Audio": "https://www.youtube.com/watch?v=v2B85MxV724",
+    "Update Notes": "Volume adjustment",
+    "Tags": [
+      "Fights",
+      "Minigames"
+    ],
+    "Verified": true,
+    "Date": "Wed Aug 07 2024 02:56:45 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Bomberman 64/Masker (REV 1).bin",
+    "Duration": 62.43125
   }
 ]
