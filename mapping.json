@@ -25848,5 +25848,91 @@
     "Date": "Wed Aug 07 2024 02:56:45 GMT+0000 (Coordinated Universal Time)",
     "Binary": "binaries/Bomberman 64/Masker (REV 1).bin",
     "Duration": 62.43125
+  },
+  {
+    "Game": "NiGHTS into Dreams...",
+    "Song": "Paternal Horn",
+    "Composers": "Tomoko Sasaki",
+    "Converters": "AaronDobbe",
+    "Category": "bgm",
+    "Audio": "https://www.youtube.com/watch?v=48D7zI-Rvg0",
+    "Update Notes": "Volume adjustment",
+    "Tags": [
+      "Exteriors",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Wed Aug 07 2024 03:06:40 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/NiGHTS into Dreams/Paternal Horn (REV 1).bin",
+    "Duration": 123.428448
+  },
+  {
+    "Game": "Shin Megami Tensei III: Nocturne",
+    "Song": "Normal Battle -Amala Network-",
+    "Composers": "Kenichi Tsuchiya",
+    "Converters": "AaronDobbe",
+    "Category": "bgm",
+    "Audio": "https://youtu.be/AirxWG1sMCU",
+    "Update Notes": "Volume adjustment",
+    "Tags": [
+      "Fights",
+      "Minigames"
+    ],
+    "Verified": true,
+    "Date": "Wed Aug 07 2024 03:06:41 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Shin Megami Tensei III Nocturne/Normal Battle -Amala Network- (REV 1).bin",
+    "Duration": 87.88728
+  },
+  {
+    "Game": "Phoenix Wright: Ace Attorney",
+    "Song": "Dick Gumshoe - That's \"Detective Gumshoe,\" Pal!",
+    "Composers": "Masakazu Sugimori",
+    "Converters": "AaronDobbe",
+    "Category": "bgm",
+    "Audio": "https://www.youtube.com/watch?v=XdPO9LAITBM",
+    "Update Notes": "Volume adjustment",
+    "Tags": [
+      "Interiors",
+      "Exteriors",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Wed Aug 07 2024 03:06:42 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Phoenix Wright Ace Attorney/Dick Gumshoe - Thats Detective Gumshoe, Pal (REV 1).bin",
+    "Duration": 54.8182275
+  },
+  {
+    "Game": "NiGHTS into Dreams...",
+    "Song": "The Amazing Water",
+    "Composers": "Tomoko Sasaki",
+    "Converters": "AaronDobbe",
+    "Category": "bgm",
+    "Audio": "https://www.youtube.com/watch?v=GablQF3KMOw",
+    "Update Notes": "Volume adjustment",
+    "Tags": [
+      "Exteriors",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Wed Aug 07 2024 03:06:42 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/NiGHTS into Dreams/The Amazing Water (REV 1).bin",
+    "Duration": 141.07625358333334
+  },
+  {
+    "Game": "Wario Land 4",
+    "Song": "Toy Block Tower",
+    "Composers": "Ryoji Yoshitomi",
+    "Converters": "AaronDobbe",
+    "Category": "bgm",
+    "Audio": "https://www.youtube.com/watch?v=J1nONkkoFjE",
+    "Update Notes": "Volume adjustment",
+    "Tags": [
+      "Exteriors",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Wed Aug 07 2024 03:06:43 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Wario Land 4/Toy Block Tower (REV 1).bin",
+    "Duration": 61.416605249999996
   }
 ]
