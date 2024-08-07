@@ -25934,5 +25934,21 @@
     "Date": "Wed Aug 07 2024 03:06:43 GMT+0000 (Coordinated Universal Time)",
     "Binary": "binaries/Wario Land 4/Toy Block Tower (REV 1).bin",
     "Duration": 61.416605249999996
+  },
+  {
+    "Game": "Fire Emblem: The Blazing Blade",
+    "Song": "Winds Across the Plains",
+    "Composers": "Yuka Tsujiyoko",
+    "Converters": "AaronDobbe",
+    "Category": "bgm",
+    "Update Notes": "Volume adjustment",
+    "Tags": [
+      "Exteriors",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Wed Aug 07 2024 03:33:23 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Fire Emblem The Blazing Blade/Winds Across the Plains (REV 1).bin",
+    "Duration": 58.162820625
   }
 ]
