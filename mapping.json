@@ -26034,5 +26034,24 @@
     "Date": "Thu Aug 08 2024 02:51:54 GMT+0000 (Coordinated Universal Time)",
     "Binary": "binaries/F-Zero/Big Blue (REV 1).bin",
     "Duration": 60.0264494375
+  },
+  {
+    "Game": "Yu-Gi-Oh! Forbidden Memories",
+    "Song": "Free Duel",
+    "Composers": "Naoko Ishii, Hiroshi Tanabe, Waichiro Ozaki",
+    "Converters": "AaronDobbe",
+    "Category": "bgm",
+    "Audio": "https://youtu.be/S525BkZWxsg",
+    "Update Notes": "Volume adjustment, add youtube preview",
+    "Tags": [
+      "Interiors",
+      "Exteriors",
+      "Minigames",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Thu Aug 08 2024 22:35:34 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Yu-Gi-Oh Forbidden Memories/Free Duel (REV 1).bin",
+    "Duration": 85.90506939999999
   }
 ]
