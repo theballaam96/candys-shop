@@ -26152,5 +26152,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Chips%20Challenge/CHIP02%20(Microsoft)%20(REV%201).mp3",
     "Binary": "binaries/Chips Challenge/CHIP02 (Microsoft) (REV 1).bin",
     "Duration": 45.581863125000005
+  },
+  {
+    "Game": "Shovel Knight",
+    "Song": "The Defender (Black Knight Battle)",
+    "Composers": "Jake \"Virt\" Kaufman",
+    "Converters": "cdh90",
+    "Category": "bgm",
+    "Tags": [
+      "Fights",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Thu Aug 08 2024 22:40:04 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Shovel%20Knight/The%20Defender%20(Black%20Knight%20Battle).mp3",
+    "Binary": "binaries/Shovel Knight/The Defender (Black Knight Battle).bin",
+    "Duration": 94.5
   }
 ]
