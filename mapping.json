@@ -24505,7 +24505,7 @@
     ],
     "Verified": true,
     "Date": "Thu Jul 11 2024 02:47:25 GMT+0000 (Coordinated Universal Time)",
-    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Pok%C3%A9mon%20X%20%20Y/Snowbelle%20City.mp3",
+    "Audio": "https://youtube.com/watch?v=woVH_jcL2wE",
     "Binary": "binaries/Pokémon X  Y/Snowbelle City.bin",
     "Duration": 53.615618214583336
   },
@@ -24679,7 +24679,7 @@
     ],
     "Verified": true,
     "Date": "Fri Jul 12 2024 21:27:11 GMT+0000 (Coordinated Universal Time)",
-    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Yoshis%20Story/Yoshi%20on%20the%20Seabed.mp3",
+    "Audio": "https://youtube.com/watch?v=9vzRMsIBWbI",
     "Binary": "binaries/Yoshis Story/Yoshi on the Seabed.bin",
     "Duration": 59.258023416666674
   },
@@ -25539,5 +25539,500 @@
     "Date": "Sun Jul 28 2024 00:20:12 GMT+0000 (Coordinated Universal Time)",
     "Binary": "binaries/Donkey Kong 64/Crystal Pork.bin",
     "Duration": 89.741825390625
+  },
+  {
+    "Game": "The Legend of Zelda: Phantom Hourglass",
+    "Song": "Linebeck's Theme",
+    "Category": "bgm",
+    "Composers": "Koji Kondo, Kenta Nagata, Toru Minegeshi",
+    "Converters": "Schwartz Gandhi",
+    "Tags": [
+      "Exteriors",
+      "Interiors"
+    ],
+    "Update Notes": "goodbye musescore",
+    "Verified": true,
+    "Date": "Sun Jul 28 2024 16:58:35 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/The%20Legend%20of%20Zelda%20Phantom%20Hourglass/Linebecks%20Theme%20(REV%201).mp3",
+    "Binary": "binaries/The Legend of Zelda Phantom Hourglass/Linebecks Theme (REV 1).bin",
+    "Duration": 41.631824666666674
+  },
+  {
+    "Game": "Spyro the Dragon",
+    "Song": "Dark Hollow",
+    "Composers": "Stewart Copeland",
+    "Converters": "cdh90",
+    "Category": "bgm",
+    "Tags": [
+      "Interiors",
+      "Exteriors",
+      "Happy",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Sun Jul 28 2024 17:01:11 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Spyro%20the%20Dragon/Dark%20Hollow.mp3",
+    "Binary": "binaries/Spyro the Dragon/Dark Hollow.bin",
+    "Duration": 90.58324275
+  },
+  {
+    "Game": "The Legend of Zelda: Spirit Tracks",
+    "Song": "Aboda Village",
+    "Composers": "Toru Minegishi & Manaka Tominaga",
+    "Converters": "OnlySpaghettiCode",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Sun Jul 28 2024 19:14:09 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/The%20Legend%20of%20Zelda%20Spirit%20Tracks/Aboda%20Village.mp3",
+    "Binary": "binaries/The Legend of Zelda Spirit Tracks/Aboda Village.bin",
+    "Duration": 96.0417146875
+  },
+  {
+    "Game": "The Legend of Zelda: Spirit Tracks",
+    "Song": "Anouki Village",
+    "Composers": "Toru Minegishi & Manaka Tominaga",
+    "Converters": "OnlySpaghettiCode",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Sun Jul 28 2024 19:15:48 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/The%20Legend%20of%20Zelda%20Spirit%20Tracks/Anouki%20Village.mp3",
+    "Binary": "binaries/The Legend of Zelda Spirit Tracks/Anouki Village.bin",
+    "Duration": 63.556917500000004
+  },
+  {
+    "Game": "The Legend of Zelda: Spirit Tracks",
+    "Song": "Castle Town",
+    "Composers": "Toru Minegishi & Manaka Tominaga",
+    "Converters": "OnlySpaghettiCode",
+    "Category": "bgm",
+    "Tags": [
+      "Lobbies and Shops",
+      "Interiors",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Sun Jul 28 2024 19:17:51 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/The%20Legend%20of%20Zelda%20Spirit%20Tracks/Castle%20Town.mp3",
+    "Binary": "binaries/The Legend of Zelda Spirit Tracks/Castle Town.bin",
+    "Duration": 63.556917500000004
+  },
+  {
+    "Game": "The Legend of Zelda: Spirit Tracks",
+    "Song": "Final Exam",
+    "Composers": "Toru Minegishi & Manaka Tominaga",
+    "Converters": "OnlySpaghettiCode",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors"
+    ],
+    "Verified": true,
+    "Date": "Sun Jul 28 2024 19:19:24 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/The%20Legend%20of%20Zelda%20Spirit%20Tracks/Final%20Exam.mp3",
+    "Binary": "binaries/The Legend of Zelda Spirit Tracks/Final Exam.bin",
+    "Duration": 82.41469031250001
+  },
+  {
+    "Game": "The Legend of Zelda: Phantom Hourglass",
+    "Song": "Bellum",
+    "Category": "bgm",
+    "Composers": "Kenta Nagata, Toru Minegeshi, Koji Kondo",
+    "Converters": "Schwartz Gandhi",
+    "Tags": [
+      "Fights",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Sun Jul 28 2024 19:21:11 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/The%20Legend%20of%20Zelda%20Phantom%20Hourglass/Bellum.mp3",
+    "Binary": "binaries/The Legend of Zelda Phantom Hourglass/Bellum.bin",
+    "Duration": 113.17967499999999
+  },
+  {
+    "Game": "Crash Bandicoot: The Wrath of Cortex",
+    "Song": "Medieval Madness",
+    "Composers": "Andy Blythe, Marten Joustra",
+    "Converters": "Ballaam",
+    "Category": "bgm",
+    "Audio": "https://youtu.be/e8jN--eOYd8",
+    "Tags": [
+      "Exteriors",
+      "Minigames",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Sun Jul 28 2024 20:04:43 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Crash Bandicoot The Wrath of Cortex/Medieval Madness.bin",
+    "Duration": 125.14183914375
+  },
+  {
+    "Game": "Shovel Knight",
+    "Song": "In the Halls of the Usurper (Pridemoor Keep)",
+    "Composers": "Jake \"Virt\" Kaufman",
+    "Converters": "cdh90",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Tue Jul 30 2024 08:19:55 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Shovel%20Knight/In%20the%20Halls%20of%20the%20Usurper%20(Pridemoor%20Keep).mp3",
+    "Binary": "binaries/Shovel Knight/In the Halls of the Usurper (Pridemoor Keep).bin",
+    "Duration": 66.5
+  },
+  {
+    "Game": "Super Mario Maker",
+    "Song": "Airship (Super Mario World)",
+    "Composers": "Koji Kondo",
+    "Converters": "LBFrank",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Thu Aug 01 2024 20:06:13 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Super%20Mario%20Maker/Airship%20(Super%20Mario%20World).mp3",
+    "Binary": "binaries/Super Mario Maker/Airship (Super Mario World).bin",
+    "Duration": 96
+  },
+  {
+    "Game": "The Legend of Zelda: Spirit Tracks",
+    "Song": "Forest/Snow/Ocean Temple",
+    "Composers": "Toru Minegishi & Manaka Tominaga",
+    "Converters": "OnlySpaghettiCode",
+    "Category": "bgm",
+    "Tags": [
+      "Interiors",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Thu Aug 01 2024 20:52:12 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/The%20Legend%20of%20Zelda%20Spirit%20Tracks/ForestSnowOcean%20Temple.mp3",
+    "Binary": "binaries/The Legend of Zelda Spirit Tracks/ForestSnowOcean Temple.bin",
+    "Duration": 57.084733125
+  },
+  {
+    "Game": "The Legend of Zelda: Spirit Tracks",
+    "Song": "Fraaz",
+    "Composers": "Toru Minegishi & Manaka Tominaga",
+    "Converters": "OnlySpaghettiCode",
+    "Category": "bgm",
+    "Tags": [
+      "Fights"
+    ],
+    "Verified": true,
+    "Date": "Thu Aug 01 2024 20:54:53 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/The%20Legend%20of%20Zelda%20Spirit%20Tracks/Fraaz.mp3",
+    "Binary": "binaries/The Legend of Zelda Spirit Tracks/Fraaz.bin",
+    "Duration": 85.1855335625
+  },
+  {
+    "Game": "The Legend of Zelda: Spirit Tracks",
+    "Song": "Tower of Spirits (Dungeon)",
+    "Composers": "Toru Minegishi & Manaka Tominaga",
+    "Converters": "OnlySpaghettiCode",
+    "Category": "bgm",
+    "Tags": [
+      "Interiors",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Thu Aug 01 2024 20:56:36 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/The%20Legend%20of%20Zelda%20Spirit%20Tracks/Tower%20of%20Spirits%20(Dungeon).mp3",
+    "Binary": "binaries/The Legend of Zelda Spirit Tracks/Tower of Spirits (Dungeon).bin",
+    "Duration": 99.07728187500001
+  },
+  {
+    "Game": "The Legend of Zelda: Spirit Tracks",
+    "Song": "Cursed Overworld",
+    "Composers": "Toru Minegishi & Manaka Tominaga",
+    "Converters": "OnlySpaghettiCode",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Thu Aug 01 2024 20:59:03 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/The%20Legend%20of%20Zelda%20Spirit%20Tracks/Cursed%20Overworld.mp3",
+    "Binary": "binaries/The Legend of Zelda Spirit Tracks/Cursed Overworld.bin",
+    "Duration": 87.32945812500002
+  },
+  {
+    "Game": "Super Mario Maker",
+    "Song": "Airship (Super Mario World)",
+    "Composers": "Koji Kondo",
+    "Converters": "LBFrank",
+    "Category": "bgm",
+    "Update Notes": "Note fixes, switched theremin near the end to piccolo",
+    "Tags": [
+      "Exteriors",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Sat Aug 03 2024 19:07:37 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Super%20Mario%20Maker/Airship%20(Super%20Mario%20World)%20(REV%201).mp3",
+    "Binary": "binaries/Super Mario Maker/Airship (Super Mario World) (REV 1).bin",
+    "Duration": 96
+  },
+  {
+    "Game": "Shovel Knight",
+    "Song": "La Danse Macabre (Lich Yard)",
+    "Composers": "Jake \"Virt\" Kaufman",
+    "Converters": "cdh90",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Mon Aug 05 2024 05:13:34 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Shovel%20Knight/La%20Danse%20Macabre%20(Lich%20Yard).mp3",
+    "Binary": "binaries/Shovel Knight/La Danse Macabre (Lich Yard).bin",
+    "Duration": 111.63707325000001
+  },
+  {
+    "Game": "Kingdom Hearts",
+    "Song": "Hollow Bastion",
+    "Composers": "Yoko Shimomura",
+    "Converters": "Wibdiwoh",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Mon Aug 05 2024 22:14:46 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://www.youtube.com/watch?v=QSQf8kgGIGQ",
+    "Binary": "binaries/Kingdom Hearts/Hollow Bastion.bin",
+    "Duration": 73.33326
+  },
+  {
+    "Game": "Kingdom Hearts",
+    "Song": "Scherzo Di Notte",
+    "Composers": "Yoko Shimomura",
+    "Converters": "Wibdiwoh",
+    "Category": "bgm",
+    "Tags": [
+      "Fights",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Mon Aug 05 2024 22:17:37 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://www.youtube.com/watch?v=agKp3Fxyh6g",
+    "Binary": "binaries/Kingdom Hearts/Scherzo Di Notte.bin",
+    "Duration": 59.13833371875001
+  },
+  {
+    "Game": "Bomberman 64",
+    "Song": "Masker",
+    "Composers": "Akifumi Tada",
+    "Converters": "AaronDobbe",
+    "Category": "bgm",
+    "Audio": "https://www.youtube.com/watch?v=v2B85MxV724",
+    "Update Notes": "Volume adjustment",
+    "Tags": [
+      "Fights",
+      "Minigames"
+    ],
+    "Verified": true,
+    "Date": "Wed Aug 07 2024 02:56:45 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Bomberman 64/Masker (REV 1).bin",
+    "Duration": 62.43125
+  },
+  {
+    "Game": "NiGHTS into Dreams...",
+    "Song": "Paternal Horn",
+    "Composers": "Tomoko Sasaki",
+    "Converters": "AaronDobbe",
+    "Category": "bgm",
+    "Audio": "https://www.youtube.com/watch?v=48D7zI-Rvg0",
+    "Update Notes": "Volume adjustment",
+    "Tags": [
+      "Exteriors",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Wed Aug 07 2024 03:06:40 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/NiGHTS into Dreams/Paternal Horn (REV 1).bin",
+    "Duration": 123.428448
+  },
+  {
+    "Game": "Shin Megami Tensei III: Nocturne",
+    "Song": "Normal Battle -Amala Network-",
+    "Composers": "Kenichi Tsuchiya",
+    "Converters": "AaronDobbe",
+    "Category": "bgm",
+    "Audio": "https://youtu.be/AirxWG1sMCU",
+    "Update Notes": "Volume adjustment",
+    "Tags": [
+      "Fights",
+      "Minigames"
+    ],
+    "Verified": true,
+    "Date": "Wed Aug 07 2024 03:06:41 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Shin Megami Tensei III Nocturne/Normal Battle -Amala Network- (REV 1).bin",
+    "Duration": 87.88728
+  },
+  {
+    "Game": "Phoenix Wright: Ace Attorney",
+    "Song": "Dick Gumshoe - That's \"Detective Gumshoe,\" Pal!",
+    "Composers": "Masakazu Sugimori",
+    "Converters": "AaronDobbe",
+    "Category": "bgm",
+    "Audio": "https://www.youtube.com/watch?v=XdPO9LAITBM",
+    "Update Notes": "Volume adjustment",
+    "Tags": [
+      "Interiors",
+      "Exteriors",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Wed Aug 07 2024 03:06:42 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Phoenix Wright Ace Attorney/Dick Gumshoe - Thats Detective Gumshoe, Pal (REV 1).bin",
+    "Duration": 54.8182275
+  },
+  {
+    "Game": "NiGHTS into Dreams...",
+    "Song": "The Amazing Water",
+    "Composers": "Tomoko Sasaki",
+    "Converters": "AaronDobbe",
+    "Category": "bgm",
+    "Audio": "https://www.youtube.com/watch?v=GablQF3KMOw",
+    "Update Notes": "Volume adjustment",
+    "Tags": [
+      "Exteriors",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Wed Aug 07 2024 03:06:42 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/NiGHTS into Dreams/The Amazing Water (REV 1).bin",
+    "Duration": 141.07625358333334
+  },
+  {
+    "Game": "Wario Land 4",
+    "Song": "Toy Block Tower",
+    "Composers": "Ryoji Yoshitomi",
+    "Converters": "AaronDobbe",
+    "Category": "bgm",
+    "Audio": "https://www.youtube.com/watch?v=J1nONkkoFjE",
+    "Update Notes": "Volume adjustment",
+    "Tags": [
+      "Exteriors",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Wed Aug 07 2024 03:06:43 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Wario Land 4/Toy Block Tower (REV 1).bin",
+    "Duration": 61.416605249999996
+  },
+  {
+    "Game": "Fire Emblem: The Blazing Blade",
+    "Song": "Winds Across the Plains",
+    "Composers": "Yuka Tsujiyoko",
+    "Converters": "AaronDobbe",
+    "Category": "bgm",
+    "Update Notes": "Volume adjustment",
+    "Tags": [
+      "Exteriors",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Wed Aug 07 2024 03:33:23 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Fire Emblem The Blazing Blade/Winds Across the Plains (REV 1).bin",
+    "Duration": 58.162820625
+  },
+  {
+    "Game": "Planet Puzzle League",
+    "Song": "Alpha Wave",
+    "Composers": "Masanobu Matsunaga",
+    "Converters": "AaronDobbe",
+    "Category": "bgm",
+    "Audio": "https://www.youtube.com/watch?v=nC8ewP77hCA",
+    "Update Notes": "Volume adjustment",
+    "Tags": [
+      "Interiors",
+      "Exteriors"
+    ],
+    "Verified": true,
+    "Date": "Thu Aug 08 2024 02:49:13 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Planet Puzzle League/Alpha Wave (REV 1).bin",
+    "Duration": 140.43255187499997
+  },
+  {
+    "Game": "Bomberman 64",
+    "Song": "Blue Resort",
+    "Composers": "Akifumi Tada",
+    "Converters": "AaronDobbe",
+    "Category": "bgm",
+    "Audio": "https://www.youtube.com/watch?v=4I96x8zK46A",
+    "Update Notes": "Volume adjustment",
+    "Tags": [
+      "Exteriors",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Thu Aug 08 2024 02:51:52 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Bomberman 64/Blue Resort (REV 1).bin",
+    "Duration": 87.68340197916665
+  },
+  {
+    "Game": "Kingdom Hearts 358/2 Days",
+    "Song": "Vector to the Heavens",
+    "Composers": "Yoko Shimomura",
+    "Converters": "AaronDobbe",
+    "Category": "bgm",
+    "Audio": "https://www.youtube.com/watch?v=9QaO3OxnnyI",
+    "Update Notes": "Volume adjustment",
+    "Tags": [
+      "Fights",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Thu Aug 08 2024 02:51:53 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Kingdom Hearts 3582 Days/Vector to the Heavens (REV 1).bin",
+    "Duration": 114.22840912499993
+  },
+  {
+    "Game": "Shin Megami Tensei IV",
+    "Song": "Battle B2",
+    "Composers": "Ryota Kozuka",
+    "Converters": "AaronDobbe",
+    "Category": "bgm",
+    "Audio": "https://www.youtube.com/watch?v=2RBN3lFzUi4",
+    "Update Notes": "Volume adjustment",
+    "Tags": [
+      "Fights"
+    ],
+    "Verified": true,
+    "Date": "Thu Aug 08 2024 02:51:53 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Shin Megami Tensei IV/Battle B2 (REV 1).bin",
+    "Duration": 95.123697375
+  },
+  {
+    "Game": "F-Zero",
+    "Song": "Big Blue",
+    "Composers": "Yumiko Kanki, Naoto Ishida",
+    "Converters": "AaronDobbe",
+    "Category": "bgm",
+    "Audio": "https://www.youtube.com/watch?v=wC9K7BF9qvY",
+    "Update Notes": "Volume adjustment",
+    "Tags": [
+      "Exteriors",
+      "Minigames"
+    ],
+    "Verified": true,
+    "Date": "Thu Aug 08 2024 02:51:54 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/F-Zero/Big Blue (REV 1).bin",
+    "Duration": 60.0264494375
   }
 ]
