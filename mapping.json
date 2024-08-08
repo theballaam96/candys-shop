@@ -25967,5 +25967,72 @@
     "Date": "Thu Aug 08 2024 02:49:13 GMT+0000 (Coordinated Universal Time)",
     "Binary": "binaries/Planet Puzzle League/Alpha Wave (REV 1).bin",
     "Duration": 140.43255187499997
+  },
+  {
+    "Game": "Bomberman 64",
+    "Song": "Blue Resort",
+    "Composers": "Akifumi Tada",
+    "Converters": "AaronDobbe",
+    "Category": "bgm",
+    "Audio": "https://www.youtube.com/watch?v=4I96x8zK46A",
+    "Update Notes": "Volume adjustment",
+    "Tags": [
+      "Exteriors",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Thu Aug 08 2024 02:51:52 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Bomberman 64/Blue Resort (REV 1).bin",
+    "Duration": 87.68340197916665
+  },
+  {
+    "Game": "Kingdom Hearts 358/2 Days",
+    "Song": "Vector to the Heavens",
+    "Composers": "Yoko Shimomura",
+    "Converters": "AaronDobbe",
+    "Category": "bgm",
+    "Audio": "https://www.youtube.com/watch?v=9QaO3OxnnyI",
+    "Update Notes": "Volume adjustment",
+    "Tags": [
+      "Fights",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Thu Aug 08 2024 02:51:53 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Kingdom Hearts 3582 Days/Vector to the Heavens (REV 1).bin",
+    "Duration": 114.22840912499993
+  },
+  {
+    "Game": "Shin Megami Tensei IV",
+    "Song": "Battle B2",
+    "Composers": "Ryota Kozuka",
+    "Converters": "AaronDobbe",
+    "Category": "bgm",
+    "Audio": "https://www.youtube.com/watch?v=2RBN3lFzUi4",
+    "Update Notes": "Volume adjustment",
+    "Tags": [
+      "Fights"
+    ],
+    "Verified": true,
+    "Date": "Thu Aug 08 2024 02:51:53 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Shin Megami Tensei IV/Battle B2 (REV 1).bin",
+    "Duration": 95.123697375
+  },
+  {
+    "Game": "F-Zero",
+    "Song": "Big Blue",
+    "Composers": "Yumiko Kanki, Naoto Ishida",
+    "Converters": "AaronDobbe",
+    "Category": "bgm",
+    "Audio": "https://www.youtube.com/watch?v=wC9K7BF9qvY",
+    "Update Notes": "Volume adjustment",
+    "Tags": [
+      "Exteriors",
+      "Minigames"
+    ],
+    "Verified": true,
+    "Date": "Thu Aug 08 2024 02:51:54 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/F-Zero/Big Blue (REV 1).bin",
+    "Duration": 60.0264494375
   }
 ]
