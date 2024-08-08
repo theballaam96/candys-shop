@@ -25950,5 +25950,22 @@
     "Date": "Wed Aug 07 2024 03:33:23 GMT+0000 (Coordinated Universal Time)",
     "Binary": "binaries/Fire Emblem The Blazing Blade/Winds Across the Plains (REV 1).bin",
     "Duration": 58.162820625
+  },
+  {
+    "Game": "Planet Puzzle League",
+    "Song": "Alpha Wave",
+    "Composers": "Masanobu Matsunaga",
+    "Converters": "AaronDobbe",
+    "Category": "bgm",
+    "Audio": "https://www.youtube.com/watch?v=nC8ewP77hCA",
+    "Update Notes": "Volume adjustment",
+    "Tags": [
+      "Interiors",
+      "Exteriors"
+    ],
+    "Verified": true,
+    "Date": "Thu Aug 08 2024 02:49:13 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Planet Puzzle League/Alpha Wave (REV 1).bin",
+    "Duration": 140.43255187499997
   }
 ]
