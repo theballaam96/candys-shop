@@ -26053,5 +26053,104 @@
     "Date": "Thu Aug 08 2024 22:35:34 GMT+0000 (Coordinated Universal Time)",
     "Binary": "binaries/Yu-Gi-Oh Forbidden Memories/Free Duel (REV 1).bin",
     "Duration": 85.90506939999999
+  },
+  {
+    "Game": "Sonic Advance",
+    "Song": "Ice Mountain Zone (Act 1)",
+    "Composers": "Tatsuyuki Maeda, Yutaka Minobe",
+    "Converters": "AaronDobbe",
+    "Category": "bgm",
+    "Update Notes": "Volume adjustment",
+    "Tags": [
+      "Interiors",
+      "Happy",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Thu Aug 08 2024 22:38:05 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Sonic%20Advance/Ice%20Mountain%20Zone%20(Act%201)%20(REV%201).mp3",
+    "Binary": "binaries/Sonic Advance/Ice Mountain Zone (Act 1) (REV 1).bin",
+    "Duration": 68.63835625
+  },
+  {
+    "Game": "Phoenix Wright: Ace Attorney",
+    "Song": "Pressing Pursuit ~ Cornered",
+    "Composers": "Masakazu Sugimori",
+    "Converters": "AaronDobbe",
+    "Category": "bgm",
+    "Audio": "https://youtu.be/mFc2-oDPSMk",
+    "Update Notes": "Volume adjustment, add youtube preview",
+    "Tags": [
+      "Fights",
+      "Minigames"
+    ],
+    "Verified": true,
+    "Date": "Thu Aug 08 2024 22:38:05 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Phoenix Wright Ace Attorney/Pressing Pursuit ~ Cornered (REV 1).bin",
+    "Duration": 44.85
+  },
+  {
+    "Game": "Fire Emblem: The Blazing Blade",
+    "Song": "Scars of the Scouring",
+    "Composers": "Yuka Tsujiyoko",
+    "Converters": "AaronDobbe",
+    "Category": "bgm",
+    "Update Notes": "Volume adjustment",
+    "Tags": [
+      "Interiors"
+    ],
+    "Verified": true,
+    "Date": "Thu Aug 08 2024 22:38:06 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Fire%20Emblem%20The%20Blazing%20Blade/Scars%20of%20the%20Scouring%20(REV%201).mp3",
+    "Binary": "binaries/Fire Emblem The Blazing Blade/Scars of the Scouring (REV 1).bin",
+    "Duration": 74.79503958333332
+  },
+  {
+    "Game": "Fire Emblem: The Blazing Blade",
+    "Song": "Companions",
+    "Composers": "Yuka Tsujiyoko",
+    "Converters": "AaronDobbe",
+    "Category": "bgm",
+    "Update Notes": "Volume adjustment",
+    "Tags": [
+      "Exteriors"
+    ],
+    "Verified": true,
+    "Date": "Thu Aug 08 2024 22:38:06 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Fire%20Emblem%20The%20Blazing%20Blade/Companions%20(REV%201).mp3",
+    "Binary": "binaries/Fire Emblem The Blazing Blade/Companions (REV 1).bin",
+    "Duration": 79.23504029166668
+  },
+  {
+    "Game": "Shin Megami Tensei III: Nocturne",
+    "Song": "Fiend",
+    "Composers": "Kenichi Tsuchiya",
+    "Converters": "AaronDobbe",
+    "Category": "bgm",
+    "Audio": "https://www.youtube.com/watch?v=FCXQEFKTKm0",
+    "Update Notes": "Volume adjustment",
+    "Tags": [
+      "Fights"
+    ],
+    "Verified": true,
+    "Date": "Thu Aug 08 2024 22:38:07 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Shin Megami Tensei III Nocturne/Fiend (REV 1).bin",
+    "Duration": 103.98958333333333
+  },
+  {
+    "Game": "Chip's Challenge",
+    "Song": "CHIP02 (Microsoft)",
+    "Composers": "Unknown",
+    "Converters": "AaronDobbe",
+    "Category": "bgm",
+    "Update Notes": "Volume adjustment",
+    "Tags": [
+      "Lobbies and Shops"
+    ],
+    "Verified": true,
+    "Date": "Thu Aug 08 2024 22:38:07 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Chips%20Challenge/CHIP02%20(Microsoft)%20(REV%201).mp3",
+    "Binary": "binaries/Chips Challenge/CHIP02 (Microsoft) (REV 1).bin",
+    "Duration": 45.581863125000005
   }
 ]
