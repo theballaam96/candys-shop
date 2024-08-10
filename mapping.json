@@ -26184,5 +26184,20 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Spyro%20the%20Dragon/End%20Credits.mp3",
     "Binary": "binaries/Spyro the Dragon/End Credits.bin",
     "Duration": 118.16672575000001
+  },
+  {
+    "Game": "Pokémon Diamond, Pearl & Platinum",
+    "Song": "Battle! Dialga Palkia",
+    "Composers": "Junichi Masuda",
+    "Converters": "UmedMuzl",
+    "Category": "bgm",
+    "Tags": [
+      "Fights"
+    ],
+    "Verified": true,
+    "Date": "Sat Aug 10 2024 21:00:39 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Pok%C3%A9mon%20Diamond,%20Pearl%20%20Platinum/Battle%20Dialga%20Palkia%20(REV%201).mp3",
+    "Binary": "binaries/Pokémon Diamond, Pearl  Platinum/Battle Dialga Palkia (REV 1).bin",
+    "Duration": 154.1595680625
   }
 ]
