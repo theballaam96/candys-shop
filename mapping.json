@@ -26199,5 +26199,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Pok%C3%A9mon%20Diamond,%20Pearl%20%20Platinum/Battle%20Dialga%20Palkia%20(REV%201).mp3",
     "Binary": "binaries/Pokémon Diamond, Pearl  Platinum/Battle Dialga Palkia (REV 1).bin",
     "Duration": 154.1595680625
+  },
+  {
+    "Game": "Corn Kidz 64",
+    "Song": "A Dream of Peace",
+    "Composers": "Gammis",
+    "Converters": "iveli_alpaca",
+    "Category": "bgm",
+    "Audio": "https://www.youtube.com/watch?v=JCTajmVWUP4",
+    "Tags": [
+      "Exteriors",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Sat Aug 10 2024 21:20:33 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Corn Kidz 64/A Dream of Peace.bin",
+    "Duration": 230.39499999999998
   }
 ]
