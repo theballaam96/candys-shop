@@ -26168,5 +26168,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Shovel%20Knight/The%20Defender%20(Black%20Knight%20Battle).mp3",
     "Binary": "binaries/Shovel Knight/The Defender (Black Knight Battle).bin",
     "Duration": 94.5
+  },
+  {
+    "Game": "Spyro the Dragon",
+    "Song": "End Credits",
+    "Composers": "Stewart Copeland",
+    "Converters": "cdh90",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Sat Aug 10 2024 20:58:30 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Spyro%20the%20Dragon/End%20Credits.mp3",
+    "Binary": "binaries/Spyro the Dragon/End Credits.bin",
+    "Duration": 118.16672575000001
   }
 ]
