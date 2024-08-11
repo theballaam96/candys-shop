@@ -26215,5 +26215,22 @@
     "Date": "Sat Aug 10 2024 21:20:33 GMT+0000 (Coordinated Universal Time)",
     "Binary": "binaries/Corn Kidz 64/A Dream of Peace.bin",
     "Duration": 230.39499999999998
+  },
+  {
+    "Game": "F-Zero X",
+    "Song": "Climb Up! And Get the Last Chance!",
+    "Composers": "Taro Bando & Hajime Wakai",
+    "Converters": "cdh90",
+    "Category": "bgm",
+    "Tags": [
+      "Fights",
+      "Minigames",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Sun Aug 11 2024 20:06:13 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/F-Zero%20X/Climb%20Up%20And%20Get%20the%20Last%20Chance.mp3",
+    "Binary": "binaries/F-Zero X/Climb Up And Get the Last Chance.bin",
+    "Duration": 79.0383825
   }
 ]
