@@ -20,7 +20,7 @@ with zipfile.ZipFile('full_pack.zip', 'w') as z:
         song = map_data['Song']
         song = song.replace('/', '_')
         binary = map_data['Binary']
-        image_data = images[map_data['Game']]
+        image_data = images.get(map_data['Game'])
         if image_data.get("short_name"):
             game_short = image_data["short_name"]
         else:
@@ -32,12 +32,14 @@ with zipfile.ZipFile('full_pack.zip', 'w') as z:
             "game_short": game_short,
             "group": map_data['Category'],
             "length":map_data.get('Duration', 0),
-            "logo": images[map_data['Game']]["icon"],
+            "logo": "",
             "composer": map_data['Composers'],
             "converter": map_data['Converters'],
             "audio": map_data.get('Audio', ''),
             "tags": map_data.get('Tags', [])
         }
+        if image_data is not None:
+            game_config["logo"] = image_data["icon"]
         
         with io.BytesIO() as zip_buffer:
             with zipfile.ZipFile(zip_buffer, 'w') as z2:
