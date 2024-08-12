@@ -26314,5 +26314,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Super%20Ghouls%20n%20Ghosts/Map.mp3",
     "Binary": "binaries/Super Ghouls n Ghosts/Map.bin",
     "Duration": 3.8902673333333326
+  },
+  {
+    "Game": "Super Ghouls 'n Ghosts",
+    "Song": "Ice Forest",
+    "Composers": "Mari Yamaguchi",
+    "Converters": "AbscondWithAPie",
+    "Category": "bgm",
+    "Audio": "https://www.youtube.com/watch?v=LKMVjoX7pQc",
+    "Tags": [
+      "Exteriors",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Mon Aug 12 2024 10:57:34 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Super Ghouls n Ghosts/Ice Forest.bin",
+    "Duration": 77.3178
   }
 ]
