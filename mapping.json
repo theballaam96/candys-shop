@@ -26298,5 +26298,21 @@
     "Date": "Mon Aug 12 2024 07:47:58 GMT+0000 (Coordinated Universal Time)",
     "Binary": "binaries/Mario Party 3/Creepy Cavern.bin",
     "Duration": 57.91776628125
+  },
+  {
+    "Game": "Super Ghouls 'n Ghosts",
+    "Song": "Map",
+    "Composers": "Mari Yamaguchi",
+    "Converters": "AbscondWithAPie",
+    "Category": "majoritems",
+    "Tags": [
+      "Spawning",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Mon Aug 12 2024 09:04:48 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Super%20Ghouls%20n%20Ghosts/Map.mp3",
+    "Binary": "binaries/Super Ghouls n Ghosts/Map.bin",
+    "Duration": 3.8902673333333326
   }
 ]
