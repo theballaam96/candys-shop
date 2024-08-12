@@ -26248,5 +26248,21 @@
     "Audio": "https://www.youtube.com/watch?v=F01cy2Tehg0",
     "Binary": "binaries/The Magical Quest Starring Mickey Mouse/Treetops.bin",
     "Duration": 65.86509551041668
+  },
+  {
+    "Game": "Mega Man Zero 4",
+    "Song": "Falling Down",
+    "Composers": "Shinichi Itakura",
+    "Converters": "iveli_alpaca",
+    "Category": "bgm",
+    "Audio": "https://www.youtube.com/watch?v=-00AEodvIj4",
+    "Tags": [
+      "Fights",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Mon Aug 12 2024 00:40:39 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Mega Man Zero 4/Falling Down.bin",
+    "Duration": 87.23276515625
   }
 ]
