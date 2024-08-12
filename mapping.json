@@ -26281,5 +26281,22 @@
     "Date": "Mon Aug 12 2024 02:18:49 GMT+0000 (Coordinated Universal Time)",
     "Binary": "binaries/Final Fantasy Mystic Quest/Battle 2.bin",
     "Duration": 48.842338679166666
+  },
+  {
+    "Game": "Mario Party 3",
+    "Song": "Creepy Cavern",
+    "Composers": "Ichiro Shimakura",
+    "Converters": "Altermentality",
+    "Category": "bgm",
+    "Audio": "https://youtu.be/z0CdaZ0rSwQ",
+    "Additional Notes": "\"URNH!\" -Thwomp",
+    "Tags": [
+      "Exteriors",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Mon Aug 12 2024 07:47:58 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Mario Party 3/Creepy Cavern.bin",
+    "Duration": 57.91776628125
   }
 ]
