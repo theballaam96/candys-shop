@@ -26264,5 +26264,22 @@
     "Date": "Mon Aug 12 2024 00:40:39 GMT+0000 (Coordinated Universal Time)",
     "Binary": "binaries/Mega Man Zero 4/Falling Down.bin",
     "Duration": 87.23276515625
+  },
+  {
+    "Game": "Final Fantasy: Mystic Quest",
+    "Song": "Battle 2",
+    "Composers": "Yasuhiro Kawakami, Ryuji Sasai",
+    "Converters": "AbscondWithAPie",
+    "Category": "bgm",
+    "Audio": "https://www.youtube.com/watch?v=DPAfhMkmNc8",
+    "Additional Notes": "for Supreme",
+    "Tags": [
+      "Fights",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Mon Aug 12 2024 02:18:49 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Final Fantasy Mystic Quest/Battle 2.bin",
+    "Duration": 48.842338679166666
   }
 ]
