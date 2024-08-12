@@ -26330,5 +26330,22 @@
     "Date": "Mon Aug 12 2024 10:57:34 GMT+0000 (Coordinated Universal Time)",
     "Binary": "binaries/Super Ghouls n Ghosts/Ice Forest.bin",
     "Duration": 77.3178
+  },
+  {
+    "Game": "Final Fantasy VI",
+    "Song": "Dancing Mad (Part 4, No Intro)",
+    "Composers": "Nobuo Uematsu",
+    "Converters": "OnlySpaghettiCode",
+    "Category": "bgm",
+    "Additional Notes": "Life... dreams... hope... Where do they come from? And where do they go...? Such meaningless things... I'll destroy them all!",
+    "Tags": [
+      "Fights",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Mon Aug 12 2024 19:53:29 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Final%20Fantasy%20VI/Dancing%20Mad%20(Part%204,%20No%20Intro).mp3",
+    "Binary": "binaries/Final Fantasy VI/Dancing Mad (Part 4, No Intro).bin",
+    "Duration": 159.9053935625
   }
 ]
