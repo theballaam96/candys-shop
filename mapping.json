@@ -26347,5 +26347,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Final%20Fantasy%20VI/Dancing%20Mad%20(Part%204,%20No%20Intro).mp3",
     "Binary": "binaries/Final Fantasy VI/Dancing Mad (Part 4, No Intro).bin",
     "Duration": 159.9053935625
+  },
+  {
+    "Game": "Super Mario World 2: Yoshi's Island",
+    "Song": "Castle & Fortress",
+    "Composers": "Koji Kondo",
+    "Converters": "AbscondWithAPie",
+    "Category": "bgm",
+    "Audio": "https://www.youtube.com/watch?v=NnNzqkaYSZM",
+    "Tags": [
+      "Interiors",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Tue Aug 13 2024 07:39:26 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Super Mario World 2 Yoshis Island/Castle  Fortress.bin",
+    "Duration": 71.004
   }
 ]
