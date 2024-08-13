@@ -26363,5 +26363,21 @@
     "Date": "Tue Aug 13 2024 07:39:26 GMT+0000 (Coordinated Universal Time)",
     "Binary": "binaries/Super Mario World 2 Yoshis Island/Castle  Fortress.bin",
     "Duration": 71.004
+  },
+  {
+    "Game": "Super Mario World 2: Yoshi's Island",
+    "Song": "Kamek's Theme",
+    "Composers": "Koji Kondo",
+    "Converters": "AbscondWithAPie",
+    "Category": "bgm",
+    "Audio": "https://www.youtube.com/watch?v=TidfXfe7eRI",
+    "Tags": [
+      "Lobbies and Shops",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Tue Aug 13 2024 07:41:15 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Super Mario World 2 Yoshis Island/Kameks Theme.bin",
+    "Duration": 13.111655375
   }
 ]
