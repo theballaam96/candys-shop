@@ -26395,5 +26395,21 @@
     "Date": "Wed Aug 14 2024 20:45:45 GMT+0000 (Coordinated Universal Time)",
     "Binary": "binaries/Loop Hero/Loop Blues.bin",
     "Duration": 191.99534371875
+  },
+  {
+    "Game": "Super Ghouls 'n Ghosts",
+    "Song": "Castle of the Emperor",
+    "Composers": "Mari Yamaguchi",
+    "Converters": "AbscondWithAPie",
+    "Category": "bgm",
+    "Audio": "https://www.youtube.com/watch?v=WpcRVPvv5qE",
+    "Tags": [
+      "Fights",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Wed Aug 14 2024 23:55:30 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Super Ghouls n Ghosts/Castle of the Emperor.bin",
+    "Duration": 58.368
   }
 ]
