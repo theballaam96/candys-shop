@@ -26379,5 +26379,21 @@
     "Date": "Tue Aug 13 2024 07:41:15 GMT+0000 (Coordinated Universal Time)",
     "Binary": "binaries/Super Mario World 2 Yoshis Island/Kameks Theme.bin",
     "Duration": 13.111655375
+  },
+  {
+    "Game": "Loop Hero",
+    "Song": "Loop Blues",
+    "Composers": "blinch",
+    "Converters": "iveli_alpaca",
+    "Category": "bgm",
+    "Audio": "https://www.youtube.com/watch?v=lq0Q0dWVVEc",
+    "Tags": [
+      "Interiors",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Wed Aug 14 2024 20:45:45 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Loop Hero/Loop Blues.bin",
+    "Duration": 191.99534371875
   }
 ]
