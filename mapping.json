@@ -26411,5 +26411,22 @@
     "Date": "Wed Aug 14 2024 23:55:30 GMT+0000 (Coordinated Universal Time)",
     "Binary": "binaries/Super Ghouls n Ghosts/Castle of the Emperor.bin",
     "Duration": 58.368
+  },
+  {
+    "Game": "Chrono Trigger",
+    "Song": "Delightful Spekkio",
+    "Composers": "Yasunori Mitsuda",
+    "Converters": "Altermentality",
+    "Category": "bgm",
+    "Audio": "https://youtu.be/776mgavSoqM",
+    "Tags": [
+      "Lobbies and Shops",
+      "Interiors",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Wed Aug 14 2024 23:57:36 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Chrono Trigger/Delightful Spekkio.bin",
+    "Duration": 80.14414291666665
   }
 ]
