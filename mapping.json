@@ -26493,5 +26493,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/The%20Legend%20of%20Zelda%20Skyward%20Sword/Lanayru%20Mining%20Facility%20(Present).mp3",
     "Binary": "binaries/The Legend of Zelda Skyward Sword/Lanayru Mining Facility (Present).bin",
     "Duration": 110.62369791666667
+  },
+  {
+    "Game": "Final Fantasy VI",
+    "Song": "Returners",
+    "Composers": "Nobuo Uematsu",
+    "Converters": "OnlySpaghettiCode",
+    "Category": "bgm",
+    "Tags": [
+      "Lobbies and Shops",
+      "Interiors"
+    ],
+    "Verified": true,
+    "Date": "Thu Aug 15 2024 19:22:14 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Final%20Fantasy%20VI/Returners.mp3",
+    "Binary": "binaries/Final Fantasy VI/Returners.bin",
+    "Duration": 73.108677375
   }
 ]
