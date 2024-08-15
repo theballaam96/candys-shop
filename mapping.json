@@ -26509,5 +26509,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Final%20Fantasy%20VI/Returners.mp3",
     "Binary": "binaries/Final Fantasy VI/Returners.bin",
     "Duration": 73.108677375
+  },
+  {
+    "Game": "Final Fantasy VI",
+    "Song": "Shadow",
+    "Composers": "Nobuo Uematsu",
+    "Converters": "OnlySpaghettiCode",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Thu Aug 15 2024 19:24:47 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Final%20Fantasy%20VI/Shadow.mp3",
+    "Binary": "binaries/Final Fantasy VI/Shadow.bin",
+    "Duration": 54.0234375
   }
 ]
