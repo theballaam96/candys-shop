@@ -26428,5 +26428,21 @@
     "Date": "Wed Aug 14 2024 23:57:36 GMT+0000 (Coordinated Universal Time)",
     "Binary": "binaries/Chrono Trigger/Delightful Spekkio.bin",
     "Duration": 80.14414291666665
+  },
+  {
+    "Game": "Super Mario World 2: Yoshi's Island",
+    "Song": "Bowser",
+    "Composers": "Koji Kondo",
+    "Converters": "AbscondWithAPie",
+    "Category": "bgm",
+    "Audio": "https://www.youtube.com/watch?v=eW93F8BtG0I",
+    "Tags": [
+      "Fights",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Thu Aug 15 2024 02:13:55 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Super Mario World 2 Yoshis Island/Bowser.bin",
+    "Duration": 91.45573579166665
   }
 ]
