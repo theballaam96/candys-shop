@@ -26460,5 +26460,38 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Final%20Fantasy%20VI/The%20Unforgiven.mp3",
     "Binary": "binaries/Final Fantasy VI/The Unforgiven.bin",
     "Duration": 38.867627625
+  },
+  {
+    "Game": "Mario Party 3",
+    "Song": "Mustn't Panic",
+    "Composers": "Ichiro Shimakura",
+    "Converters": "Altermentality",
+    "Category": "bgm",
+    "Audio": "https://youtu.be/ccY20ERXHl8",
+    "Tags": [
+      "Minigames",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Thu Aug 15 2024 05:26:57 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Mario Party 3/Mustnt Panic.bin",
+    "Duration": 39.54105225
+  },
+  {
+    "Game": "The Legend of Zelda: Skyward Sword",
+    "Song": "Lanayru Mining Facility (Present)",
+    "Category": "bgm",
+    "Composers": "Hajime Wakai",
+    "Converters": "Schwartz Gandhi",
+    "Tags": [
+      "Interiors",
+      "Gloomy"
+    ],
+    "Additional Notes": "Glass pad thingy my beloathed",
+    "Verified": true,
+    "Date": "Thu Aug 15 2024 05:26:58 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/The%20Legend%20of%20Zelda%20Skyward%20Sword/Lanayru%20Mining%20Facility%20(Present).mp3",
+    "Binary": "binaries/The Legend of Zelda Skyward Sword/Lanayru Mining Facility (Present).bin",
+    "Duration": 110.62369791666667
   }
 ]
