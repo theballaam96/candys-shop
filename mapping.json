@@ -26444,5 +26444,21 @@
     "Date": "Thu Aug 15 2024 02:13:55 GMT+0000 (Coordinated Universal Time)",
     "Binary": "binaries/Super Mario World 2 Yoshis Island/Bowser.bin",
     "Duration": 91.45573579166665
+  },
+  {
+    "Game": "Final Fantasy VI",
+    "Song": "The Unforgiven",
+    "Composers": "Nobuo Uematsu",
+    "Converters": "OnlySpaghettiCode",
+    "Category": "bgm",
+    "Tags": [
+      "Minigames",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Thu Aug 15 2024 05:24:22 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Final%20Fantasy%20VI/The%20Unforgiven.mp3",
+    "Binary": "binaries/Final Fantasy VI/The Unforgiven.bin",
+    "Duration": 38.867627625
   }
 ]
