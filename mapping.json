@@ -26525,5 +26525,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Final%20Fantasy%20VI/Shadow.mp3",
     "Binary": "binaries/Final Fantasy VI/Shadow.bin",
     "Duration": 54.0234375
+  },
+  {
+    "Game": "Mario + Rabbids: Kingdom Battle",
+    "Song": "Sunny Side Up",
+    "Composers": "Grant Kirkhope",
+    "Converters": "LBFrank",
+    "Category": "bgm",
+    "Tags": [
+      "Lobbies and Shops",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Sat Aug 17 2024 12:53:23 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Mario%20%20Rabbids%20Kingdom%20Battle/Sunny%20Side%20Up.mp3",
+    "Binary": "binaries/Mario  Rabbids Kingdom Battle/Sunny Side Up.bin",
+    "Duration": 64.538397
   }
 ]
