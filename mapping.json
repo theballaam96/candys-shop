@@ -26541,5 +26541,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Mario%20%20Rabbids%20Kingdom%20Battle/Sunny%20Side%20Up.mp3",
     "Binary": "binaries/Mario  Rabbids Kingdom Battle/Sunny Side Up.bin",
     "Duration": 64.538397
+  },
+  {
+    "Game": "Crash Bandicoot: The Wrath of Cortex",
+    "Song": "Fahrenheit Frenzy",
+    "Composers": "Andy Blythe, Marten Joustra",
+    "Converters": "Ballaam",
+    "Category": "bgm",
+    "Audio": "https://youtu.be/eQRz9yVSSzg",
+    "Tags": [
+      "Exteriors",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Sat Aug 17 2024 13:51:42 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Crash Bandicoot The Wrath of Cortex/Fahrenheit Frenzy.bin",
+    "Duration": 121.15892404166665
   }
 ]
