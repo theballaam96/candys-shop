@@ -26590,5 +26590,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Final%20Fantasy%20VI/Cyan.mp3",
     "Binary": "binaries/Final Fantasy VI/Cyan.bin",
     "Duration": 65.757143
+  },
+  {
+    "Game": "Final Fantasy VI",
+    "Song": "Awakening",
+    "Composers": "Nobuo Uematsu",
+    "Converters": "OnlySpaghettiCode",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Sun Aug 18 2024 22:40:53 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Final%20Fantasy%20VI/Awakening.mp3",
+    "Binary": "binaries/Final Fantasy VI/Awakening.bin",
+    "Duration": 64.1
   }
 ]
