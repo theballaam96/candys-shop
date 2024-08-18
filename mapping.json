@@ -26574,5 +26574,21 @@
     "Date": "Sun Aug 18 2024 05:26:19 GMT+0000 (Coordinated Universal Time)",
     "Binary": "binaries/Equinox/Overworld.bin",
     "Duration": 111.56244050000001
+  },
+  {
+    "Game": "Final Fantasy VI",
+    "Song": "Cyan",
+    "Composers": "Nobuo Uematsu",
+    "Converters": "OnlySpaghettiCode",
+    "Category": "bgm",
+    "Tags": [
+      "Interiors",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Sun Aug 18 2024 22:39:26 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Final%20Fantasy%20VI/Cyan.mp3",
+    "Binary": "binaries/Final Fantasy VI/Cyan.bin",
+    "Duration": 65.757143
   }
 ]
