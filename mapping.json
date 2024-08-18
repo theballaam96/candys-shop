@@ -26670,5 +26670,22 @@
     "Date": "Sun Aug 18 2024 23:47:20 GMT+0000 (Coordinated Universal Time)",
     "Binary": "binaries/Rhythm Heaven Fever/See-Saw.bin",
     "Duration": 97.95190361458334
+  },
+  {
+    "Game": "Rhythm Heaven Fever",
+    "Song": "See-Saw (with Vocals)",
+    "Composers": "Tsunku♂",
+    "Converters": "iveli_alpaca",
+    "Category": "bgm",
+    "Audio": "https://www.youtube.com/watch?v=zCF6LQyuN08",
+    "Additional Notes": "Vocal variation of \"See-Saw\"",
+    "Tags": [
+      "Minigames",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Sun Aug 18 2024 23:48:34 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Rhythm Heaven Fever/See-Saw (with Vocals).bin",
+    "Duration": 97.95190361458334
   }
 ]
