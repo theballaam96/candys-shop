@@ -26606,5 +26606,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Final%20Fantasy%20VI/Awakening.mp3",
     "Binary": "binaries/Final Fantasy VI/Awakening.bin",
     "Duration": 64.1
+  },
+  {
+    "Game": "Final Fantasy VI",
+    "Song": "Troops March On",
+    "Composers": "Nobuo Uematsu",
+    "Converters": "OnlySpaghettiCode",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Sun Aug 18 2024 22:42:05 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Final%20Fantasy%20VI/Troops%20March%20On.mp3",
+    "Binary": "binaries/Final Fantasy VI/Troops March On.bin",
+    "Duration": 54.964294875
   }
 ]
