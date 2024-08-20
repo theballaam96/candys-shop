@@ -26738,5 +26738,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/ULTRAKILL/Suffering%20Leaves%20Suffering%20Leaves.mp3",
     "Binary": "binaries/ULTRAKILL/Suffering Leaves Suffering Leaves.bin",
     "Duration": 138.66534711041666
+  },
+  {
+    "Game": "Super Mario RPG: Legend of the Seven Stars",
+    "Song": "The Merry Marry Bell Rings",
+    "Composers": "Yoko Shimomura",
+    "Converters": "OnlySpaghettiCode",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Tue Aug 20 2024 20:04:16 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Super%20Mario%20RPG%20Legend%20of%20the%20Seven%20Stars/The%20Merry%20Marry%20Bell%20Rings.mp3",
+    "Binary": "binaries/Super Mario RPG Legend of the Seven Stars/The Merry Marry Bell Rings.bin",
+    "Duration": 69.30287537500001
   }
 ]
