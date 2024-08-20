@@ -26754,5 +26754,20 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Super%20Mario%20RPG%20Legend%20of%20the%20Seven%20Stars/The%20Merry%20Marry%20Bell%20Rings.mp3",
     "Binary": "binaries/Super Mario RPG Legend of the Seven Stars/The Merry Marry Bell Rings.bin",
     "Duration": 69.30287537500001
+  },
+  {
+    "Game": "Super Mario RPG: Legend of the Seven Stars",
+    "Song": "From Inside the Earthen Pipe",
+    "Composers": "Yoko Shimomura",
+    "Converters": "OnlySpaghettiCode",
+    "Category": "bgm",
+    "Tags": [
+      "Interiors"
+    ],
+    "Verified": true,
+    "Date": "Tue Aug 20 2024 20:07:20 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Super%20Mario%20RPG%20Legend%20of%20the%20Seven%20Stars/From%20Inside%20the%20Earthen%20Pipe.mp3",
+    "Binary": "binaries/Super Mario RPG Legend of the Seven Stars/From Inside the Earthen Pipe.bin",
+    "Duration": 38.325
   }
 ]
