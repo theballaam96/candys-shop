@@ -26721,5 +26721,22 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Sonic%20the%20Hedgehog%203/Act%20Clear.wav",
     "Binary": "binaries/Sonic the Hedgehog 3/Act Clear.bin",
     "Duration": 6.018701489583334
+  },
+  {
+    "Game": "ULTRAKILL",
+    "Song": "Suffering Leaves Suffering Leaves",
+    "Category": "bgm",
+    "Composers": "Heaven Pierce Her",
+    "Converters": "Schwartz Gandhi",
+    "Tags": [
+      "Exteriors",
+      "Calm",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Tue Aug 20 2024 05:33:51 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/ULTRAKILL/Suffering%20Leaves%20Suffering%20Leaves.mp3",
+    "Binary": "binaries/ULTRAKILL/Suffering Leaves Suffering Leaves.bin",
+    "Duration": 138.66534711041666
   }
 ]
