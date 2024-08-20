@@ -26705,5 +26705,21 @@
     "Date": "Tue Aug 20 2024 04:11:12 GMT+0000 (Coordinated Universal Time)",
     "Binary": "binaries/Pokémon Gold, Silver  Crystal/Goldenrod Game Corner (HGSS).bin",
     "Duration": 82.17299474999999
+  },
+  {
+    "Game": "Sonic the Hedgehog 3",
+    "Song": "Act Clear",
+    "Composers": "Jun Senoue",
+    "Converters": "iveli_alpaca",
+    "Category": "majoritems",
+    "Tags": [
+      "Collection",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Tue Aug 20 2024 04:12:38 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Sonic%20the%20Hedgehog%203/Act%20Clear.wav",
+    "Binary": "binaries/Sonic the Hedgehog 3/Act Clear.bin",
+    "Duration": 6.018701489583334
   }
 ]
