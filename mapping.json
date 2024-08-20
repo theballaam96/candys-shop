@@ -26687,5 +26687,23 @@
     "Date": "Sun Aug 18 2024 23:48:34 GMT+0000 (Coordinated Universal Time)",
     "Binary": "binaries/Rhythm Heaven Fever/See-Saw (with Vocals).bin",
     "Duration": 97.95190361458334
+  },
+  {
+    "Game": "Pokémon Gold, Silver & Crystal",
+    "Song": "Goldenrod Game Corner (HGSS)",
+    "Composers": "Go Ichinose",
+    "Converters": "BashPrime",
+    "Category": "bgm",
+    "Audio": "https://www.youtube.com/watch?v=GdSVq6x9IEk",
+    "Additional Notes": "Based on the original HGSS MIDI sequence",
+    "Tags": [
+      "Lobbies and Shops",
+      "Minigames",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Tue Aug 20 2024 04:11:12 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Pokémon Gold, Silver  Crystal/Goldenrod Game Corner (HGSS).bin",
+    "Duration": 82.17299474999999
   }
 ]
