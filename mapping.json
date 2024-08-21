@@ -26819,5 +26819,22 @@
     "Date": "Wed Aug 21 2024 08:44:27 GMT+0000 (Coordinated Universal Time)",
     "Binary": "binaries/Penny Racers/Lake, Ruins, Alpine.bin",
     "Duration": 68.99921875
+  },
+  {
+    "Game": "Final Fantasy VII",
+    "Song": "Costa del Sol",
+    "Composers": "Nobuo Uematsu",
+    "Converters": "OnlySpaghettiCode",
+    "Category": "bgm",
+    "Tags": [
+      "Lobbies and Shops",
+      "Exteriors",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Wed Aug 21 2024 21:05:21 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Final%20Fantasy%20VII/Costa%20del%20Sol.mp3",
+    "Binary": "binaries/Final Fantasy VII/Costa del Sol.bin",
+    "Duration": 66.80976590625
   }
 ]
