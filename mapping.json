@@ -26786,5 +26786,23 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Pok%C3%A9mon%20Stadium%202/Egg%20Emergency%20(REV%201).mp3",
     "Binary": "binaries/Pokémon Stadium 2/Egg Emergency (REV 1).bin",
     "Duration": 23.596298104166664
+  },
+  {
+    "Game": "Mario Party",
+    "Song": "Everyone's a Super Star!",
+    "Composers": "Yasunori Mitsuda",
+    "Converters": "SirEnobMort",
+    "Category": "bgm",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Mario%20Party/Everyones%20a%20Super%20Star%20(REV%201).mp3",
+    "Update Notes": "Adjusted volume levels.",
+    "Tags": [
+      "Exteriors",
+      "Happy",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Wed Aug 21 2024 08:41:33 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Mario Party/Everyones a Super Star (REV 1).bin",
+    "Duration": 124.76269692708335
   }
 ]
