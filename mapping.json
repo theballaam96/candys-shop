@@ -26836,5 +26836,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Final%20Fantasy%20VII/Costa%20del%20Sol.mp3",
     "Binary": "binaries/Final Fantasy VII/Costa del Sol.bin",
     "Duration": 66.80976590625
+  },
+  {
+    "Game": "Final Fantasy VII",
+    "Song": "Rufus' Welcoming Ceremony",
+    "Composers": "Nobuo Uematsu",
+    "Converters": "OnlySpaghettiCode",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Wed Aug 21 2024 21:08:07 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Final%20Fantasy%20VII/Rufus%20Welcoming%20Ceremony.mp3",
+    "Binary": "binaries/Final Fantasy VII/Rufus Welcoming Ceremony.bin",
+    "Duration": 68.03125
   }
 ]
