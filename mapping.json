@@ -26852,5 +26852,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Final%20Fantasy%20VII/Rufus%20Welcoming%20Ceremony.mp3",
     "Binary": "binaries/Final Fantasy VII/Rufus Welcoming Ceremony.bin",
     "Duration": 68.03125
+  },
+  {
+    "Game": "Super Mario RPG: Legend of the Seven Stars",
+    "Song": "Grandpa and the Delightful Tadpoles",
+    "Composers": "Yoko Shimomura",
+    "Converters": "OnlySpaghettiCode",
+    "Category": "bgm",
+    "Tags": [
+      "Lobbies and Shops",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Wed Aug 21 2024 21:17:06 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Super%20Mario%20RPG%20Legend%20of%20the%20Seven%20Stars/Grandpa%20and%20the%20Delightful%20Tadpoles.mp3",
+    "Binary": "binaries/Super Mario RPG Legend of the Seven Stars/Grandpa and the Delightful Tadpoles.bin",
+    "Duration": 16.5625
   }
 ]
