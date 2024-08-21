@@ -26769,5 +26769,22 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Super%20Mario%20RPG%20Legend%20of%20the%20Seven%20Stars/From%20Inside%20the%20Earthen%20Pipe.mp3",
     "Binary": "binaries/Super Mario RPG Legend of the Seven Stars/From Inside the Earthen Pipe.bin",
     "Duration": 38.325
+  },
+  {
+    "Game": "Pokémon Stadium 2",
+    "Song": "Egg Emergency",
+    "Composers": "Hajime Wakai",
+    "Converters": "SirEnobMort",
+    "Category": "bgm",
+    "Update Notes": "Adjusted volume levels and instrumentation.",
+    "Tags": [
+      "Minigames",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Wed Aug 21 2024 08:40:11 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Pok%C3%A9mon%20Stadium%202/Egg%20Emergency%20(REV%201).mp3",
+    "Binary": "binaries/Pokémon Stadium 2/Egg Emergency (REV 1).bin",
+    "Duration": 23.596298104166664
   }
 ]
