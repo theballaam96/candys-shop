@@ -26868,5 +26868,17 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Super%20Mario%20RPG%20Legend%20of%20the%20Seven%20Stars/Grandpa%20and%20the%20Delightful%20Tadpoles.mp3",
     "Binary": "binaries/Super Mario RPG Legend of the Seven Stars/Grandpa and the Delightful Tadpoles.bin",
     "Duration": 16.5625
+  },
+  {
+    "Game": "Mario & Luigi: Superstar Saga",
+    "Song": "Special Item",
+    "Composers": "Yoko Shimomura",
+    "Converters": "SirEnobMort",
+    "Category": "majoritems",
+    "Verified": true,
+    "Date": "Wed Aug 21 2024 23:53:34 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Mario%20%20Luigi%20Superstar%20Saga/Special%20Item.mp3",
+    "Binary": "binaries/Mario  Luigi Superstar Saga/Special Item.bin",
+    "Duration": 3.081078
   }
 ]
