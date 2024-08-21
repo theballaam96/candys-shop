@@ -26804,5 +26804,20 @@
     "Date": "Wed Aug 21 2024 08:41:33 GMT+0000 (Coordinated Universal Time)",
     "Binary": "binaries/Mario Party/Everyones a Super Star (REV 1).bin",
     "Duration": 124.76269692708335
+  },
+  {
+    "Game": "Penny Racers",
+    "Song": "Lake, Ruins, Alpine",
+    "Composers": "Kazuhisa Kamifuji",
+    "Converters": "The Specialize",
+    "Category": "bgm",
+    "Audio": "https://www.youtube.com/watch?v=RKVZqVhylxw",
+    "Tags": [
+      "Exteriors"
+    ],
+    "Verified": true,
+    "Date": "Wed Aug 21 2024 08:44:27 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Penny Racers/Lake, Ruins, Alpine.bin",
+    "Duration": 68.99921875
   }
 ]
