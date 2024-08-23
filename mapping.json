@@ -26880,5 +26880,20 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Mario%20%20Luigi%20Superstar%20Saga/Special%20Item.mp3",
     "Binary": "binaries/Mario  Luigi Superstar Saga/Special Item.bin",
     "Duration": 3.081078
+  },
+  {
+    "Game": "Chrono Trigger",
+    "Song": "Boss Battle 1",
+    "Composers": "Yasunori Mitsuda",
+    "Converters": "OnlySpaghettiCode",
+    "Category": "bgm",
+    "Tags": [
+      "Fights"
+    ],
+    "Verified": true,
+    "Date": "Fri Aug 23 2024 21:54:43 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Chrono%20Trigger/Boss%20Battle%201.mp3",
+    "Binary": "binaries/Chrono Trigger/Boss Battle 1.bin",
+    "Duration": 36.111129166666665
   }
 ]
