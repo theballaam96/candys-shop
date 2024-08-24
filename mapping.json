@@ -26895,5 +26895,22 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Chrono%20Trigger/Boss%20Battle%201.mp3",
     "Binary": "binaries/Chrono Trigger/Boss Battle 1.bin",
     "Duration": 36.111129166666665
+  },
+  {
+    "Game": "Pokémon XD: Gale of Darkness",
+    "Song": "S.S. Libra",
+    "Composers": "Tsukasa Tawada",
+    "Converters": "LBFrank",
+    "Category": "bgm",
+    "Tags": [
+      "Interiors",
+      "Gloomy",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Sat Aug 24 2024 21:31:42 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Pok%C3%A9mon%20XD%20Gale%20of%20Darkness/SS%20Libra.mp3",
+    "Binary": "binaries/Pokémon XD Gale of Darkness/SS Libra.bin",
+    "Duration": 51.98379437500001
   }
 ]
