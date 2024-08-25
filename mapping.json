@@ -26912,5 +26912,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Pok%C3%A9mon%20XD%20Gale%20of%20Darkness/SS%20Libra.mp3",
     "Binary": "binaries/Pokémon XD Gale of Darkness/SS Libra.bin",
     "Duration": 51.98379437500001
+  },
+  {
+    "Game": "Donkey Kong Country 2: Diddy's Kong Quest",
+    "Song": "Forest Interlude",
+    "Composers": "David Wise",
+    "Converters": "OnlySpaghettiCode",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Sun Aug 25 2024 16:22:52 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Donkey%20Kong%20Country%202%20Diddys%20Kong%20Quest/Forest%20Interlude.mp3",
+    "Binary": "binaries/Donkey Kong Country 2 Diddys Kong Quest/Forest Interlude.bin",
+    "Duration": 131.211403625
   }
 ]
