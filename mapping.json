@@ -26945,5 +26945,22 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/EarthBound/Onett.mp3",
     "Binary": "binaries/EarthBound/Onett.bin",
     "Duration": 63.791666666666664
+  },
+  {
+    "Game": "Mario is Missing!",
+    "Song": "United States (DOS/SNES)",
+    "Composers": "Sam Powell, Bob Wallace",
+    "Converters": "Beyer",
+    "Category": "bgm",
+    "Tags": [
+      "Lobbies and Shops",
+      "Interiors",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Mon Aug 26 2024 09:23:31 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Mario%20is%20Missing/United%20States%20(DOSSNES).mp3",
+    "Binary": "binaries/Mario is Missing/United States (DOSSNES).bin",
+    "Duration": 83.96249999999999
   }
 ]
