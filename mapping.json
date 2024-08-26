@@ -26928,5 +26928,22 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Donkey%20Kong%20Country%202%20Diddys%20Kong%20Quest/Forest%20Interlude.mp3",
     "Binary": "binaries/Donkey Kong Country 2 Diddys Kong Quest/Forest Interlude.bin",
     "Duration": 131.211403625
+  },
+  {
+    "Game": "EarthBound",
+    "Song": "Onett",
+    "Composers": "Keiichi Suzuki",
+    "Converters": "Zion Jaymes",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors",
+      "Happy",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Mon Aug 26 2024 03:51:35 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/EarthBound/Onett.mp3",
+    "Binary": "binaries/EarthBound/Onett.bin",
+    "Duration": 63.791666666666664
   }
 ]
