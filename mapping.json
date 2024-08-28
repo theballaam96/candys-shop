@@ -26962,5 +26962,22 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Mario%20is%20Missing/United%20States%20(DOSSNES).mp3",
     "Binary": "binaries/Mario is Missing/United States (DOSSNES).bin",
     "Duration": 83.96249999999999
+  },
+  {
+    "Game": "Pokémon Black & White",
+    "Song": "Accumula Town",
+    "Composers": "Shota Kageyama",
+    "Converters": "OnlySpaghettiCode",
+    "Category": "bgm",
+    "Tags": [
+      "Lobbies and Shops",
+      "Exteriors",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Wed Aug 28 2024 00:48:52 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Pok%C3%A9mon%20Black%20%20White/Accumula%20Town.mp3",
+    "Binary": "binaries/Pokémon Black  White/Accumula Town.bin",
+    "Duration": 34.29127635416667
   }
 ]
