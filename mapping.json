@@ -26979,5 +26979,22 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Pok%C3%A9mon%20Black%20%20White/Accumula%20Town.mp3",
     "Binary": "binaries/Pokémon Black  White/Accumula Town.bin",
     "Duration": 34.29127635416667
+  },
+  {
+    "Game": "Mario Party 2",
+    "Song": "Rules Land",
+    "Composers": "Kazuhiko Sawaguchi, Hironao Yamamoto, Shohei Bando",
+    "Converters": "Altermentality",
+    "Category": "bgm",
+    "Audio": "https://youtu.be/XKFsZZuIE_M",
+    "Tags": [
+      "Lobbies and Shops",
+      "Interiors",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Wed Aug 28 2024 21:58:16 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Mario Party 2/Rules Land.bin",
+    "Duration": 33.4374666625
   }
 ]
