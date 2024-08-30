@@ -27027,5 +27027,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Brave%20Fencer%20Musashi/Musashi%20Legend.mp3",
     "Binary": "binaries/Brave Fencer Musashi/Musashi Legend.bin",
     "Duration": 89.78097999999999
+  },
+  {
+    "Game": "Mario & Luigi: Partners in Time",
+    "Song": "Thwomp Volcano",
+    "Composers": "Yoko Shimomura",
+    "Converters": "OnlySpaghettiCode",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Fri Aug 30 2024 18:18:38 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Mario%20%20Luigi%20Partners%20in%20Time/Thwomp%20Volcano.mp3",
+    "Binary": "binaries/Mario  Luigi Partners in Time/Thwomp Volcano.bin",
+    "Duration": 68.05208333333333
   }
 ]
