@@ -27012,5 +27012,20 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Wave%20Race%2064/Dolphin%20Park.mp3",
     "Binary": "binaries/Wave Race 64/Dolphin Park.bin",
     "Duration": 51.13726610416667
+  },
+  {
+    "Game": "Brave Fencer Musashi",
+    "Song": "Musashi Legend",
+    "Composers": "Tsuyoshi Sekito",
+    "Converters": "Zion Jaymes",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors"
+    ],
+    "Verified": true,
+    "Date": "Fri Aug 30 2024 02:41:44 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Brave%20Fencer%20Musashi/Musashi%20Legend.mp3",
+    "Binary": "binaries/Brave Fencer Musashi/Musashi Legend.bin",
+    "Duration": 89.78097999999999
   }
 ]
