@@ -27060,5 +27060,21 @@
     "Date": "Sat Aug 31 2024 12:56:41 GMT+0000 (Coordinated Universal Time)",
     "Binary": "binaries/Banjo-Tooie/Here Comes Trouble.bin",
     "Duration": 67.83333333333333
+  },
+  {
+    "Game": "Pokémon Colosseum",
+    "Song": "Cipher Admin Battle",
+    "Composers": "Tsukasa Tawada",
+    "Converters": "LBFrank",
+    "Category": "bgm",
+    "Update Notes": "Implemented panning, reverb, and a slight increase in tempo.",
+    "Tags": [
+      "Exteriors"
+    ],
+    "Verified": true,
+    "Date": "Sat Aug 31 2024 17:16:18 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Pok%C3%A9mon%20Colosseum/Cipher%20Admin%20Battle%20(REV%201).mp3",
+    "Binary": "binaries/Pokémon Colosseum/Cipher Admin Battle (REV 1).bin",
+    "Duration": 82.622904
   }
 ]
