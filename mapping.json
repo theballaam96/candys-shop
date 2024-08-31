@@ -27043,5 +27043,22 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Mario%20%20Luigi%20Partners%20in%20Time/Thwomp%20Volcano.mp3",
     "Binary": "binaries/Mario  Luigi Partners in Time/Thwomp Volcano.bin",
     "Duration": 68.05208333333333
+  },
+  {
+    "Game": "Banjo-Tooie",
+    "Song": "Here Comes Trouble",
+    "Composers": "Grant Kirkhope",
+    "Converters": "Ballaam",
+    "Category": "bgm",
+    "Audio": "https://youtu.be/aQ1pFyUwJ44",
+    "Additional Notes": "The true final boss of Banjo-Tooie",
+    "Tags": [
+      "Lobbies and Shops",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Sat Aug 31 2024 12:56:41 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Banjo-Tooie/Here Comes Trouble.bin",
+    "Duration": 67.83333333333333
   }
 ]

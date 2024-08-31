@@ -5,7 +5,7 @@
   "main": "index.js",
   "dependencies": {
     "@tonejs/midi": "^2.0.28",
-    "axios": "^1.7.5",
+    "axios": "^1.7.6",
     "midi-file": "^1.2.4"
   },
   "scripts": {
