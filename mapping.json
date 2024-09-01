@@ -27076,5 +27076,22 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Pok%C3%A9mon%20Colosseum/Cipher%20Admin%20Battle%20(REV%201).mp3",
     "Binary": "binaries/Pokémon Colosseum/Cipher Admin Battle (REV 1).bin",
     "Duration": 82.622904
+  },
+  {
+    "Game": "Final Fantasy VII",
+    "Song": "J-E-N-O-V-A",
+    "Composers": "Nobuo Uematsu",
+    "Converters": "OnlySpaghettiCode",
+    "Category": "bgm",
+    "Update Notes": "More accurate version",
+    "Tags": [
+      "Fights",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Sun Sep 01 2024 00:34:45 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Final%20Fantasy%20VII/J-E-N-O-V-A%20(REV%202).mp3",
+    "Binary": "binaries/Final Fantasy VII/J-E-N-O-V-A (REV 2).bin",
+    "Duration": 75.50920723958333
   }
 ]
