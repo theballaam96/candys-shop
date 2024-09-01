@@ -27093,5 +27093,38 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Final%20Fantasy%20VII/J-E-N-O-V-A%20(REV%202).mp3",
     "Binary": "binaries/Final Fantasy VII/J-E-N-O-V-A (REV 2).bin",
     "Duration": 75.50920723958333
+  },
+  {
+    "Game": "Mario & Luigi: Partners in Time",
+    "Song": "Tutorial",
+    "Composers": "Yoko Shimomura",
+    "Converters": "OnlySpaghettiCode",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Sun Sep 01 2024 00:36:23 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Mario%20%20Luigi%20Partners%20in%20Time/Tutorial.mp3",
+    "Binary": "binaries/Mario  Luigi Partners in Time/Tutorial.bin",
+    "Duration": 49.82313645833334
+  },
+  {
+    "Game": "Wave Race 64",
+    "Song": "Drake Lake",
+    "Composers": "Kazumi Totaka",
+    "Converters": "Beyer",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors",
+      "Happy",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Sun Sep 01 2024 00:36:24 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Wave%20Race%2064/Drake%20Lake.mp3",
+    "Binary": "binaries/Wave Race 64/Drake Lake.bin",
+    "Duration": 44.4444
   }
 ]
