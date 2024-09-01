@@ -1,0 +1,22 @@
+name: Remove Needs Work Tag on PR Update
+
+on:
+  pull_request:
+    types:
+      - synchronize  # Trigger the workflow when commits are pushed to an open PR
+
+jobs:
+  remove-issue-tag:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Check out the repository
+      uses: actions/checkout@v3
+
+    - name: Remove issue tag from PR
+      uses: peter-evans/remove-labels@v2
+      with:
+        labels: 'needs work'  # Replace with the specific label you want to remove
+        token: ${{ secrets.GITHUB_TOKEN }}
+        repository: ${{ github.repository }}
+        issue-number: ${{ github.event.pull_request.number }}
