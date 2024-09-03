@@ -27126,5 +27126,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Wave%20Race%2064/Drake%20Lake.mp3",
     "Binary": "binaries/Wave Race 64/Drake Lake.bin",
     "Duration": 44.4444
+  },
+  {
+    "Game": "Wave Race 64",
+    "Song": "Watercraft Select",
+    "Composers": "Kazumi Totaka",
+    "Converters": "Beyer",
+    "Category": "bgm",
+    "Tags": [
+      "Lobbies and Shops",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Tue Sep 03 2024 15:48:36 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Wave%20Race%2064/Watercraft%20Select.mp3",
+    "Binary": "binaries/Wave Race 64/Watercraft Select.bin",
+    "Duration": 16.585336
   }
 ]
