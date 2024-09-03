@@ -27158,5 +27158,20 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Brave%20Fencer%20Musashi/Relic%20Keeper.mp3",
     "Binary": "binaries/Brave Fencer Musashi/Relic Keeper.bin",
     "Duration": 109.84339200000001
+  },
+  {
+    "Game": "Chrono Trigger",
+    "Song": "Wings That Cross Time",
+    "Composers": "Yasunori Mitsuda",
+    "Converters": "OnlySpaghettiCode",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors"
+    ],
+    "Verified": true,
+    "Date": "Tue Sep 03 2024 21:32:30 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Chrono%20Trigger/Wings%20That%20Cross%20Time.mp3",
+    "Binary": "binaries/Chrono Trigger/Wings That Cross Time.bin",
+    "Duration": 91.12222024999998
   }
 ]
