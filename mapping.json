@@ -27142,5 +27142,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Wave%20Race%2064/Watercraft%20Select.mp3",
     "Binary": "binaries/Wave Race 64/Watercraft Select.bin",
     "Duration": 16.585336
+  },
+  {
+    "Game": "Brave Fencer Musashi",
+    "Song": "Relic Keeper",
+    "Composers": "Tsuyoshi Sekito",
+    "Converters": "Zion Jaymes",
+    "Category": "bgm",
+    "Tags": [
+      "Interiors",
+      "Exteriors"
+    ],
+    "Verified": true,
+    "Date": "Tue Sep 03 2024 21:29:04 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Brave%20Fencer%20Musashi/Relic%20Keeper.mp3",
+    "Binary": "binaries/Brave Fencer Musashi/Relic Keeper.bin",
+    "Duration": 109.84339200000001
   }
 ]
