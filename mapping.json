@@ -27204,5 +27204,22 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Pok%C3%A9mon%20Diamond,%20Pearl%20%20Platinum/Gym%20Leader%20Battle%20Music.mp3",
     "Binary": "binaries/Pokémon Diamond, Pearl  Platinum/Gym Leader Battle Music.bin",
     "Duration": 91.99990799999999
+  },
+  {
+    "Game": "Metroid Prime 2: Echoes",
+    "Song": "Torvus Bog",
+    "Composers": "Kenji Yamamoto",
+    "Converters": "BashPrime, OnlySpaghettiCode",
+    "Category": "bgm",
+    "Audio": "https://www.youtube.com/watch?v=5wcijH_yo1o",
+    "Additional Notes": "Much thanks to OnlySpaghettiCode for the french horn tech",
+    "Tags": [
+      "Exteriors",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Thu Sep 05 2024 16:44:32 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Metroid Prime 2 Echoes/Torvus Bog.bin",
+    "Duration": 264.02205740625004
   }
 ]
