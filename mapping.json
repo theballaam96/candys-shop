@@ -27189,5 +27189,20 @@
     "Date": "Wed Sep 04 2024 23:50:06 GMT+0000 (Coordinated Universal Time)",
     "Binary": "binaries/Mario Party 2/Bowser Appears.bin",
     "Duration": 21.929002791666665
+  },
+  {
+    "Game": "Pokémon Diamond, Pearl & Platinum",
+    "Song": "Gym Leader Battle Music",
+    "Composers": "Junichi Masuda, Go Ichinose",
+    "Converters": "UmedMuzl",
+    "Category": "bgm",
+    "Tags": [
+      "Fights"
+    ],
+    "Verified": true,
+    "Date": "Thu Sep 05 2024 16:43:05 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Pok%C3%A9mon%20Diamond,%20Pearl%20%20Platinum/Gym%20Leader%20Battle%20Music.mp3",
+    "Binary": "binaries/Pokémon Diamond, Pearl  Platinum/Gym Leader Battle Music.bin",
+    "Duration": 91.99990799999999
   }
 ]
