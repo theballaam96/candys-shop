@@ -27221,5 +27221,22 @@
     "Date": "Thu Sep 05 2024 16:44:32 GMT+0000 (Coordinated Universal Time)",
     "Binary": "binaries/Metroid Prime 2 Echoes/Torvus Bog.bin",
     "Duration": 264.02205740625004
+  },
+  {
+    "Game": "Pokémon Colosseum",
+    "Song": "Team Snagem Battle",
+    "Composers": "Tsukasa Tawada",
+    "Converters": "iveli_alpaca",
+    "Category": "bgm",
+    "Audio": "https://www.youtube.com/watch?v=G7HR6-6OHK8",
+    "Tags": [
+      "Fights",
+      "Minigames",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Thu Sep 05 2024 16:46:06 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Pokémon Colosseum/Team Snagem Battle.bin",
+    "Duration": 49.26688298958334
   }
 ]
