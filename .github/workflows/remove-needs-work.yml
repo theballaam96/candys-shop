@@ -1,9 +1,11 @@
 name: Remove Needs Work Tag on PR Update
 
 on:
-  pull_request:
+  pull_request_target:
     types:
       - synchronize
+      - closed
+      
 permissions:
   issues: write
   pull-requests: write
