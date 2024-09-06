@@ -27238,5 +27238,21 @@
     "Date": "Thu Sep 05 2024 16:46:06 GMT+0000 (Coordinated Universal Time)",
     "Binary": "binaries/Pokémon Colosseum/Team Snagem Battle.bin",
     "Duration": 49.26688298958334
+  },
+  {
+    "Game": "Touhou Yumejikuu ~ Phantasmagoria of Dim. Dream",
+    "Song": "tabula rasa ~ The Empty Girl",
+    "Category": "bgm",
+    "Composers": "ZUN",
+    "Converters": "Schwartz Gandhi",
+    "Tags": [
+      "Exteriors",
+      "Fights",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Fri Sep 06 2024 03:58:03 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Touhou%20Yumejikuu%20~%20Phantasmagoria%20of%20Dim%20Dream/tabula%20rasa%20~%20The%20Empty%20Girl.mp3",
+    "Binary": "binaries/Touhou Yumejikuu ~ Phantasmagoria of Dim Dream/tabula rasa ~ The Empty Girl.bin"
   }
 ]
