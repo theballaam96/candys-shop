@@ -27254,5 +27254,22 @@
     "Date": "Fri Sep 06 2024 03:58:03 GMT+0000 (Coordinated Universal Time)",
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Touhou%20Yumejikuu%20~%20Phantasmagoria%20of%20Dim%20Dream/tabula%20rasa%20~%20The%20Empty%20Girl.mp3",
     "Binary": "binaries/Touhou Yumejikuu ~ Phantasmagoria of Dim Dream/tabula rasa ~ The Empty Girl.bin"
+  },
+  {
+    "Game": "The Grinch",
+    "Song": "Cave of Grinch",
+    "Composers": "Pierre Roger",
+    "Converters": "iveli_alpaca",
+    "Category": "bgm",
+    "Audio": "https://www.youtube.com/watch?v=bRQR4srdtZM",
+    "Tags": [
+      "Lobbies and Shops",
+      "Interiors",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Fri Sep 06 2024 03:59:33 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/The Grinch/Cave of Grinch.bin",
+    "Duration": 31.85775065625
   }
 ]
