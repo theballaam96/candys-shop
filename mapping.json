@@ -27415,5 +27415,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Ultimate%20I%20SPY/Find%20Item%20Jingle%208.mp3",
     "Binary": "binaries/Ultimate I SPY/Find Item Jingle 8.bin",
     "Duration": 2.3958333333333335
+  },
+  {
+    "Game": "Donkey Kong Country",
+    "Song": "DK Island Swing (Shortened Intro)",
+    "Composers": "David Wise",
+    "Converters": "Teylahime",
+    "Category": "bgm",
+    "Update Notes": "Rebalanced audio and fixed loud sections. Forgot to reset volume after switching instruments which is why it was so loud at parts. Whoops.",
+    "Tags": [
+      "Exteriors"
+    ],
+    "Verified": true,
+    "Date": "Sat Sep 07 2024 18:17:49 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Donkey%20Kong%20Country/DK%20Island%20Swing%20(Shortened%20Intro)%20(REV%201).mp3",
+    "Binary": "binaries/Donkey Kong Country/DK Island Swing (Shortened Intro) (REV 1).bin",
+    "Duration": 148.23041175
   }
 ]
