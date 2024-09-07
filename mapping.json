@@ -27271,5 +27271,21 @@
     "Date": "Fri Sep 06 2024 03:59:33 GMT+0000 (Coordinated Universal Time)",
     "Binary": "binaries/The Grinch/Cave of Grinch.bin",
     "Duration": 31.85775065625
+  },
+  {
+    "Game": "Mario Party 2",
+    "Song": "Spinning Polka",
+    "Composers": "Kazuhiko Sawaguchi, Shohei Bando, Hironao Yamamoto",
+    "Converters": "Altermentality",
+    "Category": "bgm",
+    "Audio": "https://youtu.be/9Mb861uPK1g",
+    "Tags": [
+      "Minigames",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Sat Sep 07 2024 01:06:10 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Mario Party 2/Spinning Polka.bin",
+    "Duration": 31.897070312500002
   }
 ]
