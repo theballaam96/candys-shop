@@ -27431,5 +27431,20 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Donkey%20Kong%20Country/DK%20Island%20Swing%20(Shortened%20Intro)%20(REV%201).mp3",
     "Binary": "binaries/Donkey Kong Country/DK Island Swing (Shortened Intro) (REV 1).bin",
     "Duration": 148.23041175
+  },
+  {
+    "Game": "Chrono Trigger",
+    "Song": "Courage and Pride",
+    "Composers": "Yasunori Mitsuda",
+    "Converters": "OnlySpaghettiCode",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors"
+    ],
+    "Verified": true,
+    "Date": "Sat Sep 07 2024 21:32:52 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Chrono%20Trigger/Courage%20and%20Pride.mp3",
+    "Binary": "binaries/Chrono Trigger/Courage and Pride.bin",
+    "Duration": 99.70182337499999
   }
 ]
