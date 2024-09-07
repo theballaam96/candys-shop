@@ -27303,5 +27303,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Ultimate%20I%20SPY/Find%20Item%20Jingle%201.mp3",
     "Binary": "binaries/Ultimate I SPY/Find Item Jingle 1.bin",
     "Duration": 1.8439450520833334
+  },
+  {
+    "Game": "Ultimate I SPY",
+    "Song": "Find Item Jingle 2",
+    "Category": "majoritems",
+    "Composers": "Hugh Edwards, Jono Watts, Mark O'Neil, Jeremy Paul Carroll",
+    "Converters": "Schwartz Gandhi",
+    "Tags": [
+      "Collection",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Sat Sep 07 2024 10:05:10 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Ultimate%20I%20SPY/Find%20Item%20Jingle%202.mp3",
+    "Binary": "binaries/Ultimate I SPY/Find Item Jingle 2.bin",
+    "Duration": 1.052305175
   }
 ]
