@@ -27479,5 +27479,22 @@
     "Date": "Sun Sep 08 2024 19:40:36 GMT+0000 (Coordinated Universal Time)",
     "Binary": "binaries/Mario Kart Double Dash/Circuit Theme.bin",
     "Duration": 76.0651028125
+  },
+  {
+    "Game": "Mario Party 3",
+    "Song": "Still Going",
+    "Composers": "Ichiro Shimakura",
+    "Converters": "Altermentality",
+    "Category": "bgm",
+    "Audio": "https://youtu.be/8GvOBdrYSqM",
+    "Tags": [
+      "Lobbies and Shops",
+      "Minigames",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Sun Sep 08 2024 19:42:06 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Mario Party 3/Still Going.bin",
+    "Duration": 33.37042125000001
   }
 ]
