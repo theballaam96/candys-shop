@@ -27462,5 +27462,22 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Wave%20Race%2064/Sunset%20Bay.mp3",
     "Binary": "binaries/Wave Race 64/Sunset Bay.bin",
     "Duration": 28.57136
+  },
+  {
+    "Game": "Mario Kart: Double Dash!!",
+    "Song": "Circuit Theme",
+    "Composers": "Shinobu Tanaka, Kenta Nagata",
+    "Converters": "Teylahime",
+    "Category": "bgm",
+    "Audio": "https://www.youtube.com/watch?v=Xqk6uW_e_2I",
+    "Tags": [
+      "Exteriors",
+      "Minigames",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Sun Sep 08 2024 19:40:36 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Mario Kart Double Dash/Circuit Theme.bin",
+    "Duration": 76.0651028125
   }
 ]
