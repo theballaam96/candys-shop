@@ -27546,5 +27546,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/The%20Legend%20of%20Banjo-Kazooie%20The%20Jiggies%20of%20Time/Shop%20Theme.mp3",
     "Binary": "binaries/The Legend of Banjo-Kazooie The Jiggies of Time/Shop Theme.bin",
     "Duration": 59.99994000000001
+  },
+  {
+    "Game": "The Legend of Banjo-Kazooie: The Jiggies of Time",
+    "Song": "Mumbo's Hut",
+    "Composers": "Koji Kondo, Andy",
+    "Converters": "UmedMuzl",
+    "Category": "bgm",
+    "Tags": [
+      "Lobbies and Shops",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Mon Sep 09 2024 01:40:05 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/The%20Legend%20of%20Banjo-Kazooie%20The%20Jiggies%20of%20Time/Mumbos%20Hut.mp3",
+    "Binary": "binaries/The Legend of Banjo-Kazooie The Jiggies of Time/Mumbos Hut.bin",
+    "Duration": 43.87094799999999
   }
 ]
