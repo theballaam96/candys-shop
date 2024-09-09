@@ -27531,5 +27531,20 @@
     "Date": "Mon Sep 09 2024 01:35:55 GMT+0000 (Coordinated Universal Time)",
     "Binary": "binaries/Animal Crossing New Horizons/KK Slider - Invalid Song Request 2 (Hazure02).bin",
     "Duration": 117.4705736875
+  },
+  {
+    "Game": "The Legend of Banjo-Kazooie: The Jiggies of Time",
+    "Song": "Shop Theme",
+    "Composers": "Koji Kondo, Andy",
+    "Converters": "UmedMuzl",
+    "Category": "bgm",
+    "Tags": [
+      "Lobbies and Shops"
+    ],
+    "Verified": true,
+    "Date": "Mon Sep 09 2024 01:38:32 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/The%20Legend%20of%20Banjo-Kazooie%20The%20Jiggies%20of%20Time/Shop%20Theme.mp3",
+    "Binary": "binaries/The Legend of Banjo-Kazooie The Jiggies of Time/Shop Theme.bin",
+    "Duration": 59.99994000000001
   }
 ]
