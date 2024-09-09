@@ -27595,5 +27595,20 @@
     "Date": "Mon Sep 09 2024 13:02:56 GMT+0000 (Coordinated Universal Time)",
     "Binary": "binaries/Touhou Koumakyou ~ The Embodiment of Scarlet Devil/Beloved Tomboyish Daughter.bin",
     "Duration": 86.84191999999999
+  },
+  {
+    "Game": "Chrono Trigger",
+    "Song": "Gato's Song",
+    "Composers": "Yasunori Mitsuda",
+    "Converters": "OnlySpaghettiCode",
+    "Category": "bgm",
+    "Tags": [
+      "Lobbies and Shops"
+    ],
+    "Verified": true,
+    "Date": "Mon Sep 09 2024 13:07:21 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Chrono%20Trigger/Gatos%20Song.mp3",
+    "Binary": "binaries/Chrono Trigger/Gatos Song.bin",
+    "Duration": 9.606250000000001
   }
 ]
