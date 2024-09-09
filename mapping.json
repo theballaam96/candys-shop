@@ -27562,5 +27562,20 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/The%20Legend%20of%20Banjo-Kazooie%20The%20Jiggies%20of%20Time/Mumbos%20Hut.mp3",
     "Binary": "binaries/The Legend of Banjo-Kazooie The Jiggies of Time/Mumbos Hut.bin",
     "Duration": 43.87094799999999
+  },
+  {
+    "Game": "The Legend of Banjo-Kazooie: The Jiggies of Time",
+    "Song": "Grunty's Fight",
+    "Composers": "Grant Kirkhope, Koji Kondo, Kurko",
+    "Converters": "UmedMuzl",
+    "Category": "bgm",
+    "Tags": [
+      "Fights"
+    ],
+    "Verified": true,
+    "Date": "Mon Sep 09 2024 01:41:42 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/The%20Legend%20of%20Banjo-Kazooie%20The%20Jiggies%20of%20Time/Gruntys%20Fight.mp3",
+    "Binary": "binaries/The Legend of Banjo-Kazooie The Jiggies of Time/Gruntys Fight.bin",
+    "Duration": 182.8331505
   }
 ]
