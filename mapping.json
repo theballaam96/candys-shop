@@ -27496,5 +27496,21 @@
     "Date": "Sun Sep 08 2024 19:42:06 GMT+0000 (Coordinated Universal Time)",
     "Binary": "binaries/Mario Party 3/Still Going.bin",
     "Duration": 33.37042125000001
+  },
+  {
+    "Game": "Chrono Trigger",
+    "Song": "A Strange Happening",
+    "Composers": "Yasunori Mitsuda",
+    "Converters": "OnlySpaghettiCode",
+    "Category": "bgm",
+    "Tags": [
+      "Interiors",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Mon Sep 09 2024 00:56:13 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Chrono%20Trigger/A%20Strange%20Happening.mp3",
+    "Binary": "binaries/Chrono Trigger/A Strange Happening.bin",
+    "Duration": 42.96233879166666
   }
 ]
