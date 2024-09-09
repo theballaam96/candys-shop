@@ -27512,5 +27512,24 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Chrono%20Trigger/A%20Strange%20Happening.mp3",
     "Binary": "binaries/Chrono Trigger/A Strange Happening.bin",
     "Duration": 42.96233879166666
+  },
+  {
+    "Game": "Animal Crossing: New Horizons",
+    "Song": "K.K. Slider - Invalid Song Request 2 (Hazure02)",
+    "Composers": "Kazumi Totaka",
+    "Converters": "Teylahime",
+    "Category": "bgm",
+    "Audio": "https://www.youtube.com/watch?v=nhtZQn_f4X8",
+    "Additional Notes": "Also called K.K. City Pop",
+    "Tags": [
+      "Interiors",
+      "Exteriors",
+      "Happy",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Mon Sep 09 2024 01:35:55 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Animal Crossing New Horizons/KK Slider - Invalid Song Request 2 (Hazure02).bin",
+    "Duration": 117.4705736875
   }
 ]
