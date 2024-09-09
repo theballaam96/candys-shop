@@ -27610,5 +27610,39 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Chrono%20Trigger/Gatos%20Song.mp3",
     "Binary": "binaries/Chrono Trigger/Gatos Song.bin",
     "Duration": 9.606250000000001
+  },
+  {
+    "Game": "Animal Crossing: Wild World",
+    "Song": "Museum",
+    "Composers": "Kazumi Totaka, Asuka Hayazaki",
+    "Converters": "BashPrime",
+    "Category": "bgm",
+    "Tags": [
+      "Lobbies and Shops",
+      "Interiors",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Mon Sep 09 2024 13:16:48 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Animal%20Crossing%20Wild%20World/Museum.mp3",
+    "Binary": "binaries/Animal Crossing Wild World/Museum.bin",
+    "Duration": 60.07210737500001
+  },
+  {
+    "Game": "Animal Crossing: New Leaf",
+    "Song": "7 PM",
+    "Composers": "Manaka Kataoka, Atsuko Asahi, Kazumi Totaka",
+    "Converters": "BashPrime",
+    "Category": "bgm",
+    "Audio": "https://www.youtube.com/watch?v=5ycD6AYPSR0",
+    "Tags": [
+      "Exteriors",
+      "Gloomy",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Mon Sep 09 2024 13:16:49 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Animal Crossing New Leaf/7 PM.bin",
+    "Duration": 47.66998591666667
   }
 ]
