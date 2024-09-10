@@ -27660,5 +27660,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Chrono%20Trigger/Lab%2016s%20Ruin.mp3",
     "Binary": "binaries/Chrono Trigger/Lab 16s Ruin.bin",
     "Duration": 38.692449687499995
+  },
+  {
+    "Game": "Chrono Trigger",
+    "Song": "Robo Gang Johnny",
+    "Composers": "Yasunori Mitsuda",
+    "Converters": "OnlySpaghettiCode",
+    "Category": "bgm",
+    "Tags": [
+      "Lobbies and Shops",
+      "Exteriors"
+    ],
+    "Verified": true,
+    "Date": "Tue Sep 10 2024 08:49:02 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Chrono%20Trigger/Robo%20Gang%20Johnny.mp3",
+    "Binary": "binaries/Chrono Trigger/Robo Gang Johnny.bin",
+    "Duration": 38.71976064583333
   }
 ]
