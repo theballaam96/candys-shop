@@ -27644,5 +27644,21 @@
     "Date": "Mon Sep 09 2024 13:16:49 GMT+0000 (Coordinated Universal Time)",
     "Binary": "binaries/Animal Crossing New Leaf/7 PM.bin",
     "Duration": 47.66998591666667
+  },
+  {
+    "Game": "Chrono Trigger",
+    "Song": "Lab 16's Ruin",
+    "Composers": "Yasunori Mitsuda",
+    "Converters": "OnlySpaghettiCode",
+    "Category": "bgm",
+    "Tags": [
+      "Interiors",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Tue Sep 10 2024 08:47:07 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Chrono%20Trigger/Lab%2016s%20Ruin.mp3",
+    "Binary": "binaries/Chrono Trigger/Lab 16s Ruin.bin",
+    "Duration": 38.692449687499995
   }
 ]
