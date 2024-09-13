@@ -27676,5 +27676,18 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Chrono%20Trigger/Robo%20Gang%20Johnny.mp3",
     "Binary": "binaries/Chrono Trigger/Robo Gang Johnny.bin",
     "Duration": 38.71976064583333
+  },
+  {
+    "Game": "Star Fox 64",
+    "Song": "Start Demo 2",
+    "Composers": "Koji Kondo",
+    "Converters": "BashPrime",
+    "Category": "events",
+    "Update Notes": "This is a new arrangement based on the original MIDI from Star Fox 64",
+    "Verified": true,
+    "Date": "Fri Sep 13 2024 00:29:20 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Star%20Fox%2064/Start%20Demo%202%20(REV%201).mp3",
+    "Binary": "binaries/Star Fox 64/Start Demo 2 (REV 1).bin",
+    "Duration": 8.064806749999999
   }
 ]
