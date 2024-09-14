@@ -27738,5 +27738,23 @@
     "Date": "Sat Sep 14 2024 09:19:08 GMT+0000 (Coordinated Universal Time)",
     "Binary": "binaries/Star Fox 64/Meteo.bin",
     "Duration": 52.825
+  },
+  {
+    "Game": "Mario is Missing!",
+    "Song": "United States (DOS/SNES)",
+    "Composers": "Sam Powell, Bob Wallace",
+    "Converters": "Beyer",
+    "Category": "bgm",
+    "Update Notes": "Volume boost and rebalancing (previous Integrated was -18.56 LUFS)",
+    "Tags": [
+      "Lobbies and Shops",
+      "Interiors",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Sat Sep 14 2024 09:24:52 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Mario%20is%20Missing/United%20States%20(DOSSNES)%20(REV%201).mp3",
+    "Binary": "binaries/Mario is Missing/United States (DOSSNES) (REV 1).bin",
+    "Duration": 84
   }
 ]
