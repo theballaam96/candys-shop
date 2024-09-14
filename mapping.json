@@ -27756,5 +27756,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Mario%20is%20Missing/United%20States%20(DOSSNES)%20(REV%201).mp3",
     "Binary": "binaries/Mario is Missing/United States (DOSSNES) (REV 1).bin",
     "Duration": 84
+  },
+  {
+    "Game": "Donkey Kong Country 3: Dixie Kong's Double Trouble!",
+    "Song": "Bonus Time!",
+    "Composers": "Eveline Fischer",
+    "Converters": "OnlySpaghettiCode",
+    "Category": "bgm",
+    "Tags": [
+      "Minigames",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Sat Sep 14 2024 22:58:00 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Donkey%20Kong%20Country%203%20Dixie%20Kongs%20Double%20Trouble/Bonus%20Time.mp3",
+    "Binary": "binaries/Donkey Kong Country 3 Dixie Kongs Double Trouble/Bonus Time.bin",
+    "Duration": 48.612500000000004
   }
 ]
