@@ -27689,5 +27689,22 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Star%20Fox%2064/Start%20Demo%202%20(REV%201).mp3",
     "Binary": "binaries/Star Fox 64/Start Demo 2 (REV 1).bin",
     "Duration": 8.064806749999999
+  },
+  {
+    "Game": "Star Fox 64",
+    "Song": "Select",
+    "Composers": "Koji Kondo",
+    "Converters": "BashPrime",
+    "Category": "bgm",
+    "Audio": "https://www.youtube.com/watch?v=UCrWfL-KeUw",
+    "Tags": [
+      "Lobbies and Shops",
+      "Interiors",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Sat Sep 14 2024 02:30:58 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Star Fox 64/Select.bin",
+    "Duration": 54.57390911458333
   }
 ]
