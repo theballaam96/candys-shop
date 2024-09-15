@@ -27772,5 +27772,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Donkey%20Kong%20Country%203%20Dixie%20Kongs%20Double%20Trouble/Bonus%20Time.mp3",
     "Binary": "binaries/Donkey Kong Country 3 Dixie Kongs Double Trouble/Bonus Time.bin",
     "Duration": 48.612500000000004
+  },
+  {
+    "Game": "Castlevania: Circle of the Moon",
+    "Song": "The Sinking Old Sanctuary",
+    "Composers": "Michiru Yamane",
+    "Converters": "Altermentality",
+    "Category": "bgm",
+    "Audio": "https://youtu.be/5nsA7hx5m8w",
+    "Tags": [
+      "Exteriors",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Sun Sep 15 2024 00:04:52 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Castlevania Circle of the Moon/The Sinking Old Sanctuary.bin",
+    "Duration": 90.24990975
   }
 ]
