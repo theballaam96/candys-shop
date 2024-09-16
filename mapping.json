@@ -27788,5 +27788,22 @@
     "Date": "Sun Sep 15 2024 00:04:52 GMT+0000 (Coordinated Universal Time)",
     "Binary": "binaries/Castlevania Circle of the Moon/The Sinking Old Sanctuary.bin",
     "Duration": 90.24990975
+  },
+  {
+    "Game": "Star Fox 64",
+    "Song": "Bolse",
+    "Composers": "Hajime Wakai",
+    "Converters": "BashPrime",
+    "Category": "bgm",
+    "Audio": "https://www.youtube.com/watch?v=yVhDiJsbfyM",
+    "Tags": [
+      "Fights",
+      "Exteriors",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Mon Sep 16 2024 09:07:01 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Star Fox 64/Bolse.bin",
+    "Duration": 39.240209812500005
   }
 ]
