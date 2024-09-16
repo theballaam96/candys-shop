@@ -27836,5 +27836,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Star%20Fox%2064/Player%20Down.mp3",
     "Binary": "binaries/Star Fox 64/Player Down.bin",
     "Duration": 2.46875
+  },
+  {
+    "Game": "Pokémon Diamond, Pearl & Platinum",
+    "Song": "Bicycle",
+    "Composers": "Go Ichinose",
+    "Converters": "nerosomething",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Mon Sep 16 2024 18:52:25 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Pok%C3%A9mon%20Diamond,%20Pearl%20%20Platinum/Bicycle.mp3",
+    "Binary": "binaries/Pokémon Diamond, Pearl  Platinum/Bicycle.bin",
+    "Duration": 70.50140185416666
   }
 ]
