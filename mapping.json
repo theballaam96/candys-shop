@@ -27805,5 +27805,20 @@
     "Date": "Mon Sep 16 2024 09:07:01 GMT+0000 (Coordinated Universal Time)",
     "Binary": "binaries/Star Fox 64/Bolse.bin",
     "Duration": 39.240209812500005
+  },
+  {
+    "Game": "Star Fox 64",
+    "Song": "Sector Y and Solar",
+    "Composers": "Hajime Wakai",
+    "Converters": "BashPrime",
+    "Category": "bgm",
+    "Audio": "https://www.youtube.com/watch?v=XLeWuCQIQGo",
+    "Tags": [
+      "Exteriors"
+    ],
+    "Verified": true,
+    "Date": "Mon Sep 16 2024 09:08:30 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Star Fox 64/Sector Y and Solar.bin",
+    "Duration": 69.8787010625
   }
 ]
