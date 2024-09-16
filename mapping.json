@@ -27820,5 +27820,21 @@
     "Date": "Mon Sep 16 2024 09:08:30 GMT+0000 (Coordinated Universal Time)",
     "Binary": "binaries/Star Fox 64/Sector Y and Solar.bin",
     "Duration": 69.8787010625
+  },
+  {
+    "Game": "Star Fox 64",
+    "Song": "Player Down",
+    "Composers": "Koji Kondo",
+    "Converters": "BashPrime",
+    "Category": "events",
+    "Tags": [
+      "Spawning",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Mon Sep 16 2024 09:10:05 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Star%20Fox%2064/Player%20Down.mp3",
+    "Binary": "binaries/Star Fox 64/Player Down.bin",
+    "Duration": 2.46875
   }
 ]
