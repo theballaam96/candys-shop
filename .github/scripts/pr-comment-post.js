@@ -47,6 +47,7 @@ async function run() {
         content = `New PR Comment on ${user}'s PR "${response.data.title}": ${process.env.PR_URL}`
         webhookUrl = process.env.DISCORD_WEBHOOK_SUBMISSION;
       } else {
+        return
         // Post to submission comments channel
         let mention = userID == null ? "" : `<@${userID}> `
         content = `${mention}New PR Comment on "${response.data.title}": ${process.env.PR_URL}`;
