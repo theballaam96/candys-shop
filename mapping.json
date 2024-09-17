@@ -27852,5 +27852,20 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Pok%C3%A9mon%20Diamond,%20Pearl%20%20Platinum/Bicycle.mp3",
     "Binary": "binaries/Pokémon Diamond, Pearl  Platinum/Bicycle.bin",
     "Duration": 70.50140185416666
+  },
+  {
+    "Game": "EarthBound",
+    "Song": "Title Screen",
+    "Composers": "Keiichi Suzuki, Hirokazu Tanaka",
+    "Converters": "nerosomething",
+    "Category": "events",
+    "Tags": [
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Tue Sep 17 2024 19:14:12 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/EarthBound/Title%20Screen.mp3",
+    "Binary": "binaries/EarthBound/Title Screen.bin",
+    "Duration": 13.650564541666665
   }
 ]
