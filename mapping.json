@@ -27867,5 +27867,22 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/EarthBound/Title%20Screen.mp3",
     "Binary": "binaries/EarthBound/Title Screen.bin",
     "Duration": 13.650564541666665
+  },
+  {
+    "Game": "Star Fox 64",
+    "Song": "Training",
+    "Composers": "Hajime Wakai",
+    "Converters": "BashPrime",
+    "Category": "bgm",
+    "Audio": "https://www.youtube.com/watch?v=BvcYE5Ytln8",
+    "Tags": [
+      "Lobbies and Shops",
+      "Interiors",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Wed Sep 18 2024 00:15:33 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Star Fox 64/Training.bin",
+    "Duration": 30.03125
   }
 ]
