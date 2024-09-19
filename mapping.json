@@ -27900,5 +27900,22 @@
     "Date": "Thu Sep 19 2024 06:57:18 GMT+0000 (Coordinated Universal Time)",
     "Binary": "binaries/Star Fox 64/Fichina and Sector Z.bin",
     "Duration": 54.425000000000004
+  },
+  {
+    "Game": "Star Fox 64",
+    "Song": "Andross Brain",
+    "Composers": "Hajime Wakai",
+    "Converters": "BashPrime",
+    "Category": "bgm",
+    "Audio": "https://www.youtube.com/watch?v=fwm5kmBI-yU",
+    "Tags": [
+      "Fights",
+      "Interiors",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Thu Sep 19 2024 18:12:38 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Star Fox 64/Andross Brain.bin",
+    "Duration": 56.6927536875
   }
 ]
