@@ -27917,5 +27917,22 @@
     "Date": "Thu Sep 19 2024 18:12:38 GMT+0000 (Coordinated Universal Time)",
     "Binary": "binaries/Star Fox 64/Andross Brain.bin",
     "Duration": 56.6927536875
+  },
+  {
+    "Game": "Donkey Kong 64",
+    "Song": "Castle Caves",
+    "Composers": "Grant Kirkhope",
+    "Converters": "LBFrank",
+    "Category": "bgm",
+    "Tags": [
+      "Interiors",
+      "Gloomy",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Thu Sep 19 2024 21:20:53 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Donkey%20Kong%2064/Castle%20Caves.mp3",
+    "Binary": "binaries/Donkey Kong 64/Castle Caves.bin",
+    "Duration": 105.726556
   }
 ]
