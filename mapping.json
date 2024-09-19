@@ -27884,5 +27884,21 @@
     "Date": "Wed Sep 18 2024 00:15:33 GMT+0000 (Coordinated Universal Time)",
     "Binary": "binaries/Star Fox 64/Training.bin",
     "Duration": 30.03125
+  },
+  {
+    "Game": "Star Fox 64",
+    "Song": "Fichina and Sector Z",
+    "Composers": "Hajime Wakai",
+    "Converters": "BashPrime",
+    "Category": "bgm",
+    "Audio": "https://www.youtube.com/watch?v=dBstFNT7UII",
+    "Tags": [
+      "Fights",
+      "Exteriors"
+    ],
+    "Verified": true,
+    "Date": "Thu Sep 19 2024 06:57:18 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Star Fox 64/Fichina and Sector Z.bin",
+    "Duration": 54.425000000000004
   }
 ]
