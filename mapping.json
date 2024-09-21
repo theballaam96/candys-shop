@@ -27934,5 +27934,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Donkey%20Kong%2064/Castle%20Caves.mp3",
     "Binary": "binaries/Donkey Kong 64/Castle Caves.bin",
     "Duration": 105.726556
+  },
+  {
+    "Game": "Mario Party 2",
+    "Song": "Couldn't Be Better",
+    "Composers": "Hironao Yamamoto, Shohei Bando, Kazuhiko Sawaguchi",
+    "Converters": "Altermentality",
+    "Category": "bgm",
+    "Audio": "https://youtu.be/Gm79WkP50c0",
+    "Tags": [
+      "Minigames",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Sat Sep 21 2024 03:46:57 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Mario Party 2/Couldnt Be Better.bin",
+    "Duration": 28.705132927083334
   }
 ]
