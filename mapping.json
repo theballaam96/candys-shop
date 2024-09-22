@@ -27950,5 +27950,20 @@
     "Date": "Sat Sep 21 2024 03:46:57 GMT+0000 (Coordinated Universal Time)",
     "Binary": "binaries/Mario Party 2/Couldnt Be Better.bin",
     "Duration": 28.705132927083334
+  },
+  {
+    "Game": "Shovel Knight",
+    "Song": "An Underlying Problem (The Lost City)",
+    "Composers": "Jake \"Virt\" Kaufman",
+    "Converters": "Wibdiwoh",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors"
+    ],
+    "Verified": true,
+    "Date": "Sun Sep 22 2024 21:34:01 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Shovel%20Knight/An%20Underlying%20Problem%20(The%20Lost%20City).mp3",
+    "Binary": "binaries/Shovel Knight/An Underlying Problem (The Lost City).bin",
+    "Duration": 91.517496
   }
 ]
