@@ -27995,5 +27995,23 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Shovel%20Knight/Of%20Devious%20Machinations%20(Clockwork%20Tower).mp3",
     "Binary": "binaries/Shovel Knight/Of Devious Machinations (Clockwork Tower).bin",
     "Duration": 78.4
+  },
+  {
+    "Game": "Pokémon Mystery Dungeon: Explorers of Sky",
+    "Song": "Spinda's Cafe",
+    "Composers": "Arata Iiyoshi",
+    "Converters": "Altermentality",
+    "Category": "bgm",
+    "Audio": "https://youtu.be/iAmdK8yg3Jc",
+    "Additional Notes": "Dedicated to JP.",
+    "Tags": [
+      "Lobbies and Shops",
+      "Interiors",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Mon Sep 23 2024 05:52:31 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Pokémon Mystery Dungeon Explorers of Sky/Spindas Cafe.bin",
+    "Duration": 84.5
   }
 ]
