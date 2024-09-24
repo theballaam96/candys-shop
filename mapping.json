@@ -28030,5 +28030,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Other/Shock%20Horror%20(A)%20(DUN%20DUN%20DUNNN).wav",
     "Binary": "binaries/Other/Shock Horror (A) (DUN DUN DUNNN).bin",
     "Duration": 3.5857647499999996
+  },
+  {
+    "Game": "EarthBound",
+    "Song": "Snowman",
+    "Composers": "Hirokazu Tanaka",
+    "Converters": "nerosomething",
+    "Category": "bgm",
+    "Tags": [
+      "Interiors",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Tue Sep 24 2024 22:22:07 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/EarthBound/Snowman.mp3",
+    "Binary": "binaries/EarthBound/Snowman.bin",
+    "Duration": 67.44316383333333
   }
 ]
