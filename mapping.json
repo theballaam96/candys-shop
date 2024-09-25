@@ -28046,5 +28046,22 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/EarthBound/Snowman.mp3",
     "Binary": "binaries/EarthBound/Snowman.bin",
     "Duration": 67.44316383333333
+  },
+  {
+    "Game": "Pokémon X & Y",
+    "Song": "Laverre City",
+    "Category": "bgm",
+    "Composers": "Junichi Masuda",
+    "Converters": "Schwartz Gandhi",
+    "Tags": [
+      "Exteriors",
+      "Calm",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Wed Sep 25 2024 19:38:17 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Pok%C3%A9mon%20X%20%20Y/Laverre%20City.mp3",
+    "Binary": "binaries/Pokémon X  Y/Laverre City.bin",
+    "Duration": 62.99921875
   }
 ]
