@@ -28063,5 +28063,23 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Pok%C3%A9mon%20X%20%20Y/Laverre%20City.mp3",
     "Binary": "binaries/Pokémon X  Y/Laverre City.bin",
     "Duration": 62.99921875
+  },
+  {
+    "Game": "Pokémon XD: Gale of Darkness",
+    "Song": "S.S. Libra",
+    "Composers": "Tsukasa Tawada",
+    "Converters": "LBFrank",
+    "Category": "bgm",
+    "Update Notes": "Added reverb and segmented a long e chord, + some other adjustments to make it sound more in line with the original",
+    "Tags": [
+      "Interiors",
+      "Gloomy",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Thu Sep 26 2024 23:33:09 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Pok%C3%A9mon%20XD%20Gale%20of%20Darkness/SS%20Libra%20(REV%201).mp3",
+    "Binary": "binaries/Pokémon XD Gale of Darkness/SS Libra (REV 1).bin",
+    "Duration": 52.14385587500001
   }
 ]
