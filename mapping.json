@@ -28081,5 +28081,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Pok%C3%A9mon%20XD%20Gale%20of%20Darkness/SS%20Libra%20(REV%201).mp3",
     "Binary": "binaries/Pokémon XD Gale of Darkness/SS Libra (REV 1).bin",
     "Duration": 52.14385587500001
+  },
+  {
+    "Game": "Mario Party 2",
+    "Song": "Walking Underwater",
+    "Composers": "Hironao Yamamoto, Shohei Bando, Kazuhiko Sawaguchi",
+    "Converters": "Altermentality",
+    "Category": "bgm",
+    "Audio": "https://youtu.be/j1gsPIthr2M",
+    "Tags": [
+      "Minigames",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Fri Sep 27 2024 01:25:36 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Mario Party 2/Walking Underwater.bin",
+    "Duration": 17.6298824375
   }
 ]
