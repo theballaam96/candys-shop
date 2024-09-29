@@ -28114,5 +28114,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Gunbound/Result%20Screen.mp3",
     "Binary": "binaries/Gunbound/Result Screen.bin",
     "Duration": 60.95232
+  },
+  {
+    "Game": "Bomberman 64: The Second Attack!",
+    "Song": "Merchant Ship Frontier",
+    "Composers": "Tomohiko Kira, Yasunori Mitsuda, Hidenobu Otsuki, Tomori Kudo, Hiroyo Yamanaka, Yoshitaka Hirota, Kenji Hiramatsu",
+    "Converters": "Altermentality",
+    "Category": "bgm",
+    "Audio": "https://youtu.be/KX-OP90K9gg",
+    "Tags": [
+      "Lobbies and Shops",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Sun Sep 29 2024 10:38:14 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Bomberman 64 The Second Attack/Merchant Ship Frontier.bin",
+    "Duration": 37.665208
   }
 ]
