@@ -28130,5 +28130,20 @@
     "Date": "Sun Sep 29 2024 10:38:14 GMT+0000 (Coordinated Universal Time)",
     "Binary": "binaries/Bomberman 64 The Second Attack/Merchant Ship Frontier.bin",
     "Duration": 37.665208
+  },
+  {
+    "Game": "Shuusou Gyoku",
+    "Song": "The Witches' Ball ~ Magus",
+    "Category": "bgm",
+    "Composers": "ZUN",
+    "Converters": "Schwartz Gandhi",
+    "Tags": [
+      "Fights"
+    ],
+    "Verified": true,
+    "Date": "Sun Sep 29 2024 10:39:53 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Shuusou%20Gyoku/The%20Witches%20Ball%20~%20Magus.mp3",
+    "Binary": "binaries/Shuusou Gyoku/The Witches Ball ~ Magus.bin",
+    "Duration": 66.20688
   }
 ]
