@@ -28161,5 +28161,21 @@
     "Date": "Mon Sep 30 2024 09:18:54 GMT+0000 (Coordinated Universal Time)",
     "Binary": "binaries/BUDD/Bravery and Locomotion.bin",
     "Duration": 131.99499999999998
+  },
+  {
+    "Game": "Kirby 64: The Crystal Shards",
+    "Song": "Shiver Star",
+    "Composers": "Jun Ishikawa",
+    "Converters": "Altermentality",
+    "Category": "bgm",
+    "Audio": "https://youtu.be/w1E-mjT6Ahw",
+    "Tags": [
+      "Exteriors",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Mon Sep 30 2024 09:20:42 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Kirby 64 The Crystal Shards/Shiver Star.bin",
+    "Duration": 79.47354187500001
   }
 ]
