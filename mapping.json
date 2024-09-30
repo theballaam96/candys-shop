@@ -28145,5 +28145,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Shuusou%20Gyoku/The%20Witches%20Ball%20~%20Magus.mp3",
     "Binary": "binaries/Shuusou Gyoku/The Witches Ball ~ Magus.bin",
     "Duration": 66.20688
+  },
+  {
+    "Game": "BUDD",
+    "Song": "Bravery and Locomotion",
+    "Composers": "iveli_alpaca",
+    "Converters": "iveli_alpaca",
+    "Category": "bgm",
+    "Audio": "https://www.youtube.com/watch?v=7zYJ9Kx4OyQ",
+    "Tags": [
+      "Interiors",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Mon Sep 30 2024 09:18:54 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/BUDD/Bravery and Locomotion.bin",
+    "Duration": 131.99499999999998
   }
 ]
