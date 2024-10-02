@@ -28209,5 +28209,22 @@
     "Date": "Wed Oct 02 2024 02:14:45 GMT+0000 (Coordinated Universal Time)",
     "Binary": "binaries/BUDD/Unknown Flora.bin",
     "Duration": 133.55974921875
+  },
+  {
+    "Game": "Consoles and BIOS",
+    "Song": "Mii Channel",
+    "Composers": "Kazumi Totaka",
+    "Converters": "UmedMuzl",
+    "Category": "bgm",
+    "Update Notes": "Improved",
+    "Tags": [
+      "Lobbies and Shops",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Wed Oct 02 2024 02:36:13 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Consoles%20and%20BIOS/Mii%20Channel%20(REV%201).mp3",
+    "Binary": "binaries/Consoles and BIOS/Mii Channel (REV 1).bin",
+    "Duration": 52.88379308333333
   }
 ]
