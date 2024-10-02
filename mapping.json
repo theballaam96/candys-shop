@@ -28193,5 +28193,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Super%20Mario%20Galaxy%202/Galaxy%20Intro.mp3",
     "Binary": "binaries/Super Mario Galaxy 2/Galaxy Intro.bin",
     "Duration": 7.8809903229166665
+  },
+  {
+    "Game": "BUDD",
+    "Song": "Unknown Flora",
+    "Composers": "iveli_alpaca",
+    "Converters": "iveli_alpaca",
+    "Category": "bgm",
+    "Audio": "https://youtu.be/nYMNLpLBoN8?si=xVFXnKLElL7WjbTO",
+    "Tags": [
+      "Exteriors",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Wed Oct 02 2024 02:14:45 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/BUDD/Unknown Flora.bin",
+    "Duration": 133.55974921875
   }
 ]
