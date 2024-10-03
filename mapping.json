@@ -28226,5 +28226,21 @@
     "Audio": "https://www.youtube.com/watch?v=3vu2VKqTHiA",
     "Binary": "binaries/Consoles and BIOS/Mii Channel (REV 1).bin",
     "Duration": 52.88379308333333
+  },
+  {
+    "Game": "Kirby 64: The Crystal Shards",
+    "Song": "Quiet Forest",
+    "Composers": "Jun Ishikawa",
+    "Converters": "Altermentality",
+    "Category": "bgm",
+    "Audio": "https://youtu.be/0NYJBoMvabE",
+    "Tags": [
+      "Interiors",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Thu Oct 03 2024 01:59:43 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Kirby 64 The Crystal Shards/Quiet Forest.bin",
+    "Duration": 69.7041313515625
   }
 ]
