@@ -28289,5 +28289,20 @@
     "Date": "Tue Oct 08 2024 02:50:35 GMT+0000 (Coordinated Universal Time)",
     "Binary": "binaries/Super Mario Odyssey/Broodals Battle.bin",
     "Duration": 99.12152250000001
+  },
+  {
+    "Game": "Touhou Jaseishou ~ The Last Comer",
+    "Song": "Mankind Salvation Plan ~ The Greatest Salvation",
+    "Category": "bgm",
+    "Composers": "Wanwan",
+    "Converters": "Schwartz Gandhi",
+    "Tags": [
+      "Fights"
+    ],
+    "Verified": true,
+    "Date": "Tue Oct 08 2024 11:50:05 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Touhou%20Jaseishou%20~%20The%20Last%20Comer/Mankind%20Salvation%20Plan%20~%20The%20Greatest%20Salvation.mp3",
+    "Binary": "binaries/Touhou Jaseishou ~ The Last Comer/Mankind Salvation Plan ~ The Greatest Salvation.bin",
+    "Duration": 266.535644
   }
 ]
