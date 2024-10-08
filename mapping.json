@@ -28274,5 +28274,20 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Final%20Fantasy%20VII/Cinco%20de%20Chocobo.mp3",
     "Binary": "binaries/Final Fantasy VII/Cinco de Chocobo.bin",
     "Duration": 86.0068584375
+  },
+  {
+    "Game": "Super Mario Odyssey",
+    "Song": "Broodals Battle",
+    "Composers": "Naoto Kubo",
+    "Converters": "UmedMuzl",
+    "Category": "bgm",
+    "Audio": "https://www.youtube.com/watch?v=Gym2NrFOVZY",
+    "Tags": [
+      "Fights"
+    ],
+    "Verified": true,
+    "Date": "Tue Oct 08 2024 02:50:35 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Super Mario Odyssey/Broodals Battle.bin",
+    "Duration": 99.12152250000001
   }
 ]
