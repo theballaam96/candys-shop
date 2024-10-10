@@ -28336,5 +28336,21 @@
     "Date": "Thu Oct 10 2024 04:28:34 GMT+0000 (Coordinated Universal Time)",
     "Binary": "binaries/Psychopomp/Bad Chest Feel Dont Touch your Feet Together.bin",
     "Duration": 74.65975955208333
+  },
+  {
+    "Game": "Kahoot!",
+    "Song": "Lobby Theme",
+    "Composers": "Alf Inge Wang",
+    "Converters": "UmedMuzl",
+    "Category": "bgm",
+    "Tags": [
+      "Lobbies and Shops",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Thu Oct 10 2024 04:30:29 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Kahoot/Lobby%20Theme.mp3",
+    "Binary": "binaries/Kahoot/Lobby Theme.bin",
+    "Duration": 128.25
   }
 ]
