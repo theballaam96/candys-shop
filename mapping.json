@@ -28304,5 +28304,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Touhou%20Jaseishou%20~%20The%20Last%20Comer/Mankind%20Salvation%20Plan%20~%20The%20Greatest%20Salvation.mp3",
     "Binary": "binaries/Touhou Jaseishou ~ The Last Comer/Mankind Salvation Plan ~ The Greatest Salvation.bin",
     "Duration": 266.535644
+  },
+  {
+    "Game": "Castlevania II: Simon's Quest",
+    "Song": "Monster Dance",
+    "Category": "bgm",
+    "Composers": "Matsubara Kenichi, Terashima Satoe, Murata Kouji",
+    "Converters": "Schwartz Gandhi",
+    "Tags": [
+      "Exteriors",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Thu Oct 10 2024 04:26:49 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Castlevania%20II%20Simons%20Quest/Monster%20Dance.mp3",
+    "Binary": "binaries/Castlevania II Simons Quest/Monster Dance.bin",
+    "Duration": 23.57029992916667
   }
 ]
