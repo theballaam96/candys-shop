@@ -28320,5 +28320,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Castlevania%20II%20Simons%20Quest/Monster%20Dance.mp3",
     "Binary": "binaries/Castlevania II Simons Quest/Monster Dance.bin",
     "Duration": 23.57029992916667
+  },
+  {
+    "Game": "Psychopomp",
+    "Song": "Bad Chest Feel Don't Touch your Feet Together",
+    "Composers": "Karbonic",
+    "Converters": "iveli_alpaca",
+    "Category": "bgm",
+    "Audio": "https://www.youtube.com/watch?v=R5xNCIFbfWw",
+    "Tags": [
+      "Lobbies and Shops",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Thu Oct 10 2024 04:28:34 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Psychopomp/Bad Chest Feel Dont Touch your Feet Together.bin",
+    "Duration": 74.65975955208333
   }
 ]
