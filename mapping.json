@@ -28352,5 +28352,22 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Kahoot/Lobby%20Theme.mp3",
     "Binary": "binaries/Kahoot/Lobby Theme.bin",
     "Duration": 128.25
+  },
+  {
+    "Game": "Sonic & Knuckles",
+    "Song": "Sandopolis Zone Act 2",
+    "Category": "bgm",
+    "Composers": "Howard Drossin",
+    "Converters": "Schwartz Gandhi",
+    "Tags": [
+      "Interiors",
+      "Gloomy"
+    ],
+    "Update Notes": "rebalance with events actually in order",
+    "Verified": true,
+    "Date": "Sat Oct 12 2024 05:45:58 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Sonic%20%20Knuckles/Sandopolis%20Zone%20Act%202%20(REV%201).mp3",
+    "Binary": "binaries/Sonic  Knuckles/Sandopolis Zone Act 2 (REV 1).bin",
+    "Duration": 54.960845802083334
   }
 ]
