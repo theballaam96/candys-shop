@@ -28387,5 +28387,22 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Plants%20vs%20Zombies/Grasswalk.mp3",
     "Binary": "binaries/Plants vs Zombies/Grasswalk.bin",
     "Duration": 139.82605199999998
+  },
+  {
+    "Game": "Hotel Mario",
+    "Song": "Main Theme",
+    "Composers": "Max Steiner, Jack Levy, Marc St. Regis",
+    "Converters": "Cash Money",
+    "Category": "bgm",
+    "Additional Notes": "Dear pesky primates, The Kremlings and I have taken over Donkey Kong Island. The banana hoard is now a permanent guest at one of my 7 kremling hotels. I dare you to find it if you can!",
+    "Tags": [
+      "Lobbies and Shops",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Sun Oct 13 2024 17:16:42 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Hotel%20Mario/Main%20Theme%20(REV%201).mp3",
+    "Binary": "binaries/Hotel Mario/Main Theme (REV 1).bin",
+    "Duration": 46.03841549999999
   }
 ]
