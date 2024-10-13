@@ -28369,5 +28369,23 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Sonic%20%20Knuckles/Sandopolis%20Zone%20Act%202%20(REV%201).mp3",
     "Binary": "binaries/Sonic  Knuckles/Sandopolis Zone Act 2 (REV 1).bin",
     "Duration": 54.960845802083334
+  },
+  {
+    "Game": "Plants vs. Zombies",
+    "Song": "Grasswalk",
+    "Composers": "Laura Shigihara",
+    "Converters": "LBFrank",
+    "Category": "bgm",
+    "Tags": [
+      "Interiors",
+      "Exteriors",
+      "Gloomy",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Sun Oct 13 2024 16:04:17 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Plants%20vs%20Zombies/Grasswalk.mp3",
+    "Binary": "binaries/Plants vs Zombies/Grasswalk.bin",
+    "Duration": 139.82605199999998
   }
 ]
