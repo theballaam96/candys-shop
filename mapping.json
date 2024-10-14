@@ -28404,5 +28404,22 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Hotel%20Mario/Main%20Theme%20(REV%201).mp3",
     "Binary": "binaries/Hotel Mario/Main Theme (REV 1).bin",
     "Duration": 46.03841549999999
+  },
+  {
+    "Game": "Cave Story",
+    "Song": "Mimiga Town",
+    "Category": "bgm",
+    "Composers": "Pixel",
+    "Converters": "Schwartz Gandhi",
+    "Tags": [
+      "Exteriors",
+      "Interiors",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Mon Oct 14 2024 16:45:26 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Cave%20Story/Mimiga%20Town.mp3",
+    "Binary": "binaries/Cave Story/Mimiga Town.bin",
+    "Duration": 67.2
   }
 ]
