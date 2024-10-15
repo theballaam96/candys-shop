@@ -28437,5 +28437,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Super%20Mario%203D%20Land/Overworld%20Orchestrated.mp3",
     "Binary": "binaries/Super Mario 3D Land/Overworld Orchestrated.bin",
     "Duration": 111.12
+  },
+  {
+    "Game": "The Legend of Zelda: Majora's Mask",
+    "Song": "Enemy",
+    "Composers": "Koji Kondo",
+    "Converters": "HavenKnight93",
+    "Category": "bgm",
+    "Tags": [
+      "Fights",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Tue Oct 15 2024 08:28:40 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/The%20Legend%20of%20Zelda%20Majoras%20Mask/Enemy.mp3",
+    "Binary": "binaries/The Legend of Zelda Majoras Mask/Enemy.bin",
+    "Duration": 57.358416
   }
 ]
