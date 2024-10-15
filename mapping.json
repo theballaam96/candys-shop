@@ -28352,5 +28352,106 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Kahoot/Lobby%20Theme.mp3",
     "Binary": "binaries/Kahoot/Lobby Theme.bin",
     "Duration": 128.25
+  },
+  {
+    "Game": "Sonic & Knuckles",
+    "Song": "Sandopolis Zone Act 2",
+    "Category": "bgm",
+    "Composers": "Howard Drossin",
+    "Converters": "Schwartz Gandhi",
+    "Tags": [
+      "Interiors",
+      "Gloomy"
+    ],
+    "Update Notes": "rebalance with events actually in order",
+    "Verified": true,
+    "Date": "Sat Oct 12 2024 05:45:58 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Sonic%20%20Knuckles/Sandopolis%20Zone%20Act%202%20(REV%201).mp3",
+    "Binary": "binaries/Sonic  Knuckles/Sandopolis Zone Act 2 (REV 1).bin",
+    "Duration": 54.960845802083334
+  },
+  {
+    "Game": "Plants vs. Zombies",
+    "Song": "Grasswalk",
+    "Composers": "Laura Shigihara",
+    "Converters": "LBFrank",
+    "Category": "bgm",
+    "Tags": [
+      "Interiors",
+      "Exteriors",
+      "Gloomy",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Sun Oct 13 2024 16:04:17 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Plants%20vs%20Zombies/Grasswalk.mp3",
+    "Binary": "binaries/Plants vs Zombies/Grasswalk.bin",
+    "Duration": 139.82605199999998
+  },
+  {
+    "Game": "Hotel Mario",
+    "Song": "Main Theme",
+    "Composers": "Max Steiner, Jack Levy, Marc St. Regis",
+    "Converters": "Cash Money",
+    "Category": "bgm",
+    "Additional Notes": "Dear pesky primates, The Kremlings and I have taken over Donkey Kong Island. The banana hoard is now a permanent guest at one of my 7 kremling hotels. I dare you to find it if you can!",
+    "Tags": [
+      "Lobbies and Shops",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Sun Oct 13 2024 17:16:42 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Hotel%20Mario/Main%20Theme%20(REV%201).mp3",
+    "Binary": "binaries/Hotel Mario/Main Theme (REV 1).bin",
+    "Duration": 46.03841549999999
+  },
+  {
+    "Game": "Cave Story",
+    "Song": "Mimiga Town",
+    "Category": "bgm",
+    "Composers": "Pixel",
+    "Converters": "Schwartz Gandhi",
+    "Tags": [
+      "Exteriors",
+      "Interiors",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Mon Oct 14 2024 16:45:26 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Cave%20Story/Mimiga%20Town.mp3",
+    "Binary": "binaries/Cave Story/Mimiga Town.bin",
+    "Duration": 67.2
+  },
+  {
+    "Game": "Super Mario 3D Land",
+    "Song": "Overworld Orchestrated",
+    "Composers": "Takeshi Hama, Max Demski",
+    "Converters": "UmedMuzl",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Mon Oct 14 2024 20:23:16 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Super%20Mario%203D%20Land/Overworld%20Orchestrated.mp3",
+    "Binary": "binaries/Super Mario 3D Land/Overworld Orchestrated.bin",
+    "Duration": 111.12
+  },
+  {
+    "Game": "The Legend of Zelda: Majora's Mask",
+    "Song": "Enemy",
+    "Composers": "Koji Kondo",
+    "Converters": "HavenKnight93",
+    "Category": "bgm",
+    "Tags": [
+      "Fights",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Tue Oct 15 2024 08:28:40 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/The%20Legend%20of%20Zelda%20Majoras%20Mask/Enemy.mp3",
+    "Binary": "binaries/The Legend of Zelda Majoras Mask/Enemy.bin",
+    "Duration": 57.358416
   }
 ]

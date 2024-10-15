@@ -32,6 +32,10 @@
    "ANTONBLAST":{
       "icon":"https://i.imgur.com/n6hFXXS.png"
    },
+   "Baldi's Basics in Education and Learning":{
+      "icon":"https://i.imgur.com/JMEArml.png",
+      "short_name": "Baldi's Basics"
+   },
    "Banjo-Kazooie":{
       "icon":"https://i.imgur.com/wzmwdJg.png"
    },
@@ -413,6 +417,9 @@
    },
    "Luigi's Mansion":{
       "icon":"https://i.imgur.com/YIMnmmn.png"
+   },
+   "Mamorukun Curse!":{
+      "icon":"https://i.imgur.com/wGVS57B.png"
    },
    "Mario & Luigi: Bowser's Inside Story":{
       "icon":"https://i.imgur.com/v5Ktwmx.png",
@@ -865,6 +872,9 @@
    },
    "Super Ghouls 'n Ghosts":{
       "icon":"https://i.imgur.com/Q3WMIQk.png"
+   },
+   "Super Mario 3D Land":{
+      "icon":"https://i.imgur.com/EZmQBaO.png"
    },
    "Super Mario 3D World":{
       "icon":"https://i.imgur.com/BPgVLG2.png"
