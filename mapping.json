@@ -28518,5 +28518,21 @@
     "Date": "Tue Oct 15 2024 22:02:08 GMT+0000 (Coordinated Universal Time)",
     "Binary": "binaries/Wave Race 64/Port Blue.bin",
     "Duration": 28.469522812499996
+  },
+  {
+    "Game": "Wave Race 64",
+    "Song": "Marine Fortress",
+    "Composers": "Kazumi Totaka",
+    "Converters": "AbscondWithAPie",
+    "Category": "bgm",
+    "Audio": "https://www.youtube.com/watch?v=3xrRRndyRR0",
+    "Tags": [
+      "Exteriors",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Tue Oct 15 2024 22:07:33 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Wave Race 64/Marine Fortress.bin",
+    "Duration": 45.6735654375
   }
 ]
