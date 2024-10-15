@@ -28469,5 +28469,22 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Baldis%20Basics%20in%20Education%20and%20Learning/Thats%20Me.mp3",
     "Binary": "binaries/Baldis Basics in Education and Learning/Thats Me.bin",
     "Duration": 4.884166666666666
+  },
+  {
+    "Game": "The Legend of Zelda: Twilight Princess",
+    "Song": "Hidden Village",
+    "Composers": "Koji Kondo, Toru Minegeshi, Asuka Ota",
+    "Converters": "Zion Jaymes",
+    "Category": "bgm",
+    "Additional Notes": "DK64 doesn't even have guitar... Or a jaw harp. I wanted to die",
+    "Tags": [
+      "Exteriors",
+      "Minigames"
+    ],
+    "Verified": true,
+    "Date": "Tue Oct 15 2024 17:25:25 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/The%20Legend%20of%20Zelda%20Twilight%20Princess/Hidden%20Village.mp3",
+    "Binary": "binaries/The Legend of Zelda Twilight Princess/Hidden Village.bin",
+    "Duration": 63.50361999999999
   }
 ]
