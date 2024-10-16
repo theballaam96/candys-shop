@@ -28568,5 +28568,20 @@
     "Date": "Wed Oct 16 2024 21:17:09 GMT+0000 (Coordinated Universal Time)",
     "Binary": "binaries/Demons Crest/Beyond the Colosseum.bin",
     "Duration": 66.6459905625
+  },
+  {
+    "Game": "Kirby 64: The Crystal Shards",
+    "Song": "Boss",
+    "Composers": "Jun Ishikawa",
+    "Converters": "OnlySpaghettiCode",
+    "Category": "bgm",
+    "Tags": [
+      "Fights"
+    ],
+    "Verified": true,
+    "Date": "Wed Oct 16 2024 21:22:32 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Kirby%2064%20The%20Crystal%20Shards/Boss.mp3",
+    "Binary": "binaries/Kirby 64 The Crystal Shards/Boss.bin",
+    "Duration": 65.91489675
   }
 ]
