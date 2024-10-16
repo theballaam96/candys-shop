@@ -28551,5 +28551,22 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Stardew%20Valley/Summer%20(Tropicala).mp3",
     "Binary": "binaries/Stardew Valley/Summer (Tropicala).bin",
     "Duration": 183.76041666666666
+  },
+  {
+    "Game": "Demon's Crest",
+    "Song": "Beyond the Colosseum",
+    "Composers": "Toshihiko Horiyama",
+    "Converters": "Altermentality",
+    "Category": "bgm",
+    "Audio": "https://youtu.be/EyZM7v9rBUo",
+    "Additional Notes": "Happy Halloween!",
+    "Tags": [
+      "Exteriors",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Wed Oct 16 2024 21:17:09 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Demons Crest/Beyond the Colosseum.bin",
+    "Duration": 66.6459905625
   }
 ]
