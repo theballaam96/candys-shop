@@ -28599,5 +28599,21 @@
     "Date": "Fri Oct 18 2024 00:08:37 GMT+0000 (Coordinated Universal Time)",
     "Binary": "binaries/Pokémon Snap/Cave.bin",
     "Duration": 56.67154029166667
+  },
+  {
+    "Game": "Blood",
+    "Song": "Infuscomus",
+    "Composers": "Guy Whitmore, Daniel Bernstein",
+    "Converters": "Jessenator2",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Fri Oct 18 2024 11:44:56 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Blood/Infuscomus.mp3",
+    "Binary": "binaries/Blood/Infuscomus.bin",
+    "Duration": 150.98958333333334
   }
 ]
