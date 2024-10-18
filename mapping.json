@@ -28502,5 +28502,102 @@
     "Date": "Tue Oct 15 2024 18:25:48 GMT+0000 (Coordinated Universal Time)",
     "Binary": "binaries/Wave Race 64/Twilight City.bin",
     "Duration": 43.134765625
+  },
+  {
+    "Game": "Wave Race 64",
+    "Song": "Port Blue",
+    "Composers": "Kazumi Totaka",
+    "Converters": "AbscondWithAPie",
+    "Category": "bgm",
+    "Audio": "https://www.youtube.com/watch?v=XICR02IpDZ8",
+    "Tags": [
+      "Fights",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Tue Oct 15 2024 22:02:08 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Wave Race 64/Port Blue.bin",
+    "Duration": 28.469522812499996
+  },
+  {
+    "Game": "Wave Race 64",
+    "Song": "Marine Fortress",
+    "Composers": "Kazumi Totaka",
+    "Converters": "AbscondWithAPie",
+    "Category": "bgm",
+    "Audio": "https://www.youtube.com/watch?v=3xrRRndyRR0",
+    "Tags": [
+      "Exteriors",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Tue Oct 15 2024 22:07:33 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Wave Race 64/Marine Fortress.bin",
+    "Duration": 45.6735654375
+  },
+  {
+    "Game": "Stardew Valley",
+    "Song": "Summer (Tropicala)",
+    "Composers": "Eric Barone (ConcernedApe)",
+    "Converters": "FriskyBiscuit",
+    "Category": "bgm",
+    "Additional Notes": "My first submission. There may be some minor updates in the future as I get more familiar with things!",
+    "Tags": [
+      "Exteriors",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Wed Oct 16 2024 19:16:24 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Stardew%20Valley/Summer%20(Tropicala).mp3",
+    "Binary": "binaries/Stardew Valley/Summer (Tropicala).bin",
+    "Duration": 183.76041666666666
+  },
+  {
+    "Game": "Demon's Crest",
+    "Song": "Beyond the Colosseum",
+    "Composers": "Toshihiko Horiyama",
+    "Converters": "Altermentality",
+    "Category": "bgm",
+    "Audio": "https://youtu.be/EyZM7v9rBUo",
+    "Additional Notes": "Happy Halloween!",
+    "Tags": [
+      "Exteriors",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Wed Oct 16 2024 21:17:09 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Demons Crest/Beyond the Colosseum.bin",
+    "Duration": 66.6459905625
+  },
+  {
+    "Game": "Kirby 64: The Crystal Shards",
+    "Song": "Boss",
+    "Composers": "Jun Ishikawa",
+    "Converters": "OnlySpaghettiCode",
+    "Category": "bgm",
+    "Tags": [
+      "Fights"
+    ],
+    "Verified": true,
+    "Date": "Wed Oct 16 2024 21:22:32 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Kirby%2064%20The%20Crystal%20Shards/Boss.mp3",
+    "Binary": "binaries/Kirby 64 The Crystal Shards/Boss.bin",
+    "Duration": 65.91489675
+  },
+  {
+    "Game": "Pokémon Snap",
+    "Song": "Cave",
+    "Composers": "Ikuko Mimori",
+    "Converters": "Altermentality",
+    "Category": "bgm",
+    "Audio": "https://www.youtube.com/watch?v=caZScDweIMY",
+    "Tags": [
+      "Interiors",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Fri Oct 18 2024 00:08:37 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Pokémon Snap/Cave.bin",
+    "Duration": 56.67154029166667
   }
 ]
