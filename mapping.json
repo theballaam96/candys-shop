@@ -28615,5 +28615,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Blood/Infuscomus.mp3",
     "Binary": "binaries/Blood/Infuscomus.bin",
     "Duration": 150.98958333333334
+  },
+  {
+    "Game": "Pokémon Snap",
+    "Song": "Professor Oak's Lab",
+    "Composers": "Ikuko Mimori",
+    "Converters": "Altermentality",
+    "Category": "bgm",
+    "Audio": "https://youtu.be/k_sqmmWDdfE",
+    "Tags": [
+      "Lobbies and Shops",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Fri Oct 18 2024 11:46:35 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Pokémon Snap/Professor Oaks Lab.bin",
+    "Duration": 33.79380895833333
   }
 ]
