@@ -28631,5 +28631,21 @@
     "Date": "Fri Oct 18 2024 11:46:35 GMT+0000 (Coordinated Universal Time)",
     "Binary": "binaries/Pokémon Snap/Professor Oaks Lab.bin",
     "Duration": 33.79380895833333
+  },
+  {
+    "Game": "Corpse Party: BloodCovered",
+    "Song": "Chapter2-MainBGM",
+    "Category": "bgm",
+    "Composers": "Mao Hamamoto",
+    "Converters": "Schwartz gandhi",
+    "Tags": [
+      "Interiors",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Sat Oct 19 2024 01:01:43 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Corpse%20Party%20BloodCovered/Chapter2-MainBGM.mp3",
+    "Binary": "binaries/Corpse Party BloodCovered/Chapter2-MainBGM.bin",
+    "Duration": 82.19999999999999
   }
 ]
