@@ -28647,5 +28647,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Corpse%20Party%20BloodCovered/Chapter2-MainBGM.mp3",
     "Binary": "binaries/Corpse Party BloodCovered/Chapter2-MainBGM.bin",
     "Duration": 82.19999999999999
+  },
+  {
+    "Game": "Kirby 64: The Crystal Shards",
+    "Song": "Pop Star",
+    "Composers": "Jun Ishikawa",
+    "Converters": "OnlySpaghettiCode",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Sat Oct 19 2024 01:12:24 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Kirby%2064%20The%20Crystal%20Shards/Pop%20Star.mp3",
+    "Binary": "binaries/Kirby 64 The Crystal Shards/Pop Star.bin",
+    "Duration": 86.16539809375001
   }
 ]
