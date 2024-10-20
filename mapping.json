@@ -28663,5 +28663,38 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Kirby%2064%20The%20Crystal%20Shards/Pop%20Star.mp3",
     "Binary": "binaries/Kirby 64 The Crystal Shards/Pop Star.bin",
     "Duration": 86.16539809375001
+  },
+  {
+    "Game": "Corpse Party: BloodCovered",
+    "Song": "Chapter2-MainBGM",
+    "Category": "bgm",
+    "Composers": "Mao Hamamoto",
+    "Converters": "Schwartz Gandhi",
+    "Tags": [
+      "Interiors",
+      "Gloomy"
+    ],
+    "Update Notes": "tempo and mixing hotfix",
+    "Verified": true,
+    "Date": "Sat Oct 19 2024 22:11:39 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Corpse%20Party%20BloodCovered/Chapter2-MainBGM%20(REV%201).mp3",
+    "Binary": "binaries/Corpse Party BloodCovered/Chapter2-MainBGM (REV 1).bin",
+    "Duration": 83.27477250000001
+  },
+  {
+    "Game": "Corpse Party: BloodCovered",
+    "Song": "Acquisition",
+    "Category": "majoritems",
+    "Composers": "Mao Hamamoto",
+    "Converters": "Schwartz Gandhi",
+    "Tags": [
+      "Collection",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Sat Oct 19 2024 22:14:42 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Corpse%20Party%20BloodCovered/Acquisition.mp3",
+    "Binary": "binaries/Corpse Party BloodCovered/Acquisition.bin",
+    "Duration": 4.194446541666667
   }
 ]
