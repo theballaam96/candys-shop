@@ -28746,5 +28746,22 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Deltarune/THE%20WORLD%20REVOLVING%20(REV%201).mp3",
     "Binary": "binaries/Deltarune/THE WORLD REVOLVING (REV 1).bin",
     "Duration": 101.2103745
+  },
+  {
+    "Game": "ANTONBLAST",
+    "Song": "Idle Hands... in The Mysterious Glasshouse",
+    "Composers": "Tony Grayson",
+    "Converters": "iveli_alpaca",
+    "Category": "bgm",
+    "Audio": "https://www.youtube.com/watch?v=It7WJe-plxM",
+    "Tags": [
+      "Interiors",
+      "Exteriors",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Mon Oct 21 2024 23:43:26 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/ANTONBLAST/Idle Hands in The Mysterious Glasshouse.bin",
+    "Duration": 157.078814
   }
 ]
