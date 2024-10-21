@@ -28696,5 +28696,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Corpse%20Party%20BloodCovered/Acquisition.mp3",
     "Binary": "binaries/Corpse Party BloodCovered/Acquisition.bin",
     "Duration": 4.194446541666667
+  },
+  {
+    "Game": "Stardew Valley",
+    "Song": "Winter (The Wind Can Be Still)",
+    "Composers": "Eric Barone (ConcernedApe)",
+    "Converters": "FriskyBiscuit",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Mon Oct 21 2024 23:04:01 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Stardew%20Valley/Winter%20(The%20Wind%20Can%20Be%20Still).mp3",
+    "Binary": "binaries/Stardew Valley/Winter (The Wind Can Be Still).bin",
+    "Duration": 167.671272
   }
 ]
