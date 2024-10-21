@@ -28712,5 +28712,39 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Stardew%20Valley/Winter%20(The%20Wind%20Can%20Be%20Still).mp3",
     "Binary": "binaries/Stardew Valley/Winter (The Wind Can Be Still).bin",
     "Duration": 167.671272
+  },
+  {
+    "Game": "Stardew Valley",
+    "Song": "Playful",
+    "Composers": "Eric Barone (ConcernedApe)",
+    "Converters": "FriskyBiscuit",
+    "Category": "bgm",
+    "Tags": [
+      "Lobbies and Shops",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Mon Oct 21 2024 23:07:06 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Stardew%20Valley/Playful.mp3",
+    "Binary": "binaries/Stardew Valley/Playful.bin",
+    "Duration": 52.36368
+  },
+  {
+    "Game": "Deltarune",
+    "Song": "THE WORLD REVOLVING",
+    "Composers": "Toby Fox",
+    "Converters": "UmedMuzl",
+    "Category": "bgm",
+    "Update Notes": "Improved",
+    "Tags": [
+      "Fights",
+      "Happy",
+      "stream-unsafe"
+    ],
+    "Verified": true,
+    "Date": "Mon Oct 21 2024 23:07:07 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Deltarune/THE%20WORLD%20REVOLVING%20(REV%201).mp3",
+    "Binary": "binaries/Deltarune/THE WORLD REVOLVING (REV 1).bin",
+    "Duration": 101.2103745
   }
 ]
