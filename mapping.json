@@ -28763,5 +28763,21 @@
     "Date": "Mon Oct 21 2024 23:43:26 GMT+0000 (Coordinated Universal Time)",
     "Binary": "binaries/ANTONBLAST/Idle Hands in The Mysterious Glasshouse.bin",
     "Duration": 157.078814
+  },
+  {
+    "Game": "Super Mario 64 DS",
+    "Song": "Small Secret",
+    "Category": "majoritems",
+    "Composers": "Kenta Nagata",
+    "Converters": "Jessenator2",
+    "Tags": [
+      "Collection",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Tue Oct 22 2024 00:41:23 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Super%20Mario%2064%20DS/Small%20Secret.mp3",
+    "Binary": "binaries/Super Mario 64 DS/Small Secret.bin",
+    "Duration": 1.5921053958333333
   }
 ]
