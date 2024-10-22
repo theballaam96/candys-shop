@@ -192,6 +192,10 @@
    "Donkey Kong":{
       "icon":"https://i.imgur.com/nlV4OlP.png"
    },
+   "Donkey Kong: Jungle Climber":{
+      "icon":"https://i.imgur.com/64DLfcr.png",
+      "short_name": "DK: Jungle Climber"
+   },
    "Donkey Kong 64":{
       "icon":"https://i.imgur.com/oTs4z32.png"
    },
