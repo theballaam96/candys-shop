@@ -28894,5 +28894,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Donkey%20Kong%20Jungle%20Climber/Ghosts,%20Ghosts,%20and%20More%20Ghosts.mp3",
     "Binary": "binaries/Donkey Kong Jungle Climber/Ghosts, Ghosts, and More Ghosts.bin",
     "Duration": 32
+  },
+  {
+    "Game": "Wario: Master of Disguise",
+    "Song": "Blowhole Castle",
+    "Composers": "Kenji Hikita",
+    "Converters": "SirEnobMort",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Thu Oct 24 2024 15:31:12 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Wario%20Master%20of%20Disguise/Blowhole%20Castle.mp3",
+    "Binary": "binaries/Wario Master of Disguise/Blowhole Castle.bin",
+    "Duration": 150.5086
   }
 ]
