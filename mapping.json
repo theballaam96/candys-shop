@@ -28796,5 +28796,22 @@
     "Audio": "https://www.youtube.com/watch?v=w0dZTSo777E",
     "Binary": "binaries/Kirby Super Star/Vs Marx.bin",
     "Duration": 74.27091503125
+  },
+  {
+    "Game": "Mario & Luigi: Superstar Saga",
+    "Song": "Welcome to the Beanbean Kingdom!",
+    "Composers": "Yoko Shimomura",
+    "Converters": "SirEnobMort",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors",
+      "Happy",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Thu Oct 24 2024 15:25:33 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Mario%20%20Luigi%20Superstar%20Saga/Welcome%20to%20the%20Beanbean%20Kingdom.mp3",
+    "Binary": "binaries/Mario  Luigi Superstar Saga/Welcome to the Beanbean Kingdom.bin",
+    "Duration": 65.4546
   }
 ]
