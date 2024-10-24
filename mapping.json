@@ -28813,5 +28813,86 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Mario%20%20Luigi%20Superstar%20Saga/Welcome%20to%20the%20Beanbean%20Kingdom.mp3",
     "Binary": "binaries/Mario  Luigi Superstar Saga/Welcome to the Beanbean Kingdom.bin",
     "Duration": 65.4546
+  },
+  {
+    "Game": "Mario Hoops 3-on-3",
+    "Song": "Basketball Kingdom",
+    "Composers": "Masayoshi Soken",
+    "Converters": "SirEnobMort",
+    "Category": "bgm",
+    "Tags": [
+      "Lobbies and Shops",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Thu Oct 24 2024 15:27:48 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Mario%20Hoops%203-on-3/Basketball%20Kingdom.mp3",
+    "Binary": "binaries/Mario Hoops 3-on-3/Basketball Kingdom.bin",
+    "Duration": 28.857114
+  },
+  {
+    "Game": "Kirby Super Star",
+    "Song": "Revenge of Meta Knight - Title",
+    "Composers": "Jun Ishikawa",
+    "Converters": "SirEnobMort",
+    "Category": "events",
+    "Tags": [
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Thu Oct 24 2024 15:27:49 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Kirby%20Super%20Star/Revenge%20of%20Meta%20Knight%20-%20Title.mp3",
+    "Binary": "binaries/Kirby Super Star/Revenge of Meta Knight - Title.bin",
+    "Duration": 5.6969523437500005
+  },
+  {
+    "Game": "Mega Man X6",
+    "Song": "Blaze Heatnix",
+    "Composers": "Naoto Tanaka",
+    "Converters": "cdh90",
+    "Category": "bgm",
+    "Tags": [
+      "Fights",
+      "Exteriors",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Thu Oct 24 2024 15:27:49 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Mega%20Man%20X6/Blaze%20Heatnix.mp3",
+    "Binary": "binaries/Mega Man X6/Blaze Heatnix.bin",
+    "Duration": 70.53378074999999
+  },
+  {
+    "Game": "Shovel Knight",
+    "Song": "High Above the Land (The Flying Machine)",
+    "Composers": "Jake \"Virt\" Kaufman",
+    "Converters": "cdh90",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Thu Oct 24 2024 15:27:50 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Shovel%20Knight/High%20Above%20the%20Land%20(The%20Flying%20Machine).mp3",
+    "Binary": "binaries/Shovel Knight/High Above the Land (The Flying Machine).bin",
+    "Duration": 115.4
+  },
+  {
+    "Game": "Donkey Kong: Jungle Climber",
+    "Song": "Ghosts, Ghosts, and More Ghosts!",
+    "Composers": "Yuichi Kanno, Yoshikata Hirota, Takashi Kouga",
+    "Converters": "SirEnobMort",
+    "Category": "bgm",
+    "Tags": [
+      "Minigames",
+      "Happy",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Thu Oct 24 2024 15:27:50 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Donkey%20Kong%20Jungle%20Climber/Ghosts,%20Ghosts,%20and%20More%20Ghosts.mp3",
+    "Binary": "binaries/Donkey Kong Jungle Climber/Ghosts, Ghosts, and More Ghosts.bin",
+    "Duration": 32
   }
 ]
