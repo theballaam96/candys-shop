@@ -28927,5 +28927,20 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Super%20Mario%20Sunshine/Sky%20and%20Sea.mp3",
     "Binary": "binaries/Super Mario Sunshine/Sky and Sea.bin",
     "Duration": 48.230720999999996
+  },
+  {
+    "Game": "Final Fantasy VI",
+    "Song": "Slam Shuffle",
+    "Composers": "Nobuo Uematsu",
+    "Converters": "OnlySpaghettiCode",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors"
+    ],
+    "Verified": true,
+    "Date": "Sat Oct 26 2024 08:53:51 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Final%20Fantasy%20VI/Slam%20Shuffle.mp3",
+    "Binary": "binaries/Final Fantasy VI/Slam Shuffle.bin",
+    "Duration": 65.7499835625
   }
 ]
