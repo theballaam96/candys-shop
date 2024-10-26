@@ -28910,5 +28910,22 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Wario%20Master%20of%20Disguise/Blowhole%20Castle.mp3",
     "Binary": "binaries/Wario Master of Disguise/Blowhole Castle.bin",
     "Duration": 150.5086
+  },
+  {
+    "Game": "Super Mario Sunshine",
+    "Song": "Sky and Sea",
+    "Composers": "Koji Kondo",
+    "Converters": "UmedMuzl",
+    "Category": "bgm",
+    "Tags": [
+      "Interiors",
+      "Minigames",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Sat Oct 26 2024 00:49:05 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Super%20Mario%20Sunshine/Sky%20and%20Sea.mp3",
+    "Binary": "binaries/Super Mario Sunshine/Sky and Sea.bin",
+    "Duration": 48.230720999999996
   }
 ]
