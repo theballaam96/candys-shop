@@ -28942,5 +28942,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Final%20Fantasy%20VI/Slam%20Shuffle.mp3",
     "Binary": "binaries/Final Fantasy VI/Slam Shuffle.bin",
     "Duration": 65.7499835625
+  },
+  {
+    "Game": "Banjo-Tooie",
+    "Song": "Enter the Heroes",
+    "Composers": "Grant Kirkhope",
+    "Converters": "Ballaam",
+    "Category": "bgm",
+    "Audio": "https://youtu.be/OTtlt35l9ak",
+    "Tags": [
+      "Lobbies and Shops",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Sun Oct 27 2024 03:41:07 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Banjo-Tooie/Enter the Heroes.bin",
+    "Duration": 47.917255453125
   }
 ]
