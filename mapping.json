@@ -28958,5 +28958,21 @@
     "Date": "Sun Oct 27 2024 03:41:07 GMT+0000 (Coordinated Universal Time)",
     "Binary": "binaries/Banjo-Tooie/Enter the Heroes.bin",
     "Duration": 47.917255453125
+  },
+  {
+    "Game": "Final Fantasy X",
+    "Song": "Besaid Island",
+    "Composers": "Masashi Hamauzu",
+    "Converters": "OnlySpaghettiCode",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Sun Oct 27 2024 21:36:36 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Final%20Fantasy%20X/Besaid%20Island.mp3",
+    "Binary": "binaries/Final Fantasy X/Besaid Island.bin",
+    "Duration": 140.92897189583334
   }
 ]
