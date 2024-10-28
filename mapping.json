@@ -28974,5 +28974,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Final%20Fantasy%20X/Besaid%20Island.mp3",
     "Binary": "binaries/Final Fantasy X/Besaid Island.bin",
     "Duration": 140.92897189583334
+  },
+  {
+    "Game": "Kirby Mass Attack",
+    "Song": "The Skull Gang",
+    "Composers": "Shogo Sakai",
+    "Converters": "SirEnobMort",
+    "Category": "bgm",
+    "Tags": [
+      "Lobbies and Shops",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Mon Oct 28 2024 15:35:21 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Kirby%20Mass%20Attack/The%20Skull%20Gang.mp3",
+    "Binary": "binaries/Kirby Mass Attack/The Skull Gang.bin",
+    "Duration": 35.12196
   }
 ]
