@@ -28991,5 +28991,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Kirby%20Mass%20Attack/The%20Skull%20Gang.mp3",
     "Binary": "binaries/Kirby Mass Attack/The Skull Gang.bin",
     "Duration": 35.12196
+  },
+  {
+    "Game": "Banjo-Kazooie",
+    "Song": "Inside the Crew Quarters",
+    "Composers": "Grant Kirkhope",
+    "Converters": "Altermentality",
+    "Category": "bgm",
+    "Audio": "https://youtu.be/OkETLO53aHU",
+    "Tags": [
+      "Interiors",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Tue Oct 29 2024 23:38:58 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Banjo-Kazooie/Inside the Crew Quarters.bin",
+    "Duration": 68
   }
 ]
