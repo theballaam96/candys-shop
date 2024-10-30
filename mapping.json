@@ -29071,5 +29071,22 @@
     "Date": "Wed Oct 30 2024 22:39:18 GMT+0000 (Coordinated Universal Time)",
     "Binary": "binaries/Pokémon Snap/Beach.bin",
     "Duration": 70.00520833333333
+  },
+  {
+    "Game": "Banjo-Kazooie",
+    "Song": "Collect Secret Item (Stop N Swop)",
+    "Composers": "Grant Kirkhope",
+    "Converters": "Altermentality",
+    "Category": "majoritems",
+    "Tags": [
+      "Spawning",
+      "Collection",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Wed Oct 30 2024 22:41:27 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Banjo-Kazooie/Collect%20Secret%20Item%20(Stop%20N%20Swop).mp3",
+    "Binary": "binaries/Banjo-Kazooie/Collect Secret Item (Stop N Swop).bin",
+    "Duration": 3.2589177083333336
   }
 ]
