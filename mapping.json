@@ -29023,5 +29023,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Mario%20Kart%20Wii/Maple%20Treeway.mp3",
     "Binary": "binaries/Mario Kart Wii/Maple Treeway.bin",
     "Duration": 70.2083895
+  },
+  {
+    "Game": "Plants vs. Zombies",
+    "Song": "Choose Your Seeds",
+    "Composers": "Laura Shigihara",
+    "Converters": "SirEnobMort",
+    "Category": "bgm",
+    "Tags": [
+      "Lobbies and Shops",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Wed Oct 30 2024 22:35:05 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Plants%20vs%20Zombies/Choose%20Your%20Seeds.mp3",
+    "Binary": "binaries/Plants vs Zombies/Choose Your Seeds.bin",
+    "Duration": 21.583333333333332
   }
 ]
