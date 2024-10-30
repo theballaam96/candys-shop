@@ -29039,5 +29039,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Plants%20vs%20Zombies/Choose%20Your%20Seeds.mp3",
     "Binary": "binaries/Plants vs Zombies/Choose Your Seeds.bin",
     "Duration": 21.583333333333332
+  },
+  {
+    "Game": "Final Fantasy VII",
+    "Song": "Underneath the Rotting Pizza",
+    "Composers": "Nobuo Uematsu",
+    "Converters": "OnlySpaghettiCode",
+    "Category": "bgm",
+    "Tags": [
+      "Interiors",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Wed Oct 30 2024 22:37:04 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Final%20Fantasy%20VII/Underneath%20the%20Rotting%20Pizza.mp3",
+    "Binary": "binaries/Final Fantasy VII/Underneath the Rotting Pizza.bin",
+    "Duration": 129.24683364583333
   }
 ]
