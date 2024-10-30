@@ -29055,5 +29055,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Final%20Fantasy%20VII/Underneath%20the%20Rotting%20Pizza.mp3",
     "Binary": "binaries/Final Fantasy VII/Underneath the Rotting Pizza.bin",
     "Duration": 129.24683364583333
+  },
+  {
+    "Game": "Pokémon Snap",
+    "Song": "Beach",
+    "Composers": "Ikuko Mimori",
+    "Converters": "Altermentality",
+    "Category": "bgm",
+    "Audio": "https://youtu.be/Yy-Q2_WVtBM",
+    "Tags": [
+      "Exteriors",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Wed Oct 30 2024 22:39:18 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Pokémon Snap/Beach.bin",
+    "Duration": 70.00520833333333
   }
 ]
