@@ -29088,5 +29088,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Banjo-Kazooie/Collect%20Secret%20Item%20(Stop%20N%20Swop).mp3",
     "Binary": "binaries/Banjo-Kazooie/Collect Secret Item (Stop N Swop).bin",
     "Duration": 3.2589177083333336
+  },
+  {
+    "Game": "Banjo-Kazooie",
+    "Song": "Gruntilda's Lair (Click Clock Wood)",
+    "Composers": "Grant Kirkhope",
+    "Converters": "Altermentality",
+    "Category": "bgm",
+    "Tags": [
+      "Interiors",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Wed Oct 30 2024 22:44:56 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Banjo-Kazooie/Gruntildas%20Lair%20(Click%20Clock%20Wood).mp3",
+    "Binary": "binaries/Banjo-Kazooie/Gruntildas Lair (Click Clock Wood).bin",
+    "Duration": 121.23580000000001
   }
 ]
