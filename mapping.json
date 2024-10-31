@@ -29153,5 +29153,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Mega%20Man%20X6/Rainy%20Turtloid.mp3",
     "Binary": "binaries/Mega Man X6/Rainy Turtloid.bin",
     "Duration": 67.37064025000001
+  },
+  {
+    "Game": "The Legend of Zelda: Twilight Princess",
+    "Song": "Kakariko Village",
+    "Composers": "Toru Minegeshi, Asuka Ohta",
+    "Converters": "OnlySpaghettiCode",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Thu Oct 31 2024 21:20:04 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/The%20Legend%20of%20Zelda%20Twilight%20Princess/Kakariko%20Village.mp3",
+    "Binary": "binaries/The Legend of Zelda Twilight Princess/Kakariko Village.bin",
+    "Duration": 90.9519815625
   }
 ]
