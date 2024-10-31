@@ -29186,5 +29186,22 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Banjo-Kazooie/Twinklies%20Journey.mp3",
     "Binary": "binaries/Banjo-Kazooie/Twinklies Journey.bin",
     "Duration": 97.71396
+  },
+  {
+    "Game": "Banjo-Kazooie",
+    "Song": "Gruntilda's Lair (Mad Monster Mansion)",
+    "Category": "bgm",
+    "Composers": "Grant Kirkhope",
+    "Converters": "Schwartz Gandhi",
+    "Tags": [
+      "Lobbies and Shops",
+      "Exteriors",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Thu Oct 31 2024 23:53:41 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Banjo-Kazooie/Gruntildas%20Lair%20(Mad%20Monster%20Mansion).mp3",
+    "Binary": "binaries/Banjo-Kazooie/Gruntildas Lair (Mad Monster Mansion).bin",
+    "Duration": 121.237172
   }
 ]
