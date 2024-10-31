@@ -29169,5 +29169,22 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/The%20Legend%20of%20Zelda%20Twilight%20Princess/Kakariko%20Village.mp3",
     "Binary": "binaries/The Legend of Zelda Twilight Princess/Kakariko Village.bin",
     "Duration": 90.9519815625
+  },
+  {
+    "Game": "Banjo-Kazooie",
+    "Song": "Twinklies' Journey",
+    "Composers": "Grant Kirkhope",
+    "Converters": "Altermentality",
+    "Category": "bgm",
+    "Tags": [
+      "Interiors",
+      "Minigames",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Thu Oct 31 2024 21:21:43 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Banjo-Kazooie/Twinklies%20Journey.mp3",
+    "Binary": "binaries/Banjo-Kazooie/Twinklies Journey.bin",
+    "Duration": 97.71396
   }
 ]
