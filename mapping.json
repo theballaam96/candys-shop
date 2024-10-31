@@ -29120,5 +29120,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/The%20Legend%20of%20Zelda%20Twilight%20Princess/Ordon%20Village.mp3",
     "Binary": "binaries/The Legend of Zelda Twilight Princess/Ordon Village.bin",
     "Duration": 89.36157781249999
+  },
+  {
+    "Game": "Mario Hoops 3-on-3",
+    "Song": "Rainbow Ship",
+    "Composers": "Masayoshi Soken",
+    "Converters": "SirEnobMort",
+    "Category": "bgm",
+    "Tags": [
+      "Fights",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Thu Oct 31 2024 09:12:50 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Mario%20Hoops%203-on-3/Rainbow%20Ship.mp3",
+    "Binary": "binaries/Mario Hoops 3-on-3/Rainbow Ship.bin",
+    "Duration": 51.333358999999994
   }
 ]
