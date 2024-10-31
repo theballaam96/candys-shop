@@ -29203,5 +29203,88 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Banjo-Kazooie/Gruntildas%20Lair%20(Mad%20Monster%20Mansion).mp3",
     "Binary": "binaries/Banjo-Kazooie/Gruntildas Lair (Mad Monster Mansion).bin",
     "Duration": 121.237172
+  },
+  {
+    "Game": "Banjo-Kazooie",
+    "Song": "Gruntilda's Lair (Bubblegloop Swamp)",
+    "Category": "bgm",
+    "Composers": "Grant Kirkhope",
+    "Converters": "Schwartz Gandhi",
+    "Tags": [
+      "Lobbies and Shops",
+      "Interiors",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Thu Oct 31 2024 23:56:18 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Banjo-Kazooie/Gruntildas%20Lair%20(Bubblegloop%20Swamp).mp3",
+    "Binary": "binaries/Banjo-Kazooie/Gruntildas Lair (Bubblegloop Swamp).bin",
+    "Duration": 118.75354596354167
+  },
+  {
+    "Game": "Banjo-Kazooie",
+    "Song": "Gruntilda's Lair (Treasure Trove Cove)",
+    "Category": "bgm",
+    "Composers": "Grant Kirkhope",
+    "Converters": "Schwartz Gandhi",
+    "Tags": [
+      "Lobbies and Shops",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Thu Oct 31 2024 23:56:18 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Banjo-Kazooie/Gruntildas%20Lair%20(Treasure%20Trove%20Cove).mp3",
+    "Binary": "binaries/Banjo-Kazooie/Gruntildas Lair (Treasure Trove Cove).bin",
+    "Duration": 121.23580000000001
+  },
+  {
+    "Game": "Banjo-Kazooie",
+    "Song": "Gruntilda's Lair (Rusty Bucket Bay)",
+    "Category": "bgm",
+    "Composers": "Grant Kirkhope",
+    "Converters": "Schwartz Gandhi",
+    "Tags": [
+      "Lobbies and Shops",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Thu Oct 31 2024 23:56:18 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Banjo-Kazooie/Gruntildas%20Lair%20(Rusty%20Bucket%20Bay).mp3",
+    "Binary": "binaries/Banjo-Kazooie/Gruntildas Lair (Rusty Bucket Bay).bin",
+    "Duration": 121.22613515625001
+  },
+  {
+    "Game": "Banjo-Kazooie",
+    "Song": "Gruntilda's Lair (Clanker's Cavern)",
+    "Category": "bgm",
+    "Composers": "Grant Kirkhope",
+    "Converters": "Schwartz Gandhi",
+    "Tags": [
+      "Lobbies and Shops",
+      "Interiors",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Thu Oct 31 2024 23:56:19 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Banjo-Kazooie/Gruntildas%20Lair%20(Clankers%20Cavern).mp3",
+    "Binary": "binaries/Banjo-Kazooie/Gruntildas Lair (Clankers Cavern).bin",
+    "Duration": 118.76160000000002
+  },
+  {
+    "Game": "Banjo-Kazooie",
+    "Song": "Gruntilda's Lair (Freezeezy Peak)",
+    "Category": "bgm",
+    "Composers": "Grant Kirkhope",
+    "Converters": "Schwartz Gandhi",
+    "Tags": [
+      "Lobbies and Shops",
+      "Interiors",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Thu Oct 31 2024 23:56:19 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Banjo-Kazooie/Gruntildas%20Lair%20(Freezeezy%20Peak).mp3",
+    "Binary": "binaries/Banjo-Kazooie/Gruntildas Lair (Freezeezy Peak).bin",
+    "Duration": 121.23072869791667
   }
 ]
