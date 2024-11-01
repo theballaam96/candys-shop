@@ -29319,5 +29319,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Donkey%20Kong%20Country%203%20Dixie%20Kongs%20Double%20Trouble/Krematoa%20Koncerto.mp3",
     "Binary": "binaries/Donkey Kong Country 3 Dixie Kongs Double Trouble/Krematoa Koncerto.bin",
     "Duration": 58.285656
+  },
+  {
+    "Game": "The Legend of Zelda: Twilight Princess",
+    "Song": "Fishing Hole",
+    "Composers": "Toru Minegeshi, Asuka Ohta",
+    "Converters": "OnlySpaghettiCode",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Fri Nov 01 2024 05:15:25 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/The%20Legend%20of%20Zelda%20Twilight%20Princess/Fishing%20Hole.mp3",
+    "Binary": "binaries/The Legend of Zelda Twilight Princess/Fishing Hole.bin",
+    "Duration": 109.24291348958334
   }
 ]
