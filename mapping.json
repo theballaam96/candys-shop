@@ -29302,5 +29302,22 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Super%20Mario%2064%20DS/Key%20Catch.mp3",
     "Binary": "binaries/Super Mario 64 DS/Key Catch.bin",
     "Duration": 2.0596585416666664
+  },
+  {
+    "Game": "Donkey Kong Country 3: Dixie Kong's Double Trouble!",
+    "Song": "Krematoa Koncerto",
+    "Composers": "Eveline Fischer",
+    "Converters": "MorKs",
+    "Category": "bgm",
+    "Tags": [
+      "Lobbies and Shops",
+      "Interiors",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Fri Nov 01 2024 05:13:26 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Donkey%20Kong%20Country%203%20Dixie%20Kongs%20Double%20Trouble/Krematoa%20Koncerto.mp3",
+    "Binary": "binaries/Donkey Kong Country 3 Dixie Kongs Double Trouble/Krematoa Koncerto.bin",
+    "Duration": 58.285656
   }
 ]
