@@ -29335,5 +29335,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/The%20Legend%20of%20Zelda%20Twilight%20Princess/Fishing%20Hole.mp3",
     "Binary": "binaries/The Legend of Zelda Twilight Princess/Fishing Hole.bin",
     "Duration": 109.24291348958334
+  },
+  {
+    "Game": "Banjo-Kazooie",
+    "Song": "Mutie Snippets",
+    "Composers": "Grant Kirkhope",
+    "Converters": "Altermentality",
+    "Category": "bgm",
+    "Tags": [
+      "Minigames",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Sat Nov 02 2024 01:59:45 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Banjo-Kazooie/Mutie%20Snippets.mp3",
+    "Binary": "binaries/Banjo-Kazooie/Mutie Snippets.bin",
+    "Duration": 55.57728
   }
 ]
