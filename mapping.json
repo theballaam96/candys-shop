@@ -29367,5 +29367,20 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Banjo-Kazooie/Brentildas%20Theme.mp3",
     "Binary": "binaries/Banjo-Kazooie/Brentildas Theme.bin",
     "Duration": 100.17623601562501
+  },
+  {
+    "Game": "The Legend of Zelda: Twilight Princess",
+    "Song": "Ooccoo's Theme",
+    "Composers": "Toru Minegeshi, Asuka Ota",
+    "Converters": "OnlySpaghettiCode",
+    "Category": "bgm",
+    "Tags": [
+      "Lobbies and Shops"
+    ],
+    "Verified": true,
+    "Date": "Sat Nov 02 2024 20:40:02 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/The%20Legend%20of%20Zelda%20Twilight%20Princess/Ooccoos%20Theme.mp3",
+    "Binary": "binaries/The Legend of Zelda Twilight Princess/Ooccoos Theme.bin",
+    "Duration": 16.69453390625
   }
 ]
