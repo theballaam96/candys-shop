@@ -29351,5 +29351,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Banjo-Kazooie/Mutie%20Snippets.mp3",
     "Binary": "binaries/Banjo-Kazooie/Mutie Snippets.bin",
     "Duration": 55.57728
+  },
+  {
+    "Game": "Banjo-Kazooie",
+    "Song": "Brentilda's Theme",
+    "Composers": "Grant Kirkhope",
+    "Converters": "Altermentality",
+    "Category": "bgm",
+    "Tags": [
+      "Lobbies and Shops",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Sat Nov 02 2024 02:02:01 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Banjo-Kazooie/Brentildas%20Theme.mp3",
+    "Binary": "binaries/Banjo-Kazooie/Brentildas Theme.bin",
+    "Duration": 100.17623601562501
   }
 ]
