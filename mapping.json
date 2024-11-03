@@ -29399,5 +29399,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Banjo-Kazooie/Mr%20Viles%20Minigame.mp3",
     "Binary": "binaries/Banjo-Kazooie/Mr Viles Minigame.bin",
     "Duration": 60.23925600000001
+  },
+  {
+    "Game": "Banjo-Kazooie",
+    "Song": "Bottles' Puzzle Challenge",
+    "Composers": "Grant Kirkhope",
+    "Converters": "Altermentality",
+    "Category": "bgm",
+    "Tags": [
+      "Minigames",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Sun Nov 03 2024 18:19:39 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Banjo-Kazooie/Bottles%20Puzzle%20Challenge.mp3",
+    "Binary": "binaries/Banjo-Kazooie/Bottles Puzzle Challenge.bin",
+    "Duration": 81.22928
   }
 ]
