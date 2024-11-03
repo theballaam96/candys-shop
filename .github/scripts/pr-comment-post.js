@@ -18,14 +18,8 @@ async function run() {
       // Extract the PR message
       let user = "Unknown";
       let userID = null;
-      const file = "discord_mapping.json"
-      const filePath = path.join(__dirname, `../../${file}`);
-      const existingData = fs.existsSync(filePath) ? require(filePath) : {};
       if (response.data.user) {
           user = response.data.user.login;
-          if (Object.keys(existingData).includes(user)) {
-            userID = existingData[user]
-          }
       }
       let content = null;
       let webhookUrl = null;
