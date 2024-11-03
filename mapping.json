@@ -29382,5 +29382,22 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/The%20Legend%20of%20Zelda%20Twilight%20Princess/Ooccoos%20Theme.mp3",
     "Binary": "binaries/The Legend of Zelda Twilight Princess/Ooccoos Theme.bin",
     "Duration": 16.69453390625
+  },
+  {
+    "Game": "Banjo-Kazooie",
+    "Song": "Mr. Vile's Minigame",
+    "Composers": "Grant Kirkhope",
+    "Converters": "Altermentality",
+    "Category": "bgm",
+    "Update Notes": "Thanks to OnlySpaghettiCode for the piccolo pitchbend technology!",
+    "Tags": [
+      "Minigames",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Sun Nov 03 2024 18:17:18 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Banjo-Kazooie/Mr%20Viles%20Minigame.mp3",
+    "Binary": "binaries/Banjo-Kazooie/Mr Viles Minigame.bin",
+    "Duration": 60.23925600000001
   }
 ]
