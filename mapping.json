@@ -233,7 +233,7 @@
   },
   {
     "Game": "Banjo-Kazooie",
-    "Song": "Success (Banjo Kazooie)",
+    "Song": "Success",
     "Category": "events",
     "Composers": "Grant Kirkhope",
     "Converters": "gloomy",
@@ -9402,7 +9402,7 @@
   {
     "Date": "Fri Oct 06 2023 18:46:06 GMT-0500 (Central Daylight Time)",
     "Game": "Banjo-Kazooie",
-    "Song": "Mad Monster Mansion (Inside the Church)",
+    "Song": "Inside the Church",
     "Category": "bgm",
     "Composers": "Grant Kirkhope",
     "Converters": "gloomy",
@@ -10862,7 +10862,7 @@
   {
     "Date": "Mon Oct 30 2023 13:58:31 GMT-0500 (Central Daylight Time)",
     "Game": "Banjo-Kazooie",
-    "Song": "Gobi's Valley (Main)",
+    "Song": "Gobi's Valley",
     "Category": "bgm",
     "Composers": "Grant Kirkhope",
     "Converters": "OnlySpaghettiCode",
@@ -13222,7 +13222,7 @@
   {
     "Date": "Sun Dec 10 2023 22:31:51 GMT-0600 (Central Standard Time)",
     "Game": "Banjo-Kazooie",
-    "Song": "Rusty Bucket Bay: Engine Room",
+    "Song": "Engine Room",
     "Category": "bgm",
     "Composers": "Grant Kirkhope",
     "Converters": "Ballaam",
@@ -13239,7 +13239,7 @@
   {
     "Date": "Mon Dec 11 2023 16:43:24 GMT-0600 (Central Standard Time)",
     "Game": "Banjo-Kazooie",
-    "Song": "Rusty Bucket Bay: Engine Room (with Production Room Ambience)",
+    "Song": "Engine Room (with Production Room Ambience)",
     "Category": "bgm",
     "Composers": "Grant Kirkhope",
     "Converters": "gloomy",
@@ -13985,7 +13985,7 @@
   {
     "Date": "Sat Dec 16 2023 22:50:45 GMT-0600 (Central Standard Time)",
     "Game": "Banjo-Kazooie",
-    "Song": "Stop n Swop: Blue Egg",
+    "Song": "Stop 'n' Swop (Blue Egg)",
     "Category": "bgm",
     "Composers": "Grant Kirkhope",
     "Converters": "UmedMuzl",
@@ -16653,7 +16653,7 @@
   },
   {
     "Game": "Banjo-Kazooie",
-    "Song": "Mad Monster Mansion: Cemetery",
+    "Song": "Mad Monster Mansion (Cemetery)",
     "Composers": "Grant Kirkhope",
     "Converters": "UmedMuzl",
     "Category": "bgm",
@@ -17005,7 +17005,7 @@
   },
   {
     "Game": "Banjo-Kazooie",
-    "Song": "Bubblegloop Swamp: Flibbits Battle",
+    "Song": "Flibbits Battle",
     "songshort": "Bubblegloop Swamp: Flibbits",
     "Composers": "Grant Kirkhope",
     "Converters": "UmedMuzl",
