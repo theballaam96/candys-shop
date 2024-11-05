@@ -29448,5 +29448,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Banjo-Kazooie/Tootys%20Theme.mp3",
     "Binary": "binaries/Banjo-Kazooie/Tootys Theme.bin",
     "Duration": 48.00299218749999
+  },
+  {
+    "Game": "New Super Mario Bros.",
+    "Song": "Ghost House",
+    "Composers": "Koji Kondo, Hajime Wakai, Asuka Hayazaki",
+    "Converters": "SirEnobMort",
+    "Category": "bgm",
+    "Tags": [
+      "Interiors",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Tue Nov 05 2024 01:14:00 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/New%20Super%20Mario%20Bros/Ghost%20House.mp3",
+    "Binary": "binaries/New Super Mario Bros/Ghost House.bin",
+    "Duration": 48.90774416666666
   }
 ]
