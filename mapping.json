@@ -17162,7 +17162,7 @@
   {
     "Game": "Pokémon Stadium",
     "Song": "Pokémon Present Revealed",
-    "Composers": "Kenta Nagata, Hajime Wakai, Toru Minegishi",
+    "Composers": "Hajime Wakai, Kenta Nagata, Toru Minegishi",
     "Converters": "SirEnobMort",
     "Category": "majoritems",
     "Verified": true,
@@ -17434,7 +17434,7 @@
   {
     "Game": "Pokémon Stadium",
     "Song": "Gym Leader Castle Stage Clear",
-    "Composers": "Kenta Nagata, Hajime Wakai, Toru Minegishi",
+    "Composers": "Hajime Wakai, Kenta Nagata, Toru Minegishi",
     "Converters": "SirEnobMort",
     "Category": "events",
     "Verified": true,
@@ -17590,7 +17590,7 @@
   {
     "Game": "Pokémon Stadium",
     "Song": "VS Won",
-    "Composers": "Kenta Nagata, Hajime Wakai, Toru Minegishi",
+    "Composers": "Hajime Wakai, Kenta Nagata, Toru Minegishi",
     "Converters": "SirEnobMort",
     "Category": "events",
     "Tags": [
@@ -17605,7 +17605,7 @@
   {
     "Game": "Pokémon Stadium",
     "Song": "Gym Leader Castle Stage Clear",
-    "Composers": "Kenta Nagata, Hajime Wakai, Toru Minegishi",
+    "Composers": "Hajime Wakai, Kenta Nagata, Toru Minegishi",
     "Converters": "SirEnobMort",
     "Category": "events",
     "Tags": [
@@ -17620,7 +17620,7 @@
   {
     "Game": "Pokémon Stadium",
     "Song": "Mini Game End",
-    "Composers": "Kenta Nagata, Hajime Wakai, Toru Minegishi",
+    "Composers": "Hajime Wakai, Kenta Nagata, Toru Minegishi",
     "Converters": "SirEnobMort",
     "Category": "events",
     "Tags": [
@@ -17635,7 +17635,7 @@
   {
     "Game": "Pokémon Stadium",
     "Song": "End Battle!",
-    "Composers": "Kenta Nagata, Hajime Wakai, Toru Minegishi",
+    "Composers": "Hajime Wakai, Kenta Nagata, Toru Minegishi",
     "Converters": "SirEnobMort",
     "Category": "events",
     "Tags": [
@@ -17651,7 +17651,7 @@
   {
     "Game": "Pokémon Stadium",
     "Song": "VS Intro",
-    "Composers": "Kenta Nagata, Hajime Wakai, Toru Minegishi",
+    "Composers": "Hajime Wakai, Kenta Nagata, Toru Minegishi",
     "Converters": "SirEnobMort",
     "Category": "events",
     "Update Notes": "Volume adjusted, removed excess events from MIDI.",
@@ -17668,7 +17668,7 @@
   {
     "Game": "Pokémon Stadium",
     "Song": "VS Intro (Short)",
-    "Composers": "Kenta Nagata, Hajime Wakai, Toru Minegishi",
+    "Composers": "Hajime Wakai, Kenta Nagata, Toru Minegishi",
     "Converters": "SirEnobMort",
     "Category": "events",
     "Update Notes": "Volume adjusted, removed excess events from MIDI.",
