@@ -29533,5 +29533,23 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Mega%20Man%20X6/Commander%20Yammark.mp3",
     "Binary": "binaries/Mega Man X6/Commander Yammark.bin",
     "Duration": 78.75
+  },
+  {
+    "Game": "Pokémon Stadium",
+    "Song": "VS Won",
+    "Composers": "Hajime Wakai, Kenta Nagata, Toru Minegishi",
+    "Converters": "SirEnobMort",
+    "Category": "events",
+    "Tags": [
+      "Exteriors",
+      "Minigames",
+      "Happy"
+    ],
+    "Update Notes": "Reworked the song: now ends much sooner (\"DK!\"), volume rebalance",
+    "Verified": true,
+    "Date": "Tue Nov 05 2024 22:57:15 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Pok%C3%A9mon%20Stadium/VS%20Won%20(REV%202).mp3",
+    "Binary": "binaries/Pokémon Stadium/VS Won (REV 2).bin",
+    "Duration": 7.11533353125
   }
 ]
