@@ -233,7 +233,7 @@
   },
   {
     "Game": "Banjo-Kazooie",
-    "Song": "Success (Banjo Kazooie)",
+    "Song": "Success",
     "Category": "events",
     "Composers": "Grant Kirkhope",
     "Converters": "gloomy",
@@ -1528,7 +1528,7 @@
     "Game": "Mario Kart Wii",
     "Song": "Rainbow Road (MKW)",
     "Category": "bgm",
-    "Composers": "Asuka Ohta",
+    "Composers": "Asuka Hayazaki",
     "Converters": "UmedMuzl",
     "Binary": "binaries/Mario Kart Wii/Rainbow Road (MKW) by UmedMuzl.bin",
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Mario%20Kart%20Wii/Rainbow%20Road%20%28MKW%29%20by%20UmedMuzl.wav",
@@ -2212,7 +2212,7 @@
     "Game": "The Legend of Zelda: Twilight Princess",
     "Song": "Faron Woods",
     "Category": "bgm",
-    "Composers": "Toru Minegishi, Asuka Ota, Koji Kondo",
+    "Composers": "Toru Minegishi, Asuka Hayazaki, Koji Kondo",
     "Converters": "OnlySpaghettiCode",
     "Binary": "binaries/The Legend of Zelda Twilight Princess/Faron Woods by OnlySpaghettiCode.bin",
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/The%20Legend%20of%20Zelda%20Twilight%20Princess/Faron%20Woods%20by%20OnlySpaghettiCode.mp3",
@@ -2229,7 +2229,7 @@
     "Game": "The Legend of Zelda: Twilight Princess",
     "Song": "Sacred Grove",
     "Category": "bgm",
-    "Composers": "Toru Minegishi, Asuka Ota, Koji Kondo",
+    "Composers": "Toru Minegishi, Asuka Hayazaki, Koji Kondo",
     "Converters": "OnlySpaghettiCode",
     "Binary": "binaries/The Legend of Zelda Twilight Princess/Sacred Grove by OnlySpaghettiCode.bin",
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/The%20Legend%20of%20Zelda%20Twilight%20Princess/Sacred%20Grove%20by%20OnlySpaghettiCode.mp3",
@@ -2245,7 +2245,7 @@
     "Game": "The Legend of Zelda: Twilight Princess",
     "Song": "Zoras Domain",
     "Category": "bgm",
-    "Composers": "Toru Minegishi, Asuka Ota, Koji Kondo",
+    "Composers": "Toru Minegishi, Asuka Hayazaki, Koji Kondo",
     "Converters": "OnlySpaghettiCode",
     "Binary": "binaries/The Legend of Zelda Twilight Princess/Zoras Domain by OnlySpaghettiCode.bin",
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/The%20Legend%20of%20Zelda%20Twilight%20Princess/Zoras%20Domain%20by%20OnlySpaghettiCode.mp3",
@@ -2261,7 +2261,7 @@
     "Game": "The Legend of Zelda: Twilight Princess",
     "Song": "Lake Hylia",
     "Category": "bgm",
-    "Composers": "Toru Minegishi, Asuka Ota, Koji Kondo",
+    "Composers": "Toru Minegishi, Asuka Hayazaki, Koji Kondo",
     "Converters": "OnlySpaghettiCode",
     "Binary": "binaries/The Legend of Zelda Twilight Princess/Lake Hylia by OnlySpaghettiCode.bin",
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/The%20Legend%20of%20Zelda%20Twilight%20Princess/Lake%20Hylia%20by%20OnlySpaghettiCode.mp3",
@@ -2419,7 +2419,7 @@
     "Game": "Mario Kart Wii",
     "Song": "Mushroom Gorge",
     "Category": "bgm",
-    "Composers": "Asuka Ota",
+    "Composers": "Asuka Hayazaki",
     "Converters": "UmedMuzl",
     "Binary": "binaries/Mario Kart Wii/Mushroom Gorge by UmedMuzl.bin",
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Mario%20Kart%20Wii/Mushroom%20Gorge%20by%20UmedMuzl.mp3",
@@ -2552,7 +2552,7 @@
     "Game": "Mario Kart Wii",
     "Song": "Mushroom Gorge",
     "Category": "bgm",
-    "Composers": "Asuka Ota",
+    "Composers": "Asuka Hayazaki",
     "Converters": "UmedMuzl",
     "Binary": "binaries/Mario Kart Wii/Mushroom Gorge by UmedMuzl (REV 1).bin",
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Mario%20Kart%20Wii/Mushroom%20Gorge%20by%20UmedMuzl%20%28REV%201%29.mp3",
@@ -9402,7 +9402,7 @@
   {
     "Date": "Fri Oct 06 2023 18:46:06 GMT-0500 (Central Daylight Time)",
     "Game": "Banjo-Kazooie",
-    "Song": "Mad Monster Mansion (Inside the Church)",
+    "Song": "Inside the Church",
     "Category": "bgm",
     "Composers": "Grant Kirkhope",
     "Converters": "gloomy",
@@ -10862,7 +10862,7 @@
   {
     "Date": "Mon Oct 30 2023 13:58:31 GMT-0500 (Central Daylight Time)",
     "Game": "Banjo-Kazooie",
-    "Song": "Gobi's Valley (Main)",
+    "Song": "Gobi's Valley",
     "Category": "bgm",
     "Composers": "Grant Kirkhope",
     "Converters": "OnlySpaghettiCode",
@@ -12641,7 +12641,7 @@
     "Game": "Mario Kart Wii",
     "Song": "Rainbow Road (MKW)",
     "Category": "bgm",
-    "Composers": "Asuka Ota",
+    "Composers": "Asuka Hayazaki",
     "Converters": "UmedMuzl",
     "Binary": "binaries/Mario Kart Wii/Rainbow Road (MKW) by UmedMuzl (REV 1).bin",
     "Audio": "https://www.youtube.com/watch?v=G9Q2jwOx5X8",
@@ -13222,7 +13222,7 @@
   {
     "Date": "Sun Dec 10 2023 22:31:51 GMT-0600 (Central Standard Time)",
     "Game": "Banjo-Kazooie",
-    "Song": "Rusty Bucket Bay: Engine Room",
+    "Song": "Engine Room",
     "Category": "bgm",
     "Composers": "Grant Kirkhope",
     "Converters": "Ballaam",
@@ -13239,7 +13239,7 @@
   {
     "Date": "Mon Dec 11 2023 16:43:24 GMT-0600 (Central Standard Time)",
     "Game": "Banjo-Kazooie",
-    "Song": "Rusty Bucket Bay: Engine Room (with Production Room Ambience)",
+    "Song": "Engine Room (with Production Room Ambience)",
     "Category": "bgm",
     "Composers": "Grant Kirkhope",
     "Converters": "gloomy",
@@ -13985,7 +13985,7 @@
   {
     "Date": "Sat Dec 16 2023 22:50:45 GMT-0600 (Central Standard Time)",
     "Game": "Banjo-Kazooie",
-    "Song": "Stop n Swop: Blue Egg",
+    "Song": "Stop 'n' Swop (Blue Egg)",
     "Category": "bgm",
     "Composers": "Grant Kirkhope",
     "Converters": "UmedMuzl",
@@ -14627,7 +14627,7 @@
     "Game": "The Legend of Zelda: Twilight Princess",
     "Song": "Wild Goat",
     "Category": "bgm",
-    "Composers": "Toru Minegishi, Asuka Ota, Koji Kondo",
+    "Composers": "Toru Minegishi, Asuka Hayazaki, Koji Kondo",
     "Converters": "UmedMuzl",
     "Binary": "binaries/The Legend of Zelda Twilight Princess/Wild Goat by UmedMuzl.bin",
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/The%20Legend%20of%20Zelda%20Twilight%20Princess/Wild%20Goat%20by%20UmedMuzl.mp3",
@@ -16653,7 +16653,7 @@
   },
   {
     "Game": "Banjo-Kazooie",
-    "Song": "Mad Monster Mansion: Cemetery",
+    "Song": "Mad Monster Mansion (Cemetery)",
     "Composers": "Grant Kirkhope",
     "Converters": "UmedMuzl",
     "Category": "bgm",
@@ -17005,7 +17005,7 @@
   },
   {
     "Game": "Banjo-Kazooie",
-    "Song": "Bubblegloop Swamp: Flibbits Battle",
+    "Song": "Flibbits Battle",
     "songshort": "Bubblegloop Swamp: Flibbits",
     "Composers": "Grant Kirkhope",
     "Converters": "UmedMuzl",
@@ -21008,7 +21008,7 @@
   {
     "Game": "The Legend of Zelda: Twilight Princess",
     "Song": "Zoras Domain",
-    "Composers": "Toru Minegishi, Asuka Ota, Koji Kondo",
+    "Composers": "Toru Minegishi, Asuka Hayazaki, Koji Kondo",
     "Converters": "OnlySpaghettiCode",
     "Category": "bgm",
     "Update Notes": "Reverb",
@@ -21025,7 +21025,7 @@
   {
     "Game": "The Legend of Zelda: Twilight Princess",
     "Song": "Sacred Grove",
-    "Composers": "Toru Minegishi, Asuka Ota, Koji Kondo",
+    "Composers": "Toru Minegishi, Asuka Hayazaki, Koji Kondo",
     "Converters": "OnlySpaghettiCode",
     "Category": "bgm",
     "Update Notes": "Reverb",
@@ -21059,7 +21059,7 @@
   {
     "Game": "The Legend of Zelda: Twilight Princess",
     "Song": "Faron Woods",
-    "Composers": "Toru Minegishi, Asuka Ota, Koji Kondo",
+    "Composers": "Toru Minegishi, Asuka Hayazaki, Koji Kondo",
     "Converters": "OnlySpaghettiCode",
     "Category": "bgm",
     "Update Notes": "Rebalance",
@@ -22038,7 +22038,7 @@
   {
     "Game": "New Super Mario Bros.",
     "Song": "The Plains",
-    "Composers": "Asuka Ohta, Hajime Wakai, Koji Kondo",
+    "Composers": "Asuka Hayazaki, Hajime Wakai, Koji Kondo",
     "Converters": "OnlySpaghettiCode",
     "Category": "bgm",
     "Tags": [
@@ -28474,7 +28474,7 @@
   {
     "Game": "The Legend of Zelda: Twilight Princess",
     "Song": "Hidden Village",
-    "Composers": "Koji Kondo, Toru Minegeshi, Asuka Ota",
+    "Composers": "Koji Kondo, Toru Minegeshi, Asuka Hayazaki",
     "Converters": "Zion Jaymes",
     "Category": "bgm",
     "Additional Notes": "DK64 doesn't even have guitar... Or a jaw harp. I wanted to die",
@@ -29011,7 +29011,7 @@
   {
     "Game": "Mario Kart Wii",
     "Song": "Maple Treeway",
-    "Composers": "Ryo Nagamatsu, Asuka Ota",
+    "Composers": "Ryo Nagamatsu, Asuka Hayazaki",
     "Converters": "UmedMuzl",
     "Category": "bgm",
     "Tags": [
@@ -29108,7 +29108,7 @@
   {
     "Game": "The Legend of Zelda: Twilight Princess",
     "Song": "Ordon Village",
-    "Composers": "Toru Minegishi, Asuka Ohta",
+    "Composers": "Toru Minegishi, Asuka Hayazaki",
     "Converters": "OnlySpaghettiCode",
     "Category": "bgm",
     "Tags": [
@@ -29120,5 +29120,316 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/The%20Legend%20of%20Zelda%20Twilight%20Princess/Ordon%20Village.mp3",
     "Binary": "binaries/The Legend of Zelda Twilight Princess/Ordon Village.bin",
     "Duration": 89.36157781249999
+  },
+  {
+    "Game": "Mario Hoops 3-on-3",
+    "Song": "Rainbow Ship",
+    "Composers": "Masayoshi Soken",
+    "Converters": "SirEnobMort",
+    "Category": "bgm",
+    "Tags": [
+      "Fights",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Thu Oct 31 2024 09:12:50 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Mario%20Hoops%203-on-3/Rainbow%20Ship.mp3",
+    "Binary": "binaries/Mario Hoops 3-on-3/Rainbow Ship.bin",
+    "Duration": 51.333358999999994
+  },
+  {
+    "Game": "Mega Man X6",
+    "Song": "Rainy Turtloid",
+    "Composers": "Naoto Tanaka",
+    "Converters": "cdh90",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors",
+      "Gloomy",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Thu Oct 31 2024 18:02:39 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Mega%20Man%20X6/Rainy%20Turtloid.mp3",
+    "Binary": "binaries/Mega Man X6/Rainy Turtloid.bin",
+    "Duration": 67.37064025000001
+  },
+  {
+    "Game": "The Legend of Zelda: Twilight Princess",
+    "Song": "Kakariko Village",
+    "Composers": "Toru Minegeshi, Asuka Hayazaki",
+    "Converters": "OnlySpaghettiCode",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Thu Oct 31 2024 21:20:04 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/The%20Legend%20of%20Zelda%20Twilight%20Princess/Kakariko%20Village.mp3",
+    "Binary": "binaries/The Legend of Zelda Twilight Princess/Kakariko Village.bin",
+    "Duration": 90.9519815625
+  },
+  {
+    "Game": "Banjo-Kazooie",
+    "Song": "Twinklies' Journey",
+    "Composers": "Grant Kirkhope",
+    "Converters": "Altermentality",
+    "Category": "bgm",
+    "Tags": [
+      "Interiors",
+      "Minigames",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Thu Oct 31 2024 21:21:43 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Banjo-Kazooie/Twinklies%20Journey.mp3",
+    "Binary": "binaries/Banjo-Kazooie/Twinklies Journey.bin",
+    "Duration": 97.71396
+  },
+  {
+    "Game": "Banjo-Kazooie",
+    "Song": "Gruntilda's Lair (Mad Monster Mansion)",
+    "Category": "bgm",
+    "Composers": "Grant Kirkhope",
+    "Converters": "Schwartz Gandhi",
+    "Tags": [
+      "Lobbies and Shops",
+      "Exteriors",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Thu Oct 31 2024 23:53:41 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Banjo-Kazooie/Gruntildas%20Lair%20(Mad%20Monster%20Mansion).mp3",
+    "Binary": "binaries/Banjo-Kazooie/Gruntildas Lair (Mad Monster Mansion).bin",
+    "Duration": 121.237172
+  },
+  {
+    "Game": "Banjo-Kazooie",
+    "Song": "Gruntilda's Lair (Bubblegloop Swamp)",
+    "Category": "bgm",
+    "Composers": "Grant Kirkhope",
+    "Converters": "Schwartz Gandhi",
+    "Tags": [
+      "Lobbies and Shops",
+      "Interiors",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Thu Oct 31 2024 23:56:18 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Banjo-Kazooie/Gruntildas%20Lair%20(Bubblegloop%20Swamp).mp3",
+    "Binary": "binaries/Banjo-Kazooie/Gruntildas Lair (Bubblegloop Swamp).bin",
+    "Duration": 118.75354596354167
+  },
+  {
+    "Game": "Banjo-Kazooie",
+    "Song": "Gruntilda's Lair (Treasure Trove Cove)",
+    "Category": "bgm",
+    "Composers": "Grant Kirkhope",
+    "Converters": "Schwartz Gandhi",
+    "Tags": [
+      "Lobbies and Shops",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Thu Oct 31 2024 23:56:18 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Banjo-Kazooie/Gruntildas%20Lair%20(Treasure%20Trove%20Cove).mp3",
+    "Binary": "binaries/Banjo-Kazooie/Gruntildas Lair (Treasure Trove Cove).bin",
+    "Duration": 121.23580000000001
+  },
+  {
+    "Game": "Banjo-Kazooie",
+    "Song": "Gruntilda's Lair (Rusty Bucket Bay)",
+    "Category": "bgm",
+    "Composers": "Grant Kirkhope",
+    "Converters": "Schwartz Gandhi",
+    "Tags": [
+      "Lobbies and Shops",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Thu Oct 31 2024 23:56:18 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Banjo-Kazooie/Gruntildas%20Lair%20(Rusty%20Bucket%20Bay).mp3",
+    "Binary": "binaries/Banjo-Kazooie/Gruntildas Lair (Rusty Bucket Bay).bin",
+    "Duration": 121.22613515625001
+  },
+  {
+    "Game": "Banjo-Kazooie",
+    "Song": "Gruntilda's Lair (Clanker's Cavern)",
+    "Category": "bgm",
+    "Composers": "Grant Kirkhope",
+    "Converters": "Schwartz Gandhi",
+    "Tags": [
+      "Lobbies and Shops",
+      "Interiors",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Thu Oct 31 2024 23:56:19 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Banjo-Kazooie/Gruntildas%20Lair%20(Clankers%20Cavern).mp3",
+    "Binary": "binaries/Banjo-Kazooie/Gruntildas Lair (Clankers Cavern).bin",
+    "Duration": 118.76160000000002
+  },
+  {
+    "Game": "Banjo-Kazooie",
+    "Song": "Gruntilda's Lair (Freezeezy Peak)",
+    "Category": "bgm",
+    "Composers": "Grant Kirkhope",
+    "Converters": "Schwartz Gandhi",
+    "Tags": [
+      "Lobbies and Shops",
+      "Interiors",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Thu Oct 31 2024 23:56:19 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Banjo-Kazooie/Gruntildas%20Lair%20(Freezeezy%20Peak).mp3",
+    "Binary": "binaries/Banjo-Kazooie/Gruntildas Lair (Freezeezy Peak).bin",
+    "Duration": 121.23072869791667
+  },
+  {
+    "Game": "Super Mario 64 DS",
+    "Song": "Key Catch",
+    "Composers": "Kenta Nagata",
+    "Converters": "Jessenator2",
+    "Category": "majoritems",
+    "Tags": [
+      "Collection",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Fri Nov 01 2024 04:01:45 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Super%20Mario%2064%20DS/Key%20Catch.mp3",
+    "Binary": "binaries/Super Mario 64 DS/Key Catch.bin",
+    "Duration": 2.0596585416666664
+  },
+  {
+    "Game": "Donkey Kong Country 3: Dixie Kong's Double Trouble!",
+    "Song": "Krematoa Koncerto",
+    "Composers": "Eveline Fischer",
+    "Converters": "MorKs",
+    "Category": "bgm",
+    "Tags": [
+      "Lobbies and Shops",
+      "Interiors",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Fri Nov 01 2024 05:13:26 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Donkey%20Kong%20Country%203%20Dixie%20Kongs%20Double%20Trouble/Krematoa%20Koncerto.mp3",
+    "Binary": "binaries/Donkey Kong Country 3 Dixie Kongs Double Trouble/Krematoa Koncerto.bin",
+    "Duration": 58.285656
+  },
+  {
+    "Game": "The Legend of Zelda: Twilight Princess",
+    "Song": "Fishing Hole",
+    "Composers": "Toru Minegeshi, Asuka Hayazaki",
+    "Converters": "OnlySpaghettiCode",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Fri Nov 01 2024 05:15:25 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/The%20Legend%20of%20Zelda%20Twilight%20Princess/Fishing%20Hole.mp3",
+    "Binary": "binaries/The Legend of Zelda Twilight Princess/Fishing Hole.bin",
+    "Duration": 109.24291348958334
+  },
+  {
+    "Game": "Banjo-Kazooie",
+    "Song": "Mutie Snippets",
+    "Composers": "Grant Kirkhope",
+    "Converters": "Altermentality",
+    "Category": "bgm",
+    "Tags": [
+      "Minigames",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Sat Nov 02 2024 01:59:45 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Banjo-Kazooie/Mutie%20Snippets.mp3",
+    "Binary": "binaries/Banjo-Kazooie/Mutie Snippets.bin",
+    "Duration": 55.57728
+  },
+  {
+    "Game": "Banjo-Kazooie",
+    "Song": "Brentilda's Theme",
+    "Composers": "Grant Kirkhope",
+    "Converters": "Altermentality",
+    "Category": "bgm",
+    "Tags": [
+      "Lobbies and Shops",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Sat Nov 02 2024 02:02:01 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Banjo-Kazooie/Brentildas%20Theme.mp3",
+    "Binary": "binaries/Banjo-Kazooie/Brentildas Theme.bin",
+    "Duration": 100.17623601562501
+  },
+  {
+    "Game": "The Legend of Zelda: Twilight Princess",
+    "Song": "Ooccoo's Theme",
+    "Composers": "Toru Minegeshi, Asuka Hayazaki",
+    "Converters": "OnlySpaghettiCode",
+    "Category": "bgm",
+    "Tags": [
+      "Lobbies and Shops"
+    ],
+    "Verified": true,
+    "Date": "Sat Nov 02 2024 20:40:02 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/The%20Legend%20of%20Zelda%20Twilight%20Princess/Ooccoos%20Theme.mp3",
+    "Binary": "binaries/The Legend of Zelda Twilight Princess/Ooccoos Theme.bin",
+    "Duration": 16.69453390625
+  },
+  {
+    "Game": "Banjo-Kazooie",
+    "Song": "Mr. Vile's Minigame",
+    "Composers": "Grant Kirkhope",
+    "Converters": "Altermentality",
+    "Category": "bgm",
+    "Update Notes": "Thanks to OnlySpaghettiCode for the piccolo pitchbend technology!",
+    "Tags": [
+      "Minigames",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Sun Nov 03 2024 18:17:18 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Banjo-Kazooie/Mr%20Viles%20Minigame.mp3",
+    "Binary": "binaries/Banjo-Kazooie/Mr Viles Minigame.bin",
+    "Duration": 60.23925600000001
+  },
+  {
+    "Game": "Banjo-Kazooie",
+    "Song": "Bottles' Puzzle Challenge",
+    "Composers": "Grant Kirkhope",
+    "Converters": "Altermentality",
+    "Category": "bgm",
+    "Tags": [
+      "Minigames",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Sun Nov 03 2024 18:19:39 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Banjo-Kazooie/Bottles%20Puzzle%20Challenge.mp3",
+    "Binary": "binaries/Banjo-Kazooie/Bottles Puzzle Challenge.bin",
+    "Duration": 81.22928
+  },
+  {
+    "Game": "Donkey Kong 64",
+    "Song": "DK Isles in C Minor",
+    "Category": "bgm",
+    "Composers": "Grant Kirkhope",
+    "Converters": "Schwartz Gandhi",
+    "Tags": [
+      "Exteriors",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Mon Nov 04 2024 20:28:45 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Donkey%20Kong%2064/DK%20Isles%20in%20C%20Minor.mp3",
+    "Binary": "binaries/Donkey Kong 64/DK Isles in C Minor.bin",
+    "Duration": 108.80000000000001
   }
 ]
