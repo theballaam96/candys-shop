@@ -29464,5 +29464,22 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/New%20Super%20Mario%20Bros/Ghost%20House.mp3",
     "Binary": "binaries/New Super Mario Bros/Ghost House.bin",
     "Duration": 48.90774416666666
+  },
+  {
+    "Game": "Mario Party 2",
+    "Song": "Look Away",
+    "Category": "events",
+    "Composers": "Hironao Yamamoto, Shohei Bando, Kazuhiko Sawaguchi",
+    "Converters": "SirEnobMort",
+    "Tags": [
+      "Exteriors",
+      "Happy"
+    ],
+    "Update Notes": "Made some adjustments to instrument levels and sounds, adjusted the volume overall.",
+    "Verified": true,
+    "Date": "Tue Nov 05 2024 06:52:19 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Mario%20Party%202/Look%20Away%20(REV%202).mp3",
+    "Binary": "binaries/Mario Party 2/Look Away (REV 2).bin",
+    "Duration": 5.5681762500000005
   }
 ]
