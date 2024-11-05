@@ -17082,7 +17082,7 @@
   },
   {
     "Game": "Pokémon Stadium",
-    "Song": "Clefairy Says (Right Version)",
+    "Song": "Clefairy Says (Finger Pointing)",
     "Composers": "Hajime Wakai, Kenta Nagata, Toru Minegishi",
     "Converters": "SirEnobMort",
     "Category": "events",
@@ -17162,7 +17162,7 @@
   {
     "Game": "Pokémon Stadium",
     "Song": "Pokémon Present Revealed",
-    "Composers": "Kenta Nagata, Hajime Wakai, Toru Minegishi",
+    "Composers": "Hajime Wakai, Kenta Nagata, Toru Minegishi",
     "Converters": "SirEnobMort",
     "Category": "majoritems",
     "Verified": true,
@@ -17433,8 +17433,8 @@
   },
   {
     "Game": "Pokémon Stadium",
-    "Song": "Gym Leader Castle Stage Clear",
-    "Composers": "Kenta Nagata, Hajime Wakai, Toru Minegishi",
+    "Song": "Gym Leader Castle: Stage Clear",
+    "Composers": "Hajime Wakai, Kenta Nagata, Toru Minegishi",
     "Converters": "SirEnobMort",
     "Category": "events",
     "Verified": true,
@@ -17590,7 +17590,7 @@
   {
     "Game": "Pokémon Stadium",
     "Song": "VS Won",
-    "Composers": "Kenta Nagata, Hajime Wakai, Toru Minegishi",
+    "Composers": "Hajime Wakai, Kenta Nagata, Toru Minegishi",
     "Converters": "SirEnobMort",
     "Category": "events",
     "Tags": [
@@ -17604,8 +17604,8 @@
   },
   {
     "Game": "Pokémon Stadium",
-    "Song": "Gym Leader Castle Stage Clear",
-    "Composers": "Kenta Nagata, Hajime Wakai, Toru Minegishi",
+    "Song": "Gym Leader Castle: Stage Clear",
+    "Composers": "Hajime Wakai, Kenta Nagata, Toru Minegishi",
     "Converters": "SirEnobMort",
     "Category": "events",
     "Tags": [
@@ -17620,7 +17620,7 @@
   {
     "Game": "Pokémon Stadium",
     "Song": "Mini Game End",
-    "Composers": "Kenta Nagata, Hajime Wakai, Toru Minegishi",
+    "Composers": "Hajime Wakai, Kenta Nagata, Toru Minegishi",
     "Converters": "SirEnobMort",
     "Category": "events",
     "Tags": [
@@ -17635,7 +17635,7 @@
   {
     "Game": "Pokémon Stadium",
     "Song": "End Battle!",
-    "Composers": "Kenta Nagata, Hajime Wakai, Toru Minegishi",
+    "Composers": "Hajime Wakai, Kenta Nagata, Toru Minegishi",
     "Converters": "SirEnobMort",
     "Category": "events",
     "Tags": [
@@ -17651,7 +17651,7 @@
   {
     "Game": "Pokémon Stadium",
     "Song": "VS Intro",
-    "Composers": "Kenta Nagata, Hajime Wakai, Toru Minegishi",
+    "Composers": "Hajime Wakai, Kenta Nagata, Toru Minegishi",
     "Converters": "SirEnobMort",
     "Category": "events",
     "Update Notes": "Volume adjusted, removed excess events from MIDI.",
@@ -17668,7 +17668,7 @@
   {
     "Game": "Pokémon Stadium",
     "Song": "VS Intro (Short)",
-    "Composers": "Kenta Nagata, Hajime Wakai, Toru Minegishi",
+    "Composers": "Hajime Wakai, Kenta Nagata, Toru Minegishi",
     "Converters": "SirEnobMort",
     "Category": "events",
     "Update Notes": "Volume adjusted, removed excess events from MIDI.",
@@ -19402,7 +19402,7 @@
   },
   {
     "Game": "Pokémon Stadium",
-    "Song": "Gym Leader Castle Stage Clear",
+    "Song": "Gym Leader Castle: Stage Clear",
     "Composers": "Hajime Wakai, Kenta Nagata, Toru Minegishi",
     "Converters": "SirEnobMort",
     "Category": "events",
@@ -19436,7 +19436,7 @@
   },
   {
     "Game": "Pokémon Stadium",
-    "Song": "Clefairy Says (Right Version)",
+    "Song": "Clefairy Says (Finger Pointing)",
     "Composers": "Hajime Wakai, Kenta Nagata, Toru Minegishi",
     "Converters": "SirEnobMort",
     "Category": "events",
@@ -29464,5 +29464,40 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/New%20Super%20Mario%20Bros/Ghost%20House.mp3",
     "Binary": "binaries/New Super Mario Bros/Ghost House.bin",
     "Duration": 48.90774416666666
+  },
+  {
+    "Game": "Mario Party 2",
+    "Song": "Look Away",
+    "Category": "events",
+    "Composers": "Hironao Yamamoto, Shohei Bando, Kazuhiko Sawaguchi",
+    "Converters": "SirEnobMort",
+    "Tags": [
+      "Exteriors",
+      "Happy"
+    ],
+    "Update Notes": "Made some adjustments to instrument levels and sounds, adjusted the volume overall.",
+    "Verified": true,
+    "Date": "Tue Nov 05 2024 06:52:19 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Mario%20Party%202/Look%20Away%20(REV%202).mp3",
+    "Binary": "binaries/Mario Party 2/Look Away (REV 2).bin",
+    "Duration": 5.5681762500000005
+  },
+  {
+    "Game": "Pokémon Stadium",
+    "Song": "Clefairy Says (Finger Pointing)",
+    "Composers": "Hajime Wakai, Kenta Nagata, Toru Minegishi",
+    "Converters": "SirEnobMort",
+    "Category": "events",
+    "Update Notes": "Changed the song title: (Right Version) -> (Finger Pointing), slight instrument adjustments made, volume rebalance.",
+    "Tags": [
+      "Minigames",
+      "Spawning",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Tue Nov 05 2024 06:54:14 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Pok%C3%A9mon%20Stadium/Clefairy%20Says%20(Finger%20Pointing)%20(REV%202).mp3",
+    "Binary": "binaries/Pokémon Stadium/Clefairy Says (Finger Pointing) (REV 2).bin",
+    "Duration": 8.4
   }
 ]
