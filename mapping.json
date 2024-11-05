@@ -29481,5 +29481,23 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Mario%20Party%202/Look%20Away%20(REV%202).mp3",
     "Binary": "binaries/Mario Party 2/Look Away (REV 2).bin",
     "Duration": 5.5681762500000005
+  },
+  {
+    "Game": "Pokémon Stadium",
+    "Song": "Clefairy Says (Finger Pointing)",
+    "Composers": "Hajime Wakai, Kenta Nagata, Toru Minegishi",
+    "Converters": "SirEnobMort",
+    "Category": "events",
+    "Update Notes": "Changed the song title: (Right Version) -> (Finger Pointing), slight instrument adjustments made, volume rebalance.",
+    "Tags": [
+      "Minigames",
+      "Spawning",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Tue Nov 05 2024 06:54:14 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Pok%C3%A9mon%20Stadium/Clefairy%20Says%20(Finger%20Pointing)%20(REV%202).mp3",
+    "Binary": "binaries/Pokémon Stadium/Clefairy Says (Finger Pointing) (REV 2).bin",
+    "Duration": 8.4
   }
 ]
