@@ -29499,5 +29499,22 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Pok%C3%A9mon%20Stadium/Clefairy%20Says%20(Finger%20Pointing)%20(REV%202).mp3",
     "Binary": "binaries/Pokémon Stadium/Clefairy Says (Finger Pointing) (REV 2).bin",
     "Duration": 8.4
+  },
+  {
+    "Game": "Pokémon Stadium",
+    "Song": "End Battle!",
+    "Composers": "Hajime Wakai, Kenta Nagata, Toru Minegishi",
+    "Converters": "SirEnobMort",
+    "Category": "events",
+    "Update Notes": "New title: \"Battle End\" -> \"End Battle!\", new announcer vox! + audio rebalance",
+    "Tags": [
+      "Spawning",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Tue Nov 05 2024 08:46:54 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Pok%C3%A9mon%20Stadium/End%20Battle%20(REV%202).mp3",
+    "Binary": "binaries/Pokémon Stadium/End Battle (REV 2).bin",
+    "Duration": 5.9198914062500005
   }
 ]
