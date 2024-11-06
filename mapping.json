@@ -29615,5 +29615,89 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Pok%C3%A9mon%20Stadium%202/Clear%20(REV%202).mp3",
     "Binary": "binaries/Pokémon Stadium 2/Clear (REV 2).bin",
     "Duration": 2.7824046250000003
+  },
+  {
+    "Game": "Pokémon Stadium",
+    "Song": "VS Intro (Short)",
+    "Composers": "Hajime Wakai, Kenta Nagata, Toru Minegishi",
+    "Converters": "SirEnobMort",
+    "Category": "events",
+    "Update Notes": "Volume Rebalance",
+    "Tags": [
+      "Exteriors",
+      "Collection",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Wed Nov 06 2024 20:22:14 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Pok%C3%A9mon%20Stadium/VS%20Intro%20(Short)%20(REV%203).mp3",
+    "Binary": "binaries/Pokémon Stadium/VS Intro (Short) (REV 3).bin",
+    "Duration": 5.044011562500001
+  },
+  {
+    "Game": "Pokémon Stadium",
+    "Song": "VS Intro",
+    "Composers": "Hajime Wakai, Kenta Nagata, Toru Minegishi",
+    "Converters": "SirEnobMort",
+    "Category": "events",
+    "Update Notes": "Volume Rebalance",
+    "Tags": [
+      "Spawning",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Wed Nov 06 2024 20:22:14 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Pok%C3%A9mon%20Stadium/VS%20Intro%20(REV%204).mp3",
+    "Binary": "binaries/Pokémon Stadium/VS Intro (REV 4).bin",
+    "Duration": 7.658446875000001
+  },
+  {
+    "Game": "Pokémon Stadium",
+    "Song": "Pokémon Present Revealed",
+    "Composers": "Hajime Wakai, Kenta Nagata, Toru Minegishi",
+    "Converters": "SirEnobMort",
+    "Category": "majoritems",
+    "Update Notes": "Volume Rebalance",
+    "Tags": [
+      "Collection",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Wed Nov 06 2024 20:22:15 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Pok%C3%A9mon%20Stadium/Pok%C3%A9mon%20Present%20Revealed%20(REV%202).mp3",
+    "Binary": "binaries/Pokémon Stadium/Pokémon Present Revealed (REV 2).bin",
+    "Duration": 4.3124956875
+  },
+  {
+    "Game": "Pokémon Stadium",
+    "Song": "Mini-Game End",
+    "Composers": "Hajime Wakai, Kenta Nagata, Toru Minegishi",
+    "Converters": "SirEnobMort",
+    "Category": "events",
+    "Update Notes": "Volume Rebalance",
+    "Tags": [
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Wed Nov 06 2024 20:22:16 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Pok%C3%A9mon%20Stadium/Mini-Game%20End%20(REV%202).mp3",
+    "Binary": "binaries/Pokémon Stadium/Mini-Game End (REV 2).bin",
+    "Duration": 2.791663875
+  },
+  {
+    "Game": "Pokémon Stadium",
+    "Song": "Gym Leader Castle: Stage Clear",
+    "Composers": "Hajime Wakai, Kenta Nagata, Toru Minegishi",
+    "Converters": "SirEnobMort",
+    "Category": "events",
+    "Update Notes": "Volume Rebalance",
+    "Tags": [
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Wed Nov 06 2024 20:22:17 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Pok%C3%A9mon%20Stadium/Gym%20Leader%20Castle%20Stage%20Clear%20(REV%203).mp3",
+    "Binary": "binaries/Pokémon Stadium/Gym Leader Castle Stage Clear (REV 3).bin",
+    "Duration": 2.3491407499999997
   }
 ]
