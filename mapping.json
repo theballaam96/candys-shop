@@ -29567,5 +29567,20 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Banjo-Kazooie/Inside%20the%20Pyramid.mp3",
     "Binary": "binaries/Banjo-Kazooie/Inside the Pyramid.bin",
     "Duration": 135.6498
+  },
+  {
+    "Game": "Pokémon Diamond, Pearl & Platinum",
+    "Song": "Obtained a Badge!",
+    "Composers": "Junichi Masuda, Go Ichinose",
+    "Converters": "UmedMuzl",
+    "Category": "majoritems",
+    "Tags": [
+      "Collection"
+    ],
+    "Verified": true,
+    "Date": "Wed Nov 06 2024 00:13:44 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Pok%C3%A9mon%20Diamond,%20Pearl%20%20Platinum/Obtained%20a%20Badge.mp3",
+    "Binary": "binaries/Pokémon Diamond, Pearl  Platinum/Obtained a Badge.bin",
+    "Duration": 4.7829899375
   }
 ]
