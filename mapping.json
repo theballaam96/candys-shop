@@ -29598,5 +29598,22 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Pok%C3%A9mon%20Diamond,%20Pearl%20%20Platinum/Wi-Fi%20Plaza%20Parade.mp3",
     "Binary": "binaries/Pokémon Diamond, Pearl  Platinum/Wi-Fi Plaza Parade.bin",
     "Duration": 55.3046875
+  },
+  {
+    "Game": "Pokémon Stadium 2",
+    "Song": "Clear!",
+    "Composers": "Hajime Wakai",
+    "Converters": "SirEnobMort",
+    "Category": "events",
+    "Update Notes": "Volume Rebalance",
+    "Tags": [
+      "Collection",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Wed Nov 06 2024 20:19:34 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Pok%C3%A9mon%20Stadium%202/Clear%20(REV%202).mp3",
+    "Binary": "binaries/Pokémon Stadium 2/Clear (REV 2).bin",
+    "Duration": 2.7824046250000003
   }
 ]
