@@ -29582,5 +29582,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Pok%C3%A9mon%20Diamond,%20Pearl%20%20Platinum/Obtained%20a%20Badge.mp3",
     "Binary": "binaries/Pokémon Diamond, Pearl  Platinum/Obtained a Badge.bin",
     "Duration": 4.7829899375
+  },
+  {
+    "Game": "Pokémon Diamond, Pearl & Platinum",
+    "Song": "Wi-Fi Plaza: Parade",
+    "Composers": "Hitomi Satō",
+    "Converters": "UmedMuzl",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Wed Nov 06 2024 07:41:27 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Pok%C3%A9mon%20Diamond,%20Pearl%20%20Platinum/Wi-Fi%20Plaza%20Parade.mp3",
+    "Binary": "binaries/Pokémon Diamond, Pearl  Platinum/Wi-Fi Plaza Parade.bin",
+    "Duration": 55.3046875
   }
 ]
