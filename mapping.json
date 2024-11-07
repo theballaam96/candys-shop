@@ -29699,5 +29699,22 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Pok%C3%A9mon%20Stadium/Gym%20Leader%20Castle%20Stage%20Clear%20(REV%203).mp3",
     "Binary": "binaries/Pokémon Stadium/Gym Leader Castle Stage Clear (REV 3).bin",
     "Duration": 2.3491407499999997
+  },
+  {
+    "Game": "Banjo-Kazooie",
+    "Song": "Ending (On Vacation)",
+    "Composers": "Grant Kirkhope",
+    "Converters": "Altermentality",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors",
+      "Happy",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Thu Nov 07 2024 20:38:21 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Banjo-Kazooie/Ending%20(On%20Vacation).mp3",
+    "Binary": "binaries/Banjo-Kazooie/Ending (On Vacation).bin",
+    "Duration": 66
   }
 ]
