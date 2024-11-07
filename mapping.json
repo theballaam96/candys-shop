@@ -29716,5 +29716,49 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Banjo-Kazooie/Ending%20(On%20Vacation).mp3",
     "Binary": "binaries/Banjo-Kazooie/Ending (On Vacation).bin",
     "Duration": 66
+  },
+  {
+    "Game": "Banjo-Kazooie",
+    "Song": "Nipper Battle",
+    "Composers": "Grant Kirkhope",
+    "Converters": "Altermentality",
+    "Category": "bgm",
+    "Tags": [
+      "Fights",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Thu Nov 07 2024 20:40:53 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Banjo-Kazooie/Nipper%20Battle.mp3",
+    "Binary": "binaries/Banjo-Kazooie/Nipper Battle.bin",
+    "Duration": 55.74297609375001
+  },
+  {
+    "Game": "Tetris DS",
+    "Song": "2-Line Chain Fanfare (Touch Mode)",
+    "Composers": "Minako Hamano, Akira Fujiwara",
+    "Converters": "SirEnobMort",
+    "Category": "events",
+    "Verified": true,
+    "Date": "Thu Nov 07 2024 20:40:54 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Tetris%20DS/2-Line%20Chain%20Fanfare%20(Touch%20Mode).mp3",
+    "Binary": "binaries/Tetris DS/2-Line Chain Fanfare (Touch Mode).bin",
+    "Duration": 4.666662
+  },
+  {
+    "Game": "AeroGauge",
+    "Song": "Rushing Wind",
+    "Composers": "Kazuhisa Kamifuji",
+    "Converters": "iveli_alpaca",
+    "Category": "bgm",
+    "Tags": [
+      "Minigames",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Thu Nov 07 2024 20:40:54 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/AeroGauge/Rushing%20Wind.mp3",
+    "Binary": "binaries/AeroGauge/Rushing Wind.bin",
+    "Duration": 63.99646378125
   }
 ]
