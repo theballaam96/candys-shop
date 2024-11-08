@@ -29778,5 +29778,20 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/AeroGauge/Rushing%20Wind%20(Final%20Lap).mp3",
     "Binary": "binaries/AeroGauge/Rushing Wind (Final Lap).bin",
     "Duration": 51.42554381250001
+  },
+  {
+    "Game": "AeroGauge",
+    "Song": "Race Finish",
+    "Composers": "Kazuhisa Kamifuji",
+    "Converters": "iveli_alpaca",
+    "Category": "events",
+    "Tags": [
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Fri Nov 08 2024 22:57:18 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/AeroGauge/Race%20Finish.mp3",
+    "Binary": "binaries/AeroGauge/Race Finish.bin",
+    "Duration": 6.666659999999999
   }
 ]
