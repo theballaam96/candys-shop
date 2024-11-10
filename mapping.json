@@ -29809,5 +29809,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Banjo-Tooie/Isle%20o%20Hags%20(Grunty%20Industries).mp3",
     "Binary": "binaries/Banjo-Tooie/Isle o Hags (Grunty Industries).bin",
     "Duration": 148.12519872395833
+  },
+  {
+    "Game": "Banjo-Tooie",
+    "Song": "Isle o' Hags (Mayahem Temple)",
+    "Category": "bgm",
+    "Composers": "Grant Kirkhope",
+    "Converters": "Schwartz Gandhi",
+    "Tags": [
+      "Exteriors",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Sun Nov 10 2024 21:49:27 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Banjo-Tooie/Isle%20o%20Hags%20(Mayahem%20Temple).mp3",
+    "Binary": "binaries/Banjo-Tooie/Isle o Hags (Mayahem Temple).bin",
+    "Duration": 148.23396
   }
 ]
