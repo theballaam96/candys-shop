@@ -29825,5 +29825,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Banjo-Tooie/Isle%20o%20Hags%20(Mayahem%20Temple).mp3",
     "Binary": "binaries/Banjo-Tooie/Isle o Hags (Mayahem Temple).bin",
     "Duration": 148.23396
+  },
+  {
+    "Game": "Mario Party 2",
+    "Song": "Mystery Land",
+    "Composers": "Kazuhiko Sawaguchi, Shohei Bando, Hironao Yamamoto",
+    "Converters": "Altermentality",
+    "Category": "bgm",
+    "Audio": "https://www.youtube.com/watch?v=PcsHu2j6DEk",
+    "Tags": [
+      "Exteriors",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Sun Nov 10 2024 21:51:45 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Mario Party 2/Mystery Land.bin",
+    "Duration": 73.602612
   }
 ]
