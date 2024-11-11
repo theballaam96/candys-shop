@@ -29858,5 +29858,20 @@
     "Date": "Mon Nov 11 2024 03:25:40 GMT+0000 (Coordinated Universal Time)",
     "Binary": "binaries/Mario Party 3/Deep Bloober Sea.bin",
     "Duration": 60.49452
+  },
+  {
+    "Game": "Phoenix Wright: Ace Attorney - Trials and Tribulations",
+    "Song": "Investigation ~ Middle Stage",
+    "Composers": "Noriyuki Iwadare",
+    "Converters": "OnlySpaghettiCode",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors"
+    ],
+    "Verified": true,
+    "Date": "Mon Nov 11 2024 11:15:41 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Phoenix%20Wright%20Ace%20Attorney%20-%20Trials%20and%20Tribulations/Investigation%20~%20Middle%20Stage.mp3",
+    "Binary": "binaries/Phoenix Wright Ace Attorney - Trials and Tribulations/Investigation ~ Middle Stage.bin",
+    "Duration": 69.60625
   }
 ]
