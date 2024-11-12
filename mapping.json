@@ -29873,5 +29873,23 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Phoenix%20Wright%20Ace%20Attorney%20-%20Trials%20and%20Tribulations/Investigation%20~%20Middle%20Stage.mp3",
     "Binary": "binaries/Phoenix Wright Ace Attorney - Trials and Tribulations/Investigation ~ Middle Stage.bin",
     "Duration": 69.60625
+  },
+  {
+    "Game": "Mega Man X6",
+    "Song": "Commander Yammark",
+    "Composers": "Naoto Tanaka",
+    "Converters": "cdh90",
+    "Category": "bgm",
+    "Update Notes": "lowered the triangle volume",
+    "Tags": [
+      "Exteriors",
+      "Happy",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Tue Nov 12 2024 03:08:00 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Mega%20Man%20X6/Commander%20Yammark%20(REV%201).mp3",
+    "Binary": "binaries/Mega Man X6/Commander Yammark (REV 1).bin",
+    "Duration": 78.75
   }
 ]
