@@ -29891,5 +29891,22 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Mega%20Man%20X6/Commander%20Yammark%20(REV%201).mp3",
     "Binary": "binaries/Mega Man X6/Commander Yammark (REV 1).bin",
     "Duration": 78.75
+  },
+  {
+    "Game": "Mega Man X6",
+    "Song": "Blizzard Wolfang",
+    "Composers": "Naoto Tanaka",
+    "Converters": "cdh90",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors",
+      "Gloomy",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Tue Nov 12 2024 03:10:26 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Mega%20Man%20X6/Blizzard%20Wolfang.mp3",
+    "Binary": "binaries/Mega Man X6/Blizzard Wolfang.bin",
+    "Duration": 64.625
   }
 ]
