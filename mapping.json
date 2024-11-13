@@ -29925,5 +29925,21 @@
     "Date": "Tue Nov 12 2024 03:11:53 GMT+0000 (Coordinated Universal Time)",
     "Binary": "binaries/Mario Party 2/Bowser Land.bin",
     "Duration": 60.3481108125
+  },
+  {
+    "Game": "Banjo-Kazooie",
+    "Song": "Nabnut's Storage Room",
+    "Composers": "Grant Kirkhope",
+    "Converters": "Altermentality",
+    "Category": "bgm",
+    "Tags": [
+      "Interiors",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Wed Nov 13 2024 01:37:01 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Banjo-Kazooie/Nabnuts%20Storage%20Room.mp3",
+    "Binary": "binaries/Banjo-Kazooie/Nabnuts Storage Room.bin",
+    "Duration": 78.046875
   }
 ]
