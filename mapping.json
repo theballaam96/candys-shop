@@ -30004,5 +30004,20 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Apollo%20Justice%20Ace%20Attorney/Trance%20Logic.mp3",
     "Binary": "binaries/Apollo Justice Ace Attorney/Trance Logic.bin",
     "Duration": 49.73540263541667
+  },
+  {
+    "Game": "Apollo Justice: Ace Attorney",
+    "Song": "Telling the Truth",
+    "Composers": "Toshihiko Horiyama, Hideki Okugawa",
+    "Converters": "OnlySpaghettiCode",
+    "Category": "bgm",
+    "Tags": [
+      "Interiors"
+    ],
+    "Verified": true,
+    "Date": "Fri Nov 15 2024 21:30:30 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Apollo%20Justice%20Ace%20Attorney/Telling%20the%20Truth.mp3",
+    "Binary": "binaries/Apollo Justice Ace Attorney/Telling the Truth.bin",
+    "Duration": 47.72593224999999
   }
 ]
