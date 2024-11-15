@@ -29958,5 +29958,20 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Apollo%20Justice%20Ace%20Attorney/Ema%20Skye%20~%20Scientist%20Detective.mp3",
     "Binary": "binaries/Apollo Justice Ace Attorney/Ema Skye ~ Scientist Detective.bin",
     "Duration": 37.78359504166667
+  },
+  {
+    "Game": "Apollo Justice: Ace Attorney",
+    "Song": "Investigation ~ Core",
+    "Composers": "Toshihiko Horiyama, Hideki Okugawa",
+    "Converters": "OnlySpaghettiCode",
+    "Category": "bgm",
+    "Tags": [
+      "Interiors"
+    ],
+    "Verified": true,
+    "Date": "Fri Nov 15 2024 21:16:37 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Apollo%20Justice%20Ace%20Attorney/Investigation%20~%20Core.mp3",
+    "Binary": "binaries/Apollo Justice Ace Attorney/Investigation ~ Core.bin",
+    "Duration": 57.40854296875
   }
 ]
