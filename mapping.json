@@ -29941,5 +29941,22 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Banjo-Kazooie/Nabnuts%20Storage%20Room.mp3",
     "Binary": "binaries/Banjo-Kazooie/Nabnuts Storage Room.bin",
     "Duration": 78.046875
+  },
+  {
+    "Game": "Apollo Justice: Ace Attorney",
+    "Song": "Ema Skye ~ Scientist Detective",
+    "Composers": "Toshihiko Horiyama, Hideki Okugawa",
+    "Converters": "OnlySpaghettiCode",
+    "Category": "bgm",
+    "Tags": [
+      "Lobbies and Shops",
+      "Exteriors",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Fri Nov 15 2024 21:14:02 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Apollo%20Justice%20Ace%20Attorney/Ema%20Skye%20~%20Scientist%20Detective.mp3",
+    "Binary": "binaries/Apollo Justice Ace Attorney/Ema Skye ~ Scientist Detective.bin",
+    "Duration": 37.78359504166667
   }
 ]
