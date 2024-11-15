@@ -29988,5 +29988,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Apollo%20Justice%20Ace%20Attorney/Courtroom%20Lobby%20~%20New%20Prelude.mp3",
     "Binary": "binaries/Apollo Justice Ace Attorney/Courtroom Lobby ~ New Prelude.bin",
     "Duration": 29.697179302083335
+  },
+  {
+    "Game": "Apollo Justice: Ace Attorney",
+    "Song": "Trance Logic",
+    "Composers": "Toshihiko Horiyama, Hideki Okugawa",
+    "Converters": "OnlySpaghettiCode",
+    "Category": "bgm",
+    "Tags": [
+      "Interiors",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Fri Nov 15 2024 21:28:46 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Apollo%20Justice%20Ace%20Attorney/Trance%20Logic.mp3",
+    "Binary": "binaries/Apollo Justice Ace Attorney/Trance Logic.bin",
+    "Duration": 49.73540263541667
   }
 ]
