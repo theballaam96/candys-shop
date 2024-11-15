@@ -30019,5 +30019,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Apollo%20Justice%20Ace%20Attorney/Telling%20the%20Truth.mp3",
     "Binary": "binaries/Apollo Justice Ace Attorney/Telling the Truth.bin",
     "Duration": 47.72593224999999
+  },
+  {
+    "Game": "Touhou Hisouten ~ Scarlet Weather Rhapsody",
+    "Song": "Catastrophe in Bhavâgra ~ Wonderful Heaven",
+    "Category": "bgm",
+    "Composers": "ZUN",
+    "Converters": "Schwartz Gandhi",
+    "Tags": [
+      "Fights",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Fri Nov 15 2024 22:59:56 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Touhou%20Hisouten%20~%20Scarlet%20Weather%20Rhapsody/Catastrophe%20in%20Bhav%C3%A2gra%20~%20Wonderful%20Heaven.mp3",
+    "Binary": "binaries/Touhou Hisouten ~ Scarlet Weather Rhapsody/Catastrophe in Bhavâgra ~ Wonderful Heaven.bin",
+    "Duration": 118.32082
   }
 ]
