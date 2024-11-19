@@ -30067,5 +30067,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Mega%20Man%20X6/Infinity%20Mijinion.mp3",
     "Binary": "binaries/Mega Man X6/Infinity Mijinion.bin",
     "Duration": 73.82135475
+  },
+  {
+    "Game": "Tetris DS",
+    "Song": "Tetris Climber",
+    "Composers": "Minako Hamano, Akira Fujiwara",
+    "Converters": "SirEnobMort",
+    "Category": "bgm",
+    "Tags": [
+      "Minigames",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Tue Nov 19 2024 15:18:12 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Tetris%20DS/Tetris%20Climber.mp3",
+    "Binary": "binaries/Tetris DS/Tetris Climber.bin",
+    "Duration": 28.799999999999997
   }
 ]
