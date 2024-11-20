@@ -30099,5 +30099,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Mario%20%20Luigi%20Superstar%20Saga/Hoohoo%20Mountain.mp3",
     "Binary": "binaries/Mario  Luigi Superstar Saga/Hoohoo Mountain.bin",
     "Duration": 55.652224000000004
+  },
+  {
+    "Game": "Diddy Kong Racing",
+    "Song": "Boulder Canyon",
+    "Composers": "David Wise",
+    "Converters": "SirEnobMort",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Wed Nov 20 2024 09:12:30 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Diddy%20Kong%20Racing/Boulder%20Canyon.mp3",
+    "Binary": "binaries/Diddy Kong Racing/Boulder Canyon.bin",
+    "Duration": 91.83644662499998
   }
 ]
