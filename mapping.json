@@ -30132,5 +30132,23 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Consoles%20and%20BIOS/Windows%20XP%20Startup%20(REV%201).mp3",
     "Binary": "binaries/Consoles and BIOS/Windows XP Startup (REV 1).bin",
     "Duration": 3.59875
+  },
+  {
+    "Game": "Pokémon X & Y",
+    "Song": "Laverre City",
+    "Category": "bgm",
+    "Composers": "Junichi Masuda",
+    "Converters": "Schwartz Gandhi",
+    "Tags": [
+      "Exteriors",
+      "Calm",
+      "Happy"
+    ],
+    "Update Notes": "An attempt to make the climax sound more accurate to the original.",
+    "Verified": true,
+    "Date": "Thu Nov 21 2024 12:45:36 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Pok%C3%A9mon%20X%20%20Y/Laverre%20City%20(REV%201).mp3",
+    "Binary": "binaries/Pokémon X  Y/Laverre City (REV 1).bin",
+    "Duration": 62.99921875
   }
 ]
