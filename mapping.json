@@ -30115,5 +30115,22 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Diddy%20Kong%20Racing/Boulder%20Canyon.mp3",
     "Binary": "binaries/Diddy Kong Racing/Boulder Canyon.bin",
     "Duration": 91.83644662499998
+  },
+  {
+    "Game": "Consoles and BIOS",
+    "Song": "Windows XP Startup",
+    "Category": "events",
+    "Composers": "Bill Brown IV",
+    "Converters": "Schwartz Gandhi",
+    "Tags": [
+      "Spawning",
+      "Collection"
+    ],
+    "Update Notes": "Mmmm yummy reverb... Also curse whoever replaced my perfectly fine preview with the bad bizhawk recording like a year ago.",
+    "Verified": true,
+    "Date": "Thu Nov 21 2024 12:43:32 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Consoles%20and%20BIOS/Windows%20XP%20Startup%20(REV%201).mp3",
+    "Binary": "binaries/Consoles and BIOS/Windows XP Startup (REV 1).bin",
+    "Duration": 3.59875
   }
 ]
