@@ -30182,5 +30182,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Touhou%20Shinjutou%20~%20Hollow%20Song%20of%20Birds/Golden%20Hymn%20~%20Ibis%20Trismegistus.mp3",
     "Binary": "binaries/Touhou Shinjutou ~ Hollow Song of Birds/Golden Hymn ~ Ibis Trismegistus.bin",
     "Duration": 257.765724
+  },
+  {
+    "Game": "Psychopomp",
+    "Song": "Bad Chest Feel Don't Touch Your Feet Together (DK Rap Ver.)",
+    "Composers": "Karbonic",
+    "Converters": "iveli_alpaca, Wibdiwoh",
+    "Category": "bgm",
+    "Audio": "https://www.youtube.com/watch?v=1ldxYolV54s",
+    "Tags": [
+      "Lobbies and Shops",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Fri Nov 22 2024 13:44:27 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Psychopomp/Bad Chest Feel Dont Touch Your Feet Together (DK Rap Ver).bin",
+    "Duration": 74.666704
   }
 ]
