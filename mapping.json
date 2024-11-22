@@ -30166,5 +30166,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Metal%20Gear%20Solid/Operation%20Intrude%20N313%20(REV%201).mp3",
     "Binary": "binaries/Metal Gear Solid/Operation Intrude N313 (REV 1).bin",
     "Duration": 9.193548999999999
+  },
+  {
+    "Game": "Touhou Shinjutou ~ Hollow Song of Birds",
+    "Song": "Golden Hymn ~ Ibis Trismegistus",
+    "Category": "bgm",
+    "Composers": "Wanwan",
+    "Converters": "Schwartz Gandhi",
+    "Tags": [
+      "Fights"
+    ],
+    "Additional Notes": "Original MIDI by ShinkoNet: https://www.youtube.com/watch?v=xeKgYWcrbXM",
+    "Verified": true,
+    "Date": "Fri Nov 22 2024 13:40:56 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Touhou%20Shinjutou%20~%20Hollow%20Song%20of%20Birds/Golden%20Hymn%20~%20Ibis%20Trismegistus.mp3",
+    "Binary": "binaries/Touhou Shinjutou ~ Hollow Song of Birds/Golden Hymn ~ Ibis Trismegistus.bin",
+    "Duration": 257.765724
   }
 ]
