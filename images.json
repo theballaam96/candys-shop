@@ -761,6 +761,10 @@
    "Rayman":{
       "icon":"https://i.imgur.com/inVx78r.png"
    },
+   "Rayman 2: The Great Escape":{
+      "icon":"https://i.imgur.com/v8U2JL2.png",
+      "short_name": "Rayman 2"
+   },
    "Rhythm Heaven":{
       "icon":"https://i.imgur.com/Z4S2YnD.png"
    },
