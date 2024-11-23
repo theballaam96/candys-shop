@@ -30213,5 +30213,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Phoenix%20Wright%20Ace%20Attorney%20-%20Trials%20and%20Tribulations/Cross-Examination%20~%20Allegro.mp3",
     "Binary": "binaries/Phoenix Wright Ace Attorney - Trials and Tribulations/Cross-Examination ~ Allegro.bin",
     "Duration": 73.85569537499998
+  },
+  {
+    "Game": "Rayman 2: The Great Escape",
+    "Song": "The Hall Of Doors",
+    "Composers": "Éric Chevalier",
+    "Converters": "Manic Bestia",
+    "Category": "bgm",
+    "Tags": [
+      "Interiors",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Sat Nov 23 2024 22:07:42 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Rayman%202%20The%20Great%20Escape/The%20Hall%20Of%20Doors.mp3",
+    "Binary": "binaries/Rayman 2 The Great Escape/The Hall Of Doors.bin",
+    "Duration": 22.21645295833334
   }
 ]
