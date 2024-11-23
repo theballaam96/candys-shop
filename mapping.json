@@ -30198,5 +30198,20 @@
     "Date": "Fri Nov 22 2024 13:44:27 GMT+0000 (Coordinated Universal Time)",
     "Binary": "binaries/Psychopomp/Bad Chest Feel Dont Touch Your Feet Together (DK Rap Ver).bin",
     "Duration": 74.666704
+  },
+  {
+    "Game": "Phoenix Wright: Ace Attorney - Trials and Tribulations",
+    "Song": "Cross-Examination ~ Allegro",
+    "Composers": "Noriyuki Iwadare",
+    "Converters": "OnlySpaghettiCode",
+    "Category": "bgm",
+    "Tags": [
+      "Interiors"
+    ],
+    "Verified": true,
+    "Date": "Sat Nov 23 2024 22:05:11 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Phoenix%20Wright%20Ace%20Attorney%20-%20Trials%20and%20Tribulations/Cross-Examination%20~%20Allegro.mp3",
+    "Binary": "binaries/Phoenix Wright Ace Attorney - Trials and Tribulations/Cross-Examination ~ Allegro.bin",
+    "Duration": 73.85569537499998
   }
 ]
