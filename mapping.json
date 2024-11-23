@@ -30229,5 +30229,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Rayman%202%20The%20Great%20Escape/The%20Hall%20Of%20Doors.mp3",
     "Binary": "binaries/Rayman 2 The Great Escape/The Hall Of Doors.bin",
     "Duration": 22.21645295833334
+  },
+  {
+    "Game": "Super Mario Galaxy",
+    "Song": "Flying Mario",
+    "Composers": "Mahito Yokota",
+    "Converters": "UmedMuzl",
+    "Category": "bgm",
+    "Tags": [
+      "Minigames",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Sat Nov 23 2024 22:09:53 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Super%20Mario%20Galaxy/Flying%20Mario.mp3",
+    "Binary": "binaries/Super Mario Galaxy/Flying Mario.bin",
+    "Duration": 47.2296825
   }
 ]
