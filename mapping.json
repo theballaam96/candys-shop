@@ -30245,5 +30245,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Super%20Mario%20Galaxy/Flying%20Mario.mp3",
     "Binary": "binaries/Super Mario Galaxy/Flying Mario.bin",
     "Duration": 47.2296825
+  },
+  {
+    "Game": "Diddy Kong Racing",
+    "Song": "Walrus Cove",
+    "Composers": "David Wise",
+    "Converters": "SirEnobMort",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Sat Nov 23 2024 22:15:41 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Diddy%20Kong%20Racing/Walrus%20Cove.mp3",
+    "Binary": "binaries/Diddy Kong Racing/Walrus Cove.bin",
+    "Duration": 84.48329445833335
   }
 ]
