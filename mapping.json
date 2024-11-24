@@ -30277,5 +30277,22 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/New%20Super%20Mario%20Bros/World%205.mp3",
     "Binary": "binaries/New Super Mario Bros/World 5.bin",
     "Duration": 19.2
+  },
+  {
+    "Game": "Mega Man X6",
+    "Song": "Infinity Mijinion",
+    "Composers": "Naoto Tanaka",
+    "Converters": "cdh90",
+    "Category": "bgm",
+    "Update Notes": "Lowered bass volume for a better mix.",
+    "Tags": [
+      "Exteriors",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Sun Nov 24 2024 20:02:00 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Mega%20Man%20X6/Infinity%20Mijinion%20(REV%201).mp3",
+    "Binary": "binaries/Mega Man X6/Infinity Mijinion (REV 1).bin",
+    "Duration": 73.82135475
   }
 ]
