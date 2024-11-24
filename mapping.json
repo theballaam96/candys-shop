@@ -30261,5 +30261,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Diddy%20Kong%20Racing/Walrus%20Cove.mp3",
     "Binary": "binaries/Diddy Kong Racing/Walrus Cove.bin",
     "Duration": 84.48329445833335
+  },
+  {
+    "Game": "New Super Mario Bros.",
+    "Song": "World 5",
+    "Composers": "Asuka Hayazaki, Hajime Wakai, Koji Kondo",
+    "Converters": "SirEnobMort",
+    "Category": "bgm",
+    "Tags": [
+      "Lobbies and Shops",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Sun Nov 24 2024 19:59:16 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/New%20Super%20Mario%20Bros/World%205.mp3",
+    "Binary": "binaries/New Super Mario Bros/World 5.bin",
+    "Duration": 19.2
   }
 ]
