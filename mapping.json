@@ -30294,5 +30294,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Mega%20Man%20X6/Infinity%20Mijinion%20(REV%201).mp3",
     "Binary": "binaries/Mega Man X6/Infinity Mijinion (REV 1).bin",
     "Duration": 73.82135475
+  },
+  {
+    "Game": "Banjo-Kazooie",
+    "Song": "Freezeezy Peak (Christmas Lights On)",
+    "Composers": "Grant Kirkhope",
+    "Converters": "Altermentality",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Mon Nov 25 2024 06:54:51 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Banjo-Kazooie/Freezeezy%20Peak%20(Christmas%20Lights%20On).mp3",
+    "Binary": "binaries/Banjo-Kazooie/Freezeezy Peak (Christmas Lights On).bin",
+    "Duration": 119.17152000000002
   }
 ]
