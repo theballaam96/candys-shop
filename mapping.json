@@ -30310,5 +30310,22 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Banjo-Kazooie/Freezeezy%20Peak%20(Christmas%20Lights%20On).mp3",
     "Binary": "binaries/Banjo-Kazooie/Freezeezy Peak (Christmas Lights On).bin",
     "Duration": 119.17152000000002
+  },
+  {
+    "Game": "Banjo-Kazooie",
+    "Song": "Light the Tree!",
+    "Composers": "Grant Kirkhope",
+    "Converters": "Altermentality",
+    "Category": "majoritems",
+    "Tags": [
+      "Spawning",
+      "Collection",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Mon Nov 25 2024 06:57:34 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Banjo-Kazooie/Light%20the%20Tree.mp3",
+    "Binary": "binaries/Banjo-Kazooie/Light the Tree.bin",
+    "Duration": 3.712672317708334
   }
 ]
