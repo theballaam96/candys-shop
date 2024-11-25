@@ -30327,5 +30327,37 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Banjo-Kazooie/Light%20the%20Tree.mp3",
     "Binary": "binaries/Banjo-Kazooie/Light the Tree.bin",
     "Duration": 3.712672317708334
+  },
+  {
+    "Game": "Banjo-Kazooie",
+    "Song": "Inside the Christmas Tree",
+    "Composers": "Grant Kirkhope",
+    "Converters": "Altermentality",
+    "Category": "bgm",
+    "Tags": [
+      "Interiors",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Mon Nov 25 2024 06:59:14 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Banjo-Kazooie/Inside%20the%20Christmas%20Tree.mp3",
+    "Binary": "binaries/Banjo-Kazooie/Inside the Christmas Tree.bin",
+    "Duration": 38.85656
+  },
+  {
+    "Game": "Mega Man X6",
+    "Song": "Metal Shark Player",
+    "Composers": "Naoto Tanaka",
+    "Converters": "cdh90",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Mon Nov 25 2024 06:59:15 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Mega%20Man%20X6/Metal%20Shark%20Player.mp3",
+    "Binary": "binaries/Mega Man X6/Metal Shark Player.bin",
+    "Duration": 59.60171925
   }
 ]
