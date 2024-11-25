@@ -30359,5 +30359,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Mega%20Man%20X6/Metal%20Shark%20Player.mp3",
     "Binary": "binaries/Mega Man X6/Metal Shark Player.bin",
     "Duration": 59.60171925
+  },
+  {
+    "Game": "Rayman 2: The Great Escape",
+    "Song": "The Precipice - The Great Escape",
+    "Composers": "Éric Chevalier",
+    "Converters": "Manic Bestia",
+    "Category": "bgm",
+    "Tags": [
+      "Minigames",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Mon Nov 25 2024 20:35:03 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Rayman%202%20The%20Great%20Escape/The%20Precipice%20-%20The%20Great%20Escape.mp3",
+    "Binary": "binaries/Rayman 2 The Great Escape/The Precipice - The Great Escape.bin",
+    "Duration": 35.337407999999996
   }
 ]
