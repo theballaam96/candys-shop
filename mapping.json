@@ -30375,5 +30375,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Rayman%202%20The%20Great%20Escape/The%20Precipice%20-%20The%20Great%20Escape.mp3",
     "Binary": "binaries/Rayman 2 The Great Escape/The Precipice - The Great Escape.bin",
     "Duration": 35.337407999999996
+  },
+  {
+    "Game": "Mega Man X6",
+    "Song": "Ground Scaravich",
+    "Composers": "Naoto Tanaka",
+    "Converters": "cdh90",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Wed Nov 27 2024 18:41:26 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Mega%20Man%20X6/Ground%20Scaravich.mp3",
+    "Binary": "binaries/Mega Man X6/Ground Scaravich.bin",
+    "Duration": 47.499952500000006
   }
 ]
