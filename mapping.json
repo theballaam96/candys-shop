@@ -30391,5 +30391,87 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Mega%20Man%20X6/Ground%20Scaravich.mp3",
     "Binary": "binaries/Mega Man X6/Ground Scaravich.bin",
     "Duration": 47.499952500000006
+  },
+  {
+    "Game": "Mega Man X6",
+    "Song": "Shield Sheldon",
+    "Composers": "Naoto Tanaka",
+    "Converters": "cdh90",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Wed Nov 27 2024 18:44:00 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Mega%20Man%20X6/Shield%20Sheldon.mp3",
+    "Binary": "binaries/Mega Man X6/Shield Sheldon.bin",
+    "Duration": 70.36587125
+  },
+  {
+    "Game": "Rayman 2: The Great Escape",
+    "Song": "The Cave of Bad Dreams - Post Mortem",
+    "Composers": "Éric Chevalier",
+    "Converters": "Manic Bestia",
+    "Category": "bgm",
+    "Tags": [
+      "Interiors",
+      "Minigames",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Wed Nov 27 2024 18:44:00 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Rayman%202%20The%20Great%20Escape/The%20Cave%20of%20Bad%20Dreams%20-%20Post%20Mortem.mp3",
+    "Binary": "binaries/Rayman 2 The Great Escape/The Cave of Bad Dreams - Post Mortem.bin",
+    "Duration": 22.580871062499998
+  },
+  {
+    "Game": "Diddy Kong Racing",
+    "Song": "Everfrost Peak",
+    "Composers": "David Wise",
+    "Converters": "SirEnobMort",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Wed Nov 27 2024 18:44:01 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Diddy%20Kong%20Racing/Everfrost%20Peak.mp3",
+    "Binary": "binaries/Diddy Kong Racing/Everfrost Peak.bin",
+    "Duration": 99.99573971875
+  },
+  {
+    "Game": "Mega Man Legends",
+    "Song": "Apple Market",
+    "Composers": "Makoto Tomozawa",
+    "Converters": "Altermentality",
+    "Category": "bgm",
+    "Audio": "https://youtu.be/gnbTSHrRU9c",
+    "Tags": [
+      "Lobbies and Shops",
+      "Interiors",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Wed Nov 27 2024 18:44:02 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Mega Man Legends/Apple Market.bin",
+    "Duration": 25.875
+  },
+  {
+    "Game": "Diddy Kong Racing",
+    "Song": "Frosty Village",
+    "Composers": "David Wise",
+    "Converters": "SirEnobMort",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Wed Nov 27 2024 18:44:03 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Diddy%20Kong%20Racing/Frosty%20Village.mp3",
+    "Binary": "binaries/Diddy Kong Racing/Frosty Village.bin",
+    "Duration": 107.23406400000002
   }
 ]
