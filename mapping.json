@@ -30474,5 +30474,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Diddy%20Kong%20Racing/Frosty%20Village.mp3",
     "Binary": "binaries/Diddy Kong Racing/Frosty Village.bin",
     "Duration": 107.23406400000002
+  },
+  {
+    "Game": "Jet Force Gemini",
+    "Song": "Character Select",
+    "Composers": "Graeme Norgate",
+    "Converters": "LBFrank",
+    "Category": "bgm",
+    "Tags": [
+      "Lobbies and Shops",
+      "Interiors"
+    ],
+    "Verified": true,
+    "Date": "Wed Nov 27 2024 22:33:05 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Jet%20Force%20Gemini/Character%20Select.mp3",
+    "Binary": "binaries/Jet Force Gemini/Character Select.bin",
+    "Duration": 57.64654
   }
 ]
