@@ -30506,5 +30506,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Rayman%202%20The%20Great%20Escape/Ly%20The%20Fairy.mp3",
     "Binary": "binaries/Rayman 2 The Great Escape/Ly The Fairy.bin",
     "Duration": 36
+  },
+  {
+    "Game": "Super Mario 64",
+    "Song": "Big Boo's Haunt",
+    "Composers": "Koji Kondo",
+    "Converters": "UmedMuzl",
+    "Category": "bgm",
+    "Tags": [
+      "Interiors",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Thu Nov 28 2024 12:11:30 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Super%20Mario%2064/Big%20Boos%20Haunt.mp3",
+    "Binary": "binaries/Super Mario 64/Big Boos Haunt.bin",
+    "Duration": 104.40793649999998
   }
 ]
