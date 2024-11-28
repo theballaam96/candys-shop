@@ -30490,5 +30490,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Jet%20Force%20Gemini/Character%20Select.mp3",
     "Binary": "binaries/Jet Force Gemini/Character Select.bin",
     "Duration": 57.64654
+  },
+  {
+    "Game": "Rayman 2: The Great Escape",
+    "Song": "Ly The Fairy",
+    "Composers": "Éric Chevalier",
+    "Converters": "Manic Bestia",
+    "Category": "bgm",
+    "Tags": [
+      "Interiors",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Thu Nov 28 2024 12:09:26 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Rayman%202%20The%20Great%20Escape/Ly%20The%20Fairy.mp3",
+    "Binary": "binaries/Rayman 2 The Great Escape/Ly The Fairy.bin",
+    "Duration": 36
   }
 ]
