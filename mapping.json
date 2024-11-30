@@ -30557,5 +30557,22 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Bomberman%20Hero/Monogenic.mp3",
     "Binary": "binaries/Bomberman Hero/Monogenic.bin",
     "Duration": 48.0078125
+  },
+  {
+    "Game": "Mario & Luigi: Partners in Time",
+    "Song": "Holli Jolli Village",
+    "Composers": "Yoko Shimomura",
+    "Converters": "SirEnobMort",
+    "Category": "bgm",
+    "Tags": [
+      "Interiors",
+      "Exteriors",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Sat Nov 30 2024 04:51:45 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Mario%20%20Luigi%20Partners%20in%20Time/Holli%20Jolli%20Village.mp3",
+    "Binary": "binaries/Mario  Luigi Partners in Time/Holli Jolli Village.bin",
+    "Duration": 86.66673600000001
   }
 ]
