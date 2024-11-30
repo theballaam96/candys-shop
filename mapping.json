@@ -30574,5 +30574,22 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Mario%20%20Luigi%20Partners%20in%20Time/Holli%20Jolli%20Village.mp3",
     "Binary": "binaries/Mario  Luigi Partners in Time/Holli Jolli Village.bin",
     "Duration": 86.66673600000001
+  },
+  {
+    "Game": "Rayman 2: The Great Escape",
+    "Song": "The Pirate Mines Free!",
+    "Composers": "Éric Chevalier",
+    "Converters": "Manic Bestia",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors",
+      "Collection",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Sat Nov 30 2024 18:51:49 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Rayman%202%20The%20Great%20Escape/The%20Pirate%20Mines%20Free.mp3",
+    "Binary": "binaries/Rayman 2 The Great Escape/The Pirate Mines Free.bin",
+    "Duration": 38.0952
   }
 ]
