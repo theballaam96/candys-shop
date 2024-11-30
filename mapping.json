@@ -30591,5 +30591,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Rayman%202%20The%20Great%20Escape/The%20Pirate%20Mines%20Free.mp3",
     "Binary": "binaries/Rayman 2 The Great Escape/The Pirate Mines Free.bin",
     "Duration": 38.0952
+  },
+  {
+    "Game": "Banjo-Tooie",
+    "Song": "Witchyworld (Space Zone)",
+    "Composers": "Grant Kirkhope",
+    "Converters": "OnlySpaghettiCode",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Sat Nov 30 2024 21:01:45 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Banjo-Tooie/Witchyworld%20(Space%20Zone).mp3",
+    "Binary": "binaries/Banjo-Tooie/Witchyworld (Space Zone).bin",
+    "Duration": 125.89917965625
   }
 ]
