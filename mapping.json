@@ -30607,5 +30607,22 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Banjo-Tooie/Witchyworld%20(Space%20Zone).mp3",
     "Binary": "binaries/Banjo-Tooie/Witchyworld (Space Zone).bin",
     "Duration": 125.89917965625
+  },
+  {
+    "Game": "Mega Man X6",
+    "Song": "Boss Theme",
+    "Composers": "Naoto Tanaka",
+    "Converters": "cdh90",
+    "Category": "bgm",
+    "Tags": [
+      "Fights",
+      "Minigames",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Sat Nov 30 2024 23:02:35 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Mega%20Man%20X6/Boss%20Theme.mp3",
+    "Binary": "binaries/Mega Man X6/Boss Theme.bin",
+    "Duration": 42.907455302083335
   }
 ]
