@@ -30522,5 +30522,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Super%20Mario%2064/Big%20Boos%20Haunt.mp3",
     "Binary": "binaries/Super Mario 64/Big Boos Haunt.bin",
     "Duration": 104.40793649999998
+  },
+  {
+    "Game": "Final Fantasy: Mystic Quest",
+    "Song": "Lava Dome",
+    "Composers": "Ryuji Sasai, Yasuhiro Kawakami",
+    "Converters": "OnlySpaghettiCode",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Sat Nov 30 2024 03:59:27 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Final%20Fantasy%20Mystic%20Quest/Lava%20Dome.mp3",
+    "Binary": "binaries/Final Fantasy Mystic Quest/Lava Dome.bin",
+    "Duration": 46.817385249999994
   }
 ]
