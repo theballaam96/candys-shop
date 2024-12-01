@@ -30640,5 +30640,22 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Mario%20%20Luigi%20Bowsers%20Inside%20Story/In%20the%20final%20(REV%202).mp3",
     "Binary": "binaries/Mario  Luigi Bowsers Inside Story/In the final (REV 2).bin",
     "Duration": 92.49990749999999
+  },
+  {
+    "Game": "Super Mario World 2: Yoshi's Island",
+    "Song": "Underground",
+    "Composers": "Koji Kondo",
+    "Converters": "UmedMuzl",
+    "Category": "bgm",
+    "Update Notes": "That one B3313 song",
+    "Tags": [
+      "Interiors",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Sun Dec 01 2024 23:09:43 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Super%20Mario%20World%202%20Yoshis%20Island/Underground.mp3",
+    "Binary": "binaries/Super Mario World 2 Yoshis Island/Underground.bin",
+    "Duration": 47.32143645833333
   }
 ]
