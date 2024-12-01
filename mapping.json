@@ -30673,5 +30673,22 @@
     "Date": "Sun Dec 01 2024 23:13:23 GMT+0000 (Coordinated Universal Time)",
     "Binary": "binaries/Warhammer 40,000 Darktide/Disposal Unit (Imperium Mix).bin",
     "Duration": 163.19375
+  },
+  {
+    "Game": "Mega Man X6",
+    "Song": "Final Sigma Battle",
+    "Composers": "Naoto Tanaka",
+    "Converters": "cdh90",
+    "Category": "bgm",
+    "Tags": [
+      "Fights",
+      "Minigames",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Sun Dec 01 2024 23:16:03 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Mega%20Man%20X6/Final%20Sigma%20Battle.mp3",
+    "Binary": "binaries/Mega Man X6/Final Sigma Battle.bin",
+    "Duration": 44.50000000000001
   }
 ]
