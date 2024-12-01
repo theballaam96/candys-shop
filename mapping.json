@@ -30657,5 +30657,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Super%20Mario%20World%202%20Yoshis%20Island/Underground.mp3",
     "Binary": "binaries/Super Mario World 2 Yoshis Island/Underground.bin",
     "Duration": 47.32143645833333
+  },
+  {
+    "Game": "Warhammer 40,000: Darktide",
+    "Song": "Disposal Unit (Imperium Mix)",
+    "Composers": "Jesper Kyd",
+    "Converters": "iveli_alpaca",
+    "Category": "bgm",
+    "Audio": "https://youtu.be/-arS6-pUDFo?si=Ug8F7XN8H-qQ6a2k",
+    "Tags": [
+      "Fights",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Sun Dec 01 2024 23:13:23 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Warhammer 40,000 Darktide/Disposal Unit (Imperium Mix).bin",
+    "Duration": 163.19375
   }
 ]
