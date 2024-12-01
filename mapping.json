@@ -30624,5 +30624,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Mega%20Man%20X6/Boss%20Theme.mp3",
     "Binary": "binaries/Mega Man X6/Boss Theme.bin",
     "Duration": 42.907455302083335
+  },
+  {
+    "Game": "Mario & Luigi: Bowser's Inside Story",
+    "Song": "In the final",
+    "Composers": "Yoko Shimomura",
+    "Converters": "UmedMuzl, Wolfeni, OnlySpaghettiCode",
+    "Category": "bgm",
+    "Update Notes": "Removed infinite hum and more percussion",
+    "Tags": [
+      "Fights"
+    ],
+    "Verified": true,
+    "Date": "Sun Dec 01 2024 23:07:32 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Mario%20%20Luigi%20Bowsers%20Inside%20Story/In%20the%20final%20(REV%202).mp3",
+    "Binary": "binaries/Mario  Luigi Bowsers Inside Story/In the final (REV 2).bin",
+    "Duration": 92.49990749999999
   }
 ]
