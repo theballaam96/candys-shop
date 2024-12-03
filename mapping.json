@@ -30739,5 +30739,55 @@
     "Date": "Tue Dec 03 2024 02:23:13 GMT+0000 (Coordinated Universal Time)",
     "Binary": "binaries/Yoshis Story/Alpina Blue.bin",
     "Duration": 73.541549
+  },
+  {
+    "Game": "Kirby's Dream Land 3",
+    "Song": "Ripple Field: Ocean Waves",
+    "Composers": "Jun Ishikawa",
+    "Converters": "nerosomething",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Tue Dec 03 2024 02:25:00 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Kirbys%20Dream%20Land%203/Ripple%20Field%20Ocean%20Waves.mp3",
+    "Binary": "binaries/Kirbys Dream Land 3/Ripple Field Ocean Waves.bin",
+    "Duration": 81.8260665
+  },
+  {
+    "Game": "Touhou Artificial Dream in Arcadia",
+    "Song": "Palace of the Earth Spirits",
+    "Category": "bgm",
+    "Composers": "Miles Oculos",
+    "Converters": "Schwartz Gandhi",
+    "Tags": [
+      "Interiors",
+      "Gloomy",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Tue Dec 03 2024 02:25:00 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Touhou%20Artificial%20Dream%20in%20Arcadia/Palace%20of%20the%20Earth%20Spirits.mp3",
+    "Binary": "binaries/Touhou Artificial Dream in Arcadia/Palace of the Earth Spirits.bin",
+    "Duration": 64
+  },
+  {
+    "Game": "Mega Man X6",
+    "Song": "High Max",
+    "Composers": "Naoto Tanaka",
+    "Converters": "cdh90",
+    "Category": "bgm",
+    "Tags": [
+      "Fights",
+      "Minigames",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Tue Dec 03 2024 02:25:01 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Mega%20Man%20X6/High%20Max.mp3",
+    "Binary": "binaries/Mega Man X6/High Max.bin",
+    "Duration": 30.4629325
   }
 ]
