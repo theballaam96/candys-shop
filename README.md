@@ -35,6 +35,6 @@ For your song to be accepted (barring any other issues we find), the volume must
   - BGM submissions tagged `Exteriors` and `Interiors` should be around -17LUFS or lower.
   - BGM submissions tagged `Minigames` should be around -16LUFS
   - BGM submissions tagged `Fights` can be up to -15LUFS
-#### When testing your volume, please use a randomised ROM with random music *enabled* to get a recording at the proper levels.
+#### When testing your volume, you must use a randomised ROM with random music *enabled* to get a recording at the accurate levels.
 # Questions?
 Visit the [Discord](https://discord.dk64randomizer.com) and ask any question in the #music-discussion channel. One of our many composers will help you with any questions you have!
