@@ -45,6 +45,6 @@ When testing your volume make sure to follow these steps to ensure you have the 
   - Navigate to where you want to place your output file.
   - Enter the area where your song plays and wait until a few seconds after it's looped.
   - Go to `File -> AVI/WAV` and select `Stop AVI/WAV`.
-  - In an external audio editor of your choice, trim all of the whitespace between you starting the recording and when your song starts playing.
+  - In an external audio such as [Audacity](https://www.audacityteam.org/download/), trim all of the whitespace between you starting the recording and when your song starts playing.
 ## Questions?
 Visit the [Discord](https://discord.dk64randomizer.com) and ask any question in the #music-discussion channel. One of our many composers will help you with any questions you have!
