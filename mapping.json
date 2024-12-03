@@ -30789,5 +30789,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Mega%20Man%20X6/High%20Max.mp3",
     "Binary": "binaries/Mega Man X6/High Max.bin",
     "Duration": 30.4629325
+  },
+  {
+    "Game": "Mario Party 3",
+    "Song": "Select a File",
+    "Composers": "Ichiro Shimakura",
+    "Converters": "Altermentality",
+    "Category": "bgm",
+    "Audio": "https://youtu.be/ToLg_Nu8HLw",
+    "Tags": [
+      "Lobbies and Shops",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Tue Dec 03 2024 02:47:39 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Mario Party 3/Select a File.bin",
+    "Duration": 20.073958333333334
   }
 ]
