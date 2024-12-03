@@ -30706,5 +30706,22 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Donkey%20Kong%20Country%203%20Dixie%20Kongs%20Double%20Trouble/Jangle%20Bells.mp3",
     "Binary": "binaries/Donkey Kong Country 3 Dixie Kongs Double Trouble/Jangle Bells.bin",
     "Duration": 99.17026968750001
+  },
+  {
+    "Game": "Mega Man X6",
+    "Song": "Intro Stage",
+    "Composers": "Naoto Tanaka",
+    "Converters": "cdh90",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors",
+      "Gloomy",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Tue Dec 03 2024 02:18:44 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Mega%20Man%20X6/Intro%20Stage.mp3",
+    "Binary": "binaries/Mega Man X6/Intro Stage.bin",
+    "Duration": 70.05
   }
 ]
