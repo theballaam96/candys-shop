@@ -25,5 +25,16 @@ To download custom music for DK64 Randomizer, you can visit this [Site](https://
    - **Licensed Video Game Music**: Some example include songs from the Guitar Hero franchise such as Through The Fire and Flames
    - **DMCA Prone Music**: DMCA Prone Intellectual Property Music such as Rick Astley's Never Gonna Give You Up or Michael Jackson's Moon Walker will **NOT** be added to the Pack Builder.
    - **Public Domain**: Any Music that is within the [Public Domain](https://en.wikipedia.org/wiki/Public_domain) **IS** Allowed to be submitted, as it's copyright has expired. If your song falls under this category, please ensure that your song is based on the original work that is in the public domain and [not any performances that are not in the public domain](https://www.youtube.com/watch?v=1Jwo5qc78QU&t=220s).
+# Volume of Your Submissions
+The loudness of your song is one of, if not the most important contributing factor to getting your song accepted by the verifiers. To see how loud your song is, you can upload an audio file of your song to this [Site](https://youlean.co/file-loudness-meter) and it will return the Momentary Max, Short Term Max, and Integrated volume in LUFS.
+
+For your song to be accepted (barring any other issues we find), the volume must satisfy the following:
+- The Momentary Max should not be above -12LUFS, this applies to every type of song submission.
+- If your submission is a Major Item, Minor Item, or Event, your Integrated volume must be around -17LUFS
+- For BGM submissions, your Integrated volume will more or less depend on the Location Tags you give it
+  - BGM submissions tagged `Exteriors` and `Interiors` should be around -17LUFS or lower.
+  - BGM submissions tagged `Minigames` should be around -16LUFS
+  - BGM submissions tagged `Fights` can be up to -15LUFS
+#### When testing your volume, please use a randomised ROM with random music *enabled* to get a recording at the proper levels.
 # Questions?
 Visit the [Discord](https://discord.dk64randomizer.com) and ask any question in the #music-discussion channel. One of our many composers will help you with any questions you have!
