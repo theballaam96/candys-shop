@@ -30805,5 +30805,22 @@
     "Date": "Tue Dec 03 2024 02:47:39 GMT+0000 (Coordinated Universal Time)",
     "Binary": "binaries/Mario Party 3/Select a File.bin",
     "Duration": 20.073958333333334
+  },
+  {
+    "Game": "Mario Party 3",
+    "Song": "Big Trouble!",
+    "Composers": "Ichiro Shimakura",
+    "Converters": "Altermentality",
+    "Category": "bgm",
+    "Audio": "https://www.youtube.com/watch?v=3W2e-pvFqPw",
+    "Tags": [
+      "Fights",
+      "Minigames",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Wed Dec 04 2024 20:13:01 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Mario Party 3/Big Trouble.bin",
+    "Duration": 36.79091575000001
   }
 ]
