@@ -30857,5 +30857,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Mega%20Man%20X6/Final%20Sigma%20Battle%20(REV%201).mp3",
     "Binary": "binaries/Mega Man X6/Final Sigma Battle (REV 1).bin",
     "Duration": 44.50000000000001
+  },
+  {
+    "Game": "Rayman 2: The Great Escape",
+    "Song": "(The Fairy Glade) Beginning",
+    "Composers": "Éric Chevalier",
+    "Converters": "Manic Bestia",
+    "Category": "bgm",
+    "Tags": [
+      "Lobbies and Shops",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Fri Dec 06 2024 02:17:14 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Rayman%202%20The%20Great%20Escape/(The%20Fairy%20Glade)%20Beginning.mp3",
+    "Binary": "binaries/Rayman 2 The Great Escape/(The Fairy Glade) Beginning.bin",
+    "Duration": 29.75773408333333
   }
 ]
