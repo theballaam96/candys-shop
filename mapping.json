@@ -30839,5 +30839,23 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Rayman%202%20The%20Great%20Escape/Jingle%20Try%20Again.mp3",
     "Binary": "binaries/Rayman 2 The Great Escape/Jingle Try Again.bin",
     "Duration": 2.4741373125000004
+  },
+  {
+    "Game": "Mega Man X6",
+    "Song": "Final Sigma Battle",
+    "Composers": "Naoto Tanaka",
+    "Converters": "cdh90",
+    "Category": "bgm",
+    "Update Notes": "Was not happy with the initial mix. Lowered a few high pitched instruments for a better listening experience.",
+    "Tags": [
+      "Fights",
+      "Minigames",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Fri Dec 06 2024 02:14:47 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Mega%20Man%20X6/Final%20Sigma%20Battle%20(REV%201).mp3",
+    "Binary": "binaries/Mega Man X6/Final Sigma Battle (REV 1).bin",
+    "Duration": 44.50000000000001
   }
 ]
