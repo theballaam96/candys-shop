@@ -30906,5 +30906,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Mario%20Party%202/New%20Record.mp3",
     "Binary": "binaries/Mario Party 2/New Record.bin",
     "Duration": 4.815214875000001
+  },
+  {
+    "Game": "Mario Party 2",
+    "Song": "Win (Multiple Winners)",
+    "Category": "events",
+    "Composers": "Yasunori Mitsuda, Hironao Yamamoto, Shohei Bando, Kazuhiko Sawaguchi",
+    "Converters": "Schwartz Gandhi",
+    "Tags": [
+      "Collection",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Sat Dec 07 2024 13:54:35 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Mario%20Party%202/Win%20(Multiple%20Winners).mp3",
+    "Binary": "binaries/Mario Party 2/Win (Multiple Winners).bin",
+    "Duration": 5.111106
   }
 ]
