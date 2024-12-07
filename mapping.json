@@ -30890,5 +30890,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Mario%20Party%202/Get%20a%20Star.mp3",
     "Binary": "binaries/Mario Party 2/Get a Star.bin",
     "Duration": 2.8125
+  },
+  {
+    "Game": "Mario Party 2",
+    "Song": "New Record",
+    "Category": "events",
+    "Composers": "Yasunori Mitsuda, Hironao Yamamoto, Shohei Bando, Kazuhiko Sawaguchi",
+    "Converters": "Schwartz Gandhi",
+    "Tags": [
+      "Collection",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Sat Dec 07 2024 13:52:41 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Mario%20Party%202/New%20Record.mp3",
+    "Binary": "binaries/Mario Party 2/New Record.bin",
+    "Duration": 4.815214875000001
   }
 ]
