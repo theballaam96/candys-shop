@@ -30922,5 +30922,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Mario%20Party%202/Win%20(Multiple%20Winners).mp3",
     "Binary": "binaries/Mario Party 2/Win (Multiple Winners).bin",
     "Duration": 5.111106
+  },
+  {
+    "Game": "Mega Man X6",
+    "Song": "Gate's Laboratory",
+    "Composers": "Naoto Tanaka",
+    "Converters": "cdh90",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Sun Dec 08 2024 15:52:03 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Mega%20Man%20X6/Gates%20Laboratory.mp3",
+    "Binary": "binaries/Mega Man X6/Gates Laboratory.bin",
+    "Duration": 53.370211999999995
   }
 ]
