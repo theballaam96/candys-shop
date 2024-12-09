@@ -31039,5 +31039,23 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Star%20Fox%2064/Boss%20A.mp3",
     "Binary": "binaries/Star Fox 64/Boss A.bin",
     "Duration": 53.754999999999995
+  },
+  {
+    "Game": "Star Fox 64",
+    "Song": "Titania and Macbeth",
+    "Composers": "Hajime Wakai",
+    "Converters": "BashPrime",
+    "Category": "bgm",
+    "Audio": "https://www.youtube.com/watch?v=BfXYFsqkVNo",
+    "Additional Notes": "Based on the game's original MIDI arrangement.",
+    "Tags": [
+      "Fights",
+      "Exteriors",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Mon Dec 09 2024 17:45:30 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Star Fox 64/Titania and Macbeth.bin",
+    "Duration": 64.03125
   }
 ]
