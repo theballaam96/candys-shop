@@ -30955,5 +30955,22 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Mario%20%20Rabbids%20Kingdom%20Battle/Mid%20Boss%20Mayhem.mp3",
     "Binary": "binaries/Mario  Rabbids Kingdom Battle/Mid Boss Mayhem.bin",
     "Duration": 150.193636
+  },
+  {
+    "Game": "Star Fox 64",
+    "Song": "Zoness (Variant A)",
+    "Composers": "Hajime Wakai",
+    "Converters": "BashPrime",
+    "Category": "bgm",
+    "Audio": "https://www.youtube.com/watch?v=efaOTtSncAI",
+    "Additional Notes": "Based on the original Star Fox 64 midi arrangement",
+    "Tags": [
+      "Exteriors",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Mon Dec 09 2024 01:40:56 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Star Fox 64/Zoness (Variant A).bin",
+    "Duration": 67.28543368750002
   }
 ]
