@@ -30972,5 +30972,22 @@
     "Date": "Mon Dec 09 2024 01:40:56 GMT+0000 (Coordinated Universal Time)",
     "Binary": "binaries/Star Fox 64/Zoness (Variant A).bin",
     "Duration": 67.28543368750002
+  },
+  {
+    "Game": "Mega Man X5",
+    "Song": "Maverick Battle",
+    "Composers": "Naoto Tanaka",
+    "Converters": "cdh90",
+    "Category": "bgm",
+    "Tags": [
+      "Fights",
+      "Minigames",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Mon Dec 09 2024 01:45:03 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Mega%20Man%20X5/Maverick%20Battle.mp3",
+    "Binary": "binaries/Mega Man X5/Maverick Battle.bin",
+    "Duration": 42.84247574999999
   }
 ]
