@@ -30938,5 +30938,22 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Mega%20Man%20X6/Gates%20Laboratory.mp3",
     "Binary": "binaries/Mega Man X6/Gates Laboratory.bin",
     "Duration": 53.370211999999995
+  },
+  {
+    "Game": "Mario + Rabbids: Kingdom Battle",
+    "Song": "Mid Boss Mayhem",
+    "Composers": "Grant Kirkhope",
+    "Converters": "LBFrank",
+    "Category": "bgm",
+    "Tags": [
+      "Fights",
+      "Minigames",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Mon Dec 09 2024 01:38:28 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Mario%20%20Rabbids%20Kingdom%20Battle/Mid%20Boss%20Mayhem.mp3",
+    "Binary": "binaries/Mario  Rabbids Kingdom Battle/Mid Boss Mayhem.bin",
+    "Duration": 150.193636
   }
 ]
