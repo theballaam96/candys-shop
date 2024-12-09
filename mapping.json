@@ -31021,5 +31021,23 @@
     "Date": "Mon Dec 09 2024 17:34:26 GMT+0000 (Coordinated Universal Time)",
     "Binary": "binaries/Spark the Electric Jester/Flower Mountain City.bin",
     "Duration": 130.66306378125
+  },
+  {
+    "Game": "Star Fox 64",
+    "Song": "Boss A",
+    "Composers": "Hajime Wakai",
+    "Converters": "BashPrime",
+    "Category": "bgm",
+    "Additional Notes": "Based on the game's original MIDI arrangement.",
+    "Tags": [
+      "Fights",
+      "Minigames",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Mon Dec 09 2024 17:43:10 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Star%20Fox%2064/Boss%20A.mp3",
+    "Binary": "binaries/Star Fox 64/Boss A.bin",
+    "Duration": 53.754999999999995
   }
 ]
