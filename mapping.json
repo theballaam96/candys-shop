@@ -30989,5 +30989,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Mega%20Man%20X5/Maverick%20Battle.mp3",
     "Binary": "binaries/Mega Man X5/Maverick Battle.bin",
     "Duration": 42.84247574999999
+  },
+  {
+    "Game": "Tales of Symphonia",
+    "Song": "Zelos' Theme",
+    "Composers": "Motoi Sakuraba",
+    "Converters": "Megacannon",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Mon Dec 09 2024 03:20:24 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Tales%20of%20Symphonia/Zelos%20Theme.mp3",
+    "Binary": "binaries/Tales of Symphonia/Zelos Theme.bin",
+    "Duration": 40
   }
 ]
