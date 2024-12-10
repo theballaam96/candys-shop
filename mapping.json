@@ -31057,5 +31057,21 @@
     "Date": "Mon Dec 09 2024 17:45:30 GMT+0000 (Coordinated Universal Time)",
     "Binary": "binaries/Star Fox 64/Titania and Macbeth.bin",
     "Duration": 64.03125
+  },
+  {
+    "Game": "Donkey Kong Country 2: Diddy's Kong Quest",
+    "Song": "Crocodile Cacophony",
+    "Composers": "David Wise",
+    "Converters": "iveli_alpaca",
+    "Category": "bgm",
+    "Audio": "https://www.youtube.com/watch?v=iSCJDr_9-N0",
+    "Tags": [
+      "Fights",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Tue Dec 10 2024 03:59:19 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Donkey Kong Country 2 Diddys Kong Quest/Crocodile Cacophony.bin",
+    "Duration": 54.910003385416665
   }
 ]
