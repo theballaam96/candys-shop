@@ -31073,5 +31073,24 @@
     "Date": "Tue Dec 10 2024 03:59:19 GMT+0000 (Coordinated Universal Time)",
     "Binary": "binaries/Donkey Kong Country 2 Diddys Kong Quest/Crocodile Cacophony.bin",
     "Duration": 54.910003385416665
+  },
+  {
+    "Game": "Star Fox",
+    "Song": "Controls",
+    "Composers": "Hajime Hirasawa",
+    "Converters": "BashPrime",
+    "Category": "bgm",
+    "Update Notes": "I wanted to completely overhaul my original conversion of this to something that tries to better capture the spirit of the original game's track",
+    "Additional Notes": "Based on the MIDI arrangement created by Mark Jansen",
+    "Tags": [
+      "Lobbies and Shops",
+      "Interiors",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Tue Dec 10 2024 23:37:42 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Star%20Fox/Controls%20(REV%201).mp3",
+    "Binary": "binaries/Star Fox/Controls (REV 1).bin",
+    "Duration": 31.5061296875
   }
 ]
