@@ -31109,5 +31109,21 @@
     "Date": "Wed Dec 11 2024 23:36:55 GMT+0000 (Coordinated Universal Time)",
     "Binary": "binaries/Pokémon Gold, Silver  Crystal/Dark Cave (Kirkhope Style).bin",
     "Duration": 130.0390625
+  },
+  {
+    "Game": "Touhou Koumakyou ~ The Embodiment of Scarlet Devil",
+    "Song": "U.N. Owen Was Her?",
+    "Category": "bgm",
+    "Composers": "ZUN",
+    "Converters": "Wolfeni, Bismuth, Schwartz Gandhi",
+    "Tags": [
+      "Fights"
+    ],
+    "Update Notes": "Now under the new file size limit, as well as a new rebalance.",
+    "Verified": true,
+    "Date": "Thu Dec 12 2024 16:44:09 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Touhou%20Koumakyou%20~%20The%20Embodiment%20of%20Scarlet%20Devil/UN%20Owen%20Was%20Her%20(REV%201).mp3",
+    "Binary": "binaries/Touhou Koumakyou ~ The Embodiment of Scarlet Devil/UN Owen Was Her (REV 1).bin",
+    "Duration": 123.01525011458334
   }
 ]
