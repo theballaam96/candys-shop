@@ -31125,5 +31125,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Touhou%20Koumakyou%20~%20The%20Embodiment%20of%20Scarlet%20Devil/UN%20Owen%20Was%20Her%20(REV%201).mp3",
     "Binary": "binaries/Touhou Koumakyou ~ The Embodiment of Scarlet Devil/UN Owen Was Her (REV 1).bin",
     "Duration": 123.01525011458334
+  },
+  {
+    "Game": "La-Mulana",
+    "Song": "Ancient Machine",
+    "Composers": "Houryu Samejima",
+    "Converters": "iveli_alpaca",
+    "Category": "bgm",
+    "Audio": "https://www.youtube.com/watch?v=omatXpbsgbU",
+    "Tags": [
+      "Fights",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Thu Dec 12 2024 23:50:04 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/La-Mulana/Ancient Machine.bin",
+    "Duration": 56.29238197916668
   }
 ]
