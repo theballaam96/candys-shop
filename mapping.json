@@ -31141,5 +31141,21 @@
     "Date": "Thu Dec 12 2024 23:50:04 GMT+0000 (Coordinated Universal Time)",
     "Binary": "binaries/La-Mulana/Ancient Machine.bin",
     "Duration": 56.29238197916668
+  },
+  {
+    "Game": "Touhou Koumakyou ~ The Embodiment of Scarlet Devil",
+    "Song": "Shanghai Teahouse ~ Chinese Tea",
+    "Composers": "ZUN",
+    "Converters": "Dr Oshawott",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Fri Dec 13 2024 04:53:49 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Touhou%20Koumakyou%20~%20The%20Embodiment%20of%20Scarlet%20Devil/Shanghai%20Teahouse%20~%20Chinese%20Tea.mp3",
+    "Binary": "binaries/Touhou Koumakyou ~ The Embodiment of Scarlet Devil/Shanghai Teahouse ~ Chinese Tea.bin",
+    "Duration": 137.41068720833334
   }
 ]
