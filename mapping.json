@@ -31173,5 +31173,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Donkey%20Kong%20Country%203%20Dixie%20Kongs%20Double%20Trouble/Wrinkly%2064.mp3",
     "Binary": "binaries/Donkey Kong Country 3 Dixie Kongs Double Trouble/Wrinkly 64.bin",
     "Duration": 42.567577500000006
+  },
+  {
+    "Game": "Secret of Mana",
+    "Song": "Into the Thick of it",
+    "Composers": "Hiroki Kikuta",
+    "Converters": "OnlySpaghettiCode",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Fri Dec 13 2024 05:01:22 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Secret%20of%20Mana/Into%20the%20Thick%20of%20it.mp3",
+    "Binary": "binaries/Secret of Mana/Into the Thick of it.bin",
+    "Duration": 102.1454105
   }
 ]
