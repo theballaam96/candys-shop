@@ -31257,5 +31257,22 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Secret%20of%20Mana/Mystic%20Invasion.mp3",
     "Binary": "binaries/Secret of Mana/Mystic Invasion.bin",
     "Duration": 30.642736624999998
+  },
+  {
+    "Game": "Pokémon Diamond, Pearl & Platinum",
+    "Song": "Eterna Forest",
+    "Category": "bgm",
+    "Composers": "Hitomi Satō",
+    "Converters": "Schwartz Gandhi",
+    "Tags": [
+      "Exteriors",
+      "Calm"
+    ],
+    "Update Notes": "Rebalance as well as fixes",
+    "Verified": true,
+    "Date": "Sat Dec 14 2024 05:35:13 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Pok%C3%A9mon%20Diamond,%20Pearl%20%20Platinum/Eterna%20Forest%20(REV%201).mp3",
+    "Binary": "binaries/Pokémon Diamond, Pearl  Platinum/Eterna Forest (REV 1).bin",
+    "Duration": 75.78128031249999
   }
 ]
