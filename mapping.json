@@ -31355,5 +31355,92 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Touhou%20Hisoutensoku%20~%20Choudokyuu%20Ginryou%20no%20Nazo%20wo%20Oe/the%20Grimoire%20of%20Alice%20(REV%201).mp3",
     "Binary": "binaries/Touhou Hisoutensoku ~ Choudokyuu Ginryou no Nazo wo Oe/the Grimoire of Alice (REV 1).bin",
     "Duration": 95.49731140625
+  },
+  {
+    "Game": "Super Mario Galaxy 2",
+    "Song": "Wild Glide Galaxy",
+    "Category": "bgm",
+    "Composers": "Mahito Yokota",
+    "Converters": "Schwartz Gandhi",
+    "Tags": [
+      "Minigames",
+      "Exteriors",
+      "Happy"
+    ],
+    "Update Notes": "revengance",
+    "Verified": true,
+    "Date": "Sat Dec 14 2024 20:34:55 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Super%20Mario%20Galaxy%202/Wild%20Glide%20Galaxy%20(REV%202).mp3",
+    "Binary": "binaries/Super Mario Galaxy 2/Wild Glide Galaxy (REV 2).bin",
+    "Duration": 69.56437420208334
+  },
+  {
+    "Game": "Pokémon Diamond, Pearl & Platinum",
+    "Song": "Jubilife City (Night)",
+    "Category": "bgm",
+    "Composers": "Hitomi Satō",
+    "Converters": "Schwartz Gandhi",
+    "Tags": [
+      "Lobbies and Shops",
+      "Exteriors",
+      "Calm"
+    ],
+    "Update Notes": "reverblance",
+    "Verified": true,
+    "Date": "Sat Dec 14 2024 20:34:55 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Pok%C3%A9mon%20Diamond,%20Pearl%20%20Platinum/Jubilife%20City%20(Night)%20(REV%201).mp3",
+    "Binary": "binaries/Pokémon Diamond, Pearl  Platinum/Jubilife City (Night) (REV 1).bin",
+    "Duration": 45.54742399999999
+  },
+  {
+    "Game": "Cave Story",
+    "Song": "On to Grasstown",
+    "Category": "bgm",
+    "Composers": "Pixel",
+    "Converters": "Schwartz Gandhi",
+    "Tags": [
+      "Exteriors",
+      "Happy"
+    ],
+    "Update Notes": "rebooleance",
+    "Verified": true,
+    "Date": "Sat Dec 14 2024 20:34:56 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Cave%20Story/On%20to%20Grasstown%20(REV%201).mp3",
+    "Binary": "binaries/Cave Story/On to Grasstown (REV 1).bin",
+    "Duration": 92.16000000000001
+  },
+  {
+    "Game": "The Legend of Zelda: Oracle of Seasons and Ages",
+    "Song": "Queen Ambi's Palace",
+    "Category": "bgm",
+    "Composers": "Kyopi, Minako Adachi",
+    "Converters": "Schwartz Gandhi",
+    "Tags": [
+      "Interiors",
+      "Exteriors"
+    ],
+    "Update Notes": "rebalance",
+    "Verified": true,
+    "Date": "Sat Dec 14 2024 20:34:57 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/The%20Legend%20of%20Zelda%20Oracle%20of%20Seasons%20and%20Ages/Queen%20Ambis%20Palace%20(REV%201).mp3",
+    "Binary": "binaries/The Legend of Zelda Oracle of Seasons and Ages/Queen Ambis Palace (REV 1).bin",
+    "Duration": 22.8
+  },
+  {
+    "Game": "The Legend of Zelda: Oracle of Seasons and Ages",
+    "Song": "Dancing Dragon Dungeon",
+    "Category": "bgm",
+    "Composers": "Kyopi, Minako Adachi",
+    "Converters": "Schwartz Gandhi",
+    "Tags": [
+      "Interiors",
+      "Exteriors"
+    ],
+    "Update Notes": "small remaster",
+    "Verified": true,
+    "Date": "Sat Dec 14 2024 20:34:57 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/The%20Legend%20of%20Zelda%20Oracle%20of%20Seasons%20and%20Ages/Dancing%20Dragon%20Dungeon%20(REV%201).mp3",
+    "Binary": "binaries/The Legend of Zelda Oracle of Seasons and Ages/Dancing Dragon Dungeon (REV 1).bin",
+    "Duration": 39.6
   }
 ]
