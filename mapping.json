@@ -31190,5 +31190,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Secret%20of%20Mana/Into%20the%20Thick%20of%20it.mp3",
     "Binary": "binaries/Secret of Mana/Into the Thick of it.bin",
     "Duration": 102.1454105
+  },
+  {
+    "Game": "Paper Mario",
+    "Song": "Detective Mario",
+    "Composers": "Yuka Tsujiyoko",
+    "Converters": "Altermentality",
+    "Category": "bgm",
+    "Audio": "https://youtu.be/w_MGuJBE2-g",
+    "Tags": [
+      "Minigames",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Sat Dec 14 2024 03:24:12 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Paper Mario/Detective Mario.bin",
+    "Duration": 61.77407
   }
 ]
