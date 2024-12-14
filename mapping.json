@@ -31206,5 +31206,22 @@
     "Date": "Sat Dec 14 2024 03:24:12 GMT+0000 (Coordinated Universal Time)",
     "Binary": "binaries/Paper Mario/Detective Mario.bin",
     "Duration": 61.77407
+  },
+  {
+    "Game": "Pokémon Diamond, Pearl & Platinum",
+    "Song": "Route 201",
+    "Composers": "Hitomi Satō",
+    "Converters": "UmedMuzl",
+    "Category": "bgm",
+    "Update Notes": "Better mixing",
+    "Tags": [
+      "Exteriors",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Sat Dec 14 2024 03:26:34 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Pok%C3%A9mon%20Diamond,%20Pearl%20%20Platinum/Route%20201%20(REV%201).mp3",
+    "Binary": "binaries/Pokémon Diamond, Pearl  Platinum/Route 201 (REV 1).bin",
+    "Duration": 30.239583333333332
   }
 ]
