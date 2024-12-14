@@ -31323,5 +31323,21 @@
     "Date": "Sat Dec 14 2024 06:13:19 GMT+0000 (Coordinated Universal Time)",
     "Binary": "binaries/Diddy Kong Racing/Wizpig (REV 1).bin",
     "Duration": 83.47135053125
+  },
+  {
+    "Game": "Donkey Kong Country",
+    "Song": "Gang-Plank Galleon",
+    "Composers": "David Wise",
+    "Converters": "Ballaam",
+    "Category": "bgm",
+    "Audio": "https://www.youtube.com/watch?v=lbrazOZbTf4",
+    "Update Notes": "Rebalanced volume",
+    "Tags": [
+      "Fights"
+    ],
+    "Verified": true,
+    "Date": "Sat Dec 14 2024 06:16:04 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Donkey Kong Country/Gang-Plank Galleon (REV 1).bin",
+    "Duration": 111.17231815624999
   }
 ]
