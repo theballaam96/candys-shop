@@ -31339,5 +31339,21 @@
     "Date": "Sat Dec 14 2024 06:16:04 GMT+0000 (Coordinated Universal Time)",
     "Binary": "binaries/Donkey Kong Country/Gang-Plank Galleon (REV 1).bin",
     "Duration": 111.17231815624999
+  },
+  {
+    "Game": "Touhou Hisoutensoku ~ Choudokyuu Ginryou no Nazo wo Oe",
+    "Song": "the Grimoire of Alice",
+    "Category": "bgm",
+    "Composers": "ZUN, U2 Akiyama",
+    "Converters": "Schwartz Gandhi",
+    "Tags": [
+      "Fights"
+    ],
+    "Update Notes": "rebanjonce",
+    "Verified": true,
+    "Date": "Sat Dec 14 2024 20:31:56 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Touhou%20Hisoutensoku%20~%20Choudokyuu%20Ginryou%20no%20Nazo%20wo%20Oe/the%20Grimoire%20of%20Alice%20(REV%201).mp3",
+    "Binary": "binaries/Touhou Hisoutensoku ~ Choudokyuu Ginryou no Nazo wo Oe/the Grimoire of Alice (REV 1).bin",
+    "Duration": 95.49731140625
   }
 ]
