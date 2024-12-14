@@ -31241,5 +31241,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Donkey%20Kong%20Country%20Returns/Rickety%20Rails%20(REV%201).mp3",
     "Binary": "binaries/Donkey Kong Country Returns/Rickety Rails (REV 1).bin",
     "Duration": 104.99562499999999
+  },
+  {
+    "Game": "Secret of Mana",
+    "Song": "Mystic Invasion",
+    "Composers": "Hiroki Kikuta",
+    "Converters": "OnlySpaghettiCode",
+    "Category": "bgm",
+    "Tags": [
+      "Interiors",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Sat Dec 14 2024 05:31:26 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Secret%20of%20Mana/Mystic%20Invasion.mp3",
+    "Binary": "binaries/Secret of Mana/Mystic Invasion.bin",
+    "Duration": 30.642736624999998
   }
 ]
