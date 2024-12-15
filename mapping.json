@@ -31683,5 +31683,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Diddy%20Kong%20Racing/Star%20City%20(REV%202).mp3",
     "Binary": "binaries/Diddy Kong Racing/Star City (REV 2).bin",
     "Duration": 104.34538841666665
+  },
+  {
+    "Game": "Pokémon Red, Blue & Yellow",
+    "Song": "Pokemon Trainer Battle",
+    "Composers": "Junichi Masuda",
+    "Converters": "Bismuth",
+    "Category": "bgm",
+    "Update Notes": "Rebalanced volume",
+    "Tags": [
+      "Fights"
+    ],
+    "Verified": true,
+    "Date": "Sun Dec 15 2024 08:15:59 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Pok%C3%A9mon%20Red,%20Blue%20%20Yellow/Pokemon%20Trainer%20Battle%20(REV%202).mp3",
+    "Binary": "binaries/Pokémon Red, Blue  Yellow/Pokemon Trainer Battle (REV 2).bin",
+    "Duration": 91.99990799999999
   }
 ]
