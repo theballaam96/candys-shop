@@ -31528,5 +31528,22 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Touhou%20Reiiden%20~%20the%20Highly%20Responsive%20to%20Prayers/Now,%20Until%20the%20Moment%20You%20Die%20(REV%201).mp3",
     "Binary": "binaries/Touhou Reiiden ~ the Highly Responsive to Prayers/Now, Until the Moment You Die (REV 1).bin",
     "Duration": 88.98885599999998
+  },
+  {
+    "Game": "Diddy Kong Racing",
+    "Song": "Ancient Lake",
+    "Composers": "David Wise",
+    "Converters": "Bismuth",
+    "Category": "bgm",
+    "Update Notes": "Rebalanced volume",
+    "Tags": [
+      "Exteriors",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Sun Dec 15 2024 07:43:43 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Diddy%20Kong%20Racing/Ancient%20Lake%20(REV%202).mp3",
+    "Binary": "binaries/Diddy Kong Racing/Ancient Lake (REV 2).bin",
+    "Duration": 93.33324
   }
 ]
