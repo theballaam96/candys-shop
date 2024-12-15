@@ -31562,5 +31562,22 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Diddy%20Kong%20Racing/Boss%20Challenge%20(REV%202).mp3",
     "Binary": "binaries/Diddy Kong Racing/Boss Challenge (REV 2).bin",
     "Duration": 72.72545304166667
+  },
+  {
+    "Game": "Diddy Kong Racing",
+    "Song": "Character Select",
+    "Composers": "David Wise",
+    "Converters": "Bismuth",
+    "Category": "bgm",
+    "Update Notes": "Rebalanced volume",
+    "Tags": [
+      "Exteriors",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Sun Dec 15 2024 07:47:28 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Diddy%20Kong%20Racing/Character%20Select%20(REV%203).mp3",
+    "Binary": "binaries/Diddy Kong Racing/Character Select (REV 3).bin",
+    "Duration": 65.934
   }
 ]
