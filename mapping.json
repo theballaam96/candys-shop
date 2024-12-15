@@ -31699,5 +31699,22 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Pok%C3%A9mon%20Red,%20Blue%20%20Yellow/Pokemon%20Trainer%20Battle%20(REV%202).mp3",
     "Binary": "binaries/Pokémon Red, Blue  Yellow/Pokemon Trainer Battle (REV 2).bin",
     "Duration": 91.99990799999999
+  },
+  {
+    "Game": "Golden Sun",
+    "Song": "Venus Lighthouse",
+    "Composers": "Motoi Sakuraba",
+    "Converters": "CFG_Jobber",
+    "Category": "bgm",
+    "Audio": "https://www.youtube.com/watch?v=fU1_DnFzp5g",
+    "Update Notes": "The volume is now half of what it was",
+    "Tags": [
+      "Interiors",
+      "Exteriors"
+    ],
+    "Verified": true,
+    "Date": "Sun Dec 15 2024 23:18:32 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Golden Sun/Venus Lighthouse (REV 2).bin",
+    "Duration": 82.50390625
   }
 ]
