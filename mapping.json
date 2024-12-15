@@ -31666,5 +31666,22 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Diddy%20Kong%20Racing/Pirate%20Lagoon%20(REV%202).mp3",
     "Binary": "binaries/Diddy Kong Racing/Pirate Lagoon (REV 2).bin",
     "Duration": 79.973472125
+  },
+  {
+    "Game": "Diddy Kong Racing",
+    "Song": "Star City",
+    "Composers": "David Wise",
+    "Converters": "Bismuth",
+    "Category": "bgm",
+    "Update Notes": "Rebalanced volume",
+    "Tags": [
+      "Exteriors",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Sun Dec 15 2024 08:13:37 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Diddy%20Kong%20Racing/Star%20City%20(REV%202).mp3",
+    "Binary": "binaries/Diddy Kong Racing/Star City (REV 2).bin",
+    "Duration": 104.34538841666665
   }
 ]
