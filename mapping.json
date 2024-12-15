@@ -31477,5 +31477,22 @@
     "Date": "Sun Dec 15 2024 01:23:32 GMT+0000 (Coordinated Universal Time)",
     "Binary": "binaries/The Legend of Banjo-Kazooie The Jiggies of Time/Lon Lon Park (REV 1).bin",
     "Duration": 129.599946
+  },
+  {
+    "Game": "The Legend of Zelda: Majora's Mask",
+    "Song": "Final Hours",
+    "Composers": "Koji Kondo",
+    "Converters": "Ballaam, Wolfeni",
+    "Category": "bgm",
+    "Audio": "https://youtu.be/LAOjAo4cCM0",
+    "Update Notes": "Rebalanced volume",
+    "Tags": [
+      "Exteriors",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Sun Dec 15 2024 01:25:24 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/The Legend of Zelda Majoras Mask/Final Hours (REV 2).bin",
+    "Duration": 111.29526203124999
   }
 ]
