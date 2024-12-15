@@ -31632,5 +31632,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Diddy%20Kong%20Racing/Jungle%20Falls%20(REV%201).mp3",
     "Binary": "binaries/Diddy Kong Racing/Jungle Falls (REV 1).bin",
     "Duration": 76.36177304166668
+  },
+  {
+    "Game": "Diddy Kong Racing",
+    "Song": "Menu",
+    "Composers": "David Wise",
+    "Converters": "Bismuth",
+    "Category": "bgm",
+    "Update Notes": "Lowered Rock Organ volume because of very high peaking",
+    "Tags": [
+      "Lobbies and Shops"
+    ],
+    "Verified": true,
+    "Date": "Sun Dec 15 2024 08:09:43 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Diddy%20Kong%20Racing/Menu%20(REV%202).mp3",
+    "Binary": "binaries/Diddy Kong Racing/Menu (REV 2).bin",
+    "Duration": 48
   }
 ]
