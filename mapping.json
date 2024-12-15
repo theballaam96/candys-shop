@@ -31545,5 +31545,22 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Diddy%20Kong%20Racing/Ancient%20Lake%20(REV%202).mp3",
     "Binary": "binaries/Diddy Kong Racing/Ancient Lake (REV 2).bin",
     "Duration": 93.33324
+  },
+  {
+    "Game": "Diddy Kong Racing",
+    "Song": "Boss Challenge",
+    "Composers": "David Wise",
+    "Converters": "Bismuth",
+    "Category": "bgm",
+    "Update Notes": "Rebalanced volume",
+    "Tags": [
+      "Fights",
+      "Exteriors"
+    ],
+    "Verified": true,
+    "Date": "Sun Dec 15 2024 07:45:35 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Diddy%20Kong%20Racing/Boss%20Challenge%20(REV%202).mp3",
+    "Binary": "binaries/Diddy Kong Racing/Boss Challenge (REV 2).bin",
+    "Duration": 72.72545304166667
   }
 ]
