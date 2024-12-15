@@ -31614,5 +31614,23 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Diddy%20Kong%20Racing/Haunted%20Woods%20(REV%202).mp3",
     "Binary": "binaries/Diddy Kong Racing/Haunted Woods (REV 2).bin",
     "Duration": 73.1201171875
+  },
+  {
+    "Game": "Diddy Kong Racing",
+    "Song": "Jungle Falls",
+    "Composers": "David Wise",
+    "Converters": "Bismuth",
+    "Category": "bgm",
+    "Update Notes": "Rebalanced volume",
+    "Tags": [
+      "Exteriors",
+      "Minigames",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Sun Dec 15 2024 08:05:36 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Diddy%20Kong%20Racing/Jungle%20Falls%20(REV%201).mp3",
+    "Binary": "binaries/Diddy Kong Racing/Jungle Falls (REV 1).bin",
+    "Duration": 76.36177304166668
   }
 ]
