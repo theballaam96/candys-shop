@@ -31494,5 +31494,22 @@
     "Date": "Sun Dec 15 2024 01:25:24 GMT+0000 (Coordinated Universal Time)",
     "Binary": "binaries/The Legend of Zelda Majoras Mask/Final Hours (REV 2).bin",
     "Duration": 111.29526203124999
+  },
+  {
+    "Game": "The Legend of Zelda: Oracle of Seasons and Ages",
+    "Song": "Snake's Remains",
+    "Category": "bgm",
+    "Composers": "Kyopi, Minako Adachi",
+    "Converters": "Schwartz Gandhi",
+    "Tags": [
+      "Interiors",
+      "Gloomy"
+    ],
+    "Update Notes": "Rebar",
+    "Verified": true,
+    "Date": "Sun Dec 15 2024 01:27:11 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/The%20Legend%20of%20Zelda%20Oracle%20of%20Seasons%20and%20Ages/Snakes%20Remains%20(REV%201).mp3",
+    "Binary": "binaries/The Legend of Zelda Oracle of Seasons and Ages/Snakes Remains (REV 1).bin",
+    "Duration": 32.7273
   }
 ]
