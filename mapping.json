@@ -31596,5 +31596,23 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Diddy%20Kong%20Racing/Greenwood%20Village%20(REV%202).mp3",
     "Binary": "binaries/Diddy Kong Racing/Greenwood Village (REV 2).bin",
     "Duration": 78.17330433333335
+  },
+  {
+    "Game": "Diddy Kong Racing",
+    "Song": "Haunted Woods",
+    "Composers": "David Wise",
+    "Converters": "Bismuth",
+    "Category": "bgm",
+    "Update Notes": "Rebalanced volume, added the big oOoOoOoOo",
+    "Tags": [
+      "Lobbies and Shops",
+      "Interiors",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Sun Dec 15 2024 08:01:03 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Diddy%20Kong%20Racing/Haunted%20Woods%20(REV%202).mp3",
+    "Binary": "binaries/Diddy Kong Racing/Haunted Woods (REV 2).bin",
+    "Duration": 73.1201171875
   }
 ]
