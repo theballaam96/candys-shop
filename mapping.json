@@ -31716,5 +31716,21 @@
     "Date": "Sun Dec 15 2024 23:18:32 GMT+0000 (Coordinated Universal Time)",
     "Binary": "binaries/Golden Sun/Venus Lighthouse (REV 2).bin",
     "Duration": 82.50390625
+  },
+  {
+    "Game": "Metal Slug 3",
+    "Song": "Midnight Wandering",
+    "Composers": "HIYA!, Bero-ou, Hori_Hori, Q_Jirou, Maitaro",
+    "Converters": "Wibdiwoh",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Sun Dec 15 2024 23:22:19 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Metal%20Slug%203/Midnight%20Wandering.mp3",
+    "Binary": "binaries/Metal Slug 3/Midnight Wandering.bin",
+    "Duration": 126.85128561458333
   }
 ]
