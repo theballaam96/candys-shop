@@ -31511,5 +31511,22 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/The%20Legend%20of%20Zelda%20Oracle%20of%20Seasons%20and%20Ages/Snakes%20Remains%20(REV%201).mp3",
     "Binary": "binaries/The Legend of Zelda Oracle of Seasons and Ages/Snakes Remains (REV 1).bin",
     "Duration": 32.7273
+  },
+  {
+    "Game": "Touhou Reiiden ~ the Highly Responsive to Prayers",
+    "Song": "Now, Until the Moment You Die",
+    "Category": "bgm",
+    "Composers": "ZUN",
+    "Converters": "Schwartz Gandhi",
+    "Tags": [
+      "Fights",
+      "Minigames"
+    ],
+    "Update Notes": "Reballin'",
+    "Verified": true,
+    "Date": "Sun Dec 15 2024 01:29:08 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Touhou%20Reiiden%20~%20the%20Highly%20Responsive%20to%20Prayers/Now,%20Until%20the%20Moment%20You%20Die%20(REV%201).mp3",
+    "Binary": "binaries/Touhou Reiiden ~ the Highly Responsive to Prayers/Now, Until the Moment You Die (REV 1).bin",
+    "Duration": 88.98885599999998
   }
 ]
