@@ -31732,5 +31732,178 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Metal%20Slug%203/Midnight%20Wandering.mp3",
     "Binary": "binaries/Metal Slug 3/Midnight Wandering.bin",
     "Duration": 126.85128561458333
+  },
+  {
+    "Game": "Kirby Super Star",
+    "Song": "Vs. Marx",
+    "Composers": "Jun Ishikawa",
+    "Converters": "Wibdiwoh",
+    "Category": "bgm",
+    "Update Notes": "lower harp volume, it was getting on my nerves -_-",
+    "Tags": [
+      "Fights",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Sun Dec 15 2024 23:25:00 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Kirby%20Super%20Star/Vs%20Marx%20(REV%201).mp3",
+    "Binary": "binaries/Kirby Super Star/Vs Marx (REV 1).bin",
+    "Duration": 74.27091503125
+  },
+  {
+    "Game": "Rhythm Heaven Fever",
+    "Song": "Ringside",
+    "Composers": "Tsunku♂, Masami Yone, Shinji Ushiroda, Asuka Ito",
+    "Converters": "Cash Money",
+    "Category": "bgm",
+    "Update Notes": "Rebalanced volume, lowered brass & vocals, fixed out of range notes",
+    "Tags": [
+      "Lobbies and Shops",
+      "Minigames"
+    ],
+    "Verified": true,
+    "Date": "Sun Dec 15 2024 23:25:00 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Rhythm%20Heaven%20Fever/Ringside%20(REV%201).mp3",
+    "Binary": "binaries/Rhythm Heaven Fever/Ringside (REV 1).bin",
+    "Duration": 95.34435911458333
+  },
+  {
+    "Game": "Rhythm Heaven Fever",
+    "Song": "Ringside (Instrumental)",
+    "Composers": "Tsunku♂, Masami Yone, Shinji Ushiroda, Asuka Ito",
+    "Converters": "Cash Money",
+    "Category": "bgm",
+    "Update Notes": "Rebalanced volume, lowered brass, fixed out of range notes",
+    "Tags": [
+      "Lobbies and Shops",
+      "Minigames",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Sun Dec 15 2024 23:25:01 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Rhythm%20Heaven%20Fever/Ringside%20(Instrumental)%20(REV%201).mp3",
+    "Binary": "binaries/Rhythm Heaven Fever/Ringside (Instrumental) (REV 1).bin",
+    "Duration": 95.34435911458333
+  },
+  {
+    "Game": "Mega Man Battle Network 3",
+    "Song": "Network is Spreading",
+    "Composers": "Yoshino Aoki",
+    "Converters": "CFG_Jobber",
+    "Category": "bgm",
+    "Audio": "https://youtu.be/XW1YmR-dEPM",
+    "Update Notes": "Rebalanced volume, removed silence at the beginning",
+    "Tags": [
+      "Lobbies and Shops",
+      "Exteriors",
+      "Happy",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Sun Dec 15 2024 23:25:01 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Mega Man Battle Network 3/Network is Spreading (REV 1).bin",
+    "Duration": 39.39406098958334
+  },
+  {
+    "Game": "Sonic the Hedgehog",
+    "Song": "Spring Yard Zone",
+    "Composers": "Masato Nakamura",
+    "Converters": "CFG_Jobber",
+    "Category": "bgm",
+    "Audio": "https://www.youtube.com/watch?v=stgTrocQR1M",
+    "Update Notes": "Rebalanced volume",
+    "Tags": [
+      "Exteriors",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Sun Dec 15 2024 23:25:02 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Sonic the Hedgehog/Spring Yard Zone (REV 2).bin",
+    "Duration": 81.59375
+  },
+  {
+    "Game": "Chrono Trigger",
+    "Song": "Battle with Magus",
+    "Composers": "Yasunori Mitsuda",
+    "Converters": "CFG_Jobber",
+    "Category": "bgm",
+    "Audio": "https://youtu.be/GG95uPR3gKc",
+    "Update Notes": "Rebalanced volume, lowered vol on high notes, changed trumpets to not overlap (YouTube link is out of date)",
+    "Tags": [
+      "Fights"
+    ],
+    "Verified": true,
+    "Date": "Sun Dec 15 2024 23:25:02 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Chrono Trigger/Battle with Magus (REV 1).bin",
+    "Duration": 79.97223519791666
+  },
+  {
+    "Game": "Chrono Trigger",
+    "Song": "Singing Mountain",
+    "Composers": "Yasunori Mitsuda",
+    "Converters": "CFG_Jobber",
+    "Category": "bgm",
+    "Audio": "https://www.youtube.com/watch?v=fNo7Jd1sDyU",
+    "Update Notes": "Rebalanced volume, removed silence at the beginning",
+    "Tags": [
+      "Interiors",
+      "Exteriors",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Sun Dec 15 2024 23:25:03 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Chrono Trigger/Singing Mountain (REV 1).bin",
+    "Duration": 54.505208333333336
+  },
+  {
+    "Game": "Mario Party",
+    "Song": "Full of Danger",
+    "Composers": "Yasunori Mitsuda",
+    "Converters": "Bismuth",
+    "Category": "bgm",
+    "Update Notes": "Rebalanced volume",
+    "Tags": [
+      "Minigames",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Sun Dec 15 2024 23:25:04 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Mario%20Party/Full%20of%20Danger%20(REV%203).mp3",
+    "Binary": "binaries/Mario Party/Full of Danger (REV 3).bin",
+    "Duration": 39.072583249999994
+  },
+  {
+    "Game": "Mega Man Zero 4",
+    "Song": "Esperanto (Area Zero - Opening Stage #2)",
+    "Composers": "Ippo Yamada",
+    "Converters": "CFG_Jobber",
+    "Category": "bgm",
+    "Audio": "https://www.youtube.com/watch?v=9WuOh8SJNCQ",
+    "Update Notes": "Reduced volume by a massive amount",
+    "Tags": [
+      "Exteriors",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Sun Dec 15 2024 23:25:04 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Mega Man Zero 4/Esperanto (Area Zero - Opening Stage 2) (REV 1).bin",
+    "Duration": 66.20688
+  },
+  {
+    "Game": "Super Mario 64",
+    "Song": "Bob-Omb Battlefield",
+    "Composers": "Koji Kondo",
+    "Converters": "Bismuth",
+    "Category": "bgm",
+    "Update Notes": "Reduced high peaking on trumpets",
+    "Tags": [
+      "Exteriors",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Sun Dec 15 2024 23:25:05 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Super%20Mario%2064/Bob-Omb%20Battlefield%20(REV%202).mp3",
+    "Binary": "binaries/Super Mario 64/Bob-Omb Battlefield (REV 2).bin",
+    "Duration": 72.21785896875
   }
 ]
