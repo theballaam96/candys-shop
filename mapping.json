@@ -31648,5 +31648,23 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Diddy%20Kong%20Racing/Menu%20(REV%202).mp3",
     "Binary": "binaries/Diddy Kong Racing/Menu (REV 2).bin",
     "Duration": 48
+  },
+  {
+    "Game": "Diddy Kong Racing",
+    "Song": "Pirate Lagoon",
+    "Composers": "David Wise",
+    "Converters": "Bismuth",
+    "Category": "bgm",
+    "Update Notes": "Rebalanced volume",
+    "Tags": [
+      "Lobbies and Shops",
+      "Exteriors",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Sun Dec 15 2024 08:11:48 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Diddy%20Kong%20Racing/Pirate%20Lagoon%20(REV%202).mp3",
+    "Binary": "binaries/Diddy Kong Racing/Pirate Lagoon (REV 2).bin",
+    "Duration": 79.973472125
   }
 ]
