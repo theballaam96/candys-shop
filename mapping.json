@@ -4838,12 +4838,12 @@
   },
   {
     "Date": "Sat Jul 15 2023 17:21:55 GMT-0500 (Central Daylight Time)",
-    "Game": "Touhou Koumakyou ~ The Embodiment of Scarlet Devil",
+    "Game": "Touhou Koumakyou ~ the Embodiment of Scarlet Devil",
     "Song": "U.N. Owen Was Her?",
     "Category": "bgm",
     "Composers": "ZUN",
     "Converters": "Wolfeni, Bismuth",
-    "Binary": "binaries/Touhou Koumakyou The Embodiment of Scarlet Devil/UN Owen Was Her by Wolfeni, Bismuth.bin",
+    "Binary": "binaries/Touhou Koumakyou the Embodiment of Scarlet Devil/UN Owen Was Her by Wolfeni, Bismuth.bin",
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Touhou%20Koumakyou%20The%20Embodiment%20of%20Scarlet%20Devil/UN%20Owen%20Was%20Her%20by%20Wolfeni%2C%20Bismuth.mp3",
     "Duration": 123.01525011458452,
     "Tracks": 16,
@@ -12675,7 +12675,7 @@
   },
   {
     "Date": "Wed Nov 29 2023 13:16:09 GMT-0600 (Central Standard Time)",
-    "Game": "Touhou Koumakyou ~ The Embodiment of Scarlet Devil",
+    "Game": "Touhou Koumakyou ~ the Embodiment of Scarlet Devil",
     "Song": "Voile, the Magic Library",
     "Category": "bgm",
     "Composers": "ZUN",
@@ -13169,7 +13169,7 @@
   },
   {
     "Date": "Sun Dec 10 2023 18:12:27 GMT-0600 (Central Standard Time)",
-    "Game": "Touhou Koumakyou ~ The Embodiment of Scarlet Devil",
+    "Game": "Touhou Koumakyou ~ the Embodiment of Scarlet Devil",
     "Song": "Septette for the Dead Princess",
     "Category": "bgm",
     "Composers": "ZUN",
@@ -20255,7 +20255,7 @@
     "Binary": "binaries/Persona 5/Throw Away Your Mask (Royal) (REV 1).bin"
   },
   {
-    "Game": "Touhou Koumakyou ~ The Embodiment of Scarlet Devil",
+    "Game": "Touhou Koumakyou ~ the Embodiment of Scarlet Devil",
     "Song": "Voile, the Magic Library",
     "Category": "bgm",
     "Composers": "ZUN",
@@ -27581,7 +27581,7 @@
     "Duration": 182.8331505
   },
   {
-    "Game": "Touhou Koumakyou ~ The Embodiment of Scarlet Devil",
+    "Game": "Touhou Koumakyou ~ the Embodiment of Scarlet Devil",
     "Song": "Beloved Tomboyish Daughter",
     "Category": "bgm",
     "Composers": "ZUN",
@@ -31112,7 +31112,7 @@
     "Duration": 130.0390625
   },
   {
-    "Game": "Touhou Koumakyou ~ The Embodiment of Scarlet Devil",
+    "Game": "Touhou Koumakyou ~ the Embodiment of Scarlet Devil",
     "Song": "U.N. Owen Was Her?",
     "Category": "bgm",
     "Composers": "ZUN",
@@ -31144,7 +31144,7 @@
     "Duration": 56.29238197916668
   },
   {
-    "Game": "Touhou Koumakyou ~ The Embodiment of Scarlet Devil",
+    "Game": "Touhou Koumakyou ~ the Embodiment of Scarlet Devil",
     "Song": "Shanghai Teahouse ~ Chinese Tea",
     "Composers": "ZUN",
     "Converters": "Dr Oshawott",
