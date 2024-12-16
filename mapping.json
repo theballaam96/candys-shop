@@ -32552,5 +32552,22 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Mega%20Man%202/Metal%20Man%20(REV%201).mp3",
     "Binary": "binaries/Mega Man 2/Metal Man (REV 1).bin",
     "Duration": 79.44739393125
+  },
+  {
+    "Game": "DOOM (1993)",
+    "Song": "Kitchen Aces (and Taking Names)",
+    "Category": "bgm",
+    "Composers": "Bobby Prince",
+    "Converters": "Schwartz Gandhi, Wibdiwoh",
+    "Tags": [
+      "Fights",
+      "Interiors"
+    ],
+    "Update Notes": "reloaded",
+    "Verified": true,
+    "Date": "Mon Dec 16 2024 20:36:20 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/DOOM%20(1993)/Kitchen%20Aces%20(and%20Taking%20Names)%20(REV%201).mp3",
+    "Binary": "binaries/DOOM (1993)/Kitchen Aces (and Taking Names) (REV 1).bin",
+    "Duration": 170.666496
   }
 ]
