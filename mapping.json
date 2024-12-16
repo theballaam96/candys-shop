@@ -31921,5 +31921,295 @@
     "Date": "Mon Dec 16 2024 05:52:37 GMT+0000 (Coordinated Universal Time)",
     "Binary": "binaries/La-Mulana/Interstice of the Dimension.bin",
     "Duration": 135.16516776041664
+  },
+  {
+    "Game": "Super Mario Sunshine",
+    "Song": "Ricco Harbor",
+    "Composers": "Koji Kondo",
+    "Converters": "UmedMuzl",
+    "Category": "bgm",
+    "Update Notes": "Rebalance",
+    "Tags": [
+      "Exteriors",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Mon Dec 16 2024 06:01:13 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Super%20Mario%20Sunshine/Ricco%20Harbor%20(REV%201).mp3",
+    "Binary": "binaries/Super Mario Sunshine/Ricco Harbor (REV 1).bin",
+    "Duration": 115.3125
+  },
+  {
+    "Game": "Super Mario 64",
+    "Song": "Water Theme",
+    "Composers": "Koji Kondo",
+    "Converters": "UmedMuzl",
+    "Category": "bgm",
+    "Update Notes": "Rebalance",
+    "Tags": [
+      "Interiors",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Mon Dec 16 2024 06:01:14 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Super%20Mario%2064/Water%20Theme%20(REV%201).mp3",
+    "Binary": "binaries/Super Mario 64/Water Theme (REV 1).bin",
+    "Duration": 90.639134
+  },
+  {
+    "Game": "Super Mario 64",
+    "Song": "Water Theme (Drumless)",
+    "Composers": "Koji Kondo",
+    "Converters": "UmedMuzl",
+    "Category": "bgm",
+    "Update Notes": "Finally, Calm Water Theme",
+    "Tags": [
+      "Interiors",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Mon Dec 16 2024 06:01:14 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Super%20Mario%2064/Water%20Theme%20(Drumless)%20(REV%201).mp3",
+    "Binary": "binaries/Super Mario 64/Water Theme (Drumless) (REV 1).bin",
+    "Duration": 90.639134
+  },
+  {
+    "Game": "Super Mario Sunshine",
+    "Song": "Noki Bay",
+    "Composers": "Koji Kondo",
+    "Converters": "UmedMuzl",
+    "Category": "bgm",
+    "Update Notes": "Mom said its my turn to rebalance songs",
+    "Tags": [
+      "Exteriors",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Mon Dec 16 2024 06:01:15 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Super%20Mario%20Sunshine/Noki%20Bay%20(REV%201).mp3",
+    "Binary": "binaries/Super Mario Sunshine/Noki Bay (REV 1).bin",
+    "Duration": 97.41568649999999
+  },
+  {
+    "Game": "Touhou Koumakyou ~ the Embodiment of Scarlet Devil",
+    "Song": "Septette for the Dead Princess",
+    "Category": "bgm",
+    "Composers": "ZUN",
+    "Converters": "Schwartz Gandhi",
+    "Audio": "https://www.youtube.com/watch?v=pGglsl9urqo",
+    "Tags": [
+      "Fights",
+      "Gloomy"
+    ],
+    "Additional Notes": "13. I prefer Japanese food.",
+    "Update Notes": "rebatance",
+    "Verified": true,
+    "Date": "Mon Dec 16 2024 06:01:16 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Touhou Koumakyou ~ the Embodiment of Scarlet Devil/Septette for the Dead Princess (REV 1).bin",
+    "Duration": 148.74034394375005
+  },
+  {
+    "Game": "Sonic & Knuckles",
+    "Song": "Lava Reef Zone Act 1",
+    "Category": "bgm",
+    "Composers": "Tatsuyuki Maeda, Sachio Ogawa",
+    "Converters": "Schwartz Gandhi",
+    "Audio": "https://www.youtube.com/watch?v=2ghr1XIu8k8",
+    "Tags": [
+      "Lobbies and Shops",
+      "Interiors"
+    ],
+    "Update Notes": "reburnance",
+    "Verified": true,
+    "Date": "Mon Dec 16 2024 06:01:16 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Sonic  Knuckles/Lava Reef Zone Act 1 (REV 1).bin",
+    "Duration": 40
+  },
+  {
+    "Game": "Outer Wilds",
+    "Song": "Travelers",
+    "Composers": "Andrew Prahlow",
+    "Converters": "Raphix",
+    "Category": "bgm",
+    "Update Notes": "Rebalanced volume",
+    "Tags": [
+      "Lobbies and Shops",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Mon Dec 16 2024 06:01:17 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Outer%20Wilds/Travelers%20(REV%201).mp3",
+    "Binary": "binaries/Outer Wilds/Travelers (REV 1).bin",
+    "Duration": 42.17035145833333
+  },
+  {
+    "Game": "Omori",
+    "Song": "By Your Side",
+    "Composers": "Pedro Silva",
+    "Converters": "Raphix",
+    "Category": "bgm",
+    "Update Notes": "Rebalanced volume",
+    "Tags": [
+      "Lobbies and Shops",
+      "Interiors",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Mon Dec 16 2024 06:01:18 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Omori/By%20Your%20Side%20(REV%201).mp3",
+    "Binary": "binaries/Omori/By Your Side (REV 1).bin",
+    "Duration": 90.352896
+  },
+  {
+    "Game": "Yakuza 0",
+    "Song": "Friday Night",
+    "Composers": "Kensuke Inage, Yoshihito Arai",
+    "Converters": "Hamelatoire",
+    "Category": "bgm",
+    "Update Notes": "Rebalanced volume",
+    "Tags": [
+      "Interiors",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Mon Dec 16 2024 06:01:18 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Yakuza%200/Friday%20Night%20(REV%201).mp3",
+    "Binary": "binaries/Yakuza 0/Friday Night (REV 1).bin",
+    "Duration": 83.80944
+  },
+  {
+    "Game": "Mystical Ninja Starring Goemon",
+    "Song": "Oedo Tourist Center",
+    "Composers": "Shigeru Araki, Yusuke Kato, Saiko Miki, Yasumasa Kitagawa, Goemon Production Committee",
+    "Converters": "Hamelatoire",
+    "Category": "bgm",
+    "Update Notes": "Rebalanced volume",
+    "Tags": [
+      "Lobbies and Shops"
+    ],
+    "Verified": true,
+    "Date": "Mon Dec 16 2024 06:01:19 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Mystical%20Ninja%20Starring%20Goemon/Oedo%20Tourist%20Center%20(REV%201).mp3",
+    "Binary": "binaries/Mystical Ninja Starring Goemon/Oedo Tourist Center (REV 1).bin",
+    "Duration": 45.400000000000006
+  },
+  {
+    "Game": "Paper Mario",
+    "Song": "March Ahead",
+    "Composers": "Yuka Tsujiyoko",
+    "Converters": "goobbue",
+    "Category": "bgm",
+    "Update Notes": "Rebalanced volume",
+    "Tags": [
+      "Lobbies and Shops",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Mon Dec 16 2024 06:01:19 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Paper%20Mario/March%20Ahead%20(REV%201).mp3",
+    "Binary": "binaries/Paper Mario/March Ahead (REV 1).bin",
+    "Duration": 28.8333045
+  },
+  {
+    "Game": "Mario Party",
+    "Song": "Saving Courage",
+    "Composers": "Yasunori Mitsuda",
+    "Converters": "goobbue",
+    "Category": "bgm",
+    "Update Notes": "Rebalanced volume",
+    "Tags": [
+      "Fights",
+      "Minigames"
+    ],
+    "Verified": true,
+    "Date": "Mon Dec 16 2024 06:01:20 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Mario%20Party/Saving%20Courage%20(REV%201).mp3",
+    "Binary": "binaries/Mario Party/Saving Courage (REV 1).bin",
+    "Duration": 22.91479182291667
+  },
+  {
+    "Game": "Mario & Luigi: Superstar Saga",
+    "Song": "Teehee Valley",
+    "Composers": "Yoko Shimomura",
+    "Converters": "goobbue",
+    "Category": "bgm",
+    "Update Notes": "Rebalanced volume",
+    "Tags": [
+      "Exteriors",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Mon Dec 16 2024 06:01:21 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Mario%20%20Luigi%20Superstar%20Saga/Teehee%20Valley%20(REV%202).mp3",
+    "Binary": "binaries/Mario  Luigi Superstar Saga/Teehee Valley (REV 2).bin",
+    "Duration": 50.684214749999995
+  },
+  {
+    "Game": "Mario & Luigi: Partners in Time",
+    "Song": "Gritzy Desert",
+    "Composers": "Yoko Shimomura",
+    "Converters": "goobbue",
+    "Category": "bgm",
+    "Update Notes": "Rebalanced volume",
+    "Tags": [
+      "Exteriors"
+    ],
+    "Verified": true,
+    "Date": "Mon Dec 16 2024 06:01:21 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Mario%20%20Luigi%20Partners%20in%20Time/Gritzy%20Desert%20(REV%201).mp3",
+    "Binary": "binaries/Mario  Luigi Partners in Time/Gritzy Desert (REV 1).bin",
+    "Duration": 72.23958333333333
+  },
+  {
+    "Game": "Lemmings",
+    "Song": "Lemming 2",
+    "Composers": "Brian Johnston",
+    "Converters": "goobbue",
+    "Category": "bgm",
+    "Update Notes": "Rebalanced volume",
+    "Tags": [
+      "Fights",
+      "Minigames"
+    ],
+    "Verified": true,
+    "Date": "Mon Dec 16 2024 06:01:22 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Lemmings/Lemming%202%20(REV%201).mp3",
+    "Binary": "binaries/Lemmings/Lemming 2 (REV 1).bin",
+    "Duration": 105.31291749999998
+  },
+  {
+    "Game": "Final Fantasy IV",
+    "Song": "Into the Darkness",
+    "Composers": "Nobuo Uematsu",
+    "Converters": "goobbue",
+    "Category": "bgm",
+    "Update Notes": "Lowered volume significantly",
+    "Tags": [
+      "Interiors",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Mon Dec 16 2024 06:01:23 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Final%20Fantasy%20IV/Into%20the%20Darkness%20(REV%201).mp3",
+    "Binary": "binaries/Final Fantasy IV/Into the Darkness (REV 1).bin",
+    "Duration": 53.360640000000004
+  },
+  {
+    "Game": "Paper Mario: The Thousand-Year Door",
+    "Song": "Rogueport",
+    "Composers": "Yoshito Sekigawa, Yuka Tsujiyoko, Saki Hayama",
+    "Converters": "freddywondercat",
+    "Category": "bgm",
+    "Update Notes": "Rebalanced volume",
+    "Tags": [
+      "Exteriors",
+      "Happy",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Mon Dec 16 2024 06:01:23 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Paper%20Mario%20The%20Thousand-Year%20Door/Rogueport%20(REV%201).mp3",
+    "Binary": "binaries/Paper Mario The Thousand-Year Door/Rogueport (REV 1).bin",
+    "Duration": 104.05146937500001
   }
 ]
