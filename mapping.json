@@ -32227,5 +32227,22 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/La-Mulana/Requiem.mp3",
     "Binary": "binaries/La-Mulana/Requiem.bin",
     "Duration": 25.595833333333335
+  },
+  {
+    "Game": "Rhythm Heaven",
+    "Song": "Remix Jingle",
+    "Category": "events",
+    "Composers": "Tsunku♂️",
+    "Converters": "Schwartz Gandhi",
+    "Tags": [
+      "Spawning",
+      "Happy"
+    ],
+    "Update Notes": "remixed",
+    "Verified": true,
+    "Date": "Mon Dec 16 2024 20:18:49 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Rhythm%20Heaven/Remix%20Jingle%20(REV%201).mp3",
+    "Binary": "binaries/Rhythm Heaven/Remix Jingle (REV 1).bin",
+    "Duration": 3.777774
   }
 ]
