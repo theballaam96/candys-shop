@@ -31905,5 +31905,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Super%20Mario%2064/Bob-Omb%20Battlefield%20(REV%202).mp3",
     "Binary": "binaries/Super Mario 64/Bob-Omb Battlefield (REV 2).bin",
     "Duration": 72.21785896875
+  },
+  {
+    "Game": "La-Mulana",
+    "Song": "Interstice of the Dimension",
+    "Composers": "Houryu Samejima",
+    "Converters": "iveli_alpaca",
+    "Category": "bgm",
+    "Audio": "https://youtu.be/ky-LKzkINxQ?si=hI5ERXUu1P04FafR",
+    "Tags": [
+      "Fights",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Mon Dec 16 2024 05:52:37 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/La-Mulana/Interstice of the Dimension.bin",
+    "Duration": 135.16516776041664
   }
 ]
