@@ -32244,5 +32244,313 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Rhythm%20Heaven/Remix%20Jingle%20(REV%201).mp3",
     "Binary": "binaries/Rhythm Heaven/Remix Jingle (REV 1).bin",
     "Duration": 3.777774
+  },
+  {
+    "Game": "Pizza Tower",
+    "Song": "Victorious Degenerate (P-Rank)",
+    "Category": "events",
+    "Composers": "Ronan \"Mr. Sauceman\" de Castel",
+    "Converters": "Schwartz Gandhi",
+    "Tags": [
+      "Collection",
+      "Happy"
+    ],
+    "Update Notes": "resliced",
+    "Verified": true,
+    "Date": "Mon Dec 16 2024 20:21:08 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Pizza%20Tower/Victorious%20Degenerate%20(P-Rank)%20(REV%201).mp3",
+    "Binary": "binaries/Pizza Tower/Victorious Degenerate (P-Rank) (REV 1).bin",
+    "Duration": 14.769215999999998
+  },
+  {
+    "Game": "The Legend of Zelda: A Link to the Past",
+    "Song": "Seal of the Seven Maidens",
+    "Category": "bgm",
+    "Composers": "Koji Kondo",
+    "Converters": "Schwartz Gandhi",
+    "Tags": [
+      "Exteriors",
+      "Gloomy"
+    ],
+    "Update Notes": "resealed based off of the original midi",
+    "Verified": true,
+    "Date": "Mon Dec 16 2024 20:21:08 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/The%20Legend%20of%20Zelda%20A%20Link%20to%20the%20Past/Seal%20of%20the%20Seven%20Maidens%20(REV%201).mp3",
+    "Binary": "binaries/The Legend of Zelda A Link to the Past/Seal of the Seven Maidens (REV 1).bin",
+    "Duration": 61.0692215
+  },
+  {
+    "Game": "Luigi's Mansion",
+    "Song": "Puzzle Solved",
+    "Category": "majoritems",
+    "Composers": "Shinobu Tanaka, Kazumi Totaka",
+    "Converters": "Schwartz Gandhi",
+    "Tags": [
+      "Spawning",
+      "Collection"
+    ],
+    "Update Notes": "respookance",
+    "Verified": true,
+    "Date": "Mon Dec 16 2024 20:21:09 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Luigis%20Mansion/Puzzle%20Solved%20(REV%201).mp3",
+    "Binary": "binaries/Luigis Mansion/Puzzle Solved (REV 1).bin",
+    "Duration": 0.6875
+  },
+  {
+    "Game": "Rise Of The Triad",
+    "Song": "Adagio For Strings and Organ",
+    "Category": "bgm",
+    "Composers": "Lee Jackson, Remo Giazotto",
+    "Converters": "Schwartz Gandhi",
+    "Audio": "https://www.youtube.com/watch?v=GbUg1n1umtc",
+    "Tags": [
+      "Exteriors",
+      "Happy"
+    ],
+    "Update Notes": "reorganised",
+    "Verified": true,
+    "Date": "Mon Dec 16 2024 20:21:09 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Rise Of The Triad/Adagio For Strings and Organ.bin",
+    "Duration": 166.9596913263889
+  },
+  {
+    "Game": "Rise Of The Triad",
+    "Song": "Victory!",
+    "Category": "bgm",
+    "Composers": "Lee Jackson",
+    "Converters": "Schwartz Gandhi",
+    "Audio": "https://www.youtube.com/watch?v=Ic3GtDLpNJo",
+    "Tags": [
+      "Lobbies and Shops",
+      "Exteriors",
+      "Happy"
+    ],
+    "Update Notes": "resplendance",
+    "Verified": true,
+    "Date": "Mon Dec 16 2024 20:21:10 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Rise Of The Triad/Victory (REV 1).bin",
+    "Duration": 124.12512586111116
+  },
+  {
+    "Game": "Cave Story",
+    "Song": "Got Item!",
+    "Category": "majoritems",
+    "Composers": "Pixel",
+    "Converters": "Schwartz Gandhi",
+    "Tags": [
+      "Collection"
+    ],
+    "Update Notes": "reacquired",
+    "Verified": true,
+    "Date": "Mon Dec 16 2024 20:21:11 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Cave%20Story/Got%20Item%20(REV%201).mp3",
+    "Binary": "binaries/Cave Story/Got Item (REV 1).bin",
+    "Duration": 3.7
+  },
+  {
+    "Game": "Cave Story",
+    "Song": "Get Heart Tank!",
+    "Category": "majoritems",
+    "Composers": "Pixel",
+    "Converters": "Schwartz Gandhi",
+    "Tags": [
+      "Collection"
+    ],
+    "Update Notes": "recapsule",
+    "Verified": true,
+    "Date": "Mon Dec 16 2024 20:21:11 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Cave%20Story/Get%20Heart%20Tank%20(REV%202).mp3",
+    "Binary": "binaries/Cave Story/Get Heart Tank (REV 2).bin",
+    "Duration": 4.6080000000000005
+  },
+  {
+    "Game": "Zelda II: The Adventure of Link",
+    "Song": "Palace Theme",
+    "Category": "bgm",
+    "Composers": "Akito Akatsuka",
+    "Converters": "Schwartz Gandhi",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Zelda%20II%20The%20Adventure%20of%20Link/Palace%20Theme%20(REV%201).mp3",
+    "Tags": [
+      "Interiors",
+      "Gloomy"
+    ],
+    "Update Notes": "repalace: revengance",
+    "Verified": true,
+    "Date": "Mon Dec 16 2024 20:21:12 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Zelda II The Adventure of Link/Palace Theme (REV 1).bin",
+    "Duration": 92.57589743541668
+  },
+  {
+    "Game": "Persona 5",
+    "Song": "Out of Kindness (Royal)",
+    "Category": "bgm",
+    "Composers": "Shoji Meguro",
+    "Converters": "Schwartz Gandhi",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Persona%205/Out%20of%20Kindness%20(Royal)%20(REV%201).mp3",
+    "Tags": [
+      "Exteriors",
+      "Calm"
+    ],
+    "Update Notes": "repalace",
+    "Verified": true,
+    "Date": "Mon Dec 16 2024 20:21:12 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Persona 5/Out of Kindness (Royal) (REV 1).bin",
+    "Duration": 80.84224
+  },
+  {
+    "Game": "Cave Story",
+    "Song": "Jenka 2",
+    "Category": "bgm",
+    "Composers": "Pixel",
+    "Converters": "Schwartz Gandhi",
+    "Tags": [
+      "Interiors",
+      "Gloomy"
+    ],
+    "Update Notes": "rebotance",
+    "Verified": true,
+    "Date": "Mon Dec 16 2024 20:21:13 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Cave%20Story/Jenka%202%20(REV%202).mp3",
+    "Binary": "binaries/Cave Story/Jenka 2 (REV 2).bin",
+    "Duration": 45.76308138333333
+  },
+  {
+    "Game": "Street Fighter II",
+    "Song": "Cammy's Theme",
+    "Composers": "Yoko Shimomura",
+    "Converters": "Snolid Ice",
+    "Category": "bgm",
+    "Update Notes": "Rebalanced volume",
+    "Tags": [
+      "Fights",
+      "Exteriors"
+    ],
+    "Verified": true,
+    "Date": "Mon Dec 16 2024 20:21:13 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Street%20Fighter%20II/Cammys%20Theme%20(REV%201).mp3",
+    "Binary": "binaries/Street Fighter II/Cammys Theme (REV 1).bin",
+    "Duration": 55.35525734375
+  },
+  {
+    "Game": "Mario Kart: Double Dash!!",
+    "Song": "Rainbow Road",
+    "Composers": "Kenta Nagata",
+    "Converters": "Snolid Ice",
+    "Category": "bgm",
+    "Update Notes": "Rebalanced volume",
+    "Tags": [
+      "Exteriors",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Mon Dec 16 2024 20:21:14 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Mario%20Kart%20Double%20Dash/Rainbow%20Road%20(REV%201).mp3",
+    "Binary": "binaries/Mario Kart Double Dash/Rainbow Road (REV 1).bin",
+    "Duration": 82.39277475
+  },
+  {
+    "Game": "Other",
+    "Song": "Solid State Scouter",
+    "Composers": "Yasunori Iwasaki",
+    "Converters": "ShyGuySupreme",
+    "Category": "bgm",
+    "Audio": "https://www.youtube.com/watch?v=mpeUphJ7F6E",
+    "Update Notes": "Rebalanced volume",
+    "Tags": [
+      "Fights",
+      "Exteriors"
+    ],
+    "Verified": true,
+    "Date": "Mon Dec 16 2024 20:21:15 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Other/Solid State Scouter (REV 1).bin",
+    "Duration": 231.94250000000002
+  },
+  {
+    "Game": "Other",
+    "Song": "King Piccolo Theme",
+    "Composers": "Shunsuke Kikuchi",
+    "Converters": "ShyGuySupreme",
+    "Category": "bgm",
+    "Audio": "https://youtu.be/6tVJSAokAII",
+    "Update Notes": "Rebalanced volume",
+    "Tags": [
+      "Fights",
+      "Exteriors"
+    ],
+    "Verified": true,
+    "Date": "Mon Dec 16 2024 20:21:15 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Other/King Piccolo Theme (REV 1).bin",
+    "Duration": 74.84852655
+  },
+  {
+    "Game": "Conker's Bad Fur Day",
+    "Song": "Bats",
+    "Composers": "Robin Beanland",
+    "Converters": "ShyGuySupreme",
+    "Category": "bgm",
+    "Audio": "https://youtu.be/jZfLGrfV4-o",
+    "Update Notes": "Rebalanced volume",
+    "Tags": [
+      "Interiors",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Mon Dec 16 2024 20:21:16 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Conkers Bad Fur Day/Bats (REV 1).bin",
+    "Duration": 150.429942875
+  },
+  {
+    "Game": "The Room Tribute",
+    "Song": "Main Theme (Chris R Battle)",
+    "Composers": "OneyNG, IzzyKart57",
+    "Converters": "Mr_Rippe",
+    "Category": "bgm",
+    "Update Notes": "Rebalanced volume, removed silence at beginning",
+    "Additional Notes": "MIDI created by IzzyKart57",
+    "Tags": [
+      "Fights",
+      "Minigames"
+    ],
+    "Verified": true,
+    "Date": "Mon Dec 16 2024 20:21:17 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/The%20Room%20Tribute/Main%20Theme%20(Chris%20R%20Battle)%20(REV%202).mp3",
+    "Binary": "binaries/The Room Tribute/Main Theme (Chris R Battle) (REV 2).bin",
+    "Duration": 56.00697244791667
+  },
+  {
+    "Game": "Rise Of The Triad",
+    "Song": "Evin Rude",
+    "Composers": "Lee Jackson",
+    "Converters": "Mr_Rippe",
+    "Category": "bgm",
+    "Update Notes": "Rebalanced volume, removed silence at beginning",
+    "Tags": [
+      "Lobbies and Shops",
+      "Interiors",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Mon Dec 16 2024 20:21:17 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Rise%20Of%20The%20Triad/Evin%20Rude%20(REV%201).mp3",
+    "Binary": "binaries/Rise Of The Triad/Evin Rude (REV 1).bin",
+    "Duration": 48.857151
+  },
+  {
+    "Game": "Mega Man 2",
+    "Song": "Metal Man",
+    "Composers": "Takashi Tateishi",
+    "Converters": "Mr_Rippe",
+    "Category": "bgm",
+    "Update Notes": "Rebalanced volume",
+    "Tags": [
+      "Fights",
+      "Exteriors",
+      "Minigames"
+    ],
+    "Verified": true,
+    "Date": "Mon Dec 16 2024 20:21:18 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Mega%20Man%202/Metal%20Man%20(REV%201).mp3",
+    "Binary": "binaries/Mega Man 2/Metal Man (REV 1).bin",
+    "Duration": 79.44739393125
   }
 ]
