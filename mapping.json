@@ -3559,7 +3559,7 @@
   },
   {
     "Date": "Sat Jul 01 2023 05:38:38 GMT-0500 (Central Daylight Time)",
-    "Game": "Doom (1993)",
+    "Game": "DOOM (1993)",
     "Song": "Sign of Evil",
     "Category": "bgm",
     "Composers": "Bobby Prince",
@@ -3694,7 +3694,7 @@
   },
   {
     "Date": "Sun Jul 02 2023 14:05:06 GMT-0500 (Central Daylight Time)",
-    "Game": "Doom (1993)",
+    "Game": "DOOM (1993)",
     "Song": "Sign of Evil",
     "Category": "bgm",
     "Composers": "Bobby Prince",
@@ -8427,7 +8427,7 @@
   },
   {
     "Date": "Thu Sep 14 2023 00:56:10 GMT-0500 (Central Daylight Time)",
-    "Game": "Doom (1993)",
+    "Game": "DOOM (1993)",
     "Song": "At Doom's Gate",
     "Category": "bgm",
     "Composers": "Bobby Prince",
@@ -8478,7 +8478,7 @@
   },
   {
     "Date": "Fri Sep 15 2023 22:32:32 GMT-0500 (Central Daylight Time)",
-    "Game": "Doom (1993)",
+    "Game": "DOOM (1993)",
     "Song": "I Sawed The Demons",
     "Category": "bgm",
     "Composers": "Bobby Prince",
@@ -8495,7 +8495,7 @@
   },
   {
     "Date": "Fri Sep 15 2023 23:41:47 GMT-0500 (Central Daylight Time)",
-    "Game": "Doom (1993)",
+    "Game": "DOOM (1993)",
     "Song": "Sweet Little Dead Bunny",
     "Category": "bgm",
     "Composers": "Bobby Prince",
@@ -8563,7 +8563,7 @@
   },
   {
     "Date": "Sun Sep 17 2023 17:06:54 GMT-0500 (Central Daylight Time)",
-    "Game": "Doom (1993)",
+    "Game": "DOOM (1993)",
     "Song": "Kitchen Aces (and Taking Names)",
     "Category": "bgm",
     "Composers": "Bobby Prince",
@@ -16447,7 +16447,7 @@
   },
   {
     "Date": "Fri Feb 09 2024 20:45:40 GMT-0600 (Central Standard Time)",
-    "Game": "Doom (1993)",
+    "Game": "DOOM (1993)",
     "Song": "I Sawed The Demons",
     "Category": "bgm",
     "Composers": "Bobby Prince",
@@ -19197,7 +19197,7 @@
     "Duration": 82.32134625
   },
   {
-    "Game": "Doom (1993)",
+    "Game": "DOOM (1993)",
     "Song": "Suspense",
     "Composers": "Bobby Prince",
     "Converters": "CaptainofGarbage",
