@@ -32211,5 +32211,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Paper%20Mario%20The%20Thousand-Year%20Door/Rogueport%20(REV%201).mp3",
     "Binary": "binaries/Paper Mario The Thousand-Year Door/Rogueport (REV 1).bin",
     "Duration": 104.05146937500001
+  },
+  {
+    "Game": "La-Mulana",
+    "Song": "Requiem",
+    "Composers": "Houryu Samejima",
+    "Converters": "iveli_alpaca",
+    "Category": "bgm",
+    "Tags": [
+      "Lobbies and Shops",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Mon Dec 16 2024 15:00:24 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/La-Mulana/Requiem.mp3",
+    "Binary": "binaries/La-Mulana/Requiem.bin",
+    "Duration": 25.595833333333335
   }
 ]
