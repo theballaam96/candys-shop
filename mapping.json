@@ -32680,5 +32680,309 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/The%20Legend%20of%20Zelda%20Majoras%20Mask/Sonata%20of%20Awakening%20(REV%201).mp3",
     "Binary": "binaries/The Legend of Zelda Majoras Mask/Sonata of Awakening (REV 1).bin",
     "Duration": 22.636739624999997
+  },
+  {
+    "Game": "Phoenix Wright: Ace Attorney",
+    "Song": "There's No Stopping Here",
+    "Composers": "Masakazu Sugimori",
+    "Converters": "AaronDobbe",
+    "Category": "majoritems",
+    "Update Notes": "Rebalanced volume",
+    "Tags": [
+      "Collection",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Tue Dec 17 2024 22:32:17 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Phoenix%20Wright%20Ace%20Attorney/Theres%20No%20Stopping%20Here%20(REV%201).mp3",
+    "Binary": "binaries/Phoenix Wright Ace Attorney/Theres No Stopping Here (REV 1).bin",
+    "Duration": 2.74999725
+  },
+  {
+    "Game": "Banjo-Tooie",
+    "Song": "Wrong Jingle",
+    "Composers": "Grant Kirkhope",
+    "Converters": "gloomy",
+    "Category": "majoritems",
+    "Update Notes": "Rebalanced volume",
+    "Verified": true,
+    "Date": "Tue Dec 17 2024 22:32:17 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Banjo-Tooie/Wrong%20Jingle%20(REV%201).mp3",
+    "Binary": "binaries/Banjo-Tooie/Wrong Jingle (REV 1).bin",
+    "Duration": 1.0104166666666667
+  },
+  {
+    "Game": "The Legend of Zelda: Ocarina of Time",
+    "Song": "Requiem of Spirit",
+    "Composers": "Koji Kondo",
+    "Converters": "OnlySpaghettiCode",
+    "Category": "events",
+    "Update Notes": "Lowered volume, redid song based on game's original MIDI",
+    "Tags": [
+      "Spawning",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Tue Dec 17 2024 22:32:18 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/The%20Legend%20of%20Zelda%20Ocarina%20of%20Time/Requiem%20of%20Spirit%20(REV%202).mp3",
+    "Binary": "binaries/The Legend of Zelda Ocarina of Time/Requiem of Spirit (REV 2).bin",
+    "Duration": 18.7625
+  },
+  {
+    "Game": "The Legend of Zelda: Majora's Mask",
+    "Song": "Deku Palace",
+    "Composers": "Koji Kondo",
+    "Converters": "Wolfeni",
+    "Category": "bgm",
+    "Audio": "https://www.youtube.com/watch?v=GLGgLDVFfm8",
+    "Tags": [
+      "Exteriors"
+    ],
+    "Verified": true,
+    "Date": "Tue Dec 17 2024 22:32:18 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/The Legend of Zelda Majoras Mask/Deku Palace (REV 1).bin",
+    "Duration": 68.571392
+  },
+  {
+    "Game": "The Legend of Banjo-Kazooie: The Jiggies of Time",
+    "Song": "Gerudo Fortress",
+    "Composers": "Linus Olsson, Koji Kondo",
+    "Converters": "Wolfeni",
+    "Category": "bgm",
+    "Audio": "https://www.youtube.com/watch?v=h19ktayFkQk",
+    "Update Notes": "Rebalanced volume",
+    "Tags": [
+      "Exteriors",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Tue Dec 17 2024 22:32:19 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/The Legend of Banjo-Kazooie The Jiggies of Time/Gerudo Fortress (REV 1).bin",
+    "Duration": 201.575
+  },
+  {
+    "Game": "Super Smash Bros. Brawl",
+    "Song": "Menu 1",
+    "Composers": "Nobuo Uematsu",
+    "Converters": "Wolfeni",
+    "Category": "bgm",
+    "Update Notes": "Rebalanced volume",
+    "Tags": [
+      "Fights",
+      "Exteriors",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Tue Dec 17 2024 22:32:20 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Super%20Smash%20Bros%20Brawl/Menu%201%20(REV%201).mp3",
+    "Binary": "binaries/Super Smash Bros Brawl/Menu 1 (REV 1).bin",
+    "Duration": 91.42851200000001
+  },
+  {
+    "Game": "Super Mario World",
+    "Song": "Athletic",
+    "Composers": "Koji Kondo",
+    "Converters": "Teylahime",
+    "Category": "bgm",
+    "Audio": "https://youtu.be/nW7UWTzRvBM",
+    "Update Notes": "Rebalanced volume",
+    "Tags": [
+      "Exteriors",
+      "Minigames",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Tue Dec 17 2024 22:32:20 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Super Mario World/Athletic (REV 1).bin",
+    "Duration": 75.37252078125
+  },
+  {
+    "Game": "Last Bible III",
+    "Song": "Underworld Forest",
+    "Composers": "Hiroyuki Yanada",
+    "Converters": "Teylahime",
+    "Category": "bgm",
+    "Audio": "https://www.youtube.com/watch?v=i_Qu5J77xCI",
+    "Update Notes": "Rebalanced volume",
+    "Tags": [
+      "Interiors",
+      "Exteriors",
+      "Gloomy",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Tue Dec 17 2024 22:32:21 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Last Bible III/Underworld Forest (REV 1).bin",
+    "Duration": 87.43605622916667
+  },
+  {
+    "Game": "Final Fantasy V",
+    "Song": "Mambo de Chocobo",
+    "Composers": "Nobuo Uematsu",
+    "Converters": "Teylahime",
+    "Category": "bgm",
+    "Audio": "https://youtu.be/PBF96F7OcUc",
+    "Update Notes": "Rebalanced volume",
+    "Tags": [
+      "Lobbies and Shops",
+      "Minigames",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Tue Dec 17 2024 22:32:21 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Final Fantasy V/Mambo de Chocobo (REV 1).bin",
+    "Duration": 32.88100082291667
+  },
+  {
+    "Game": "Etrian Odyssey",
+    "Song": "Battlefield - A Storm Ahead",
+    "Composers": "Yuzo Koshiro",
+    "Converters": "Teylahime",
+    "Category": "bgm",
+    "Audio": "https://www.youtube.com/watch?v=suWxRqegAvU",
+    "Update Notes": "Rebalanced volume",
+    "Tags": [
+      "Fights"
+    ],
+    "Verified": true,
+    "Date": "Tue Dec 17 2024 22:32:22 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Etrian Odyssey/Battlefield - A Storm Ahead (REV 1).bin",
+    "Duration": 62.12503623958333
+  },
+  {
+    "Game": "Rise Of The Triad",
+    "Song": "Apogee Fanfare",
+    "Composers": "Bobby Prince",
+    "Converters": "Mr_Rippe",
+    "Category": "events",
+    "Update Notes": "Rebalanced volume",
+    "Tags": [
+      "Spawning",
+      "Collection"
+    ],
+    "Verified": true,
+    "Date": "Tue Dec 17 2024 22:32:23 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Rise%20Of%20The%20Triad/Apogee%20Fanfare%20(REV%201).mp3",
+    "Binary": "binaries/Rise Of The Triad/Apogee Fanfare (REV 1).bin",
+    "Duration": 9.111102
+  },
+  {
+    "Game": "The Legend of Zelda: The Minish Cap",
+    "Song": "Minish Village",
+    "Composers": "Mitsuhiko Takano",
+    "Converters": "Snolid Ice, UmedMuzl",
+    "Category": "bgm",
+    "Update Notes": "Rebalanced volume",
+    "Tags": [
+      "Exteriors",
+      "Gloomy",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Tue Dec 17 2024 22:32:23 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/The%20Legend%20of%20Zelda%20The%20Minish%20Cap/Minish%20Village%20(REV%201).mp3",
+    "Binary": "binaries/The Legend of Zelda The Minish Cap/Minish Village (REV 1).bin",
+    "Duration": 94.06687021875001
+  },
+  {
+    "Game": "Wario: Master of Disguise",
+    "Song": "Sweatmore Peak",
+    "Composers": "Kenji Hikita",
+    "Converters": "Sniperwave",
+    "Category": "bgm",
+    "Update Notes": "Rebalanced volume",
+    "Tags": [
+      "Fights",
+      "Minigames"
+    ],
+    "Verified": true,
+    "Date": "Tue Dec 17 2024 22:32:24 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Wario%20Master%20of%20Disguise/Sweatmore%20Peak%20(REV%201).mp3",
+    "Binary": "binaries/Wario Master of Disguise/Sweatmore Peak (REV 1).bin",
+    "Duration": 128.960344
+  },
+  {
+    "Game": "Valkyrie Profile: Covenant of the Plume",
+    "Song": "Ancient Illusions of Eternity",
+    "Composers": "Motoi Sakuraba",
+    "Converters": "Sniperwave",
+    "Category": "bgm",
+    "Update Notes": "Rebalanced volume, removed silence at beginning",
+    "Tags": [
+      "Exteriors",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Tue Dec 17 2024 22:32:25 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Valkyrie%20Profile%20Covenant%20of%20the%20Plume/Ancient%20Illusions%20of%20Eternity%20(REV%201).mp3",
+    "Binary": "binaries/Valkyrie Profile Covenant of the Plume/Ancient Illusions of Eternity (REV 1).bin",
+    "Duration": 78.90840882291666
+  },
+  {
+    "Game": "Spectrobes",
+    "Song": "Genshi Forest",
+    "Composers": "Masahiko Kimura",
+    "Converters": "Sniperwave",
+    "Category": "bgm",
+    "Update Notes": "Rebalanced volume, removed silence at beginning",
+    "Tags": [
+      "Exteriors",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Tue Dec 17 2024 22:32:25 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Spectrobes/Genshi%20Forest%20(REV%202).mp3",
+    "Binary": "binaries/Spectrobes/Genshi Forest (REV 2).bin",
+    "Duration": 86.90187592708334
+  },
+  {
+    "Game": "Rise Of The Triad",
+    "Song": "Where Izit",
+    "Composers": "Lee Jackson",
+    "Converters": "Sniperwave",
+    "Category": "bgm",
+    "Update Notes": "Rebalanced volume, removed silence at beginning",
+    "Tags": [
+      "Fights",
+      "Minigames"
+    ],
+    "Verified": true,
+    "Date": "Tue Dec 17 2024 22:32:26 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Rise%20Of%20The%20Triad/Where%20Izit%20(REV%201).mp3",
+    "Binary": "binaries/Rise Of The Triad/Where Izit (REV 1).bin",
+    "Duration": 70.5089285625
+  },
+  {
+    "Game": "Lufia II: Rise of the Sinistrals",
+    "Song": "Final Battle",
+    "Composers": "Yasunori Shiono",
+    "Converters": "Sniperwave",
+    "Category": "bgm",
+    "Update Notes": "Rebalanced volume, removed silence at the beginning",
+    "Tags": [
+      "Fights",
+      "Lobbies and Shops"
+    ],
+    "Verified": true,
+    "Date": "Tue Dec 17 2024 22:32:27 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Lufia%20II%20Rise%20of%20the%20Sinistrals/Final%20Battle%20(REV%201).mp3",
+    "Binary": "binaries/Lufia II Rise of the Sinistrals/Final Battle (REV 1).bin",
+    "Duration": 77.6223
+  },
+  {
+    "Game": "F-Zero: Maximum Velocity",
+    "Song": "Empyrean Colony",
+    "Composers": "Masaru Tajima, Mitsuteru Furukawa, Naoto Ishida",
+    "Converters": "Sniperwave",
+    "Category": "bgm",
+    "Update Notes": "Rebalanced volume, removed silence at beginning",
+    "Tags": [
+      "Minigames"
+    ],
+    "Verified": true,
+    "Date": "Tue Dec 17 2024 22:32:27 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/F-Zero%20Maximum%20Velocity/Empyrean%20Colony%20(REV%201).mp3",
+    "Binary": "binaries/F-Zero Maximum Velocity/Empyrean Colony (REV 1).bin",
+    "Duration": 47.50001900000001
   }
 ]
