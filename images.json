@@ -227,7 +227,7 @@
    "Donkey Kong Jungle Beat":{
       "icon":"https://i.imgur.com/AA2L9UW.png"
    },
-   "Doom (1993)":{
+   "DOOM (1993)":{
       "icon":"https://i.imgur.com/ykeSbhG.png"
    },
    "Double Dragon":{
@@ -411,6 +411,9 @@
    "Klonoa 2: Lunatea's Veil":{
       "icon":"https://i.imgur.com/ugnHRvL.png"
    },
+   "La-Mulana":{
+      "icon":"https://i.imgur.com/8GcCMYt.png"
+   },
    "Landstalker: The Treasures of King Nole":{
       "icon":"https://i.imgur.com/kQfxnja.png",
       "short_name": "Landstalker"
@@ -542,6 +545,9 @@
    },
    "Metal Gear Solid":{
       "icon":"https://i.imgur.com/b5Pug3Z.png"
+   },
+   "Metal Slug 3":{
+      "icon":"https://i.imgur.com/vuZ98E7.png"
    },
    "Metroid II: Return of Samus":{
       "icon":"https://i.imgur.com/48MYLIm.png"
@@ -802,6 +808,9 @@
    "San Francisco Rush 2049":{
       "icon":"https://i.imgur.com/as1JxD5.png"
    },
+   "Secret of Mana":{
+      "icon":"https://i.imgur.com/MDV7JLi.png"
+   },
    "Shadowgate":{
       "icon":"https://i.imgur.com/8EL6ySj.png"
    },
@@ -868,6 +877,9 @@
    },
    "Soulcalibur II":{
       "icon":"https://i.imgur.com/SG2MVQu.png"
+   },
+   "Spark the Electric Jester":{
+      "icon":"https://i.imgur.com/4iBnfX6.png"
    },
    "Spectrobes":{
       "icon":"https://i.imgur.com/noTHiOv.png"
@@ -1074,6 +1086,10 @@
    "Tony Hawk's Pro Skater":{
       "icon":"https://i.imgur.com/yQXCkLz.png"
    },
+   "Touhou Artificial Dream in Arcadia":{
+      "icon":"https://i.imgur.com/zxAGNaZ.png",
+      "short_name": "Touhou ADiA"
+   },
    "Touhou Chiireiden ~ Subterranean Animism":{
       "icon":"https://i.imgur.com/TGbpxDH.png",
       "short_name": "Touhou 11"
@@ -1118,7 +1134,7 @@
       "icon":"https://i.imgur.com/Iv8mU0s.png",
       "short_name": "Touhou 17"
    },
-   "Touhou Koumakyou ~ The Embodiment of Scarlet Devil":{
+   "Touhou Koumakyou ~ the Embodiment of Scarlet Devil":{
       "icon":"https://i.imgur.com/0f9Uu7j.png",
       "short_name": "Touhou 6"
    },
@@ -1126,7 +1142,7 @@
       "icon":"https://i.imgur.com/ZDsMCJ5.png",
       "short_name": "Touhou 18"
    },
-   "Touhou Reiiden ~ The Highly Responsive to Prayers":{
+   "Touhou Reiiden ~ the Highly Responsive to Prayers":{
       "icon":"https://i.imgur.com/u2BfhqJ.png",
       "short_name": "Touhou 1"
    },
@@ -1178,6 +1194,9 @@
    },
    "Viva Piñata":{
       "icon":"https://i.imgur.com/JG5CF5Z.png"
+   },
+   "Warhammer 40,000: Darktide":{
+      "icon":"https://i.imgur.com/1GYetQG.png"
    },
    "Wario: Master of Disguise":{
       "icon":"https://i.imgur.com/r3mk8w7.png"
