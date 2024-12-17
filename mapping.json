@@ -32667,5 +32667,18 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/The%20Legend%20of%20Zelda%20Ocarina%20of%20Time/Bolero%20of%20Fire%20(REV%202).mp3",
     "Binary": "binaries/The Legend of Zelda Ocarina of Time/Bolero of Fire (REV 2).bin",
     "Duration": 18.762129
+  },
+  {
+    "Game": "The Legend of Zelda: Majora's Mask",
+    "Song": "Sonata of Awakening",
+    "Category": "events",
+    "Composers": "Koji Kondo",
+    "Converters": "Schwartz Gandhi",
+    "Update Notes": "reawakening",
+    "Verified": true,
+    "Date": "Tue Dec 17 2024 22:27:45 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/The%20Legend%20of%20Zelda%20Majoras%20Mask/Sonata%20of%20Awakening%20(REV%201).mp3",
+    "Binary": "binaries/The Legend of Zelda Majoras Mask/Sonata of Awakening (REV 1).bin",
+    "Duration": 22.636739624999997
   }
 ]
