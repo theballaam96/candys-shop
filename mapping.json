@@ -32586,5 +32586,22 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/La-Mulana/Fearless%20Challenger%20-Long%20Version-.mp3",
     "Binary": "binaries/La-Mulana/Fearless Challenger -Long Version-.bin",
     "Duration": 87.772334
+  },
+  {
+    "Game": "La-Mulana",
+    "Song": "Curse of Ocean",
+    "Composers": "Houryu Samejima",
+    "Converters": "MiaSchemes",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors",
+      "Fights",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Tue Dec 17 2024 02:56:50 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/La-Mulana/Curse%20of%20Ocean.mp3",
+    "Binary": "binaries/La-Mulana/Curse of Ocean.bin",
+    "Duration": 102.7971
   }
 ]
