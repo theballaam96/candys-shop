@@ -32569,5 +32569,22 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/DOOM%20(1993)/Kitchen%20Aces%20(and%20Taking%20Names)%20(REV%201).mp3",
     "Binary": "binaries/DOOM (1993)/Kitchen Aces (and Taking Names) (REV 1).bin",
     "Duration": 170.666496
+  },
+  {
+    "Game": "La-Mulana",
+    "Song": "Fearless Challenger -Long Version-",
+    "Category": "bgm",
+    "Composers": "Houryu Samejima",
+    "Converters": "MiaSchemes",
+    "Tags": [
+      "Exteriors",
+      "Fights",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Tue Dec 17 2024 02:55:02 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/La-Mulana/Fearless%20Challenger%20-Long%20Version-.mp3",
+    "Binary": "binaries/La-Mulana/Fearless Challenger -Long Version-.bin",
+    "Duration": 87.772334
   }
 ]
