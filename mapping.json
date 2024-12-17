@@ -32984,5 +32984,18 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/F-Zero%20Maximum%20Velocity/Empyrean%20Colony%20(REV%201).mp3",
     "Binary": "binaries/F-Zero Maximum Velocity/Empyrean Colony (REV 1).bin",
     "Duration": 47.50001900000001
+  },
+  {
+    "Game": "The Legend of Zelda: Ocarina of Time",
+    "Song": "Nocturne of Shadow",
+    "Category": "events",
+    "Composers": "Koji Kondo",
+    "Converters": "Schwartz Gandhi",
+    "Update Notes": "bring rebalance to the world",
+    "Verified": true,
+    "Date": "Tue Dec 17 2024 22:51:23 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/The%20Legend%20of%20Zelda%20Ocarina%20of%20Time/Nocturne%20of%20Shadow%20(REV%202).mp3",
+    "Binary": "binaries/The Legend of Zelda Ocarina of Time/Nocturne of Shadow (REV 2).bin",
+    "Duration": 19.79998175
   }
 ]
