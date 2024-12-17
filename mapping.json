@@ -32637,5 +32637,22 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Super%20Mario%20RPG%20Legend%20of%20the%20Seven%20Stars/Lets%20Go%20Down%20the%20Wine%20River%20(REV%201).mp3",
     "Binary": "binaries/Super Mario RPG Legend of the Seven Stars/Lets Go Down the Wine River (REV 1).bin",
     "Duration": 30.35433425
+  },
+  {
+    "Game": "The Legend of Zelda: Majora's Mask",
+    "Song": "Stone Tower Temple",
+    "Composers": "Koji Kondo",
+    "Converters": "Bismuth, ZeldaBoy14",
+    "Category": "bgm",
+    "Update Notes": "Rebalanced volume",
+    "Tags": [
+      "Interiors",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Tue Dec 17 2024 22:20:23 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/The%20Legend%20of%20Zelda%20Majoras%20Mask/Stone%20Tower%20Temple%20(REV%202).mp3",
+    "Binary": "binaries/The Legend of Zelda Majoras Mask/Stone Tower Temple (REV 2).bin",
+    "Duration": 86.38749999999999
   }
 ]
