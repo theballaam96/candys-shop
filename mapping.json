@@ -32603,5 +32603,22 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/La-Mulana/Curse%20of%20Ocean.mp3",
     "Binary": "binaries/La-Mulana/Curse of Ocean.bin",
     "Duration": 102.7971
+  },
+  {
+    "Game": "Metal Slug 3",
+    "Song": "Carry Out",
+    "Composers": "HIYA!",
+    "Converters": "iveli_alpaca",
+    "Category": "events",
+    "Tags": [
+      "Spawning",
+      "Collection",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Tue Dec 17 2024 06:45:52 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Metal%20Slug%203/Carry%20Out.mp3",
+    "Binary": "binaries/Metal Slug 3/Carry Out.bin",
+    "Duration": 6.923069999999999
   }
 ]
