@@ -33013,5 +33013,214 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/La-Mulana/Coin%20Pickup.wav",
     "Binary": "binaries/La-Mulana/Coin Pickup.bin",
     "Duration": 0.42721537500000006
+  },
+  {
+    "Game": "La-Mulana",
+    "Song": "Conch (Bad)",
+    "Composers": "Houryu Samejima",
+    "Converters": "iveli_alpaca",
+    "Category": "majoritems",
+    "Tags": [
+      "Spawning",
+      "Collection",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Wed Dec 18 2024 01:57:02 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/La-Mulana/Conch%20(Bad).mp3",
+    "Binary": "binaries/La-Mulana/Conch (Bad).bin",
+    "Duration": 0.966796875
+  },
+  {
+    "Game": "La-Mulana",
+    "Song": "Conch (Good)",
+    "Composers": "Houryu Samejima",
+    "Converters": "iveli_alpaca",
+    "Category": "majoritems",
+    "Tags": [
+      "Spawning",
+      "Collection",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Wed Dec 18 2024 01:57:03 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/La-Mulana/Conch%20(Good).mp3",
+    "Binary": "binaries/La-Mulana/Conch (Good).bin",
+    "Duration": 1.5234375
+  },
+  {
+    "Game": "Tetris DS",
+    "Song": "Back-to-Back Tetris",
+    "Composers": "Minako Hamano, Akira Fujiwara",
+    "Converters": "SirEnobMort",
+    "Category": "majoritems",
+    "Tags": [
+      "Collection"
+    ],
+    "Verified": true,
+    "Date": "Wed Dec 18 2024 01:57:03 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Tetris%20DS/Back-to-Back%20Tetris.mp3",
+    "Binary": "binaries/Tetris DS/Back-to-Back Tetris.bin",
+    "Duration": 1.1916666666666667
+  },
+  {
+    "Game": "Tetris DS",
+    "Song": "4-Line Clear Tetris",
+    "Composers": "Minako Hamano, Akira Fujiwara",
+    "Converters": "SirEnobMort",
+    "Category": "majoritems",
+    "Tags": [
+      "Collection"
+    ],
+    "Verified": true,
+    "Date": "Wed Dec 18 2024 01:57:04 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Tetris%20DS/4-Line%20Clear%20Tetris.mp3",
+    "Binary": "binaries/Tetris DS/4-Line Clear Tetris.bin",
+    "Duration": 1.125
+  },
+  {
+    "Game": "Tetris DS",
+    "Song": "3-Line Clear",
+    "Composers": "Minako Hamano, Akira Fujiwara",
+    "Converters": "SirEnobMort",
+    "Category": "minoritems",
+    "Tags": [
+      "Collection"
+    ],
+    "Verified": true,
+    "Date": "Wed Dec 18 2024 01:57:05 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Tetris%20DS/3-Line%20Clear.mp3",
+    "Binary": "binaries/Tetris DS/3-Line Clear.bin",
+    "Duration": 0.7833333333333333
+  },
+  {
+    "Game": "Tetris DS",
+    "Song": "2-Line Clear",
+    "Composers": "Minako Hamano, Akira Fujiwara",
+    "Converters": "SirEnobMort",
+    "Category": "minoritems",
+    "Tags": [
+      "Collection"
+    ],
+    "Verified": true,
+    "Date": "Wed Dec 18 2024 01:57:05 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Tetris%20DS/2-Line%20Clear.mp3",
+    "Binary": "binaries/Tetris DS/2-Line Clear.bin",
+    "Duration": 0.6583333333333333
+  },
+  {
+    "Game": "Tetris DS",
+    "Song": "1-Line Clear",
+    "Composers": "Minako Hamano, Akira Fujiwara",
+    "Converters": "SirEnobMort",
+    "Category": "minoritems",
+    "Tags": [
+      "Collection"
+    ],
+    "Verified": true,
+    "Date": "Wed Dec 18 2024 01:57:06 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Tetris%20DS/1-Line%20Clear.mp3",
+    "Binary": "binaries/Tetris DS/1-Line Clear.bin",
+    "Duration": 0.5833333333333334
+  },
+  {
+    "Game": "Super Mario Galaxy",
+    "Song": "Melty Molten Galaxy",
+    "Composers": "Mahito Yokota",
+    "Converters": "UmedMuzl",
+    "Category": "bgm",
+    "Update Notes": "I just want to play some Balatro instead of fixing all my music",
+    "Tags": [
+      "Exteriors",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Wed Dec 18 2024 01:57:06 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Super%20Mario%20Galaxy/Melty%20Molten%20Galaxy%20(REV%201).mp3",
+    "Binary": "binaries/Super Mario Galaxy/Melty Molten Galaxy (REV 1).bin",
+    "Duration": 133.9284375
+  },
+  {
+    "Game": "Donkey Kong Jungle Beat",
+    "Song": "Battle for Storm Hill",
+    "Composers": "Mahito Yokota",
+    "Converters": "UmedMuzl",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors"
+    ],
+    "Verified": true,
+    "Date": "Wed Dec 18 2024 01:57:07 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Donkey%20Kong%20Jungle%20Beat/Battle%20for%20Storm%20Hill%20(REV%201).mp3",
+    "Binary": "binaries/Donkey Kong Jungle Beat/Battle for Storm Hill (REV 1).bin",
+    "Duration": 94.08323925
+  },
+  {
+    "Game": "Mario & Luigi: Dream Team",
+    "Song": "Try, Try Again!",
+    "Category": "bgm",
+    "Composers": "Yoko Shimomura",
+    "Converters": "Schwartz Gandhi",
+    "Tags": [
+      "Fights",
+      "Exteriors",
+      "Happy"
+    ],
+    "Update Notes": "reimagined",
+    "Verified": true,
+    "Date": "Wed Dec 18 2024 01:57:08 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Mario%20%20Luigi%20Dream%20Team/Try,%20Try%20Again%20(REV%201).mp3",
+    "Binary": "binaries/Mario  Luigi Dream Team/Try, Try Again (REV 1).bin",
+    "Duration": 127.78762371875001
+  },
+  {
+    "Game": "Super Mario Sunshine",
+    "Song": "Bianco Hills",
+    "Composers": "Koji Kondo",
+    "Converters": "UmedMuzl",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Wed Dec 18 2024 01:57:08 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Super%20Mario%20Sunshine/Bianco%20Hills%20(REV%201).mp3",
+    "Binary": "binaries/Super Mario Sunshine/Bianco Hills (REV 1).bin",
+    "Duration": 76.73069249999999
+  },
+  {
+    "Game": "Super Mario Sunshine",
+    "Song": "Gelato Beach",
+    "Composers": "Koji Kondo",
+    "Converters": "UmedMuzl",
+    "Category": "bgm",
+    "Update Notes": "Rebalance",
+    "Tags": [
+      "Exteriors",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Wed Dec 18 2024 01:57:09 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Super%20Mario%20Sunshine/Gelato%20Beach%20(REV%201).mp3",
+    "Binary": "binaries/Super Mario Sunshine/Gelato Beach (REV 1).bin",
+    "Duration": 87.13697011458333
+  },
+  {
+    "Game": "Super Mario 64",
+    "Song": "Snow Mountain",
+    "Composers": "Koji Kondo",
+    "Converters": "UmedMuzl",
+    "Category": "bgm",
+    "Update Notes": "Tfw you mix up the horns because the name cuts out",
+    "Tags": [
+      "Exteriors",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Wed Dec 18 2024 01:57:09 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Super%20Mario%2064/Snow%20Mountain%20(REV%201).mp3",
+    "Binary": "binaries/Super Mario 64/Snow Mountain (REV 1).bin",
+    "Duration": 91.17650250000001
   }
 ]
