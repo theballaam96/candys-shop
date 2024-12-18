@@ -33222,5 +33222,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Super%20Mario%2064/Snow%20Mountain%20(REV%201).mp3",
     "Binary": "binaries/Super Mario 64/Snow Mountain (REV 1).bin",
     "Duration": 91.17650250000001
+  },
+  {
+    "Game": "Donkey Kong Country 2: Diddy's Kong Quest",
+    "Song": "Stickerbush Symphony",
+    "Composers": "David Wise",
+    "Converters": "Wolfeni",
+    "Category": "bgm",
+    "Audio": "https://www.youtube.com/watch?v=gGfVZb7Lb_g",
+    "Update Notes": "Rebalanced volume",
+    "Tags": [
+      "Exteriors"
+    ],
+    "Verified": true,
+    "Date": "Wed Dec 18 2024 05:38:58 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Donkey Kong Country 2 Diddys Kong Quest/Stickerbush Symphony (REV 1).bin",
+    "Duration": 127.33420489583331
   }
 ]
