@@ -33255,5 +33255,20 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/New%20Super%20Mario%20Bros/The%20Snow%20Plains.mp3",
     "Binary": "binaries/New Super Mario Bros/The Snow Plains.bin",
     "Duration": 68.2038450625
+  },
+  {
+    "Game": "Super Mario Sunshine",
+    "Song": "Time Attack!",
+    "Composers": "Koji Kondo",
+    "Converters": "UmedMuzl",
+    "Category": "bgm",
+    "Tags": [
+      "Minigames"
+    ],
+    "Verified": true,
+    "Date": "Wed Dec 18 2024 23:40:28 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Super%20Mario%20Sunshine/Time%20Attack%20(REV%201).mp3",
+    "Binary": "binaries/Super Mario Sunshine/Time Attack (REV 1).bin",
+    "Duration": 40.1031555
   }
 ]
