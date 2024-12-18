@@ -33270,5 +33270,37 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Super%20Mario%20Sunshine/Time%20Attack%20(REV%201).mp3",
     "Binary": "binaries/Super Mario Sunshine/Time Attack (REV 1).bin",
     "Duration": 40.1031555
+  },
+  {
+    "Game": "Donkey Kong Country 2: Diddy's Kong Quest",
+    "Song": "Banana Coin",
+    "Composers": "David Wise",
+    "Converters": "iveli_alpaca",
+    "Category": "minoritems",
+    "Tags": [
+      "Collection",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Wed Dec 18 2024 23:43:08 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Donkey%20Kong%20Country%202%20Diddys%20Kong%20Quest/Banana%20Coin.mp3",
+    "Binary": "binaries/Donkey Kong Country 2 Diddys Kong Quest/Banana Coin.bin",
+    "Duration": 1.1389611562500002
+  },
+  {
+    "Game": "Super Mario Sunshine",
+    "Song": "Pianta Festival",
+    "Composers": "Koji Kondo",
+    "Converters": "UmedMuzl",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Wed Dec 18 2024 23:43:09 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Super%20Mario%20Sunshine/Pianta%20Festival%20(REV%201).mp3",
+    "Binary": "binaries/Super Mario Sunshine/Pianta Festival (REV 1).bin",
+    "Duration": 62.127022249999996
   }
 ]
