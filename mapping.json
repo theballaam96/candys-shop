@@ -32997,5 +32997,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/The%20Legend%20of%20Zelda%20Ocarina%20of%20Time/Nocturne%20of%20Shadow%20(REV%202).mp3",
     "Binary": "binaries/The Legend of Zelda Ocarina of Time/Nocturne of Shadow (REV 2).bin",
     "Duration": 19.79998175
+  },
+  {
+    "Game": "La-Mulana",
+    "Song": "Coin Pickup",
+    "Composers": "Houryu Samejima",
+    "Converters": "iveli_alpaca",
+    "Category": "minoritems",
+    "Tags": [
+      "Collection",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Wed Dec 18 2024 01:54:26 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/La-Mulana/Coin%20Pickup.wav",
+    "Binary": "binaries/La-Mulana/Coin Pickup.bin",
+    "Duration": 0.42721537500000006
   }
 ]
