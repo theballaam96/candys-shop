@@ -33238,5 +33238,22 @@
     "Date": "Wed Dec 18 2024 05:38:58 GMT+0000 (Coordinated Universal Time)",
     "Binary": "binaries/Donkey Kong Country 2 Diddys Kong Quest/Stickerbush Symphony (REV 1).bin",
     "Duration": 127.33420489583331
+  },
+  {
+    "Game": "New Super Mario Bros.",
+    "Song": "The Snow Plains",
+    "Composers": "Asuka Hayazaki, Hajime Wakai, Koji Kondo",
+    "Converters": "SirEnobMort",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors",
+      "Minigames",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Wed Dec 18 2024 05:47:30 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/New%20Super%20Mario%20Bros/The%20Snow%20Plains.mp3",
+    "Binary": "binaries/New Super Mario Bros/The Snow Plains.bin",
+    "Duration": 68.2038450625
   }
 ]
