@@ -33302,5 +33302,23 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Super%20Mario%20Sunshine/Pianta%20Festival%20(REV%201).mp3",
     "Binary": "binaries/Super Mario Sunshine/Pianta Festival (REV 1).bin",
     "Duration": 62.127022249999996
+  },
+  {
+    "Game": "Impossible Creatures",
+    "Song": "Objective Complete",
+    "Composers": "Crispin Hands",
+    "Converters": "LBFrank",
+    "Category": "majoritems",
+    "Update Notes": "Updated for the rebalancing sheet. Panning and reverb added, and instruments adjusted so it sounds more similar to the original jingle.",
+    "Tags": [
+      "Spawning",
+      "Collection",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Thu Dec 19 2024 00:58:39 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Impossible%20Creatures/Objective%20Complete%20(REV%201).mp3",
+    "Binary": "binaries/Impossible Creatures/Objective Complete (REV 1).bin",
+    "Duration": 1.9375
   }
 ]
