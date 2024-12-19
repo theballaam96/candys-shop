@@ -33320,5 +33320,41 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Impossible%20Creatures/Objective%20Complete%20(REV%201).mp3",
     "Binary": "binaries/Impossible Creatures/Objective Complete (REV 1).bin",
     "Duration": 1.9375
+  },
+  {
+    "Game": "La-Mulana",
+    "Song": "LA-MULANA",
+    "Composers": "Takumi Naramura",
+    "Converters": "MiaSchemes",
+    "Category": "bgm",
+    "Tags": [
+      "Lobbies and Shops",
+      "Interiors",
+      "Gloomy",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Thu Dec 19 2024 01:01:15 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/La-Mulana/LA-MULANA.mp3",
+    "Binary": "binaries/La-Mulana/LA-MULANA.bin",
+    "Duration": 50.526336
+  },
+  {
+    "Game": "Super Smash Bros. Brawl",
+    "Song": "Bramble Blast",
+    "Category": "bgm",
+    "Composers": "David Wise, Michiko Naruke",
+    "Converters": "Schwartz Gandhi",
+    "Tags": [
+      "Exteriors",
+      "Happy",
+      "Calm"
+    ],
+    "Update Notes": "revisited",
+    "Verified": true,
+    "Date": "Thu Dec 19 2024 01:01:16 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Super%20Smash%20Bros%20Brawl/Bramble%20Blast%20(REV%201).mp3",
+    "Binary": "binaries/Super Smash Bros Brawl/Bramble Blast (REV 1).bin",
+    "Duration": 111.58547
   }
 ]
