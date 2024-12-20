@@ -33374,5 +33374,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Super%20Mario%20World%202%20Yoshis%20Island/Goal%20(REV%201).mp3",
     "Binary": "binaries/Super Mario World 2 Yoshis Island/Goal (REV 1).bin",
     "Duration": 4.835528249999999
+  },
+  {
+    "Game": "Metal Slug 5",
+    "Song": "Fierce Battle",
+    "Composers": "Toshikazu Tanaka",
+    "Converters": "iveli_alpaca",
+    "Category": "bgm",
+    "Audio": "https://www.youtube.com/watch?v=63KFP_zOi5g",
+    "Tags": [
+      "Fights",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Fri Dec 20 2024 19:56:13 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Metal Slug 5/Fierce Battle.bin",
+    "Duration": 77.99609375
   }
 ]
