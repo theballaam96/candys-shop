@@ -33390,5 +33390,23 @@
     "Date": "Fri Dec 20 2024 19:56:13 GMT+0000 (Coordinated Universal Time)",
     "Binary": "binaries/Metal Slug 5/Fierce Battle.bin",
     "Duration": 77.99609375
+  },
+  {
+    "Game": "Pokémon Diamond, Pearl & Platinum",
+    "Song": "Champion Cynthia",
+    "Composers": "Go Ichinose",
+    "Converters": "BashPrime",
+    "Category": "bgm",
+    "Additional Notes": "Based on the game's original MIDI arrangement.",
+    "Tags": [
+      "Lobbies and Shops",
+      "Interiors",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Fri Dec 20 2024 19:58:22 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Pok%C3%A9mon%20Diamond,%20Pearl%20%20Platinum/Champion%20Cynthia.mp3",
+    "Binary": "binaries/Pokémon Diamond, Pearl  Platinum/Champion Cynthia.bin",
+    "Duration": 40.414644375
   }
 ]
