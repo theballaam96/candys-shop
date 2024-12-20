@@ -33424,5 +33424,23 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Sonic%20the%20Hedgehog%202/Sky%20Chase%20Zone.mp3",
     "Binary": "binaries/Sonic the Hedgehog 2/Sky Chase Zone.bin",
     "Duration": 41.142888
+  },
+  {
+    "Game": "Mario Party 3",
+    "Song": "Chilly Waters",
+    "Composers": "Ichiro Shimakura",
+    "Converters": "Altermentality",
+    "Category": "bgm",
+    "Audio": "https://youtu.be/lgGteLYKbTQ",
+    "Update Notes": "My first submission totally reworked from scratch, with vastly improved percussion, some instrumentation changes, better balance, and more! Merry Christmas!",
+    "Additional Notes": "Welcome to Chilly Waters.",
+    "Tags": [
+      "Exteriors",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Fri Dec 20 2024 20:52:20 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Mario Party 3/Chilly Waters (REV 1).bin",
+    "Duration": 43.035499887499995
   }
 ]
