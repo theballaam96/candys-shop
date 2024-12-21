@@ -20477,6 +20477,7 @@
     "Composers": "David Wise",
     "Converters": "OnlySpaghettiCode",
     "Category": "bgm",
+    "Additional Notes": "Based on musicalman's SMWCentral port",
     "Update Notes": "Volume rebalance",
     "Tags": [
       "Exteriors",
@@ -33356,5 +33357,90 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Super%20Smash%20Bros%20Brawl/Bramble%20Blast%20(REV%201).mp3",
     "Binary": "binaries/Super Smash Bros Brawl/Bramble Blast (REV 1).bin",
     "Duration": 111.58547
+  },
+  {
+    "Game": "Super Mario World 2: Yoshi's Island",
+    "Song": "Goal",
+    "Composers": "Koji Kondo",
+    "Converters": "HavenKnight93",
+    "Category": "events",
+    "Update Notes": "Rebalanced volume",
+    "Tags": [
+      "Spawning",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Fri Dec 20 2024 19:54:28 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Super%20Mario%20World%202%20Yoshis%20Island/Goal%20(REV%201).mp3",
+    "Binary": "binaries/Super Mario World 2 Yoshis Island/Goal (REV 1).bin",
+    "Duration": 4.835528249999999
+  },
+  {
+    "Game": "Metal Slug 5",
+    "Song": "Fierce Battle",
+    "Composers": "Toshikazu Tanaka",
+    "Converters": "iveli_alpaca",
+    "Category": "bgm",
+    "Audio": "https://www.youtube.com/watch?v=63KFP_zOi5g",
+    "Tags": [
+      "Fights",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Fri Dec 20 2024 19:56:13 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Metal Slug 5/Fierce Battle.bin",
+    "Duration": 77.99609375
+  },
+  {
+    "Game": "Pokémon Diamond, Pearl & Platinum",
+    "Song": "Champion Cynthia",
+    "Composers": "Go Ichinose",
+    "Converters": "BashPrime",
+    "Category": "bgm",
+    "Additional Notes": "Based on the game's original MIDI arrangement.",
+    "Tags": [
+      "Lobbies and Shops",
+      "Interiors",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Fri Dec 20 2024 19:58:22 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Pok%C3%A9mon%20Diamond,%20Pearl%20%20Platinum/Champion%20Cynthia.mp3",
+    "Binary": "binaries/Pokémon Diamond, Pearl  Platinum/Champion Cynthia.bin",
+    "Duration": 40.414644375
+  },
+  {
+    "Game": "Sonic the Hedgehog 2",
+    "Song": "Sky Chase Zone",
+    "Composers": "Masato Nakamura",
+    "Converters": "Beyer",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Fri Dec 20 2024 20:00:27 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Sonic%20the%20Hedgehog%202/Sky%20Chase%20Zone.mp3",
+    "Binary": "binaries/Sonic the Hedgehog 2/Sky Chase Zone.bin",
+    "Duration": 41.142888
+  },
+  {
+    "Game": "Mario Party 3",
+    "Song": "Chilly Waters",
+    "Composers": "Ichiro Shimakura",
+    "Converters": "Altermentality",
+    "Category": "bgm",
+    "Audio": "https://youtu.be/lgGteLYKbTQ",
+    "Update Notes": "My first submission totally reworked from scratch, with vastly improved percussion, some instrumentation changes, better balance, and more! Merry Christmas!",
+    "Additional Notes": "Welcome to Chilly Waters.",
+    "Tags": [
+      "Exteriors",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Fri Dec 20 2024 20:52:20 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Mario Party 3/Chilly Waters (REV 1).bin",
+    "Duration": 43.035499887499995
   }
 ]
