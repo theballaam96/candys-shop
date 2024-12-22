@@ -33442,5 +33442,21 @@
     "Date": "Fri Dec 20 2024 20:52:20 GMT+0000 (Coordinated Universal Time)",
     "Binary": "binaries/Mario Party 3/Chilly Waters (REV 1).bin",
     "Duration": 43.035499887499995
+  },
+  {
+    "Game": "Paper Mario",
+    "Song": "Shy Guy's Toy Box",
+    "Composers": "Yuka Tsujiyoko",
+    "Converters": "UmedMuzl, Altermentality",
+    "Category": "bgm",
+    "Tags": [
+      "Minigames",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Sun Dec 22 2024 00:53:29 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Paper%20Mario/Shy%20Guys%20Toy%20Box%20(REV%201).mp3",
+    "Binary": "binaries/Paper Mario/Shy Guys Toy Box (REV 1).bin",
+    "Duration": 43.693138125000004
   }
 ]
