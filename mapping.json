@@ -33476,5 +33476,21 @@
     "Date": "Sun Dec 22 2024 00:57:10 GMT+0000 (Coordinated Universal Time)",
     "Binary": "binaries/Pokémon Diamond, Pearl  Platinum/Pokemon Center (Night).bin",
     "Duration": 82.43692227083334
+  },
+  {
+    "Game": "Metal Slug 3",
+    "Song": "Steel Beast 6Beets",
+    "Composers": "HIYA!, Bero-ou, Hori_Hori, Q_Jirou, Maitaro",
+    "Converters": "iveli_alpaca",
+    "Category": "bgm",
+    "Audio": "https://www.youtube.com/watch?v=UJfDaeVjtAg",
+    "Tags": [
+      "Fights",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Sun Dec 22 2024 01:01:32 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Metal Slug 3/Steel Beast 6Beets.bin",
+    "Duration": 68.54067715625001
   }
 ]
