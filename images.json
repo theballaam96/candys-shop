@@ -227,7 +227,7 @@
    "Donkey Kong Jungle Beat":{
       "icon":"https://i.imgur.com/AA2L9UW.png"
    },
-   "Doom (1993)":{
+   "DOOM (1993)":{
       "icon":"https://i.imgur.com/ykeSbhG.png"
    },
    "Double Dragon":{
@@ -545,6 +545,12 @@
    },
    "Metal Gear Solid":{
       "icon":"https://i.imgur.com/b5Pug3Z.png"
+   },
+   "Metal Slug 3":{
+      "icon":"https://i.imgur.com/vuZ98E7.png"
+   },
+   "Metal Slug 5":{
+      "icon":"https://i.imgur.com/xNBflUD.png"
    },
    "Metroid II: Return of Samus":{
       "icon":"https://i.imgur.com/48MYLIm.png"
@@ -1131,7 +1137,7 @@
       "icon":"https://i.imgur.com/Iv8mU0s.png",
       "short_name": "Touhou 17"
    },
-   "Touhou Koumakyou ~ The Embodiment of Scarlet Devil":{
+   "Touhou Koumakyou ~ the Embodiment of Scarlet Devil":{
       "icon":"https://i.imgur.com/0f9Uu7j.png",
       "short_name": "Touhou 6"
    },
@@ -1139,7 +1145,7 @@
       "icon":"https://i.imgur.com/ZDsMCJ5.png",
       "short_name": "Touhou 18"
    },
-   "Touhou Reiiden ~ The Highly Responsive to Prayers":{
+   "Touhou Reiiden ~ the Highly Responsive to Prayers":{
       "icon":"https://i.imgur.com/u2BfhqJ.png",
       "short_name": "Touhou 1"
    },
