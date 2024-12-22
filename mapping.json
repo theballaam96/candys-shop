@@ -33458,5 +33458,23 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Paper%20Mario/Shy%20Guys%20Toy%20Box%20(REV%201).mp3",
     "Binary": "binaries/Paper Mario/Shy Guys Toy Box (REV 1).bin",
     "Duration": 43.693138125000004
+  },
+  {
+    "Game": "Pokémon Diamond, Pearl & Platinum",
+    "Song": "Pokemon Center (Night)",
+    "Composers": "Hitomi Satō",
+    "Converters": "BashPrime",
+    "Category": "bgm",
+    "Audio": "https://www.youtube.com/watch?v=Vm3XjxVDfaA",
+    "Additional Notes": "Based on the game's original MIDI arrangement.",
+    "Tags": [
+      "Lobbies and Shops",
+      "Interiors",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Sun Dec 22 2024 00:57:10 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Pokémon Diamond, Pearl  Platinum/Pokemon Center (Night).bin",
+    "Duration": 82.43692227083334
   }
 ]
