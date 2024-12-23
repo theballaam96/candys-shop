@@ -33525,5 +33525,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Wario%20Land%204/Arabian%20Night.mp3",
     "Binary": "binaries/Wario Land 4/Arabian Night.bin",
     "Duration": 80.000032
+  },
+  {
+    "Game": "Paper Mario",
+    "Song": "Jr. Troopa",
+    "Composers": "Yuka Tsujiyoko",
+    "Converters": "Altermentality",
+    "Category": "bgm",
+    "Audio": "https://youtu.be/rZgCuSdlLMA",
+    "Tags": [
+      "Lobbies and Shops",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Mon Dec 23 2024 01:42:57 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Paper Mario/Jr Troopa.bin",
+    "Duration": 21.6420238125
   }
 ]
