@@ -33509,5 +33509,21 @@
     "Date": "Mon Dec 23 2024 01:38:44 GMT+0000 (Coordinated Universal Time)",
     "Binary": "binaries/Pokémon Ruby, Sapphire  Emerald/Battle (Elite Four).bin",
     "Duration": 61.69980337500001
+  },
+  {
+    "Game": "Wario Land 4",
+    "Song": "Arabian Night",
+    "Composers": "Ryoji Yoshitomi",
+    "Converters": "Dr Oshawott",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Mon Dec 23 2024 01:40:47 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Wario%20Land%204/Arabian%20Night.mp3",
+    "Binary": "binaries/Wario Land 4/Arabian Night.bin",
+    "Duration": 80.000032
   }
 ]
