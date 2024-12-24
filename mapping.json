@@ -33557,5 +33557,22 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Pok%C3%A9mon%20Diamond,%20Pearl%20%20Platinum/The%20Grand%20Underground.mp3",
     "Binary": "binaries/Pokémon Diamond, Pearl  Platinum/The Grand Underground.bin",
     "Duration": 77.73958333333333
+  },
+  {
+    "Game": "Kioh Gyoku",
+    "Song": "Castle Explorer -in the sky-",
+    "Category": "bgm",
+    "Composers": "ZUN",
+    "Converters": "Schwartz Gandhi",
+    "Tags": [
+      "Exteriors",
+      "Fights",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Tue Dec 24 2024 22:14:17 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Kioh%20Gyoku/Castle%20Explorer%20-in%20the%20sky-.mp3",
+    "Binary": "binaries/Kioh Gyoku/Castle Explorer -in the sky-.bin",
+    "Duration": 106.80853680208331
   }
 ]
