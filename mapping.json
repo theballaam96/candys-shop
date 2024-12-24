@@ -33541,5 +33541,21 @@
     "Date": "Mon Dec 23 2024 01:42:57 GMT+0000 (Coordinated Universal Time)",
     "Binary": "binaries/Paper Mario/Jr Troopa.bin",
     "Duration": 21.6420238125
+  },
+  {
+    "Game": "Pokémon Diamond, Pearl & Platinum",
+    "Song": "The Grand Underground",
+    "Composers": "Go Ichinose",
+    "Converters": "UmedMuzl",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Tue Dec 24 2024 22:12:09 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Pok%C3%A9mon%20Diamond,%20Pearl%20%20Platinum/The%20Grand%20Underground.mp3",
+    "Binary": "binaries/Pokémon Diamond, Pearl  Platinum/The Grand Underground.bin",
+    "Duration": 77.73958333333333
   }
 ]
