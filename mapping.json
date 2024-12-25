@@ -33574,5 +33574,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Kioh%20Gyoku/Castle%20Explorer%20-in%20the%20sky-.mp3",
     "Binary": "binaries/Kioh Gyoku/Castle Explorer -in the sky-.bin",
     "Duration": 106.80853680208331
+  },
+  {
+    "Game": "Mega Man X5",
+    "Song": "Crescent Grizzly",
+    "Composers": "Naoto Tanaka",
+    "Converters": "cdh90",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Wed Dec 25 2024 21:27:39 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Mega%20Man%20X5/Crescent%20Grizzly.mp3",
+    "Binary": "binaries/Mega Man X5/Crescent Grizzly.bin",
+    "Duration": 60.496689749999994
   }
 ]
