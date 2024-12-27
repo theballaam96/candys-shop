@@ -33655,5 +33655,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Wave%20Race%2064/Main%20Title%20(REV%201).mp3",
     "Binary": "binaries/Wave Race 64/Main Title (REV 1).bin",
     "Duration": 107.52165550000001
+  },
+  {
+    "Game": "Mega Man X5",
+    "Song": "Shining Firefly",
+    "Composers": "Naoto Tanaka",
+    "Converters": "cdh90",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Fri Dec 27 2024 21:17:37 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Mega%20Man%20X5/Shining%20Firefly.mp3",
+    "Binary": "binaries/Mega Man X5/Shining Firefly.bin",
+    "Duration": 63.99193975
   }
 ]
