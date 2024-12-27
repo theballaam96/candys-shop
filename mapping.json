@@ -33574,5 +33574,86 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Kioh%20Gyoku/Castle%20Explorer%20-in%20the%20sky-.mp3",
     "Binary": "binaries/Kioh Gyoku/Castle Explorer -in the sky-.bin",
     "Duration": 106.80853680208331
+  },
+  {
+    "Game": "Mega Man X5",
+    "Song": "Crescent Grizzly",
+    "Composers": "Naoto Tanaka",
+    "Converters": "cdh90",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Wed Dec 25 2024 21:27:39 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Mega%20Man%20X5/Crescent%20Grizzly.mp3",
+    "Binary": "binaries/Mega Man X5/Crescent Grizzly.bin",
+    "Duration": 60.496689749999994
+  },
+  {
+    "Game": "Mario Party 2",
+    "Song": "In The Pipe",
+    "Composers": "Kazuhiko Sawaguchi",
+    "Converters": "UmedMuzl",
+    "Category": "bgm",
+    "Update Notes": "Robolonce",
+    "Tags": [
+      "Minigames",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Wed Dec 25 2024 21:30:35 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Mario%20Party%202/In%20The%20Pipe%20(REV%201).mp3",
+    "Binary": "binaries/Mario Party 2/In The Pipe (REV 1).bin",
+    "Duration": 32.702380999999995
+  },
+  {
+    "Game": "Mario Party",
+    "Song": "Wide, Wide Ocean",
+    "Composers": "Yasunori Mitsuda",
+    "Converters": "UmedMuzl",
+    "Category": "bgm",
+    "Update Notes": "Rebelence",
+    "Tags": [
+      "Minigames",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Wed Dec 25 2024 21:30:36 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Mario%20Party/Wide,%20Wide%20Ocean%20(REV%201).mp3",
+    "Binary": "binaries/Mario Party/Wide, Wide Ocean (REV 1).bin",
+    "Duration": 46.666812750000005
+  },
+  {
+    "Game": "Street Fighter II",
+    "Song": "Guile's Theme",
+    "Composers": "Yoko Shimomura",
+    "Converters": "UmedMuzl",
+    "Category": "bgm",
+    "Audio": "https://youtu.be/hpA5T6voZ2Q?si=mpvGHoiCEhkxreNJ",
+    "Update Notes": "Ok, Guess I'll put something here",
+    "Tags": [
+      "Fights"
+    ],
+    "Verified": true,
+    "Date": "Wed Dec 25 2024 21:30:36 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Street Fighter II/Guiles Theme (REV 1).bin",
+    "Duration": 73.63123270833334
+  },
+  {
+    "Game": "Wave Race 64",
+    "Song": "Main Title",
+    "Composers": "Kazumi Totaka",
+    "Converters": "UmedMuzl",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors"
+    ],
+    "Verified": true,
+    "Date": "Wed Dec 25 2024 21:30:37 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Wave%20Race%2064/Main%20Title%20(REV%201).mp3",
+    "Binary": "binaries/Wave Race 64/Main Title (REV 1).bin",
+    "Duration": 107.52165550000001
   }
 ]
