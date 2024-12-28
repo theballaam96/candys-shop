@@ -33719,5 +33719,133 @@
     "Date": "Sat Dec 28 2024 03:40:48 GMT+0000 (Coordinated Universal Time)",
     "Binary": "binaries/Paper Mario/Koopa Bros Keep Cool.bin",
     "Duration": 36.226368
+  },
+  {
+    "Game": "Pac-Man World 2",
+    "Song": "B-Doing Woods",
+    "Composers": "David Logan",
+    "Converters": "UmedMuzl",
+    "Category": "bgm",
+    "Update Notes": "IM FREEEeeeeeeeee",
+    "Tags": [
+      "Exteriors",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Sat Dec 28 2024 03:43:01 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Pac-Man%20World%202/B-Doing%20Woods%20(REV%201).mp3",
+    "Binary": "binaries/Pac-Man World 2/B-Doing Woods (REV 1).bin",
+    "Duration": 180.7317525
+  },
+  {
+    "Game": "Donkey Kong 64",
+    "Song": "K. Rool (Klungo Remix)",
+    "Composers": "Grant Kirkhope, BTHive",
+    "Converters": "UmedMuzl",
+    "Category": "bgm",
+    "Tags": [
+      "Fights"
+    ],
+    "Verified": true,
+    "Date": "Sat Dec 28 2024 03:43:02 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Donkey%20Kong%2064/K%20Rool%20(Klungo%20Remix)%20(REV%201).mp3",
+    "Binary": "binaries/Donkey Kong 64/K Rool (Klungo Remix) (REV 1).bin",
+    "Duration": 89.07683399999999
+  },
+  {
+    "Game": "Mario Party 7",
+    "Song": "Mill It Over",
+    "Composers": "Hironobu Yahata, Shinya Outouge",
+    "Converters": "UmedMuzl",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors",
+      "Minigames",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Sat Dec 28 2024 03:43:03 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Mario%20Party%207/Mill%20It%20Over%20(REV%201).mp3",
+    "Binary": "binaries/Mario Party 7/Mill It Over (REV 1).bin",
+    "Duration": 41.79982
+  },
+  {
+    "Game": "Super Mario Galaxy",
+    "Song": "Final Grand Star",
+    "Composers": "Mahito Yokota",
+    "Converters": "UmedMuzl",
+    "Category": "events",
+    "Tags": [
+      "Collection",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Sat Dec 28 2024 03:43:04 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Super%20Mario%20Galaxy/Final%20Grand%20Star%20(REV%201).mp3",
+    "Binary": "binaries/Super Mario Galaxy/Final Grand Star (REV 1).bin",
+    "Duration": 17.53983240625
+  },
+  {
+    "Game": "Super Mario Galaxy",
+    "Song": "Grand Star Get",
+    "Composers": "Mahito Yokota",
+    "Converters": "UmedMuzl",
+    "Category": "events",
+    "Tags": [
+      "Collection",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Sat Dec 28 2024 03:43:05 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Super%20Mario%20Galaxy/Grand%20Star%20Get%20(REV%201).mp3",
+    "Binary": "binaries/Super Mario Galaxy/Grand Star Get (REV 1).bin",
+    "Duration": 12.8156895
+  },
+  {
+    "Game": "Rise Of The Triad",
+    "Song": "Boss Blow",
+    "Composers": "Lee Jackson",
+    "Converters": "UmedMuzl",
+    "Category": "events",
+    "Tags": [
+      "Spawning",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Sat Dec 28 2024 03:43:05 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Rise%20Of%20The%20Triad/Boss%20Blow%20(REV%201).mp3",
+    "Binary": "binaries/Rise Of The Triad/Boss Blow (REV 1).bin",
+    "Duration": 30.000003999999997
+  },
+  {
+    "Game": "Luigi's Mansion",
+    "Song": "Dark Hallway (Event)",
+    "Composers": "Kazumi Totaka",
+    "Converters": "UmedMuzl",
+    "Category": "events",
+    "Tags": [
+      "Spawning"
+    ],
+    "Verified": true,
+    "Date": "Sat Dec 28 2024 03:43:06 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Luigis%20Mansion/Dark%20Hallway%20(Event)%20(REV%201).mp3",
+    "Binary": "binaries/Luigis Mansion/Dark Hallway (Event) (REV 1).bin",
+    "Duration": 4.7727312500000005
+  },
+  {
+    "Game": "Super Mario Galaxy",
+    "Song": "Good Egg Galaxy",
+    "Composers": "Koji Kondo",
+    "Converters": "UmedMuzl",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Sat Dec 28 2024 03:43:07 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Super%20Mario%20Galaxy/Good%20Egg%20Galaxy%20(REV%201).mp3",
+    "Binary": "binaries/Super Mario Galaxy/Good Egg Galaxy (REV 1).bin",
+    "Duration": 83.09213849999999
   }
 ]
