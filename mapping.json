@@ -33703,5 +33703,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Mario%20Party/Coins%20of%20the%20World%20(REV%201).mp3",
     "Binary": "binaries/Mario Party/Coins of the World (REV 1).bin",
     "Duration": 26.984187000000002
+  },
+  {
+    "Game": "Paper Mario",
+    "Song": "Koopa Bros Keep Cool",
+    "Composers": "Yuka Tsujiyoko",
+    "Converters": "Altermentality",
+    "Category": "bgm",
+    "Audio": "https://youtu.be/w40X9YhzdNk",
+    "Tags": [
+      "Lobbies and Shops",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Sat Dec 28 2024 03:40:48 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Paper Mario/Koopa Bros Keep Cool.bin",
+    "Duration": 36.226368
   }
 ]
