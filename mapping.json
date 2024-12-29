@@ -33864,5 +33864,53 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Mario%20%20Rabbids%20Kingdom%20Battle/Beep-0s%20Lesson%20(REV%201).mp3",
     "Binary": "binaries/Mario  Rabbids Kingdom Battle/Beep-0s Lesson (REV 1).bin",
     "Duration": 46.571409166666676
+  },
+  {
+    "Game": "La-Mulana",
+    "Song": "Awakening",
+    "Composers": "Houryu Samejima",
+    "Converters": "MiaSchemes",
+    "Category": "bgm",
+    "Tags": [
+      "Fights",
+      "Exteriors",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Sun Dec 29 2024 05:58:33 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/La-Mulana/Awakening.mp3",
+    "Binary": "binaries/La-Mulana/Awakening.bin",
+    "Duration": 113.5134
+  },
+  {
+    "Game": "La-Mulana",
+    "Song": "Fanfare",
+    "Composers": "Takumi Naramura",
+    "Converters": "MiaSchemes",
+    "Category": "events",
+    "Tags": [
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Sun Dec 29 2024 05:58:34 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/La-Mulana/Fanfare.mp3",
+    "Binary": "binaries/La-Mulana/Fanfare.bin",
+    "Duration": 7.63637
+  },
+  {
+    "Game": "Mega Man X5",
+    "Song": "X Intro Stage",
+    "Composers": "Naoto Tanaka",
+    "Converters": "cdh90",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Sun Dec 29 2024 05:58:34 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Mega%20Man%20X5/X%20Intro%20Stage.mp3",
+    "Binary": "binaries/Mega Man X5/X Intro Stage.bin",
+    "Duration": 68.81666666666666
   }
 ]
