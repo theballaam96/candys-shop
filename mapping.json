@@ -33847,5 +33847,22 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Super%20Mario%20Galaxy/Good%20Egg%20Galaxy%20(REV%201).mp3",
     "Binary": "binaries/Super Mario Galaxy/Good Egg Galaxy (REV 1).bin",
     "Duration": 83.09213849999999
+  },
+  {
+    "Game": "Mario + Rabbids: Kingdom Battle",
+    "Song": "Beep-0's Lesson",
+    "Composers": "Grant Kirkhope",
+    "Converters": "LBFrank",
+    "Category": "bgm",
+    "Update Notes": "Panning & Reverb, and fixed an issue where some notes at the beginning of the track wouldn't play during the initial loop",
+    "Tags": [
+      "Fights",
+      "Minigames"
+    ],
+    "Verified": true,
+    "Date": "Sun Dec 29 2024 05:55:27 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Mario%20%20Rabbids%20Kingdom%20Battle/Beep-0s%20Lesson%20(REV%201).mp3",
+    "Binary": "binaries/Mario  Rabbids Kingdom Battle/Beep-0s Lesson (REV 1).bin",
+    "Duration": 46.571409166666676
   }
 ]
