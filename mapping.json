@@ -33912,5 +33912,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Mega%20Man%20X5/X%20Intro%20Stage.mp3",
     "Binary": "binaries/Mega Man X5/X Intro Stage.bin",
     "Duration": 68.81666666666666
+  },
+  {
+    "Game": "Tales of Symphonia",
+    "Song": "Fighting of the Spirit",
+    "Category": "bgm",
+    "Composers": "Motoi Sakuraba",
+    "Converters": "CFG_Jobber, OnlySpaghettiCode, Schwartz Gandhi",
+    "Tags": [
+      "Fights"
+    ],
+    "Update Notes": "respirited",
+    "Verified": true,
+    "Date": "Mon Dec 30 2024 06:17:38 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Tales%20of%20Symphonia/Fighting%20of%20the%20Spirit%20(REV%201).mp3",
+    "Binary": "binaries/Tales of Symphonia/Fighting of the Spirit (REV 1).bin",
+    "Duration": 90.666712
   }
 ]
