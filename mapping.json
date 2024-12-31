@@ -33978,5 +33978,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Sonic%20Colors/Planet%20Wisp%20(Act%201).mp3",
     "Binary": "binaries/Sonic Colors/Planet Wisp (Act 1).bin",
     "Duration": 68.10804
+  },
+  {
+    "Game": "Mega Man X5",
+    "Song": "Zero Intro Stage",
+    "Composers": "Naoto Tanaka",
+    "Converters": "cdh90",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Tue Dec 31 2024 03:31:46 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Mega%20Man%20X5/Zero%20Intro%20Stage.mp3",
+    "Binary": "binaries/Mega Man X5/Zero Intro Stage.bin",
+    "Duration": 73.395196875
   }
 ]
