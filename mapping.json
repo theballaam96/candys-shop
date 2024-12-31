@@ -33960,5 +33960,23 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Super%20Mario%20Galaxy/Battlerock%20Galaxy%20(REV%201).mp3",
     "Binary": "binaries/Super Mario Galaxy/Battlerock Galaxy (REV 1).bin",
     "Duration": 100.6250805
+  },
+  {
+    "Game": "Sonic Colors",
+    "Song": "Planet Wisp (Act 1)",
+    "Composers": "Kenichi Tokoi",
+    "Converters": "The Sound Defense",
+    "Category": "bgm",
+    "Tags": [
+      "Lobbies and Shops",
+      "Exteriors",
+      "Happy",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Tue Dec 31 2024 03:30:10 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Sonic%20Colors/Planet%20Wisp%20(Act%201).mp3",
+    "Binary": "binaries/Sonic Colors/Planet Wisp (Act 1).bin",
+    "Duration": 68.10804
   }
 ]
