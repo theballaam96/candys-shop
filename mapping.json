@@ -33928,5 +33928,22 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Tales%20of%20Symphonia/Fighting%20of%20the%20Spirit%20(REV%201).mp3",
     "Binary": "binaries/Tales of Symphonia/Fighting of the Spirit (REV 1).bin",
     "Duration": 90.666712
+  },
+  {
+    "Game": "Kirby Air Ride",
+    "Song": "Frozen Hillside",
+    "Composers": "Shogo Sakai",
+    "Converters": "SirEnobMort",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors",
+      "Minigames",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Tue Dec 31 2024 02:17:03 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Kirby%20Air%20Ride/Frozen%20Hillside.mp3",
+    "Binary": "binaries/Kirby Air Ride/Frozen Hillside.bin",
+    "Duration": 81.47368395833334
   }
 ]
