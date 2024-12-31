@@ -33945,5 +33945,20 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Kirby%20Air%20Ride/Frozen%20Hillside.mp3",
     "Binary": "binaries/Kirby Air Ride/Frozen Hillside.bin",
     "Duration": 81.47368395833334
+  },
+  {
+    "Game": "Super Mario Galaxy",
+    "Song": "Battlerock Galaxy",
+    "Composers": "Mahito Yokota",
+    "Converters": "UmedMuzl",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors"
+    ],
+    "Verified": true,
+    "Date": "Tue Dec 31 2024 02:18:51 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Super%20Mario%20Galaxy/Battlerock%20Galaxy%20(REV%201).mp3",
+    "Binary": "binaries/Super Mario Galaxy/Battlerock Galaxy (REV 1).bin",
+    "Duration": 100.6250805
   }
 ]
