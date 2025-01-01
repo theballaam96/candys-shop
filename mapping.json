@@ -34010,5 +34010,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Mega%20Man%20X5/Volt%20Kraken.mp3",
     "Binary": "binaries/Mega Man X5/Volt Kraken.bin",
     "Duration": 60.014675874999995
+  },
+  {
+    "Game": "Street Fighter III",
+    "Song": "Dudley Stage ~ You Blow My Mind (Round 1)",
+    "Composers": "Hideki Okugawa",
+    "Converters": "Wibdiwoh",
+    "Category": "bgm",
+    "Tags": [
+      "Minigames",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Wed Jan 01 2025 23:22:11 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Street%20Fighter%20III/Dudley%20Stage%20~%20You%20Blow%20My%20Mind%20(Round%201).mp3",
+    "Binary": "binaries/Street Fighter III/Dudley Stage ~ You Blow My Mind (Round 1).bin",
+    "Duration": 67.384548
   }
 ]
