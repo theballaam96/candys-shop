@@ -34026,5 +34026,55 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Street%20Fighter%20III/Dudley%20Stage%20~%20You%20Blow%20My%20Mind%20(Round%201).mp3",
     "Binary": "binaries/Street Fighter III/Dudley Stage ~ You Blow My Mind (Round 1).bin",
     "Duration": 67.384548
+  },
+  {
+    "Game": "Mega Man X5",
+    "Song": "Dark Necrobat",
+    "Composers": "Naoto Tanaka",
+    "Converters": "cdh90",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors",
+      "Gloomy",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Wed Jan 01 2025 23:25:07 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Mega%20Man%20X5/Dark%20Necrobat.mp3",
+    "Binary": "binaries/Mega Man X5/Dark Necrobat.bin",
+    "Duration": 82.5
+  },
+  {
+    "Game": "Super Mario Galaxy",
+    "Song": "Beach Bowl Galaxy",
+    "Composers": "Mahito Yokota",
+    "Converters": "The Sound Defense",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Wed Jan 01 2025 23:25:08 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Super%20Mario%20Galaxy/Beach%20Bowl%20Galaxy.mp3",
+    "Binary": "binaries/Super Mario Galaxy/Beach Bowl Galaxy.bin",
+    "Duration": 71.25
+  },
+  {
+    "Game": "Super Mario Galaxy 2",
+    "Song": "Hightail Falls Galaxy",
+    "Composers": "Koji Kondo, Mahito Yokota",
+    "Converters": "UmedMuzl",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors",
+      "Minigames",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Wed Jan 01 2025 23:25:08 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Super%20Mario%20Galaxy%202/Hightail%20Falls%20Galaxy.mp3",
+    "Binary": "binaries/Super Mario Galaxy 2/Hightail Falls Galaxy.bin",
+    "Duration": 40.714245000000005
   }
 ]
