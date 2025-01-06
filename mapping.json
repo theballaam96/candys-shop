@@ -34076,5 +34076,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Super%20Mario%20Galaxy%202/Hightail%20Falls%20Galaxy.mp3",
     "Binary": "binaries/Super Mario Galaxy 2/Hightail Falls Galaxy.bin",
     "Duration": 40.714245000000005
+  },
+  {
+    "Game": "Crash Bandicoot: Warped",
+    "Song": "Time Twister (Brulo's Casino Mix)",
+    "Composers": "Josh Mancell, Tony Grayson",
+    "Converters": "iveli_alpaca",
+    "Category": "bgm",
+    "Audio": "https://www.youtube.com/watch?v=FX311ubNi1A",
+    "Tags": [
+      "Lobbies and Shops",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Mon Jan 06 2025 21:22:21 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Crash Bandicoot Warped/Time Twister (Brulos Casino Mix).bin",
+    "Duration": 75.42403171875002
   }
 ]
