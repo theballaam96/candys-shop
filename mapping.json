@@ -34108,5 +34108,22 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Mega%20Man%20X5/Burn%20Dinorex.mp3",
     "Binary": "binaries/Mega Man X5/Burn Dinorex.bin",
     "Duration": 83.09607075
+  },
+  {
+    "Game": "Octopath Traveler",
+    "Song": "My Quiet Forest Home",
+    "Composers": "Yasunori Nishiki",
+    "Converters": "cdh90",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors",
+      "Happy",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Tue Jan 07 2025 23:27:44 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Octopath%20Traveler/My%20Quiet%20Forest%20Home.mp3",
+    "Binary": "binaries/Octopath Traveler/My Quiet Forest Home.bin",
+    "Duration": 92.33175846875
   }
 ]
