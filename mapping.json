@@ -34125,5 +34125,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Octopath%20Traveler/My%20Quiet%20Forest%20Home.mp3",
     "Binary": "binaries/Octopath Traveler/My Quiet Forest Home.bin",
     "Duration": 92.33175846875
+  },
+  {
+    "Game": "A Hat in Time",
+    "Song": "Rush Hour (Nyakuza Metro Chase Theme)",
+    "Composers": "Pascal Michael Stiefel",
+    "Converters": "AquaPhoenix",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Tue Jan 07 2025 23:35:17 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/A%20Hat%20in%20Time/Rush%20Hour%20(Nyakuza%20Metro%20Chase%20Theme).mp3",
+    "Binary": "binaries/A Hat in Time/Rush Hour (Nyakuza Metro Chase Theme).bin",
+    "Duration": 301.71398400000004
   }
 ]
