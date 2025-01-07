@@ -34141,5 +34141,22 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/A%20Hat%20in%20Time/Rush%20Hour%20(Nyakuza%20Metro%20Chase%20Theme).mp3",
     "Binary": "binaries/A Hat in Time/Rush Hour (Nyakuza Metro Chase Theme).bin",
     "Duration": 301.71398400000004
+  },
+  {
+    "Game": "La-Mulana",
+    "Song": "Good Night Mom",
+    "Composers": "Houryu Samejima",
+    "Converters": "MiaSchemes",
+    "Category": "bgm",
+    "Tags": [
+      "Fights",
+      "Exteriors",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Tue Jan 07 2025 23:44:29 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/La-Mulana/Good%20Night%20Mom.mp3",
+    "Binary": "binaries/La-Mulana/Good Night Mom.bin",
+    "Duration": 221.63646023958336
   }
 ]
