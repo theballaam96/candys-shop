@@ -34175,5 +34175,73 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Sonic%203D%20Blast/Diamond%20Dust%20Zone%20Act%201%20(Genesis).mp3",
     "Binary": "binaries/Sonic 3D Blast/Diamond Dust Zone Act 1 (Genesis).bin",
     "Duration": 72.72720000000001
+  },
+  {
+    "Game": "Sonic Chronicles: The Dark Brotherhood",
+    "Song": "Central City",
+    "Composers": "Richard Jacques, Steven Sim, Jun Senoue",
+    "Converters": "The Sound Defense",
+    "Category": "bgm",
+    "Additional Notes": "Yes, this is how the song is supposed to sound.",
+    "Tags": [
+      "Lobbies and Shops",
+      "Interiors",
+      "Exteriors",
+      "Happy",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Thu Jan 09 2025 02:35:44 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Sonic%20Chronicles%20The%20Dark%20Brotherhood/Central%20City.mp3",
+    "Binary": "binaries/Sonic Chronicles The Dark Brotherhood/Central City.bin",
+    "Duration": 88.25
+  },
+  {
+    "Game": "Kingdom Hearts II",
+    "Song": "The Encounter",
+    "Composers": "Yoko Shimomura",
+    "Converters": "AquaPhoenix",
+    "Category": "bgm",
+    "Tags": [
+      "Fights",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Thu Jan 09 2025 02:35:45 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Kingdom%20Hearts%20II/The%20Encounter.mp3",
+    "Binary": "binaries/Kingdom Hearts II/The Encounter.bin",
+    "Duration": 90
+  },
+  {
+    "Game": "Kingdom Hearts II",
+    "Song": "13th Struggle",
+    "Composers": "Yoko Shimomura",
+    "Converters": "AquaPhoenix",
+    "Category": "bgm",
+    "Tags": [
+      "Fights",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Thu Jan 09 2025 02:35:46 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Kingdom%20Hearts%20II/13th%20Struggle.mp3",
+    "Binary": "binaries/Kingdom Hearts II/13th Struggle.bin",
+    "Duration": 170.666496
+  },
+  {
+    "Game": "A Hat in Time",
+    "Song": "Welcome to Mafia Town!",
+    "Composers": "Pascal Michael Stiefel",
+    "Converters": "AquaPhoenix",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Thu Jan 09 2025 02:35:46 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/A%20Hat%20in%20Time/Welcome%20to%20Mafia%20Town.mp3",
+    "Binary": "binaries/A Hat in Time/Welcome to Mafia Town.bin",
+    "Duration": 301.70855961458335
   }
 ]
