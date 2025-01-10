@@ -34259,5 +34259,22 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Donkey%20Kong%20Country%20Tropical%20Freeze/DK%20Island%20Swing%20Returns.mp3",
     "Binary": "binaries/Donkey Kong Country Tropical Freeze/DK Island Swing Returns.bin",
     "Duration": 143.076904
+  },
+  {
+    "Game": "A Hat in Time",
+    "Song": "Your Contract Has Expired",
+    "Composers": "Pascal Michael Stiefel",
+    "Converters": "AquaPhoenix",
+    "Category": "bgm",
+    "Tags": [
+      "Fights",
+      "Happy",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Fri Jan 10 2025 04:38:42 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/A%20Hat%20in%20Time/Your%20Contract%20Has%20Expired.mp3",
+    "Binary": "binaries/A Hat in Time/Your Contract Has Expired.bin",
+    "Duration": 232.31499999999997
   }
 ]
