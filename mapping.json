@@ -34343,5 +34343,22 @@
     "Date": "Sun Jan 12 2025 04:26:05 GMT+0000 (Coordinated Universal Time)",
     "Binary": "binaries/Paper Mario/Moustafa.bin",
     "Duration": 25.71426
+  },
+  {
+    "Game": "Kingdom Hearts II",
+    "Song": "Rage Awakened",
+    "Composers": "Yoko Shimomura",
+    "Converters": "AquaPhoenix",
+    "Category": "bgm",
+    "Tags": [
+      "Fights",
+      "Happy",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Sun Jan 12 2025 13:14:16 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Kingdom%20Hearts%20II/Rage%20Awakened.mp3",
+    "Binary": "binaries/Kingdom Hearts II/Rage Awakened.bin",
+    "Duration": 101.64333153125
   }
 ]
