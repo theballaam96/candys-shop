@@ -34292,5 +34292,56 @@
     "Date": "Sun Jan 12 2025 04:23:04 GMT+0000 (Coordinated Universal Time)",
     "Binary": "binaries/Super Mario Kart/Vanilla Lake.bin",
     "Duration": 29.918616
+  },
+  {
+    "Game": "Mega Man X5",
+    "Song": "Tidal Whale",
+    "Composers": "Naoto Tanaka",
+    "Converters": "cdh90",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors",
+      "Gloomy",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Sun Jan 12 2025 04:26:03 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Mega%20Man%20X5/Tidal%20Whale.mp3",
+    "Binary": "binaries/Mega Man X5/Tidal Whale.bin",
+    "Duration": 45.925
+  },
+  {
+    "Game": "Mega Man X5",
+    "Song": "Deep Sea (Unused Track)",
+    "Composers": "Naoto Tanaka",
+    "Converters": "cdh90",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors",
+      "Gloomy",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Sun Jan 12 2025 04:26:04 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Mega%20Man%20X5/Deep%20Sea%20(Unused%20Track).mp3",
+    "Binary": "binaries/Mega Man X5/Deep Sea (Unused Track).bin",
+    "Duration": 73.35075312500001
+  },
+  {
+    "Game": "Paper Mario",
+    "Song": "Moustafa",
+    "Composers": "Yuka Tsujiyoko",
+    "Converters": "Altermentality",
+    "Category": "bgm",
+    "Audio": "https://youtu.be/-NvI6MrOYh4",
+    "Update Notes": "🍋",
+    "Tags": [
+      "Lobbies and Shops",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Sun Jan 12 2025 04:26:05 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Paper Mario/Moustafa.bin",
+    "Duration": 25.71426
   }
 ]
