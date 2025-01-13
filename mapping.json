@@ -34394,5 +34394,55 @@
     "Date": "Mon Jan 13 2025 08:06:50 GMT+0000 (Coordinated Universal Time)",
     "Binary": "binaries/Super Mario Kart/Title Theme.bin",
     "Duration": 18.2125655
+  },
+  {
+    "Game": "Kingdom Hearts II",
+    "Song": "13th Dilemma",
+    "Composers": "Yoko Shimomura",
+    "Converters": "AquaPhoenix",
+    "Category": "bgm",
+    "Tags": [
+      "Fights",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Mon Jan 13 2025 08:09:54 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Kingdom%20Hearts%20II/13th%20Dilemma.mp3",
+    "Binary": "binaries/Kingdom Hearts II/13th Dilemma.bin",
+    "Duration": 95.38452
+  },
+  {
+    "Game": "A Hat in Time",
+    "Song": "Train Rush",
+    "Composers": "Pascal Michael Stiefel",
+    "Converters": "AquaPhoenix",
+    "Category": "bgm",
+    "Tags": [
+      "Interiors",
+      "Minigames",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Mon Jan 13 2025 08:09:54 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/A%20Hat%20in%20Time/Train%20Rush.mp3",
+    "Binary": "binaries/A Hat in Time/Train Rush.bin",
+    "Duration": 200.31006273958332
+  },
+  {
+    "Game": "A Hat in Time",
+    "Song": "Windmill Peak",
+    "Composers": "Pascal Michael Stiefel",
+    "Converters": "AquaPhoenix",
+    "Category": "bgm",
+    "Tags": [
+      "Interiors",
+      "Exteriors",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Mon Jan 13 2025 08:09:55 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/A%20Hat%20in%20Time/Windmill%20Peak.mp3",
+    "Binary": "binaries/A Hat in Time/Windmill Peak.bin",
+    "Duration": 183.15133105208332
   }
 ]
