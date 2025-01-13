@@ -34444,5 +34444,54 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/A%20Hat%20in%20Time/Windmill%20Peak.mp3",
     "Binary": "binaries/A Hat in Time/Windmill Peak.bin",
     "Duration": 183.15133105208332
+  },
+  {
+    "Game": "B3313",
+    "Song": "Ruins in the Blood Lake",
+    "Composers": "NewSupKaizo55",
+    "Converters": "Cash Money",
+    "Category": "bgm",
+    "Additional Notes": "they already made a donkey kong 64 b3313 its called trying to get out of the training grounds without going to the dirt patch area",
+    "Tags": [
+      "Interiors",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Mon Jan 13 2025 14:34:47 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/B3313/Ruins%20in%20the%20Blood%20Lake.mp3",
+    "Binary": "binaries/B3313/Ruins in the Blood Lake.bin",
+    "Duration": 103.783872
+  },
+  {
+    "Game": "Portal 2",
+    "Song": "Turret Wife Serenade",
+    "Composers": "Mike Morasky",
+    "Converters": "iveli_alpaca",
+    "Category": "bgm",
+    "Audio": "https://youtu.be/UYhHZgqJ5Mo?si=oif76FjQZD4iEVMv",
+    "Tags": [
+      "Lobbies and Shops",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Mon Jan 13 2025 14:34:48 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Portal 2/Turret Wife Serenade.bin",
+    "Duration": 68.56813922916668
+  },
+  {
+    "Game": "Portal 2",
+    "Song": "Cara Mia Addio",
+    "Composers": "Mike Morasky, Ellen McLain",
+    "Converters": "iveli_alpaca",
+    "Category": "bgm",
+    "Audio": "https://www.youtube.com/watch?v=NM7doMueVtA",
+    "Tags": [
+      "Lobbies and Shops",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Mon Jan 13 2025 14:34:49 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Portal 2/Cara Mia Addio.bin",
+    "Duration": 136.99860733333333
   }
 ]
