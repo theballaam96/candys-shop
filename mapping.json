@@ -34343,5 +34343,39 @@
     "Date": "Sun Jan 12 2025 04:26:05 GMT+0000 (Coordinated Universal Time)",
     "Binary": "binaries/Paper Mario/Moustafa.bin",
     "Duration": 25.71426
+  },
+  {
+    "Game": "Kingdom Hearts II",
+    "Song": "Rage Awakened",
+    "Composers": "Yoko Shimomura",
+    "Converters": "AquaPhoenix",
+    "Category": "bgm",
+    "Tags": [
+      "Fights",
+      "Happy",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Sun Jan 12 2025 13:14:16 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Kingdom%20Hearts%20II/Rage%20Awakened.mp3",
+    "Binary": "binaries/Kingdom Hearts II/Rage Awakened.bin",
+    "Duration": 101.64333153125
+  },
+  {
+    "Game": "Touhou Seireisen ~ Undefined Fantastic Object",
+    "Song": "Provincial Makai City Esoteria",
+    "Category": "bgm",
+    "Composers": "ZUN",
+    "Converters": "Schwartz Gandhi",
+    "Tags": [
+      "Exteriors",
+      "Happy"
+    ],
+    "Update Notes": "horns no longer drop on the climax, plus the percussion can breath now",
+    "Verified": true,
+    "Date": "Sun Jan 12 2025 13:15:51 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Touhou%20Seireisen%20~%20Undefined%20Fantastic%20Object/Provincial%20Makai%20City%20Esoteria%20(REV%201).mp3",
+    "Binary": "binaries/Touhou Seireisen ~ Undefined Fantastic Object/Provincial Makai City Esoteria (REV 1).bin",
+    "Duration": 162.28769551041665
   }
 ]
