@@ -34493,5 +34493,20 @@
     "Date": "Mon Jan 13 2025 14:34:49 GMT+0000 (Coordinated Universal Time)",
     "Binary": "binaries/Portal 2/Cara Mia Addio.bin",
     "Duration": 136.99860733333333
+  },
+  {
+    "Game": "Mario Kart DS",
+    "Song": "Single Player Menu",
+    "Composers": "Shinobu Tanaka",
+    "Converters": "OnlySpaghettiCode",
+    "Category": "bgm",
+    "Tags": [
+      "Lobbies and Shops"
+    ],
+    "Verified": true,
+    "Date": "Mon Jan 13 2025 14:53:41 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Mario%20Kart%20DS/Single%20Player%20Menu.mp3",
+    "Binary": "binaries/Mario Kart DS/Single Player Menu.bin",
+    "Duration": 37.89886384375
   }
 ]
