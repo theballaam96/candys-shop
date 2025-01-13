@@ -32,11 +32,17 @@
    "Animaniacs":{
       "icon":"https://i.imgur.com/5Sf4b79.png"
    },
+   "Antonball Deluxe":{
+      "icon":"https://i.imgur.com/IggSzaY.png"
+   },
    "ANTONBLAST":{
       "icon":"https://i.imgur.com/n6hFXXS.png"
    },
    "Apollo Justice: Ace Attorney":{
       "icon":"https://i.imgur.com/WdyJtpo.png"
+   },
+   "B3313":{
+      "icon":"https://i.imgur.com/0NvdZ7b.png",
    },
    "Baldi's Basics in Education and Learning":{
       "icon":"https://i.imgur.com/JMEArml.png",
@@ -765,6 +771,9 @@
    "Portal":{
       "icon":"https://i.imgur.com/J5ArI4k.png"
    },
+   "Portal 2":{
+      "icon":"https://i.imgur.com/7QmeEwR.png"
+   },
    "Professor Layton and the Curious Village":{
       "icon":"https://i.imgur.com/Lg6pyrf.png",
       "short_name": "Professor Layton 1"
@@ -856,6 +865,9 @@
    },
    "Snowboard Kids":{
       "icon":"https://i.imgur.com/moioak0.png"
+   },
+   "Snowboard Kids 2":{
+      "icon":"https://i.imgur.com/UfoVmFH.png"
    },
    "Sonic & Knuckles":{
       "icon":"https://i.imgur.com/MOrkGse.png"
