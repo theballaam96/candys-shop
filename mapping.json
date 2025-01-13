@@ -34377,5 +34377,22 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Touhou%20Seireisen%20~%20Undefined%20Fantastic%20Object/Provincial%20Makai%20City%20Esoteria%20(REV%201).mp3",
     "Binary": "binaries/Touhou Seireisen ~ Undefined Fantastic Object/Provincial Makai City Esoteria (REV 1).bin",
     "Duration": 162.28769551041665
+  },
+  {
+    "Game": "Super Mario Kart",
+    "Song": "Title Theme",
+    "Composers": "Soyo Oka",
+    "Converters": "Altermentality",
+    "Category": "bgm",
+    "Audio": "https://youtu.be/Zjjytspybik",
+    "Tags": [
+      "Lobbies and Shops",
+      "Minigames",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Mon Jan 13 2025 08:06:50 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Super Mario Kart/Title Theme.bin",
+    "Duration": 18.2125655
   }
 ]
