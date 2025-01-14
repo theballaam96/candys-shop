@@ -34524,5 +34524,20 @@
     "Date": "Tue Jan 14 2025 14:37:41 GMT+0000 (Coordinated Universal Time)",
     "Binary": "binaries/Warcraft II Tides of Darkness/Human 1.bin",
     "Duration": 138.96
+  },
+  {
+    "Game": "Snowboard Kids",
+    "Song": "Night Highway",
+    "Composers": "Isao Kasai, Tomohiko Sato",
+    "Converters": "OnlySpaghettiCode",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors"
+    ],
+    "Verified": true,
+    "Date": "Tue Jan 14 2025 16:26:18 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Snowboard%20Kids/Night%20Highway.mp3",
+    "Binary": "binaries/Snowboard Kids/Night Highway.bin",
+    "Duration": 136.4469496458333
   }
 ]
