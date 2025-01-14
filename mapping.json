@@ -34508,5 +34508,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Mario%20Kart%20DS/Single%20Player%20Menu.mp3",
     "Binary": "binaries/Mario Kart DS/Single Player Menu.bin",
     "Duration": 37.89886384375
+  },
+  {
+    "Game": "Warcraft II: Tides of Darkness",
+    "Song": "Human 1",
+    "Composers": "Glenn Stafford",
+    "Converters": "Beyer",
+    "Category": "bgm",
+    "Audio": "https://youtu.be/HUWyvtIFZ-U",
+    "Tags": [
+      "Exteriors",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Tue Jan 14 2025 14:37:41 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Warcraft II Tides of Darkness/Human 1.bin",
+    "Duration": 138.96
   }
 ]
