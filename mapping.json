@@ -34620,5 +34620,52 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Snowboard%20Kids%202/Crazy%20Jungle.mp3",
     "Binary": "binaries/Snowboard Kids 2/Crazy Jungle.bin",
     "Duration": 94.54536000000002
+  },
+  {
+    "Game": "Blast Corps",
+    "Song": "Orion Plaza Complete!",
+    "Composers": "Graeme Norgate",
+    "Converters": "TheLupineOne",
+    "Category": "events",
+    "Tags": [
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Wed Jan 15 2025 19:49:42 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Blast%20Corps/Orion%20Plaza%20Complete.mp3",
+    "Binary": "binaries/Blast Corps/Orion Plaza Complete.bin",
+    "Duration": 3.412109375
+  },
+  {
+    "Game": "Blast Corps",
+    "Song": "Orion Plaza",
+    "Composers": "Graeme Norgate",
+    "Converters": "TheLupineOne",
+    "Category": "bgm",
+    "Tags": [
+      "Minigames",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Wed Jan 15 2025 19:49:43 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Blast%20Corps/Orion%20Plaza.mp3",
+    "Binary": "binaries/Blast Corps/Orion Plaza.bin",
+    "Duration": 25.87890625
+  },
+  {
+    "Game": "Snowboard Kids 2",
+    "Song": "Ice Land",
+    "Composers": "Tomohiko Sato, Isao Kasai",
+    "Converters": "AquaPhoenix",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Wed Jan 15 2025 19:49:44 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Snowboard%20Kids%202/Ice%20Land.mp3",
+    "Binary": "binaries/Snowboard Kids 2/Ice Land.bin",
+    "Duration": 91.89642555208333
   }
 ]
