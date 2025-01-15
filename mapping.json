@@ -34604,5 +34604,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Snowboard%20Kids%202/Haunted%20House.mp3",
     "Binary": "binaries/Snowboard Kids 2/Haunted House.bin",
     "Duration": 110.7643123125
+  },
+  {
+    "Game": "Snowboard Kids 2",
+    "Song": "Crazy Jungle",
+    "Composers": "Tomohiko Sato, Isao Kasai",
+    "Converters": "AquaPhoenix",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Wed Jan 15 2025 19:45:09 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Snowboard%20Kids%202/Crazy%20Jungle.mp3",
+    "Binary": "binaries/Snowboard Kids 2/Crazy Jungle.bin",
+    "Duration": 94.54536000000002
   }
 ]
