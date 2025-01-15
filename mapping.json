@@ -34276,5 +34276,268 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/A%20Hat%20in%20Time/Your%20Contract%20Has%20Expired.mp3",
     "Binary": "binaries/A Hat in Time/Your Contract Has Expired.bin",
     "Duration": 232.31499999999997
+  },
+  {
+    "Game": "Super Mario Kart",
+    "Song": "Vanilla Lake",
+    "Composers": "Soyo Oka",
+    "Converters": "Altermentality",
+    "Category": "bgm",
+    "Audio": "https://youtu.be/FWLxKqfdm2k",
+    "Tags": [
+      "Exteriors",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Sun Jan 12 2025 04:23:04 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Super Mario Kart/Vanilla Lake.bin",
+    "Duration": 29.918616
+  },
+  {
+    "Game": "Mega Man X5",
+    "Song": "Tidal Whale",
+    "Composers": "Naoto Tanaka",
+    "Converters": "cdh90",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors",
+      "Gloomy",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Sun Jan 12 2025 04:26:03 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Mega%20Man%20X5/Tidal%20Whale.mp3",
+    "Binary": "binaries/Mega Man X5/Tidal Whale.bin",
+    "Duration": 45.925
+  },
+  {
+    "Game": "Mega Man X5",
+    "Song": "Deep Sea (Unused Track)",
+    "Composers": "Naoto Tanaka",
+    "Converters": "cdh90",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors",
+      "Gloomy",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Sun Jan 12 2025 04:26:04 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Mega%20Man%20X5/Deep%20Sea%20(Unused%20Track).mp3",
+    "Binary": "binaries/Mega Man X5/Deep Sea (Unused Track).bin",
+    "Duration": 73.35075312500001
+  },
+  {
+    "Game": "Paper Mario",
+    "Song": "Moustafa",
+    "Composers": "Yuka Tsujiyoko",
+    "Converters": "Altermentality",
+    "Category": "bgm",
+    "Audio": "https://youtu.be/-NvI6MrOYh4",
+    "Update Notes": "🍋",
+    "Tags": [
+      "Lobbies and Shops",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Sun Jan 12 2025 04:26:05 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Paper Mario/Moustafa.bin",
+    "Duration": 25.71426
+  },
+  {
+    "Game": "Kingdom Hearts II",
+    "Song": "Rage Awakened",
+    "Composers": "Yoko Shimomura",
+    "Converters": "AquaPhoenix",
+    "Category": "bgm",
+    "Tags": [
+      "Fights",
+      "Happy",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Sun Jan 12 2025 13:14:16 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Kingdom%20Hearts%20II/Rage%20Awakened.mp3",
+    "Binary": "binaries/Kingdom Hearts II/Rage Awakened.bin",
+    "Duration": 101.64333153125
+  },
+  {
+    "Game": "Touhou Seireisen ~ Undefined Fantastic Object",
+    "Song": "Provincial Makai City Esoteria",
+    "Category": "bgm",
+    "Composers": "ZUN",
+    "Converters": "Schwartz Gandhi",
+    "Tags": [
+      "Exteriors",
+      "Happy"
+    ],
+    "Update Notes": "horns no longer drop on the climax, plus the percussion can breath now",
+    "Verified": true,
+    "Date": "Sun Jan 12 2025 13:15:51 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Touhou%20Seireisen%20~%20Undefined%20Fantastic%20Object/Provincial%20Makai%20City%20Esoteria%20(REV%201).mp3",
+    "Binary": "binaries/Touhou Seireisen ~ Undefined Fantastic Object/Provincial Makai City Esoteria (REV 1).bin",
+    "Duration": 162.28769551041665
+  },
+  {
+    "Game": "Super Mario Kart",
+    "Song": "Title Theme",
+    "Composers": "Soyo Oka",
+    "Converters": "Altermentality",
+    "Category": "bgm",
+    "Audio": "https://youtu.be/Zjjytspybik",
+    "Tags": [
+      "Lobbies and Shops",
+      "Minigames",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Mon Jan 13 2025 08:06:50 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Super Mario Kart/Title Theme.bin",
+    "Duration": 18.2125655
+  },
+  {
+    "Game": "Kingdom Hearts II",
+    "Song": "13th Dilemma",
+    "Composers": "Yoko Shimomura",
+    "Converters": "AquaPhoenix",
+    "Category": "bgm",
+    "Tags": [
+      "Fights",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Mon Jan 13 2025 08:09:54 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Kingdom%20Hearts%20II/13th%20Dilemma.mp3",
+    "Binary": "binaries/Kingdom Hearts II/13th Dilemma.bin",
+    "Duration": 95.38452
+  },
+  {
+    "Game": "A Hat in Time",
+    "Song": "Train Rush",
+    "Composers": "Pascal Michael Stiefel",
+    "Converters": "AquaPhoenix",
+    "Category": "bgm",
+    "Tags": [
+      "Interiors",
+      "Minigames",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Mon Jan 13 2025 08:09:54 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/A%20Hat%20in%20Time/Train%20Rush.mp3",
+    "Binary": "binaries/A Hat in Time/Train Rush.bin",
+    "Duration": 200.31006273958332
+  },
+  {
+    "Game": "A Hat in Time",
+    "Song": "Windmill Peak",
+    "Composers": "Pascal Michael Stiefel",
+    "Converters": "AquaPhoenix",
+    "Category": "bgm",
+    "Tags": [
+      "Interiors",
+      "Exteriors",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Mon Jan 13 2025 08:09:55 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/A%20Hat%20in%20Time/Windmill%20Peak.mp3",
+    "Binary": "binaries/A Hat in Time/Windmill Peak.bin",
+    "Duration": 183.15133105208332
+  },
+  {
+    "Game": "B3313",
+    "Song": "Ruins in the Blood Lake",
+    "Composers": "NewSupKaizo55",
+    "Converters": "Cash Money",
+    "Category": "bgm",
+    "Additional Notes": "they already made a donkey kong 64 b3313 its called trying to get out of the training grounds without going to the dirt patch area",
+    "Tags": [
+      "Interiors",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Mon Jan 13 2025 14:34:47 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/B3313/Ruins%20in%20the%20Blood%20Lake.mp3",
+    "Binary": "binaries/B3313/Ruins in the Blood Lake.bin",
+    "Duration": 103.783872
+  },
+  {
+    "Game": "Portal 2",
+    "Song": "Turret Wife Serenade",
+    "Composers": "Mike Morasky",
+    "Converters": "iveli_alpaca",
+    "Category": "bgm",
+    "Audio": "https://youtu.be/UYhHZgqJ5Mo?si=oif76FjQZD4iEVMv",
+    "Tags": [
+      "Lobbies and Shops",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Mon Jan 13 2025 14:34:48 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Portal 2/Turret Wife Serenade.bin",
+    "Duration": 68.56813922916668
+  },
+  {
+    "Game": "Portal 2",
+    "Song": "Cara Mia Addio",
+    "Composers": "Mike Morasky, Ellen McLain",
+    "Converters": "iveli_alpaca",
+    "Category": "bgm",
+    "Audio": "https://www.youtube.com/watch?v=NM7doMueVtA",
+    "Tags": [
+      "Lobbies and Shops",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Mon Jan 13 2025 14:34:49 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Portal 2/Cara Mia Addio.bin",
+    "Duration": 136.99860733333333
+  },
+  {
+    "Game": "Mario Kart DS",
+    "Song": "Single Player Menu",
+    "Composers": "Shinobu Tanaka",
+    "Converters": "OnlySpaghettiCode",
+    "Category": "bgm",
+    "Tags": [
+      "Lobbies and Shops"
+    ],
+    "Verified": true,
+    "Date": "Mon Jan 13 2025 14:53:41 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Mario%20Kart%20DS/Single%20Player%20Menu.mp3",
+    "Binary": "binaries/Mario Kart DS/Single Player Menu.bin",
+    "Duration": 37.89886384375
+  },
+  {
+    "Game": "Warcraft II: Tides of Darkness",
+    "Song": "Human 1",
+    "Composers": "Glenn Stafford",
+    "Converters": "Beyer",
+    "Category": "bgm",
+    "Audio": "https://youtu.be/HUWyvtIFZ-U",
+    "Tags": [
+      "Exteriors",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Tue Jan 14 2025 14:37:41 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Warcraft II Tides of Darkness/Human 1.bin",
+    "Duration": 138.96
+  },
+  {
+    "Game": "Snowboard Kids",
+    "Song": "Night Highway",
+    "Composers": "Isao Kasai, Tomohiko Sato",
+    "Converters": "OnlySpaghettiCode",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors"
+    ],
+    "Verified": true,
+    "Date": "Tue Jan 14 2025 16:26:18 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Snowboard%20Kids/Night%20Highway.mp3",
+    "Binary": "binaries/Snowboard Kids/Night Highway.bin",
+    "Duration": 136.4469496458333
   }
 ]
