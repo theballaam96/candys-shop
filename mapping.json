@@ -34377,5 +34377,311 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Touhou%20Seireisen%20~%20Undefined%20Fantastic%20Object/Provincial%20Makai%20City%20Esoteria%20(REV%201).mp3",
     "Binary": "binaries/Touhou Seireisen ~ Undefined Fantastic Object/Provincial Makai City Esoteria (REV 1).bin",
     "Duration": 162.28769551041665
+  },
+  {
+    "Game": "Super Mario Kart",
+    "Song": "Title Theme",
+    "Composers": "Soyo Oka",
+    "Converters": "Altermentality",
+    "Category": "bgm",
+    "Audio": "https://youtu.be/Zjjytspybik",
+    "Tags": [
+      "Lobbies and Shops",
+      "Minigames",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Mon Jan 13 2025 08:06:50 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Super Mario Kart/Title Theme.bin",
+    "Duration": 18.2125655
+  },
+  {
+    "Game": "Kingdom Hearts II",
+    "Song": "13th Dilemma",
+    "Composers": "Yoko Shimomura",
+    "Converters": "AquaPhoenix",
+    "Category": "bgm",
+    "Tags": [
+      "Fights",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Mon Jan 13 2025 08:09:54 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Kingdom%20Hearts%20II/13th%20Dilemma.mp3",
+    "Binary": "binaries/Kingdom Hearts II/13th Dilemma.bin",
+    "Duration": 95.38452
+  },
+  {
+    "Game": "A Hat in Time",
+    "Song": "Train Rush",
+    "Composers": "Pascal Michael Stiefel",
+    "Converters": "AquaPhoenix",
+    "Category": "bgm",
+    "Tags": [
+      "Interiors",
+      "Minigames",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Mon Jan 13 2025 08:09:54 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/A%20Hat%20in%20Time/Train%20Rush.mp3",
+    "Binary": "binaries/A Hat in Time/Train Rush.bin",
+    "Duration": 200.31006273958332
+  },
+  {
+    "Game": "A Hat in Time",
+    "Song": "Windmill Peak",
+    "Composers": "Pascal Michael Stiefel",
+    "Converters": "AquaPhoenix",
+    "Category": "bgm",
+    "Tags": [
+      "Interiors",
+      "Exteriors",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Mon Jan 13 2025 08:09:55 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/A%20Hat%20in%20Time/Windmill%20Peak.mp3",
+    "Binary": "binaries/A Hat in Time/Windmill Peak.bin",
+    "Duration": 183.15133105208332
+  },
+  {
+    "Game": "B3313",
+    "Song": "Ruins in the Blood Lake",
+    "Composers": "NewSupKaizo55",
+    "Converters": "Cash Money",
+    "Category": "bgm",
+    "Additional Notes": "they already made a donkey kong 64 b3313 its called trying to get out of the training grounds without going to the dirt patch area",
+    "Tags": [
+      "Interiors",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Mon Jan 13 2025 14:34:47 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/B3313/Ruins%20in%20the%20Blood%20Lake.mp3",
+    "Binary": "binaries/B3313/Ruins in the Blood Lake.bin",
+    "Duration": 103.783872
+  },
+  {
+    "Game": "Portal 2",
+    "Song": "Turret Wife Serenade",
+    "Composers": "Mike Morasky",
+    "Converters": "iveli_alpaca",
+    "Category": "bgm",
+    "Audio": "https://youtu.be/UYhHZgqJ5Mo?si=oif76FjQZD4iEVMv",
+    "Tags": [
+      "Lobbies and Shops",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Mon Jan 13 2025 14:34:48 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Portal 2/Turret Wife Serenade.bin",
+    "Duration": 68.56813922916668
+  },
+  {
+    "Game": "Portal 2",
+    "Song": "Cara Mia Addio",
+    "Composers": "Mike Morasky, Ellen McLain",
+    "Converters": "iveli_alpaca",
+    "Category": "bgm",
+    "Audio": "https://www.youtube.com/watch?v=NM7doMueVtA",
+    "Tags": [
+      "Lobbies and Shops",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Mon Jan 13 2025 14:34:49 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Portal 2/Cara Mia Addio.bin",
+    "Duration": 136.99860733333333
+  },
+  {
+    "Game": "Mario Kart DS",
+    "Song": "Single Player Menu",
+    "Composers": "Shinobu Tanaka",
+    "Converters": "OnlySpaghettiCode",
+    "Category": "bgm",
+    "Tags": [
+      "Lobbies and Shops"
+    ],
+    "Verified": true,
+    "Date": "Mon Jan 13 2025 14:53:41 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Mario%20Kart%20DS/Single%20Player%20Menu.mp3",
+    "Binary": "binaries/Mario Kart DS/Single Player Menu.bin",
+    "Duration": 37.89886384375
+  },
+  {
+    "Game": "Warcraft II: Tides of Darkness",
+    "Song": "Human 1",
+    "Composers": "Glenn Stafford",
+    "Converters": "Beyer",
+    "Category": "bgm",
+    "Audio": "https://youtu.be/HUWyvtIFZ-U",
+    "Tags": [
+      "Exteriors",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Tue Jan 14 2025 14:37:41 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Warcraft II Tides of Darkness/Human 1.bin",
+    "Duration": 138.96
+  },
+  {
+    "Game": "Snowboard Kids",
+    "Song": "Night Highway",
+    "Composers": "Isao Kasai, Tomohiko Sato",
+    "Converters": "OnlySpaghettiCode",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors"
+    ],
+    "Verified": true,
+    "Date": "Tue Jan 14 2025 16:26:18 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Snowboard%20Kids/Night%20Highway.mp3",
+    "Binary": "binaries/Snowboard Kids/Night Highway.bin",
+    "Duration": 136.4469496458333
+  },
+  {
+    "Game": "Mario Party 3",
+    "Song": "On Your Toes",
+    "Composers": "Ichiro Shimakura",
+    "Converters": "Altermentality",
+    "Category": "bgm",
+    "Audio": "https://www.youtube.com/watch?v=GViHYM7JRZc",
+    "Tags": [
+      "Minigames",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Wed Jan 15 2025 13:59:40 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Mario Party 3/On Your Toes.bin",
+    "Duration": 39.54531053333333
+  },
+  {
+    "Game": "Mario Party 3",
+    "Song": "Panic!",
+    "Composers": "Ichiro Shimakura",
+    "Converters": "Altermentality",
+    "Category": "bgm",
+    "Audio": "https://youtu.be/cyMbcCSLjWk",
+    "Tags": [
+      "Minigames",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Wed Jan 15 2025 14:04:11 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Mario Party 3/Panic.bin",
+    "Duration": 36.50375145
+  },
+  {
+    "Game": "Snowboard Kids 2",
+    "Song": "Starlight Highway",
+    "Composers": "Tomohiko Sato, Isao Kasai",
+    "Converters": "AquaPhoenix",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Wed Jan 15 2025 14:04:12 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Snowboard%20Kids%202/Starlight%20Highway.mp3",
+    "Binary": "binaries/Snowboard Kids 2/Starlight Highway.bin",
+    "Duration": 148.23513599999998
+  },
+  {
+    "Game": "Snowboard Kids 2",
+    "Song": "Haunted House",
+    "Composers": "Tomohiko Sato, Isao Kasai",
+    "Converters": "AquaPhoenix",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors",
+      "Interiors",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Wed Jan 15 2025 14:04:13 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Snowboard%20Kids%202/Haunted%20House.mp3",
+    "Binary": "binaries/Snowboard Kids 2/Haunted House.bin",
+    "Duration": 110.7643123125
+  },
+  {
+    "Game": "Snowboard Kids 2",
+    "Song": "Crazy Jungle",
+    "Composers": "Tomohiko Sato, Isao Kasai",
+    "Converters": "AquaPhoenix",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Wed Jan 15 2025 19:45:09 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Snowboard%20Kids%202/Crazy%20Jungle.mp3",
+    "Binary": "binaries/Snowboard Kids 2/Crazy Jungle.bin",
+    "Duration": 94.54536000000002
+  },
+  {
+    "Game": "Blast Corps",
+    "Song": "Orion Plaza Complete!",
+    "Composers": "Graeme Norgate",
+    "Converters": "TheLupineOne",
+    "Category": "events",
+    "Tags": [
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Wed Jan 15 2025 19:49:42 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Blast%20Corps/Orion%20Plaza%20Complete.mp3",
+    "Binary": "binaries/Blast Corps/Orion Plaza Complete.bin",
+    "Duration": 3.412109375
+  },
+  {
+    "Game": "Blast Corps",
+    "Song": "Orion Plaza",
+    "Composers": "Graeme Norgate",
+    "Converters": "TheLupineOne",
+    "Category": "bgm",
+    "Tags": [
+      "Minigames",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Wed Jan 15 2025 19:49:43 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Blast%20Corps/Orion%20Plaza.mp3",
+    "Binary": "binaries/Blast Corps/Orion Plaza.bin",
+    "Duration": 25.87890625
+  },
+  {
+    "Game": "Snowboard Kids 2",
+    "Song": "Ice Land",
+    "Composers": "Tomohiko Sato, Isao Kasai",
+    "Converters": "AquaPhoenix",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Wed Jan 15 2025 19:49:44 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Snowboard%20Kids%202/Ice%20Land.mp3",
+    "Binary": "binaries/Snowboard Kids 2/Ice Land.bin",
+    "Duration": 91.89642555208333
+  },
+  {
+    "Game": "Mega Man X5",
+    "Song": "Spiral Pegasus",
+    "Composers": "Naoto Tanaka",
+    "Converters": "cdh90",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Fri Jan 17 2025 09:55:27 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Mega%20Man%20X5/Spiral%20Pegasus.mp3",
+    "Binary": "binaries/Mega Man X5/Spiral Pegasus.bin",
+    "Duration": 52.69821991666667
   }
 ]
