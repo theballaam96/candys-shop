@@ -34847,5 +34847,22 @@
     "Date": "Sat Jan 18 2025 08:12:23 GMT+0000 (Coordinated Universal Time)",
     "Binary": "binaries/Mario Party 3/Stardust Battle.bin",
     "Duration": 57.11194331250002
+  },
+  {
+    "Game": "Super Mario Kart",
+    "Song": "Battle Mode",
+    "Composers": "Soyo Oka",
+    "Converters": "Altermentality",
+    "Category": "bgm",
+    "Audio": "https://youtu.be/mwhuBbdO1Hg",
+    "Tags": [
+      "Fights",
+      "Minigames",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Sat Jan 18 2025 08:16:56 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Super Mario Kart/Battle Mode.bin",
+    "Duration": 37.16373
   }
 ]
