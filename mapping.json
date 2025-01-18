@@ -34731,5 +34731,105 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Super%20Mario%20World/Yoshi%20Sound.mp3",
     "Binary": "binaries/Super Mario World/Yoshi Sound.bin",
     "Duration": 0.49342125000000003
+  },
+  {
+    "Game": "Antonball Deluxe",
+    "Song": "Jam Jungle",
+    "Category": "bgm",
+    "Composers": "Tony Grayson",
+    "Converters": "Cash Money",
+    "Tags": [
+      "Exteriors",
+      "Minigames",
+      "Happy"
+    ],
+    "Additional Notes": "Get ready to play with your nuts in Donkey Kong 64 Deluxe",
+    "Verified": true,
+    "Date": "Sat Jan 18 2025 06:48:01 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Antonball%20Deluxe/Jam%20Jungle.mp3",
+    "Binary": "binaries/Antonball Deluxe/Jam Jungle.bin",
+    "Duration": 60.551853270833334
+  },
+  {
+    "Game": "La-Mulana",
+    "Song": "Mr. Explorer",
+    "Composers": "Houryu Samejima",
+    "Converters": "MiaSchemes",
+    "Category": "bgm",
+    "Tags": [
+      "Lobbies and Shops",
+      "Exteriors",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Sat Jan 18 2025 06:48:01 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/La-Mulana/Mr%20Explorer.mp3",
+    "Binary": "binaries/La-Mulana/Mr Explorer.bin",
+    "Duration": 108.444336
+  },
+  {
+    "Game": "Snowboard Kids",
+    "Song": "Silver Mountain",
+    "Composers": "Tomohiko Sato, Isao Kasai",
+    "Converters": "AquaPhoenix",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Sat Jan 18 2025 06:48:02 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Snowboard%20Kids/Silver%20Mountain.mp3",
+    "Binary": "binaries/Snowboard Kids/Silver Mountain.bin",
+    "Duration": 157.81253682291663
+  },
+  {
+    "Game": "Snowboard Kids",
+    "Song": "Big Snowman",
+    "Composers": "Tomohiko Sato, Isao Kasai",
+    "Converters": "AquaPhoenix",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Sat Jan 18 2025 06:48:02 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Snowboard%20Kids/Big%20Snowman.mp3",
+    "Binary": "binaries/Snowboard Kids/Big Snowman.bin",
+    "Duration": 118.46542640624999
+  },
+  {
+    "Game": "Snowboard Kids",
+    "Song": "Quicksand Valley",
+    "Composers": "Tomohiko Sato, Isao Kasai",
+    "Converters": "AquaPhoenix",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors",
+      "Happy",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Sat Jan 18 2025 06:48:03 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Snowboard%20Kids/Quicksand%20Valley.mp3",
+    "Binary": "binaries/Snowboard Kids/Quicksand Valley.bin",
+    "Duration": 139.03875834375
+  },
+  {
+    "Game": "Snowboard Kids 2",
+    "Song": "Jingle Town",
+    "Composers": "Tomohiko Sato, Isao Kasai",
+    "Converters": "AquaPhoenix",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Sat Jan 18 2025 06:48:04 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Snowboard%20Kids%202/Jingle%20Town.mp3",
+    "Binary": "binaries/Snowboard Kids 2/Jingle Town.bin",
+    "Duration": 120.00430882291666
   }
 ]
