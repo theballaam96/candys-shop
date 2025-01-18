@@ -34831,5 +34831,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Snowboard%20Kids%202/Jingle%20Town.mp3",
     "Binary": "binaries/Snowboard Kids 2/Jingle Town.bin",
     "Duration": 120.00430882291666
+  },
+  {
+    "Game": "Mario Party 3",
+    "Song": "Stardust Battle",
+    "Composers": "Ichiro Shimakura",
+    "Converters": "Altermentality",
+    "Category": "bgm",
+    "Audio": "https://youtu.be/c2CRoGJHIgg",
+    "Tags": [
+      "Fights",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Sat Jan 18 2025 08:12:23 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Mario Party 3/Stardust Battle.bin",
+    "Duration": 57.11194331250002
   }
 ]
