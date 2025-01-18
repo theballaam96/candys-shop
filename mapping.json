@@ -34715,5 +34715,21 @@
     "Date": "Sat Jan 18 2025 06:40:50 GMT+0000 (Coordinated Universal Time)",
     "Binary": "binaries/Warcraft II Tides of Darkness/Orc 2.bin",
     "Duration": 129.74242466666666
+  },
+  {
+    "Game": "Super Mario World",
+    "Song": "Yoshi Sound",
+    "Composers": "Koji Kondo",
+    "Converters": "Cash Money, Zion Jaymes, Schwartz Gandhi, Wibdiwoh",
+    "Category": "majoritems",
+    "Tags": [
+      "Spawning",
+      "Collection"
+    ],
+    "Verified": true,
+    "Date": "Sat Jan 18 2025 06:45:29 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Super%20Mario%20World/Yoshi%20Sound.mp3",
+    "Binary": "binaries/Super Mario World/Yoshi Sound.bin",
+    "Duration": 0.49342125000000003
   }
 ]
