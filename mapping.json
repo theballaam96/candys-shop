@@ -34864,5 +34864,21 @@
     "Date": "Sat Jan 18 2025 08:16:56 GMT+0000 (Coordinated Universal Time)",
     "Binary": "binaries/Super Mario Kart/Battle Mode.bin",
     "Duration": 37.16373
+  },
+  {
+    "Game": "Crash Bandicoot: Warped",
+    "Song": "Dr. N. Tropy",
+    "Composers": "Josh Mancell",
+    "Converters": "iveli_alpaca",
+    "Category": "bgm",
+    "Audio": "https://www.youtube.com/watch?v=rfgaUJIikh0",
+    "Tags": [
+      "Fights",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Sun Jan 19 2025 17:50:11 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Crash Bandicoot Warped/Dr N Tropy.bin",
+    "Duration": 97.07524076041665
   }
 ]
