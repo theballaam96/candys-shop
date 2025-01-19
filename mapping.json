@@ -34880,5 +34880,21 @@
     "Date": "Sun Jan 19 2025 17:50:11 GMT+0000 (Coordinated Universal Time)",
     "Binary": "binaries/Crash Bandicoot Warped/Dr N Tropy.bin",
     "Duration": 97.07524076041665
+  },
+  {
+    "Game": "Picross DS",
+    "Song": "Waltz",
+    "Composers": "Nobuhiro Ōuchi, Masashi Sugiyama, Ayako Yamaguchi",
+    "Converters": "UmedMuzl",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Sun Jan 19 2025 17:52:08 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Picross%20DS/Waltz.mp3",
+    "Binary": "binaries/Picross DS/Waltz.bin",
+    "Duration": 63.356859625
   }
 ]
