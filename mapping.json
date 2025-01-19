@@ -34896,5 +34896,20 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Picross%20DS/Waltz.mp3",
     "Binary": "binaries/Picross DS/Waltz.bin",
     "Duration": 63.356859625
+  },
+  {
+    "Game": "Space Station Silicon Valley",
+    "Song": "Level Lost",
+    "Composers": "Stuart Ross",
+    "Converters": "TheLupineOne",
+    "Category": "events",
+    "Tags": [
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Sun Jan 19 2025 17:54:29 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Space%20Station%20Silicon%20Valley/Level%20Lost.mp3",
+    "Binary": "binaries/Space Station Silicon Valley/Level Lost.bin",
+    "Duration": 4.6887007375
   }
 ]
