@@ -34977,5 +34977,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Snowboard%20Kids%202/Lindas%20Castle.mp3",
     "Binary": "binaries/Snowboard Kids 2/Lindas Castle.bin",
     "Duration": 113.33342400000001
+  },
+  {
+    "Game": "Snowboard Kids",
+    "Song": "Board Shop",
+    "Composers": "Isao Kasai, Tomohiko Sato",
+    "Converters": "AquaPhoenix",
+    "Category": "bgm",
+    "Tags": [
+      "Lobbies and Shops",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Mon Jan 20 2025 20:17:22 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Snowboard%20Kids/Board%20Shop.mp3",
+    "Binary": "binaries/Snowboard Kids/Board Shop.bin",
+    "Duration": 58.20416666666667
   }
 ]
