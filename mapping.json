@@ -34927,5 +34927,23 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Picross%20DS/Reggae.mp3",
     "Binary": "binaries/Picross DS/Reggae.bin",
     "Duration": 128.35716424999998
+  },
+  {
+    "Game": "Persona 5",
+    "Song": "Gentle Madman (Variant A)",
+    "Composers": "Shoji Meguro",
+    "Converters": "Tubamann",
+    "Category": "bgm",
+    "Tags": [
+      "Interiors",
+      "Exteriors",
+      "Gloomy",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Mon Jan 20 2025 18:29:21 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Persona%205/Gentle%20Madman%20(Variant%20A).mp3",
+    "Binary": "binaries/Persona 5/Gentle Madman (Variant A).bin",
+    "Duration": 85.32977578125
   }
 ]
