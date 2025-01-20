@@ -34945,5 +34945,37 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Persona%205/Gentle%20Madman%20(Variant%20A).mp3",
     "Binary": "binaries/Persona 5/Gentle Madman (Variant A).bin",
     "Duration": 85.32977578125
+  },
+  {
+    "Game": "Super Mario Bros. 3",
+    "Song": "Hammer Bros",
+    "Composers": "Koji Kondo",
+    "Converters": "AquaPhoenix",
+    "Category": "bgm",
+    "Tags": [
+      "Lobbies and Shops",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Mon Jan 20 2025 18:31:10 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Super%20Mario%20Bros%203/Hammer%20Bros.mp3",
+    "Binary": "binaries/Super Mario Bros 3/Hammer Bros.bin",
+    "Duration": 19.200000000000003
+  },
+  {
+    "Game": "Snowboard Kids 2",
+    "Song": "Linda's Castle",
+    "Composers": "Isao Kasai, Tomohiko Sato",
+    "Converters": "AquaPhoenix",
+    "Category": "bgm",
+    "Tags": [
+      "Interiors",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Mon Jan 20 2025 18:31:11 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Snowboard%20Kids%202/Lindas%20Castle.mp3",
+    "Binary": "binaries/Snowboard Kids 2/Lindas Castle.bin",
+    "Duration": 113.33342400000001
   }
 ]
