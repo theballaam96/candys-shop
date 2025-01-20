@@ -34993,5 +34993,23 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Snowboard%20Kids/Board%20Shop.mp3",
     "Binary": "binaries/Snowboard Kids/Board Shop.bin",
     "Duration": 58.20416666666667
+  },
+  {
+    "Game": "Portal 2",
+    "Song": "Want You Gone",
+    "Composers": "Jonathan Coulton, Ellen McLain",
+    "Converters": "iveli_alpaca",
+    "Category": "bgm",
+    "Audio": "https://www.youtube.com/watch?v=hMxxYF21x-U",
+    "Additional Notes": "May be detectable/mutable audio",
+    "Tags": [
+      "Exteriors",
+      "Happy",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Mon Jan 20 2025 20:19:12 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Portal 2/Want You Gone.bin",
+    "Duration": 134.7
   }
 ]
