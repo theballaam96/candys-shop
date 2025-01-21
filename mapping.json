@@ -35011,5 +35011,21 @@
     "Date": "Mon Jan 20 2025 20:19:12 GMT+0000 (Coordinated Universal Time)",
     "Binary": "binaries/Portal 2/Want You Gone.bin",
     "Duration": 134.7
+  },
+  {
+    "Game": "Crash Bandicoot: Warped",
+    "Song": "Bonus Round",
+    "Composers": "Josh Mancell",
+    "Converters": "iveli_alpaca",
+    "Category": "bgm",
+    "Audio": "https://www.youtube.com/watch?v=z5RSBXX1DVU",
+    "Tags": [
+      "Minigames",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Tue Jan 21 2025 18:37:38 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Crash Bandicoot Warped/Bonus Round.bin",
+    "Duration": 60.43975437500001
   }
 ]
