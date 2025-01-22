@@ -35027,5 +35027,22 @@
     "Date": "Tue Jan 21 2025 18:37:38 GMT+0000 (Coordinated Universal Time)",
     "Binary": "binaries/Crash Bandicoot Warped/Bonus Round.bin",
     "Duration": 60.43975437500001
+  },
+  {
+    "Game": "Snowboard Kids 2",
+    "Song": "Snowman Robot",
+    "Composers": "Tomohiko Sato, Isao Kasai",
+    "Converters": "AquaPhoenix",
+    "Category": "bgm",
+    "Tags": [
+      "Fights",
+      "Happy",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Wed Jan 22 2025 09:35:37 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Snowboard%20Kids%202/Snowman%20Robot.mp3",
+    "Binary": "binaries/Snowboard Kids 2/Snowman Robot.bin",
+    "Duration": 70.674816
   }
 ]
