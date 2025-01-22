@@ -35092,5 +35092,22 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Pok%C3%A9mon%20Black%20%20White/White%20Forest.mp3",
     "Binary": "binaries/Pokémon Black  White/White Forest.bin",
     "Duration": 42.00390625
+  },
+  {
+    "Game": "Soulcalibur II",
+    "Song": "History Unfolds (Character Select)",
+    "Composers": "Junichi Nakatsuru, Yoshihito Yano, Asuka Sakai, Rio Hamamoto, Ryuichi Takada, Junichi Takagi",
+    "Converters": "Zion Jaymes",
+    "Category": "bgm",
+    "Additional Notes": "A hero desires a sword, and a sword desires truth.",
+    "Tags": [
+      "Lobbies and Shops",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Wed Jan 22 2025 09:43:08 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Soulcalibur%20II/History%20Unfolds%20(Character%20Select).mp3",
+    "Binary": "binaries/Soulcalibur II/History Unfolds (Character Select).bin",
+    "Duration": 22.734375
   }
 ]
