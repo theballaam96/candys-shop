@@ -35109,5 +35109,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Soulcalibur%20II/History%20Unfolds%20(Character%20Select).mp3",
     "Binary": "binaries/Soulcalibur II/History Unfolds (Character Select).bin",
     "Duration": 22.734375
+  },
+  {
+    "Game": "Xenoblade Chronicles",
+    "Song": "Gaur Plain",
+    "Composers": "ACE+",
+    "Converters": "OnlySpaghettiCode",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Wed Jan 22 2025 22:52:49 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Xenoblade%20Chronicles/Gaur%20Plain.mp3",
+    "Binary": "binaries/Xenoblade Chronicles/Gaur Plain.bin",
+    "Duration": 244.74790491666667
   }
 ]
