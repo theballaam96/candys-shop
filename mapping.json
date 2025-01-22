@@ -35044,5 +35044,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Snowboard%20Kids%202/Snowman%20Robot.mp3",
     "Binary": "binaries/Snowboard Kids 2/Snowman Robot.bin",
     "Duration": 70.674816
+  },
+  {
+    "Game": "Yu-Gi-Oh! Forbidden Memories",
+    "Song": "Kaiba Duel",
+    "Composers": "Naoko Ishii, Hiroshi Tanabe, Waichiro Ozaki",
+    "Converters": "AquaPhoenix",
+    "Category": "bgm",
+    "Tags": [
+      "Fights",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Wed Jan 22 2025 09:37:27 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Yu-Gi-Oh%20Forbidden%20Memories/Kaiba%20Duel.mp3",
+    "Binary": "binaries/Yu-Gi-Oh Forbidden Memories/Kaiba Duel.bin",
+    "Duration": 64.54836020833332
   }
 ]
