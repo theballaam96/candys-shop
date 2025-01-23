@@ -35125,5 +35125,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Xenoblade%20Chronicles/Gaur%20Plain.mp3",
     "Binary": "binaries/Xenoblade Chronicles/Gaur Plain.bin",
     "Duration": 244.74790491666667
+  },
+  {
+    "Game": "Killer Instinct",
+    "Song": "Riptor",
+    "Composers": "Robin Beanland & Graeme Norgate",
+    "Converters": "HavenKnight93",
+    "Category": "bgm",
+    "Tags": [
+      "Minigames",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Thu Jan 23 2025 09:10:45 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Killer%20Instinct/Riptor.mp3",
+    "Binary": "binaries/Killer Instinct/Riptor.bin",
+    "Duration": 47.01085781249999
   }
 ]
