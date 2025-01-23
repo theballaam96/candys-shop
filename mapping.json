@@ -35141,5 +35141,22 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Killer%20Instinct/Riptor.mp3",
     "Binary": "binaries/Killer Instinct/Riptor.bin",
     "Duration": 47.01085781249999
+  },
+  {
+    "Game": "Dokapon Kingdom",
+    "Song": "Casino Cave",
+    "Category": "bgm",
+    "Composers": "Shigeki Hayashi",
+    "Converters": "Schwartz Gandhi",
+    "Tags": [
+      "Interiors",
+      "Happy"
+    ],
+    "Additional Notes": "I love gambling !",
+    "Verified": true,
+    "Date": "Thu Jan 23 2025 09:12:31 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Dokapon%20Kingdom/Casino%20Cave.mp3",
+    "Binary": "binaries/Dokapon Kingdom/Casino Cave.bin",
+    "Duration": 39.6
   }
 ]
