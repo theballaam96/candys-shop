@@ -35174,5 +35174,52 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Killer%20Instinct/Spinal.mp3",
     "Binary": "binaries/Killer Instinct/Spinal.bin",
     "Duration": 23.7500083125
+  },
+  {
+    "Game": "Crystar",
+    "Song": "Berserk",
+    "Composers": "Sakuzyo",
+    "Converters": "GlitchGlider",
+    "Category": "bgm",
+    "Audio": "https://youtu.be/0_63EnHQMNc",
+    "Tags": [
+      "Minigames"
+    ],
+    "Verified": true,
+    "Date": "Fri Jan 24 2025 11:53:25 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Crystar/Berserk.bin",
+    "Duration": 25.659735052083334
+  },
+  {
+    "Game": "Crystar",
+    "Song": "Distant Days",
+    "Composers": "Sakuzyo",
+    "Converters": "GlitchGlider",
+    "Category": "bgm",
+    "Audio": "https://youtu.be/Ss3VxfbHZ04",
+    "Tags": [
+      "Exteriors",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Fri Jan 24 2025 11:53:25 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Crystar/Distant Days.bin",
+    "Duration": 205.65081065625
+  },
+  {
+    "Game": "Crystar",
+    "Song": "0",
+    "Composers": "Sakuzyo",
+    "Converters": "GlitchGlider",
+    "Category": "bgm",
+    "Audio": "https://youtu.be/PP7w_OTJggE",
+    "Tags": [
+      "Interiors",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Fri Jan 24 2025 11:53:26 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Crystar/0.bin",
+    "Duration": 111.41953143750001
   }
 ]
