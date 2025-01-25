@@ -35221,5 +35221,23 @@
     "Date": "Fri Jan 24 2025 11:53:26 GMT+0000 (Coordinated Universal Time)",
     "Binary": "binaries/Crystar/0.bin",
     "Duration": 111.41953143750001
+  },
+  {
+    "Game": "Mega Man X5",
+    "Song": "X vs Zero",
+    "Composers": "Naoto Tanaka",
+    "Converters": "cdh90",
+    "Category": "bgm",
+    "Update Notes": "I reworked some of the instruments that I felt had a better sound. Also, I feel this update has a better mix",
+    "Tags": [
+      "Fights",
+      "Minigames",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Sat Jan 25 2025 10:55:07 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Mega%20Man%20X5/X%20vs%20Zero%20(REV%202).mp3",
+    "Binary": "binaries/Mega Man X5/X vs Zero (REV 2).bin",
+    "Duration": 65.97324395833334
   }
 ]
