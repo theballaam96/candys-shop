@@ -35239,5 +35239,20 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Mega%20Man%20X5/X%20vs%20Zero%20(REV%202).mp3",
     "Binary": "binaries/Mega Man X5/X vs Zero (REV 2).bin",
     "Duration": 65.97324395833334
+  },
+  {
+    "Game": "Kirby: Triple Deluxe",
+    "Song": "Moonlight Capital",
+    "Composers": "Jun Ishikawa",
+    "Converters": "Barrels O' Fun",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors"
+    ],
+    "Verified": true,
+    "Date": "Sun Jan 26 2025 21:21:10 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Kirby%20Triple%20Deluxe/Moonlight%20Capital.mp3",
+    "Binary": "binaries/Kirby Triple Deluxe/Moonlight Capital.bin",
+    "Duration": 93.85488
   }
 ]
