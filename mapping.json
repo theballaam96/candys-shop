@@ -35254,5 +35254,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Kirby%20Triple%20Deluxe/Moonlight%20Capital.mp3",
     "Binary": "binaries/Kirby Triple Deluxe/Moonlight Capital.bin",
     "Duration": 93.85488
+  },
+  {
+    "Game": "Teenage Mutant Ninja Turtles II: Back from the Sewers",
+    "Song": "Pizza Time",
+    "Composers": "Yuko Kurahashi, Tsuyoshi Sekito",
+    "Converters": "The Sound Defense",
+    "Category": "bgm",
+    "Tags": [
+      "Lobbies and Shops",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Mon Jan 27 2025 09:49:54 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Teenage%20Mutant%20Ninja%20Turtles%20II%20Back%20from%20the%20Sewers/Pizza%20Time.mp3",
+    "Binary": "binaries/Teenage Mutant Ninja Turtles II Back from the Sewers/Pizza Time.bin",
+    "Duration": 24
   }
 ]
