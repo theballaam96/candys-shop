@@ -35271,5 +35271,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Teenage%20Mutant%20Ninja%20Turtles%20II%20Back%20from%20the%20Sewers/Pizza%20Time.mp3",
     "Binary": "binaries/Teenage Mutant Ninja Turtles II Back from the Sewers/Pizza Time.bin",
     "Duration": 24
+  },
+  {
+    "Game": "RoboCop",
+    "Song": "Title (GB)",
+    "Composers": "Jonathan Dunn",
+    "Converters": "Wibdiwoh",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Tue Jan 28 2025 09:19:22 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/RoboCop/Title%20(GB).mp3",
+    "Binary": "binaries/RoboCop/Title (GB).bin",
+    "Duration": 164.990234375
   }
 ]
