@@ -35287,5 +35287,22 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/RoboCop/Title%20(GB).mp3",
     "Binary": "binaries/RoboCop/Title (GB).bin",
     "Duration": 164.990234375
+  },
+  {
+    "Game": "Mario + Rabbids: Kingdom Battle",
+    "Song": "A Song of Ice and Desert",
+    "Composers": "Grant Kirkhope",
+    "Converters": "LBFrank",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors",
+      "Happy",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Thu Jan 30 2025 03:31:32 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Mario%20%20Rabbids%20Kingdom%20Battle/A%20Song%20of%20Ice%20and%20Desert.mp3",
+    "Binary": "binaries/Mario  Rabbids Kingdom Battle/A Song of Ice and Desert.bin",
+    "Duration": 149.32994973632813
   }
 ]
