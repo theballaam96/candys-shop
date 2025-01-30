@@ -35304,5 +35304,86 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Mario%20%20Rabbids%20Kingdom%20Battle/A%20Song%20of%20Ice%20and%20Desert.mp3",
     "Binary": "binaries/Mario  Rabbids Kingdom Battle/A Song of Ice and Desert.bin",
     "Duration": 149.32994973632813
+  },
+  {
+    "Game": "Super Mario Kart",
+    "Song": "Choco Island",
+    "Composers": "Soyo Oka",
+    "Converters": "Altermentality",
+    "Category": "bgm",
+    "Audio": "https://youtu.be/_6vA4FpLF00",
+    "Tags": [
+      "Exteriors",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Thu Jan 30 2025 03:34:22 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Super Mario Kart/Choco Island.bin",
+    "Duration": 42.967040000000004
+  },
+  {
+    "Game": "Mario Party 2",
+    "Song": "Keepin' on the Path",
+    "Composers": "Hironao Yamamoto, Kazuhiko Sawaguchi, Shohei Bando",
+    "Converters": "Altermentality",
+    "Category": "bgm",
+    "Audio": "https://youtu.be/vmCRZolO2Po",
+    "Tags": [
+      "Minigames",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Thu Jan 30 2025 03:34:22 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Mario Party 2/Keepin on the Path.bin",
+    "Duration": 30.909407724999998
+  },
+  {
+    "Game": "Mario Party 2",
+    "Song": "The Blue Skies Yonder",
+    "Composers": "Hironao Yamamoto, Kazuhiko Sawaguchi, Shohei Bando",
+    "Converters": "Altermentality",
+    "Category": "bgm",
+    "Audio": "https://youtu.be/yEZYfdRNMkA",
+    "Tags": [
+      "Minigames",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Thu Jan 30 2025 03:34:23 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Mario Party 2/The Blue Skies Yonder.bin",
+    "Duration": 24.1013648875
+  },
+  {
+    "Game": "Tetris 99",
+    "Song": "10 Players Remaining!",
+    "Composers": "Teruo Taniguchi, Nikolai Rimsky-Korsakov",
+    "Converters": "iveli_alpaca",
+    "Category": "bgm",
+    "Audio": "https://www.youtube.com/watch?v=gUNkEpOQxNo",
+    "Tags": [
+      "Minigames",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Thu Jan 30 2025 03:34:23 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Tetris 99/10 Players Remaining.bin",
+    "Duration": 68.359780125
+  },
+  {
+    "Game": "Duke Nukem 3D",
+    "Song": "Water World",
+    "Composers": "Bobby Prince",
+    "Converters": "Barrels O' Fun",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors",
+      "Gloomy",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Thu Jan 30 2025 03:34:24 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Duke%20Nukem%203D/Water%20World.mp3",
+    "Binary": "binaries/Duke Nukem 3D/Water World.bin",
+    "Duration": 352.29
   }
 ]
