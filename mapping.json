@@ -35385,5 +35385,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Duke%20Nukem%203D/Water%20World.mp3",
     "Binary": "binaries/Duke Nukem 3D/Water World.bin",
     "Duration": 352.29
+  },
+  {
+    "Game": "Super Mario World",
+    "Song": "Yoshi Sound",
+    "Composers": "Koji Kondo",
+    "Converters": "Cash Money, Zion Jaymes, Schwartz Gandhi, Wibdiwoh",
+    "Category": "majoritems",
+    "Tags": [
+      "Spawning",
+      "Collection"
+    ],
+    "Verified": true,
+    "Date": "Fri Jan 31 2025 17:53:16 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Super%20Mario%20World/Yoshi%20Sound%20(REV%201).mp3",
+    "Binary": "binaries/Super Mario World/Yoshi Sound (REV 1).bin",
+    "Duration": 0.4797151041666667
   }
 ]
