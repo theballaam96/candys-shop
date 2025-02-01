@@ -35416,5 +35416,22 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Keroro%20RPG%20Kishi%20to%20Musha%20to%20Densetsu%20no%20Kaizoku/Final%20Boss.mp3",
     "Binary": "binaries/Keroro RPG Kishi to Musha to Densetsu no Kaizoku/Final Boss.bin",
     "Duration": 65.67577200000001
+  },
+  {
+    "Game": "Mega Man X5",
+    "Song": "Zero Virus Stage",
+    "Composers": "Naoto Tanaka",
+    "Converters": "cdh90",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors",
+      "Gloomy",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Sat Feb 01 2025 20:11:46 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Mega%20Man%20X5/Zero%20Virus%20Stage.mp3",
+    "Binary": "binaries/Mega Man X5/Zero Virus Stage.bin",
+    "Duration": 86.086185375
   }
 ]
