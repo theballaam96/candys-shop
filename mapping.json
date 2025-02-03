@@ -35500,5 +35500,22 @@
     "Date": "Mon Feb 03 2025 12:56:54 GMT+0000 (Coordinated Universal Time)",
     "Binary": "binaries/Donkey Kong Land/Blimp Off.bin",
     "Duration": 59.581881656250005
+  },
+  {
+    "Game": "Mega Man X5",
+    "Song": "Staff Roll - \"Chosen Path\"",
+    "Composers": "Naoto Tanaka",
+    "Converters": "cdh90",
+    "Category": "bgm",
+    "Tags": [
+      "Interiors",
+      "Gloomy",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Mon Feb 03 2025 12:58:48 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Mega%20Man%20X5/Staff%20Roll%20-%20Chosen%20Path.mp3",
+    "Binary": "binaries/Mega Man X5/Staff Roll - Chosen Path.bin",
+    "Duration": 91.57220920833333
   }
 ]
