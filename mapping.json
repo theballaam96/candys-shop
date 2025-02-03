@@ -35517,5 +35517,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Mega%20Man%20X5/Staff%20Roll%20-%20Chosen%20Path.mp3",
     "Binary": "binaries/Mega Man X5/Staff Roll - Chosen Path.bin",
     "Duration": 91.57220920833333
+  },
+  {
+    "Game": "Bubsy in: Claws Encounters of the Furred Kind",
+    "Song": "War of the Woolies",
+    "Composers": "Matthew Berardo",
+    "Converters": "Wibdiwoh",
+    "Category": "bgm",
+    "Tags": [
+      "Lobbies and Shops",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Mon Feb 03 2025 23:49:04 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Bubsy%20in%20Claws%20Encounters%20of%20the%20Furred%20Kind/War%20of%20the%20Woolies.mp3",
+    "Binary": "binaries/Bubsy in Claws Encounters of the Furred Kind/War of the Woolies.bin",
+    "Duration": 68.377155375
   }
 ]
