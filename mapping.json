@@ -35468,5 +35468,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Donkey%20Kong%20Country%202%20Diddys%20Kong%20Quest/Mining%20Melancholy.mp3",
     "Binary": "binaries/Donkey Kong Country 2 Diddys Kong Quest/Mining Melancholy.bin",
     "Duration": 104.458652
+  },
+  {
+    "Game": "Final Fantasy VII",
+    "Song": "Crazy Motorcycle Chase",
+    "Composers": "Nobuo Uematsu",
+    "Converters": "OnlySpaghettiCode",
+    "Category": "bgm",
+    "Tags": [
+      "Minigames",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Mon Feb 03 2025 12:54:42 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Final%20Fantasy%20VII/Crazy%20Motorcycle%20Chase.mp3",
+    "Binary": "binaries/Final Fantasy VII/Crazy Motorcycle Chase.bin",
+    "Duration": 107.2407129375
   }
 ]
