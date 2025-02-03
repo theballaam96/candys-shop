@@ -35434,5 +35434,22 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Mega%20Man%20X5/Zero%20Virus%20Stage.mp3",
     "Binary": "binaries/Mega Man X5/Zero Virus Stage.bin",
     "Duration": 86.086185375
+  },
+  {
+    "Game": "La-Mulana",
+    "Song": "Song of Curry",
+    "Composers": "Houryu Samejima",
+    "Converters": "MiaSchemes",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors",
+      "Minigames",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Mon Feb 03 2025 12:51:04 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/La-Mulana/Song%20of%20Curry.mp3",
+    "Binary": "binaries/La-Mulana/Song of Curry.bin",
+    "Duration": 76.137912
   }
 ]
