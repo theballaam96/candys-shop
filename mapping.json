@@ -35484,5 +35484,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Final%20Fantasy%20VII/Crazy%20Motorcycle%20Chase.mp3",
     "Binary": "binaries/Final Fantasy VII/Crazy Motorcycle Chase.bin",
     "Duration": 107.2407129375
+  },
+  {
+    "Game": "Donkey Kong Land",
+    "Song": "Blimp Off",
+    "Composers": "Graeme Norgate",
+    "Converters": "Altermentality",
+    "Category": "bgm",
+    "Audio": "https://youtu.be/j_IxQIIlyYQ",
+    "Tags": [
+      "Exteriors",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Mon Feb 03 2025 12:56:54 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Donkey Kong Land/Blimp Off.bin",
+    "Duration": 59.581881656250005
   }
 ]
