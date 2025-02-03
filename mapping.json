@@ -35451,5 +35451,22 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/La-Mulana/Song%20of%20Curry.mp3",
     "Binary": "binaries/La-Mulana/Song of Curry.bin",
     "Duration": 76.137912
+  },
+  {
+    "Game": "Donkey Kong Country 2: Diddy's Kong Quest",
+    "Song": "Mining Melancholy",
+    "Composers": "David Wise",
+    "Converters": "Zion Jaymes, Wibdiwoh",
+    "Category": "bgm",
+    "Additional Notes": "This MIDI is a mess",
+    "Tags": [
+      "Exteriors",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Mon Feb 03 2025 12:52:57 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Donkey%20Kong%20Country%202%20Diddys%20Kong%20Quest/Mining%20Melancholy.mp3",
+    "Binary": "binaries/Donkey Kong Country 2 Diddys Kong Quest/Mining Melancholy.bin",
+    "Duration": 104.458652
   }
 ]
