@@ -35532,5 +35532,21 @@
     "Audio": "https://www.youtube.com/watch?v=BwpNmXRf348",
     "Binary": "binaries/Bubsy in Claws Encounters of the Furred Kind/War of the Woolies.bin",
     "Duration": 68.377155375
+  },
+  {
+    "Game": "Tony Hawk's Pro Skater",
+    "Song": "Get Tape",
+    "Composers": "Brian Bright",
+    "Converters": "Zion Jaymes",
+    "Category": "majoritems",
+    "Update Notes": "Reduced the the data by about half. Is a bit quieter because of this.",
+    "Tags": [
+      "Collection"
+    ],
+    "Verified": true,
+    "Date": "Tue Feb 04 2025 20:36:51 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Tony%20Hawks%20Pro%20Skater/Get%20Tape.mp3",
+    "Binary": "binaries/Tony Hawks Pro Skater/Get Tape.bin",
+    "Duration": 1.05
   }
 ]
