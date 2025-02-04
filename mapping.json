@@ -35548,5 +35548,55 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Tony%20Hawks%20Pro%20Skater/Get%20Tape.mp3",
     "Binary": "binaries/Tony Hawks Pro Skater/Get Tape.bin",
     "Duration": 1.05
+  },
+  {
+    "Game": "Ape Escape",
+    "Song": "Specter Land ~ Specter Circus",
+    "Composers": "Soichi Terada",
+    "Converters": "AbscondWithAPie",
+    "Category": "bgm",
+    "Audio": "https://youtu.be/5-1ygsGoSno",
+    "Tags": [
+      "Lobbies and Shops",
+      "Minigames",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Tue Feb 04 2025 20:40:41 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Ape Escape/Specter Land ~ Specter Circus.bin",
+    "Duration": 104.48268398750002
+  },
+  {
+    "Game": "Donkey Kong Country",
+    "Song": "Life in the Mines",
+    "Composers": "David Wise",
+    "Converters": "cdh90",
+    "Category": "bgm",
+    "Tags": [
+      "Interiors",
+      "Gloomy",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Tue Feb 04 2025 20:40:41 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Donkey%20Kong%20Country/Life%20in%20the%20Mines.mp3",
+    "Binary": "binaries/Donkey Kong Country/Life in the Mines.bin",
+    "Duration": 133.88379468750003
+  },
+  {
+    "Game": "Ape Escape",
+    "Song": "Oceana ~ Crabby Beach",
+    "Composers": "Soichi Terada",
+    "Converters": "AbscondWithAPie",
+    "Category": "bgm",
+    "Audio": "https://www.youtube.com/watch?v=c9T99F_shqg",
+    "Tags": [
+      "Exteriors",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Tue Feb 04 2025 20:40:42 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Ape Escape/Oceana ~ Crabby Beach.bin",
+    "Duration": 169.408738825
   }
 ]
