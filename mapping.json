@@ -35614,5 +35614,37 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Pizza%20Tower/dont%20preheat%20your%20oven%20because%20if%20you%20do%20the%20song%20wont%20play.mp3",
     "Binary": "binaries/Pizza Tower/dont preheat your oven because if you do the song wont play.bin",
     "Duration": 168.95999999999998
+  },
+  {
+    "Game": "Super Mario Kart",
+    "Song": "Rainbow Road",
+    "Composers": "Soyo Oka",
+    "Converters": "Altermentality",
+    "Category": "bgm",
+    "Audio": "https://youtu.be/nvnlMmwf6os",
+    "Tags": [
+      "Minigames",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Thu Feb 06 2025 01:36:24 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Super Mario Kart/Rainbow Road (REV 1).bin",
+    "Duration": 55.705600000000004
+  },
+  {
+    "Game": "Ape Escape",
+    "Song": "Specter Land ~ Welcome",
+    "Composers": "Soichi Terada",
+    "Converters": "AbscondWithAPie",
+    "Category": "bgm",
+    "Audio": "https://www.youtube.com/watch?v=KwnU-3_gxvo",
+    "Tags": [
+      "Interiors",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Thu Feb 06 2025 01:36:24 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Ape Escape/Specter Land ~ Welcome.bin",
+    "Duration": 152.72581154583332
   }
 ]
