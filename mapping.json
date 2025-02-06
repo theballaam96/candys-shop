@@ -35597,5 +35597,22 @@
     "Date": "Tue Feb 04 2025 20:40:42 GMT+0000 (Coordinated Universal Time)",
     "Binary": "binaries/Ape Escape/Oceana ~ Crabby Beach.bin",
     "Duration": 169.408738825
+  },
+  {
+    "Game": "Pizza Tower",
+    "Song": "dont preheat your oven because if you do the song wont play",
+    "Composers": "ClascyJitto",
+    "Converters": "Cmellz",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors",
+      "Happy",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Thu Feb 06 2025 01:34:05 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Pizza%20Tower/dont%20preheat%20your%20oven%20because%20if%20you%20do%20the%20song%20wont%20play.mp3",
+    "Binary": "binaries/Pizza Tower/dont preheat your oven because if you do the song wont play.bin",
+    "Duration": 168.95999999999998
   }
 ]
