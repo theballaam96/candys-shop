@@ -35663,5 +35663,54 @@
     "Date": "Sat Feb 08 2025 09:50:20 GMT+0000 (Coordinated Universal Time)",
     "Binary": "binaries/Metroid Zero Mission/Title Screen.bin",
     "Duration": 103.5786359375
+  },
+  {
+    "Game": "Super Mario Kart",
+    "Song": "Mario Circuit",
+    "Composers": "Soyo Oka",
+    "Converters": "Altermentality",
+    "Category": "bgm",
+    "Audio": "https://youtu.be/yxP1tNQXyPE",
+    "Tags": [
+      "Minigames",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Sat Feb 08 2025 22:56:41 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Super Mario Kart/Mario Circuit.bin",
+    "Duration": 36.37095408333334
+  },
+  {
+    "Game": "Joe & Mac",
+    "Song": "Through the Jungle",
+    "Composers": "Seiichi Hanada, Min-Key Momo, Takafumi Miura, \"Z\" Yamanaka",
+    "Converters": "iveli_alpaca",
+    "Category": "bgm",
+    "Audio": "https://www.youtube.com/watch?v=qi7ijWBD6Mk",
+    "Tags": [
+      "Exteriors",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Sat Feb 08 2025 22:56:42 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Joe  Mac/Through the Jungle.bin",
+    "Duration": 70.99475911458333
+  },
+  {
+    "Game": "UFO 50",
+    "Song": "Mini & Max - Book",
+    "Composers": "Erik Suhrke",
+    "Converters": "BashPrime",
+    "Category": "bgm",
+    "Tags": [
+      "Lobbies and Shops",
+      "Interiors",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Sat Feb 08 2025 22:56:43 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/UFO%2050/Mini%20%20Max%20-%20Book.mp3",
+    "Binary": "binaries/UFO 50/Mini  Max - Book.bin",
+    "Duration": 25.625
   }
 ]
