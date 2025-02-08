@@ -35646,5 +35646,22 @@
     "Date": "Thu Feb 06 2025 01:36:24 GMT+0000 (Coordinated Universal Time)",
     "Binary": "binaries/Ape Escape/Specter Land ~ Welcome.bin",
     "Duration": 152.72581154583332
+  },
+  {
+    "Game": "Metroid: Zero Mission",
+    "Song": "Title Screen",
+    "Composers": "Hirokazu Tanaka, Kenji Yamamoto, Minako Hamano",
+    "Converters": "BashPrime",
+    "Category": "bgm",
+    "Audio": "https://www.youtube.com/watch?v=DLhN1jizBYc",
+    "Additional Notes": "Based on the original game's arrangement, ripped with VG Music Studio",
+    "Tags": [
+      "Exteriors",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Sat Feb 08 2025 09:50:20 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Metroid Zero Mission/Title Screen.bin",
+    "Duration": 103.5786359375
   }
 ]
