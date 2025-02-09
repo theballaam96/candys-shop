@@ -35712,5 +35712,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/UFO%2050/Mini%20%20Max%20-%20Book.mp3",
     "Binary": "binaries/UFO 50/Mini  Max - Book.bin",
     "Duration": 25.625
+  },
+  {
+    "Game": "Mario Party 3",
+    "Song": "Fighting Spirit",
+    "Composers": "Ichiro Shimakura",
+    "Converters": "Altermentality",
+    "Category": "bgm",
+    "Audio": "https://youtu.be/pn2Auu3cWow",
+    "Tags": [
+      "Minigames",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Sun Feb 09 2025 21:05:04 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Mario Party 3/Fighting Spirit.bin",
+    "Duration": 34.284123083333334
   }
 ]
