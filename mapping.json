@@ -35797,5 +35797,22 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Golden%20Sun/Item%20Get.mp3",
     "Binary": "binaries/Golden Sun/Item Get.bin",
     "Duration": 2.9166666666666665
+  },
+  {
+    "Game": "Golden Sun",
+    "Song": "File Select",
+    "Composers": "Motoi Sakuraba",
+    "Converters": "MiaSchemes",
+    "Category": "bgm",
+    "Tags": [
+      "Lobbies and Shops",
+      "Interiors",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Tue Feb 11 2025 04:02:43 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Golden%20Sun/File%20Select.mp3",
+    "Binary": "binaries/Golden Sun/File Select.bin",
+    "Duration": 86.643431875
   }
 ]
