@@ -35781,5 +35781,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Golden%20Sun/Level-up%20Jingle.mp3",
     "Binary": "binaries/Golden Sun/Level-up Jingle.bin",
     "Duration": 1.9791666666666667
+  },
+  {
+    "Game": "Golden Sun",
+    "Song": "Item Get",
+    "Composers": "Motoi Sakuraba",
+    "Converters": "MiaSchemes",
+    "Category": "majoritems",
+    "Tags": [
+      "Spawning",
+      "Collection"
+    ],
+    "Verified": true,
+    "Date": "Tue Feb 11 2025 03:58:45 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Golden%20Sun/Item%20Get.mp3",
+    "Binary": "binaries/Golden Sun/Item Get.bin",
+    "Duration": 2.9166666666666665
   }
 ]
