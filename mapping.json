@@ -35765,5 +35765,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Rayman%203%20Hoodlum%20Havoc/Fairy%20Council.mp3",
     "Binary": "binaries/Rayman 3 Hoodlum Havoc/Fairy Council.bin",
     "Duration": 72
+  },
+  {
+    "Game": "Golden Sun",
+    "Song": "Level-up Jingle",
+    "Composers": "Motoi Sakuraba",
+    "Converters": "MiaSchemes",
+    "Category": "majoritems",
+    "Tags": [
+      "Spawning",
+      "Collection"
+    ],
+    "Verified": true,
+    "Date": "Tue Feb 11 2025 02:18:47 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Golden%20Sun/Level-up%20Jingle.mp3",
+    "Binary": "binaries/Golden Sun/Level-up Jingle.bin",
+    "Duration": 1.9791666666666667
   }
 ]
