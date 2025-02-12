@@ -35898,5 +35898,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Kingdom%20Hearts%20II/Tension%20Rising.mp3",
     "Binary": "binaries/Kingdom Hearts II/Tension Rising.bin",
     "Duration": 78.86599256250001
+  },
+  {
+    "Game": "Ace Attorney Investigations 2: Prosecutor's Gambit",
+    "Song": "Pursuit ~ Wanting to Find the Truth (Variant A)",
+    "Composers": "Noriyuki Iwadare",
+    "Converters": "Cash Money",
+    "Category": "bgm",
+    "Tags": [
+      "Fights",
+      "Minigames"
+    ],
+    "Verified": true,
+    "Date": "Wed Feb 12 2025 02:41:53 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Ace%20Attorney%20Investigations%202%20Prosecutors%20Gambit/Pursuit%20~%20Wanting%20to%20Find%20the%20Truth%20(Variant%20A).mp3",
+    "Binary": "binaries/Ace Attorney Investigations 2 Prosecutors Gambit/Pursuit ~ Wanting to Find the Truth (Variant A).bin",
+    "Duration": 71.42115952083334
   }
 ]
