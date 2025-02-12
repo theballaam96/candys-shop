@@ -35830,5 +35830,57 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Super%20Mario%2064/Bowsers%20Road%20(REV%201).mp3",
     "Binary": "binaries/Super Mario 64/Bowsers Road (REV 1).bin",
     "Duration": 71.11104
+  },
+  {
+    "Game": "Golden Sun",
+    "Song": "The Elemental Stars",
+    "Composers": "Motoi Sakuraba",
+    "Converters": "MiaSchemes",
+    "Category": "bgm",
+    "Tags": [
+      "Lobbies and Shops",
+      "Interiors",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Wed Feb 12 2025 01:41:40 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Golden%20Sun/The%20Elemental%20Stars.mp3",
+    "Binary": "binaries/Golden Sun/The Elemental Stars.bin",
+    "Duration": 91.63190779166666
+  },
+  {
+    "Game": "Touhou Kaeidzuka ~ Phantasmagoria of Flower View",
+    "Song": "Wind God Girl (Short Version)",
+    "Category": "bgm",
+    "Composers": "ZUN",
+    "Converters": "Schwartz Gandhi",
+    "Tags": [
+      "Fights",
+      "Happy"
+    ],
+    "Additional Notes": "ayayayaya",
+    "Verified": true,
+    "Date": "Wed Feb 12 2025 01:41:41 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Touhou%20Kaeidzuka%20~%20Phantasmagoria%20of%20Flower%20View/Wind%20God%20Girl%20(Short%20Version).mp3",
+    "Binary": "binaries/Touhou Kaeidzuka ~ Phantasmagoria of Flower View/Wind God Girl (Short Version).bin",
+    "Duration": 175.8083725729167
+  },
+  {
+    "Game": "Sonic 3D Blast",
+    "Song": "Panic Puppet Zone (Act 1)",
+    "Composers": "Jun Senoue, Tatsuyuki Maeda",
+    "Converters": "The Sound Defense",
+    "Category": "bgm",
+    "Additional Notes": "Near the end of the loop, it sounds like the song has accidentally continued for a half a measure, but this is in fact faithful to the original song.",
+    "Tags": [
+      "Interiors",
+      "Exteriors",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Wed Feb 12 2025 01:41:41 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Sonic%203D%20Blast/Panic%20Puppet%20Zone%20(Act%201).mp3",
+    "Binary": "binaries/Sonic 3D Blast/Panic Puppet Zone (Act 1).bin",
+    "Duration": 106.4
   }
 ]
