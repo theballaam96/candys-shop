@@ -35814,5 +35814,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Golden%20Sun/File%20Select.mp3",
     "Binary": "binaries/Golden Sun/File Select.bin",
     "Duration": 86.643431875
+  },
+  {
+    "Game": "Super Mario 64",
+    "Song": "Bowser's Road",
+    "Composers": "Koji Kondo",
+    "Converters": "UmedMuzl",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Wed Feb 12 2025 01:37:14 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Super%20Mario%2064/Bowsers%20Road%20(REV%201).mp3",
+    "Binary": "binaries/Super Mario 64/Bowsers Road (REV 1).bin",
+    "Duration": 71.11104
   }
 ]
