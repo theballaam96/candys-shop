@@ -35914,5 +35914,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Ace%20Attorney%20Investigations%202%20Prosecutors%20Gambit/Pursuit%20~%20Wanting%20to%20Find%20the%20Truth%20(Variant%20A).mp3",
     "Binary": "binaries/Ace Attorney Investigations 2 Prosecutors Gambit/Pursuit ~ Wanting to Find the Truth (Variant A).bin",
     "Duration": 71.42115952083334
+  },
+  {
+    "Game": "Crypt of the NecroDancer",
+    "Song": "King Conga Kappa",
+    "Category": "bgm",
+    "Composers": "Danny Baranowsky",
+    "Converters": "Schwartz Gandhi",
+    "Tags": [
+      "Fights",
+      "Minigames"
+    ],
+    "Verified": true,
+    "Date": "Thu Feb 13 2025 02:03:51 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Crypt%20of%20the%20NecroDancer/King%20Conga%20Kappa.mp3",
+    "Binary": "binaries/Crypt of the NecroDancer/King Conga Kappa.bin",
+    "Duration": 48
   }
 ]
