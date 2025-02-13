@@ -35930,5 +35930,80 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Crypt%20of%20the%20NecroDancer/King%20Conga%20Kappa.mp3",
     "Binary": "binaries/Crypt of the NecroDancer/King Conga Kappa.bin",
     "Duration": 48
+  },
+  {
+    "Game": "9 Hours, 9 Persons, 9 Doors",
+    "Song": "Septenary Game",
+    "Category": "bgm",
+    "Composers": "Shinji Hosoe",
+    "Converters": "Schwartz Gandhi",
+    "Tags": [
+      "Interiors"
+    ],
+    "Verified": true,
+    "Date": "Thu Feb 13 2025 02:12:36 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/9%20Hours,%209%20Persons,%209%20Doors/Septenary%20Game.mp3",
+    "Binary": "binaries/9 Hours, 9 Persons, 9 Doors/Septenary Game.bin",
+    "Duration": 138.66534711041666
+  },
+  {
+    "Game": "Streets of Rage",
+    "Song": "Attack the Barbarian",
+    "Composers": "Yuzo Koshiro",
+    "Converters": "Wibdiwoh",
+    "Category": "bgm",
+    "Tags": [
+      "Fights"
+    ],
+    "Verified": true,
+    "Date": "Thu Feb 13 2025 02:12:37 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Streets%20of%20Rage/Attack%20the%20Barbarian.mp3",
+    "Binary": "binaries/Streets of Rage/Attack the Barbarian.bin",
+    "Duration": 97.067776
+  },
+  {
+    "Game": "Streets of Rage",
+    "Song": "Fighting in the Street",
+    "Composers": "Yuzo Koshiro",
+    "Converters": "Wibdiwoh",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors"
+    ],
+    "Verified": true,
+    "Date": "Thu Feb 13 2025 02:12:37 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Streets%20of%20Rage/Fighting%20in%20the%20Street.mp3",
+    "Binary": "binaries/Streets of Rage/Fighting in the Street.bin",
+    "Duration": 142.218292
+  },
+  {
+    "Game": "Streets of Rage",
+    "Song": "Player Select",
+    "Composers": "Yuzo Koshiro",
+    "Converters": "Wibdiwoh",
+    "Category": "bgm",
+    "Tags": [
+      "Lobbies and Shops"
+    ],
+    "Verified": true,
+    "Date": "Thu Feb 13 2025 02:12:38 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Streets%20of%20Rage/Player%20Select.mp3",
+    "Binary": "binaries/Streets of Rage/Player Select.bin",
+    "Duration": 19.75625
+  },
+  {
+    "Game": "Streets of Rage",
+    "Song": "The Street of Rage",
+    "Composers": "Yuzo Koshiro",
+    "Converters": "Wibdiwoh",
+    "Category": "bgm",
+    "Tags": [
+      "Interiors"
+    ],
+    "Verified": true,
+    "Date": "Thu Feb 13 2025 02:12:38 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Streets%20of%20Rage/The%20Street%20of%20Rage.mp3",
+    "Binary": "binaries/Streets of Rage/The Street of Rage.bin",
+    "Duration": 91.19375000000001
   }
 ]
