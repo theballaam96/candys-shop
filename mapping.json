@@ -36218,5 +36218,20 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Ace%20Attorney%20Investigations%20Miles%20Edgeworth/Tyrell%20Badd%20~%20The%20Truth%20Isnt%20Sweet.mp3",
     "Binary": "binaries/Ace Attorney Investigations Miles Edgeworth/Tyrell Badd ~ The Truth Isnt Sweet.bin",
     "Duration": 90.352896
+  },
+  {
+    "Game": "Sonic the Hedgehog 2",
+    "Song": "Casino Night (2P)",
+    "Composers": "Masato Nakamura",
+    "Converters": "Wibdiwoh",
+    "Category": "bgm",
+    "Tags": [
+      "Interiors"
+    ],
+    "Verified": true,
+    "Date": "Sat Feb 15 2025 21:26:21 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Sonic%20the%20Hedgehog%202/Casino%20Night%20(2P).mp3",
+    "Binary": "binaries/Sonic the Hedgehog 2/Casino Night (2P).bin",
+    "Duration": 45.51097664583333
   }
 ]
