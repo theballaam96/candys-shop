@@ -36023,5 +36023,186 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Sonic%20%20Knuckles/Death%20Egg%20Zone%20(Act%202).mp3",
     "Binary": "binaries/Sonic  Knuckles/Death Egg Zone (Act 2).bin",
     "Duration": 40.13878306875
+  },
+  {
+    "Game": "Golden Sun",
+    "Song": "Party Join",
+    "Composers": "Motoi Sakuraba",
+    "Converters": "MiaSchemes",
+    "Category": "majoritems",
+    "Tags": [
+      "Spawning",
+      "Collection"
+    ],
+    "Verified": true,
+    "Date": "Sat Feb 15 2025 01:42:36 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Golden%20Sun/Party%20Join.mp3",
+    "Binary": "binaries/Golden Sun/Party Join.bin",
+    "Duration": 3.4765625
+  },
+  {
+    "Game": "Ace Attorney Investigations 2: Prosecutor's Gambit",
+    "Song": "Eddie Fender ~ Wisecracking Candor",
+    "Composers": "Noriyuki Iwadare",
+    "Converters": "Cash Money",
+    "Category": "bgm",
+    "Tags": [
+      "Lobbies and Shops",
+      "Interiors",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Sat Feb 15 2025 01:42:37 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Ace%20Attorney%20Investigations%202%20Prosecutors%20Gambit/Eddie%20Fender%20~%20Wisecracking%20Candor.mp3",
+    "Binary": "binaries/Ace Attorney Investigations 2 Prosecutors Gambit/Eddie Fender ~ Wisecracking Candor.bin",
+    "Duration": 140.307552
+  },
+  {
+    "Game": "Yoshi's Story",
+    "Song": "Goal!!",
+    "Composers": "Kazumi Totaka",
+    "Converters": "SirEnobMort",
+    "Category": "events",
+    "Tags": [
+      "Minigames",
+      "Spawning",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Sat Feb 15 2025 01:42:37 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Yoshis%20Story/Goal.mp3",
+    "Binary": "binaries/Yoshis Story/Goal.bin",
+    "Duration": 4.245044375
+  },
+  {
+    "Game": "Yoshi's Story",
+    "Song": "Yoshi's Disco",
+    "Composers": "Kazumi Totaka",
+    "Converters": "SirEnobMort",
+    "Category": "bgm",
+    "Tags": [
+      "Lobbies and Shops",
+      "Interiors",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Sat Feb 15 2025 01:42:38 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Yoshis%20Story/Yoshis%20Disco.mp3",
+    "Binary": "binaries/Yoshis Story/Yoshis Disco.bin",
+    "Duration": 69.80687635416668
+  },
+  {
+    "Game": "Yoshi's Story",
+    "Song": "Yoshi's Story",
+    "Composers": "Kazumi Totaka",
+    "Converters": "SirEnobMort",
+    "Category": "bgm",
+    "Tags": [
+      "Lobbies and Shops",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Sat Feb 15 2025 01:42:38 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Yoshis%20Story/Yoshis%20Story.mp3",
+    "Binary": "binaries/Yoshis Story/Yoshis Story.bin",
+    "Duration": 37.06301739583334
+  },
+  {
+    "Game": "Yoshi's Story",
+    "Song": "Obtaining 7 Melons!",
+    "Composers": "Kazumi Totaka",
+    "Converters": "SirEnobMort",
+    "Category": "events",
+    "Tags": [
+      "Spawning",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Sat Feb 15 2025 01:42:39 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Yoshis%20Story/Obtaining%207%20Melons.mp3",
+    "Binary": "binaries/Yoshis Story/Obtaining 7 Melons.bin",
+    "Duration": 5.3509561875
+  },
+  {
+    "Game": "Yoshi's Story",
+    "Song": "Victory",
+    "Composers": "Kazumi Totaka",
+    "Converters": "SirEnobMort",
+    "Category": "majoritems",
+    "Tags": [
+      "Collection",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Sat Feb 15 2025 01:42:39 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Yoshis%20Story/Victory.mp3",
+    "Binary": "binaries/Yoshis Story/Victory.bin",
+    "Duration": 1.7740366874999998
+  },
+  {
+    "Game": "Yoshi's Story",
+    "Song": "Aim for the 7 Melons",
+    "Composers": "Kazumi Totaka",
+    "Converters": "SirEnobMort",
+    "Category": "bgm",
+    "Tags": [
+      "Minigames",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Sat Feb 15 2025 01:42:40 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Yoshis%20Story/Aim%20for%20the%207%20Melons.mp3",
+    "Binary": "binaries/Yoshis Story/Aim for the 7 Melons.bin",
+    "Duration": 37.2888140625
+  },
+  {
+    "Game": "Sonic & Knuckles",
+    "Song": "Death Egg Zone (Act 1)",
+    "Composers": "Masanori Hikichi",
+    "Converters": "The Sound Defense",
+    "Category": "bgm",
+    "Tags": [
+      "Fights",
+      "Interiors",
+      "Exteriors",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Sat Feb 15 2025 01:42:40 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Sonic%20%20Knuckles/Death%20Egg%20Zone%20(Act%201).mp3",
+    "Binary": "binaries/Sonic  Knuckles/Death Egg Zone (Act 1).bin",
+    "Duration": 40.13878306875
+  },
+  {
+    "Game": "Tetris DS",
+    "Song": "Pushing Toward Victory",
+    "Composers": "Minako Hamano, Akira Fujiwara",
+    "Converters": "SirEnobMort",
+    "Category": "bgm",
+    "Tags": [
+      "Minigames",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Sat Feb 15 2025 01:42:41 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Tetris%20DS/Pushing%20Toward%20Victory.mp3",
+    "Binary": "binaries/Tetris DS/Pushing Toward Victory.bin",
+    "Duration": 48
+  },
+  {
+    "Game": "Pokémon Stadium 2",
+    "Song": "Challenge Cup Final Battle 2",
+    "Composers": "Hajime Wakai",
+    "Converters": "LBFrank",
+    "Category": "bgm",
+    "Tags": [
+      "Fights",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Sat Feb 15 2025 01:42:42 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Pok%C3%A9mon%20Stadium%202/Challenge%20Cup%20Final%20Battle%202.mp3",
+    "Binary": "binaries/Pokémon Stadium 2/Challenge Cup Final Battle 2.bin",
+    "Duration": 76.956414
   }
 ]
