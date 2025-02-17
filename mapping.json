@@ -36249,5 +36249,38 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Super%20Smash%20Bros/Yoshi%20Wins.mp3",
     "Binary": "binaries/Super Smash Bros/Yoshi Wins.bin",
     "Duration": 8.198532281250001
+  },
+  {
+    "Game": "Super Smash Bros.",
+    "Song": "DK Wins!",
+    "Composers": "Hirokazu Ando",
+    "Converters": "SirEnobMort",
+    "Category": "events",
+    "Tags": [
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Mon Feb 17 2025 12:34:16 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Super%20Smash%20Bros/DK%20Wins.mp3",
+    "Binary": "binaries/Super Smash Bros/DK Wins.bin",
+    "Duration": 6.485144083333333
+  },
+  {
+    "Game": "Yoshi's Story",
+    "Song": "Ending Story",
+    "Composers": "Kazumi Totaka",
+    "Converters": "SirEnobMort",
+    "Category": "bgm",
+    "Update Notes": "🍊🍈❤️🍇🍍",
+    "Tags": [
+      "Interiors",
+      "Exteriors",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Mon Feb 17 2025 12:34:17 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Yoshis%20Story/Ending%20Story.mp3",
+    "Binary": "binaries/Yoshis Story/Ending Story.bin",
+    "Duration": 214.2262749166666
   }
 ]
