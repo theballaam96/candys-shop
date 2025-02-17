@@ -36282,5 +36282,22 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Yoshis%20Story/Ending%20Story.mp3",
     "Binary": "binaries/Yoshis Story/Ending Story.bin",
     "Duration": 214.2262749166666
+  },
+  {
+    "Game": "Pokémon Stadium 2",
+    "Song": "Team Rocket Battle",
+    "Composers": "Hajime Wakai",
+    "Converters": "LBFrank",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors",
+      "Minigames",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Mon Feb 17 2025 22:32:36 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Pok%C3%A9mon%20Stadium%202/Team%20Rocket%20Battle.mp3",
+    "Binary": "binaries/Pokémon Stadium 2/Team Rocket Battle.bin",
+    "Duration": 74.48274
   }
 ]
