@@ -36233,5 +36233,21 @@
     "Audio": "https://www.youtube.com/watch?v=oOL8SUAQzX8",
     "Binary": "binaries/Sonic the Hedgehog 2/Casino Night (2P).bin",
     "Duration": 45.51097664583333
+  },
+  {
+    "Game": "Super Smash Bros.",
+    "Song": "Yoshi Wins!",
+    "Composers": "Hirokazu Ando",
+    "Converters": "SirEnobMort",
+    "Category": "events",
+    "Tags": [
+      "Spawning",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Mon Feb 17 2025 12:31:36 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Super%20Smash%20Bros/Yoshi%20Wins.mp3",
+    "Binary": "binaries/Super Smash Bros/Yoshi Wins.bin",
+    "Duration": 8.198532281250001
   }
 ]
