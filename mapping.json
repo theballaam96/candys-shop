@@ -36299,5 +36299,22 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Pok%C3%A9mon%20Stadium%202/Team%20Rocket%20Battle.mp3",
     "Binary": "binaries/Pokémon Stadium 2/Team Rocket Battle.bin",
     "Duration": 74.48274
+  },
+  {
+    "Game": "Octopath Traveler",
+    "Song": "Battle 1",
+    "Composers": "Yasunori Nishiki",
+    "Converters": "cdh90",
+    "Category": "bgm",
+    "Tags": [
+      "Fights",
+      "Minigames",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Wed Feb 19 2025 13:26:11 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Octopath%20Traveler/Battle%201.mp3",
+    "Binary": "binaries/Octopath Traveler/Battle 1.bin",
+    "Duration": 89.23692375
   }
 ]
