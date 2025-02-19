@@ -36365,5 +36365,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Spyro%20the%20Dragon/Wizard%20Peak.mp3",
     "Binary": "binaries/Spyro the Dragon/Wizard Peak.bin",
     "Duration": 90.02083333333333
+  },
+  {
+    "Game": "Final Fantasy VIII",
+    "Song": "Force Your Way",
+    "Composers": "Nobuo Uematsu",
+    "Converters": "OnlySpaghettiCode",
+    "Category": "bgm",
+    "Tags": [
+      "Fights",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Wed Feb 19 2025 21:31:20 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Final%20Fantasy%20VIII/Force%20Your%20Way.mp3",
+    "Binary": "binaries/Final Fantasy VIII/Force Your Way.bin",
+    "Duration": 118.97852185416669
   }
 ]
