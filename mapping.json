@@ -36316,5 +36316,54 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Octopath%20Traveler/Battle%201.mp3",
     "Binary": "binaries/Octopath Traveler/Battle 1.bin",
     "Duration": 89.23692375
+  },
+  {
+    "Game": "Ace Attorney Investigations 2: Prosecutor's Gambit",
+    "Song": "Pursuit ~ Wanting to Find the Truth (Variant A)",
+    "Composers": "Noriyuki Iwadare",
+    "Converters": "Cash Money",
+    "Category": "bgm",
+    "Update Notes": "Improved percussion, added pitchwheel modulation, using game audio recording as preview",
+    "Tags": [
+      "Fights",
+      "Minigames"
+    ],
+    "Verified": true,
+    "Date": "Wed Feb 19 2025 13:41:47 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Ace%20Attorney%20Investigations%202%20Prosecutors%20Gambit/Pursuit%20~%20Wanting%20to%20Find%20the%20Truth%20(Variant%20A)%20(REV%201).mp3",
+    "Binary": "binaries/Ace Attorney Investigations 2 Prosecutors Gambit/Pursuit ~ Wanting to Find the Truth (Variant A) (REV 1).bin",
+    "Duration": 71.42115952083334
+  },
+  {
+    "Game": "Chameleon Twist",
+    "Song": "Ghost Castle",
+    "Composers": "Takashi Sugioka, Takashi Makino, Yuuji Nakao, Nobutoshi Ichimiya, Koki Tochio, Tsutomu Washijima, Hiroshi Takami, Fumihiko Yamada",
+    "Converters": "The Specialize",
+    "Category": "bgm",
+    "Audio": "https://www.youtube.com/watch?v=0EMWpkn7ZcQ",
+    "Tags": [
+      "Exteriors",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Wed Feb 19 2025 13:41:48 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Chameleon Twist/Ghost Castle.bin",
+    "Duration": 81.391284
+  },
+  {
+    "Game": "Spyro the Dragon",
+    "Song": "Wizard Peak",
+    "Composers": "Stewart Copeland",
+    "Converters": "cdh90",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Wed Feb 19 2025 13:41:49 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Spyro%20the%20Dragon/Wizard%20Peak.mp3",
+    "Binary": "binaries/Spyro the Dragon/Wizard Peak.bin",
+    "Duration": 90.02083333333333
   }
 ]
