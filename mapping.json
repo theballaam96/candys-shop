@@ -36381,5 +36381,22 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Final%20Fantasy%20VIII/Force%20Your%20Way.mp3",
     "Binary": "binaries/Final Fantasy VIII/Force Your Way.bin",
     "Duration": 118.97852185416669
+  },
+  {
+    "Game": "Mario & Luigi: Bowser's Inside Story",
+    "Song": "Fawful is There",
+    "Composers": "Yoko Shimomura",
+    "Converters": "OnlySpaghettiCode",
+    "Category": "bgm",
+    "Tags": [
+      "Lobbies and Shops",
+      "Interiors",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Sat Feb 22 2025 09:01:04 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Mario%20%20Luigi%20Bowsers%20Inside%20Story/Fawful%20is%20There.mp3",
+    "Binary": "binaries/Mario  Luigi Bowsers Inside Story/Fawful is There.bin",
+    "Duration": 41.279720625
   }
 ]
