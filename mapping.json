@@ -36398,5 +36398,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Mario%20%20Luigi%20Bowsers%20Inside%20Story/Fawful%20is%20There.mp3",
     "Binary": "binaries/Mario  Luigi Bowsers Inside Story/Fawful is There.bin",
     "Duration": 41.279720625
+  },
+  {
+    "Game": "Donkey Kong Country 3: Dixie Kong's Double Trouble!",
+    "Song": "Stilt Village",
+    "Composers": "Eveline Fischer",
+    "Converters": "Altermentality",
+    "Category": "bgm",
+    "Audio": "https://youtu.be/uJdO-vH00D4",
+    "Tags": [
+      "Exteriors",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Sat Feb 22 2025 09:55:55 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Donkey Kong Country 3 Dixie Kongs Double Trouble/Stilt Village.bin",
+    "Duration": 76.325
   }
 ]
