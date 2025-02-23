@@ -36431,5 +36431,53 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Donkey%20Kong%20Country%203%20Dixie%20Kongs%20Double%20Trouble/Showdown%20Win.mp3",
     "Binary": "binaries/Donkey Kong Country 3 Dixie Kongs Double Trouble/Showdown Win.bin",
     "Duration": 4.9624999999999995
+  },
+  {
+    "Game": "Donkey Kong Country 3: Dixie Kong's Double Trouble!",
+    "Song": "Showdown Lose",
+    "Composers": "Eveline Fischer",
+    "Converters": "Altermentality",
+    "Category": "events",
+    "Tags": [
+      "Spawning",
+      "Collection",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Sun Feb 23 2025 04:28:05 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Donkey%20Kong%20Country%203%20Dixie%20Kongs%20Double%20Trouble/Showdown%20Lose.mp3",
+    "Binary": "binaries/Donkey Kong Country 3 Dixie Kongs Double Trouble/Showdown Lose.bin",
+    "Duration": 7.025
+  },
+  {
+    "Game": "Iggy's Reckin' Balls",
+    "Song": "Title Screen",
+    "Composers": "Roy Wilkins",
+    "Converters": "The Specialize",
+    "Category": "bgm",
+    "Audio": "https://www.youtube.com/watch?v=ZGDDEBvUGIY",
+    "Tags": [
+      "Lobbies and Shops"
+    ],
+    "Verified": true,
+    "Date": "Sun Feb 23 2025 04:28:06 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Iggys Reckin Balls/Title Screen.bin",
+    "Duration": 78.80220465833334
+  },
+  {
+    "Game": "Donkey Kong Country 3: Dixie Kong's Double Trouble!",
+    "Song": "Brothers Bear",
+    "Composers": "Eveline Fischer",
+    "Converters": "Altermentality",
+    "Category": "bgm",
+    "Audio": "https://youtu.be/9mh7vGdgYFw",
+    "Tags": [
+      "Lobbies and Shops",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Sun Feb 23 2025 04:28:06 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Donkey Kong Country 3 Dixie Kongs Double Trouble/Brothers Bear.bin",
+    "Duration": 48.0625
   }
 ]
