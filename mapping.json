@@ -36479,5 +36479,22 @@
     "Date": "Sun Feb 23 2025 04:28:06 GMT+0000 (Coordinated Universal Time)",
     "Binary": "binaries/Donkey Kong Country 3 Dixie Kongs Double Trouble/Brothers Bear.bin",
     "Duration": 48.0625
+  },
+  {
+    "Game": "Arcaea",
+    "Song": "Singularity",
+    "Composers": "ETIA.",
+    "Converters": "AaronDobbe",
+    "Category": "bgm",
+    "Audio": "https://www.youtube.com/watch?v=8VwN2uCaZCU",
+    "Tags": [
+      "Fights",
+      "Minigames",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Mon Feb 24 2025 18:39:03 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Arcaea/Singularity.bin",
+    "Duration": 122.442806125
   }
 ]
