@@ -36496,5 +36496,38 @@
     "Date": "Mon Feb 24 2025 18:39:03 GMT+0000 (Coordinated Universal Time)",
     "Binary": "binaries/Arcaea/Singularity.bin",
     "Duration": 122.442806125
+  },
+  {
+    "Game": "The Legend of Zelda: Link's Awakening",
+    "Song": "Face Shrine (2019)",
+    "Composers": "Ryo Nagamatsu",
+    "Converters": "AbscondWithAPie, laggyninja",
+    "Category": "bgm",
+    "Audio": "https://youtu.be/TH8Reedqwi0",
+    "Additional Notes": "this song made me cry",
+    "Tags": [
+      "Exteriors",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Mon Feb 24 2025 18:41:42 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/The Legend of Zelda Links Awakening/Face Shrine (2019).bin",
+    "Duration": 102.85150764583334
+  },
+  {
+    "Game": "Chrono Trigger",
+    "Song": "Brink of Time",
+    "Composers": "Yasunori Mitsuda",
+    "Converters": "Wibdiwoh",
+    "Category": "bgm",
+    "Tags": [
+      "Interiors",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Mon Feb 24 2025 18:41:43 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Chrono%20Trigger/Brink%20of%20Time.mp3",
+    "Binary": "binaries/Chrono Trigger/Brink of Time.bin",
+    "Duration": 65.99583333333334
   }
 ]
