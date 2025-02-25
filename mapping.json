@@ -36529,5 +36529,22 @@
     "Audio": "https://www.youtube.com/watch?v=d1ZpeA7ucMw",
     "Binary": "binaries/Chrono Trigger/Brink of Time.bin",
     "Duration": 65.99583333333334
+  },
+  {
+    "Game": "Super Mario World 2: Yoshi's Island",
+    "Song": "Athletic",
+    "Composers": "Koji Kondo",
+    "Converters": "OnlySpaghettiCode",
+    "Category": "bgm",
+    "Update Notes": "Redid song since previous version was extremely old and had been delisted",
+    "Tags": [
+      "Exteriors",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Tue Feb 25 2025 17:28:51 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Super%20Mario%20World%202%20Yoshis%20Island/Athletic%20(REV%201).mp3",
+    "Binary": "binaries/Super Mario World 2 Yoshis Island/Athletic (REV 1).bin",
+    "Duration": 60.895496
   }
 ]
