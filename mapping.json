@@ -36563,5 +36563,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Super%20Castlevania%20IV/Stage%20Clear.mp3",
     "Binary": "binaries/Super Castlevania IV/Stage Clear.bin",
     "Duration": 3.7359999999999998
+  },
+  {
+    "Game": "Ys III: Wanderers from Ys",
+    "Song": "Ilvern Ruins",
+    "Composers": "Mieko Ishikawa",
+    "Converters": "AbscondWithAPie",
+    "Category": "bgm",
+    "Audio": "https://youtu.be/zCrvcuONvZM",
+    "Tags": [
+      "Exteriors",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Thu Feb 27 2025 08:53:35 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Ys III Wanderers from Ys/Ilvern Ruins.bin",
+    "Duration": 62.526037708333334
   }
 ]
