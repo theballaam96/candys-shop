@@ -36546,5 +36546,54 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Super%20Mario%20World%202%20Yoshis%20Island/Athletic%20(REV%201).mp3",
     "Binary": "binaries/Super Mario World 2 Yoshis Island/Athletic (REV 1).bin",
     "Duration": 60.895496
+  },
+  {
+    "Game": "Super Castlevania IV",
+    "Song": "Stage Clear",
+    "Composers": "Masanori Adachi, Taro Kudo",
+    "Converters": "Altermentality",
+    "Category": "events",
+    "Tags": [
+      "Spawning",
+      "Collection",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Thu Feb 27 2025 08:48:05 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Super%20Castlevania%20IV/Stage%20Clear.mp3",
+    "Binary": "binaries/Super Castlevania IV/Stage Clear.bin",
+    "Duration": 3.7359999999999998
+  },
+  {
+    "Game": "Ys III: Wanderers from Ys",
+    "Song": "Ilvern Ruins",
+    "Composers": "Mieko Ishikawa",
+    "Converters": "AbscondWithAPie",
+    "Category": "bgm",
+    "Audio": "https://youtu.be/zCrvcuONvZM",
+    "Tags": [
+      "Exteriors",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Thu Feb 27 2025 08:53:35 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Ys III Wanderers from Ys/Ilvern Ruins.bin",
+    "Duration": 62.526037708333334
+  },
+  {
+    "Game": "Mario Party 3",
+    "Song": "Aim",
+    "Composers": "Ichiro Shimakura",
+    "Converters": "Altermentality",
+    "Category": "bgm",
+    "Audio": "https://youtu.be/qUK7ocgiY2k",
+    "Tags": [
+      "Minigames",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Thu Feb 27 2025 08:55:16 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Mario Party 3/Aim.bin",
+    "Duration": 28.7221218375
   }
 ]
