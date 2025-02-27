@@ -36579,5 +36579,21 @@
     "Date": "Thu Feb 27 2025 08:53:35 GMT+0000 (Coordinated Universal Time)",
     "Binary": "binaries/Ys III Wanderers from Ys/Ilvern Ruins.bin",
     "Duration": 62.526037708333334
+  },
+  {
+    "Game": "Mario Party 3",
+    "Song": "Aim",
+    "Composers": "Ichiro Shimakura",
+    "Converters": "Altermentality",
+    "Category": "bgm",
+    "Audio": "https://youtu.be/qUK7ocgiY2k",
+    "Tags": [
+      "Minigames",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Thu Feb 27 2025 08:55:16 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Mario Party 3/Aim.bin",
+    "Duration": 28.7221218375
   }
 ]
