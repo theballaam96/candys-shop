@@ -597,6 +597,10 @@
    "Metal Gear Solid":{
       "icon":"https://i.imgur.com/b5Pug3Z.png"
    },
+   "Metal Gear Solid 3: Snake Eater":{
+      "icon":"https://i.imgur.com/KwGxmhz.png",
+      "short_name": "Metal Gear Solid 3"
+   },
    "Metal Slug 3":{
       "icon":"https://i.imgur.com/vuZ98E7.png"
    },
@@ -1185,6 +1189,9 @@
    },
    "The Room Tribute":{
       "icon":"https://i.imgur.com/rPPQg5V.png"
+   },
+   "The Sims":{
+      "icon":"https://i.imgur.com/eF7plQZ.png"
    },
    "The Town with No Name":{
       "icon":"https://i.imgur.com/fgBn8XA.png"
