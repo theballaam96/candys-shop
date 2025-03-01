@@ -36595,5 +36595,21 @@
     "Date": "Thu Feb 27 2025 08:55:16 GMT+0000 (Coordinated Universal Time)",
     "Binary": "binaries/Mario Party 3/Aim.bin",
     "Duration": 28.7221218375
+  },
+  {
+    "Game": "Chameleon Twist",
+    "Song": "Ant Land",
+    "Composers": "Takashi Sugioka, Takashi Makino, Yuuji Nakao, Nobutoshi Ichimiya, Koki Tochio, Tsutomu Washijima, Hiroshi Takami, Fumihiko Yamada",
+    "Converters": "The Specialize",
+    "Category": "bgm",
+    "Audio": "https://youtu.be/03zC3sk0Yeo",
+    "Tags": [
+      "Exteriors",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Sat Mar 01 2025 12:25:35 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Chameleon Twist/Ant Land.bin",
+    "Duration": 105.67784633333333
   }
 ]
