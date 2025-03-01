@@ -36611,5 +36611,125 @@
     "Date": "Sat Mar 01 2025 12:25:35 GMT+0000 (Coordinated Universal Time)",
     "Binary": "binaries/Chameleon Twist/Ant Land.bin",
     "Duration": 105.67784633333333
+  },
+  {
+    "Game": "Super Smash Bros.",
+    "Song": "Samus Wins!",
+    "Composers": "Hirokazu Ando",
+    "Converters": "SirEnobMort",
+    "Category": "events",
+    "Tags": [
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Sat Mar 01 2025 12:28:23 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Super%20Smash%20Bros/Samus%20Wins.mp3",
+    "Binary": "binaries/Super Smash Bros/Samus Wins.bin",
+    "Duration": 5.09375
+  },
+  {
+    "Game": "Super Smash Bros.",
+    "Song": "Pikachu/Jigglypuff Wins!",
+    "Composers": "Hirokazu Ando",
+    "Converters": "SirEnobMort",
+    "Category": "events",
+    "Tags": [
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Sat Mar 01 2025 12:28:23 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Super%20Smash%20Bros/PikachuJigglypuff%20Wins.mp3",
+    "Binary": "binaries/Super Smash Bros/PikachuJigglypuff Wins.bin",
+    "Duration": 6.2
+  },
+  {
+    "Game": "Super Smash Bros.",
+    "Song": "Mario/Luigi Wins!",
+    "Composers": "Hirokazu Ando",
+    "Converters": "SirEnobMort",
+    "Category": "events",
+    "Tags": [
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Sat Mar 01 2025 12:28:24 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Super%20Smash%20Bros/MarioLuigi%20Wins.mp3",
+    "Binary": "binaries/Super Smash Bros/MarioLuigi Wins.bin",
+    "Duration": 6.21198703125
+  },
+  {
+    "Game": "Super Smash Bros.",
+    "Song": "Link Wins!",
+    "Composers": "Hirokazu Ando",
+    "Converters": "SirEnobMort",
+    "Category": "events",
+    "Tags": [
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Sat Mar 01 2025 12:28:24 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Super%20Smash%20Bros/Link%20Wins.mp3",
+    "Binary": "binaries/Super Smash Bros/Link Wins.bin",
+    "Duration": 5.524632458333333
+  },
+  {
+    "Game": "Super Smash Bros.",
+    "Song": "Kirby Wins!",
+    "Composers": "Hirokazu Ando",
+    "Converters": "SirEnobMort",
+    "Category": "events",
+    "Tags": [
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Sat Mar 01 2025 12:28:25 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Super%20Smash%20Bros/Kirby%20Wins.mp3",
+    "Binary": "binaries/Super Smash Bros/Kirby Wins.bin",
+    "Duration": 3.53773125
+  },
+  {
+    "Game": "Super Smash Bros.",
+    "Song": "Fox Wins!",
+    "Composers": "Hirokazu Ando",
+    "Converters": "SirEnobMort",
+    "Category": "events",
+    "Tags": [
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Sat Mar 01 2025 12:28:25 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Super%20Smash%20Bros/Fox%20Wins.mp3",
+    "Binary": "binaries/Super Smash Bros/Fox Wins.bin",
+    "Duration": 5.402172562499999
+  },
+  {
+    "Game": "Super Smash Bros.",
+    "Song": "Ness Wins!",
+    "Composers": "Hirokazu Ando",
+    "Converters": "SirEnobMort",
+    "Category": "events",
+    "Tags": [
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Sat Mar 01 2025 12:28:26 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Super%20Smash%20Bros/Ness%20Wins.mp3",
+    "Binary": "binaries/Super Smash Bros/Ness Wins.bin",
+    "Duration": 6.503361208333333
+  },
+  {
+    "Game": "Super Smash Bros.",
+    "Song": "Captain Falcon Wins!",
+    "Composers": "Hirokazu Ando",
+    "Converters": "SirEnobMort",
+    "Category": "events",
+    "Tags": [
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Sat Mar 01 2025 12:28:26 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Super%20Smash%20Bros/Captain%20Falcon%20Wins.mp3",
+    "Binary": "binaries/Super Smash Bros/Captain Falcon Wins.bin",
+    "Duration": 5.115537906249999
   }
 ]
