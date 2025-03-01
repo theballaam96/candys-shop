@@ -36731,5 +36731,22 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Super%20Smash%20Bros/Captain%20Falcon%20Wins.mp3",
     "Binary": "binaries/Super Smash Bros/Captain Falcon Wins.bin",
     "Duration": 5.115537906249999
+  },
+  {
+    "Game": "The Sims",
+    "Song": "Buy Mode 1",
+    "Composers": "Jerry Martin",
+    "Converters": "AbscondWithAPie",
+    "Category": "bgm",
+    "Audio": "https://youtu.be/U39y9HdqlbA",
+    "Additional Notes": "thanks Revven",
+    "Tags": [
+      "Lobbies and Shops",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Sat Mar 01 2025 23:22:57 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/The Sims/Buy Mode 1.bin",
+    "Duration": 164.363472
   }
 ]
