@@ -36747,5 +36747,21 @@
     "Date": "Sat Mar 01 2025 23:22:57 GMT+0000 (Coordinated Universal Time)",
     "Binary": "binaries/The Sims/Buy Mode 1.bin",
     "Duration": 164.363472
+  },
+  {
+    "Game": "Metal Gear Solid 3: Snake Eater",
+    "Song": "Snake Eater",
+    "Composers": "Norihiko Hibino, Cynthia Harrell",
+    "Converters": "AbscondWithAPie",
+    "Category": "bgm",
+    "Audio": "https://www.youtube.com/watch?v=KjmP6Ev3ceE",
+    "Tags": [
+      "Exteriors",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Sun Mar 02 2025 00:04:36 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Metal Gear Solid 3 Snake Eater/Snake Eater.bin",
+    "Duration": 171.41675237500002
   }
 ]
