@@ -36795,5 +36795,21 @@
     "Date": "Mon Mar 03 2025 13:41:48 GMT+0000 (Coordinated Universal Time)",
     "Binary": "binaries/LEGO Island/Brick By Brick.bin",
     "Duration": 159.42751914375
+  },
+  {
+    "Game": "LEGO Island",
+    "Song": "Police Station",
+    "Composers": "Dave Barrows",
+    "Converters": "AbscondWithAPie",
+    "Category": "bgm",
+    "Audio": "https://youtu.be/cbRdwkg3og0",
+    "Tags": [
+      "Interiors",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Mon Mar 03 2025 13:43:30 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/LEGO Island/Police Station.bin",
+    "Duration": 56.612907
   }
 ]
