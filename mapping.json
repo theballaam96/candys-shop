@@ -36763,5 +36763,21 @@
     "Date": "Sun Mar 02 2025 00:04:36 GMT+0000 (Coordinated Universal Time)",
     "Binary": "binaries/Metal Gear Solid 3 Snake Eater/Snake Eater.bin",
     "Duration": 171.41675237500002
+  },
+  {
+    "Game": "Mario Party 3",
+    "Song": "What To Do?!?",
+    "Composers": "Ichiro Shimakura",
+    "Converters": "Altermentality",
+    "Category": "bgm",
+    "Audio": "https://www.youtube.com/watch?v=_F6hf-MLkus",
+    "Tags": [
+      "Minigames",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Mon Mar 03 2025 12:42:12 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Mario Party 3/What To Do.bin",
+    "Duration": 41.08102375000001
   }
 ]
