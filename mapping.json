@@ -36843,5 +36843,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Castlevania%20Aria%20of%20Sorrow/Demon%20Castle%20Top%20Floor.mp3",
     "Binary": "binaries/Castlevania Aria of Sorrow/Demon Castle Top Floor.bin",
     "Duration": 94.00349158333334
+  },
+  {
+    "Game": "LEGO Island",
+    "Song": "The Jail",
+    "Composers": "Lorin Nelson",
+    "Converters": "AbscondWithAPie",
+    "Category": "bgm",
+    "Audio": "https://youtu.be/KzgAH7srEto",
+    "Tags": [
+      "Interiors",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Wed Mar 05 2025 18:50:25 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/LEGO Island/The Jail.bin",
+    "Duration": 66.1875
   }
 ]
