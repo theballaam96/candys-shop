@@ -36811,5 +36811,21 @@
     "Date": "Mon Mar 03 2025 13:43:30 GMT+0000 (Coordinated Universal Time)",
     "Binary": "binaries/LEGO Island/Police Station.bin",
     "Duration": 56.612907
+  },
+  {
+    "Game": "Return of the Obra Dinn",
+    "Song": "Memento Mortem (Watch Theme)",
+    "Composers": "Lucas Pope",
+    "Converters": "Altermentality, AbscondWithAPie",
+    "Category": "majoritems",
+    "Tags": [
+      "Spawning",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Wed Mar 05 2025 15:00:57 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Return%20of%20the%20Obra%20Dinn/Memento%20Mortem%20(Watch%20Theme).mp3",
+    "Binary": "binaries/Return of the Obra Dinn/Memento Mortem (Watch Theme).bin",
+    "Duration": 2.9230739999999997
   }
 ]
