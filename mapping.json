@@ -36827,5 +36827,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Return%20of%20the%20Obra%20Dinn/Memento%20Mortem%20(Watch%20Theme).mp3",
     "Binary": "binaries/Return of the Obra Dinn/Memento Mortem (Watch Theme).bin",
     "Duration": 2.9230739999999997
+  },
+  {
+    "Game": "Castlevania: Aria of Sorrow",
+    "Song": "Demon Castle Top Floor",
+    "Category": "bgm",
+    "Composers": "Michiru Yamane",
+    "Converters": "Schwartz Gandhi",
+    "Tags": [
+      "Interiors",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Wed Mar 05 2025 15:04:15 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Castlevania%20Aria%20of%20Sorrow/Demon%20Castle%20Top%20Floor.mp3",
+    "Binary": "binaries/Castlevania Aria of Sorrow/Demon Castle Top Floor.bin",
+    "Duration": 94.00349158333334
   }
 ]
