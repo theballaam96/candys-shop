@@ -36875,5 +36875,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Sonic%20%20Knuckles/The%20Doomsday%20Zone.mp3",
     "Binary": "binaries/Sonic  Knuckles/The Doomsday Zone.bin",
     "Duration": 62.916717
+  },
+  {
+    "Game": "Tales of Symphonia",
+    "Song": "Dry Trail",
+    "Composers": "Motoi Sakuraba",
+    "Converters": "Megacannon",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Thu Mar 06 2025 22:50:15 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Tales%20of%20Symphonia/Dry%20Trail.wav",
+    "Binary": "binaries/Tales of Symphonia/Dry Trail.bin",
+    "Duration": 82.285632
   }
 ]
