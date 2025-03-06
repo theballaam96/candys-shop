@@ -36859,5 +36859,21 @@
     "Date": "Wed Mar 05 2025 18:50:25 GMT+0000 (Coordinated Universal Time)",
     "Binary": "binaries/LEGO Island/The Jail.bin",
     "Duration": 66.1875
+  },
+  {
+    "Game": "Sonic & Knuckles",
+    "Song": "The Doomsday Zone",
+    "Composers": "Howard Drossin, Jun Senoue",
+    "Converters": "The Sound Defense",
+    "Category": "bgm",
+    "Tags": [
+      "Fights",
+      "Minigames"
+    ],
+    "Verified": true,
+    "Date": "Thu Mar 06 2025 16:33:20 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Sonic%20%20Knuckles/The%20Doomsday%20Zone.mp3",
+    "Binary": "binaries/Sonic  Knuckles/The Doomsday Zone.bin",
+    "Duration": 62.916717
   }
 ]
