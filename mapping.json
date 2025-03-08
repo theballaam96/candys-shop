@@ -7360,8 +7360,7 @@
       "Exteriors",
       "Gloomy"
     ],
-    "Verified": true,
-    "Additional Notes": "Lyrics @ #music-discussion"
+    "Verified": true
   },
   {
     "Date": "Tue Aug 29 2023 10:15:29 GMT-0500 (Central Daylight Time)",
@@ -8014,7 +8013,7 @@
   {
     "Date": "Mon Sep 04 2023 20:03:51 GMT-0500 (Central Daylight Time)",
     "Game": "Castlevania: Aria of Sorrow",
-    "Song": "Castle Corridor",
+    "Song": "Ruined Castle Corridor",
     "Category": "bgm",
     "Composers": "Michiru Yamane",
     "Converters": "GenericDude1",
@@ -20372,7 +20371,7 @@
   },
   {
     "Game": "Castlevania: Aria of Sorrow",
-    "Song": "Castle Corridor",
+    "Song": "Ruined Castle Corridor",
     "Composers": "Michiru Yamane",
     "Converters": "GenericDude1",
     "Category": "bgm",
@@ -36595,5 +36594,368 @@
     "Date": "Thu Feb 27 2025 08:55:16 GMT+0000 (Coordinated Universal Time)",
     "Binary": "binaries/Mario Party 3/Aim.bin",
     "Duration": 28.7221218375
+  },
+  {
+    "Game": "Chameleon Twist",
+    "Song": "Ant Land",
+    "Composers": "Takashi Sugioka, Takashi Makino, Yuuji Nakao, Nobutoshi Ichimiya, Koki Tochio, Tsutomu Washijima, Hiroshi Takami, Fumihiko Yamada",
+    "Converters": "The Specialize",
+    "Category": "bgm",
+    "Audio": "https://youtu.be/03zC3sk0Yeo",
+    "Tags": [
+      "Exteriors",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Sat Mar 01 2025 12:25:35 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Chameleon Twist/Ant Land.bin",
+    "Duration": 105.67784633333333
+  },
+  {
+    "Game": "Super Smash Bros.",
+    "Song": "Samus Wins!",
+    "Composers": "Hirokazu Ando",
+    "Converters": "SirEnobMort",
+    "Category": "events",
+    "Tags": [
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Sat Mar 01 2025 12:28:23 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Super%20Smash%20Bros/Samus%20Wins.mp3",
+    "Binary": "binaries/Super Smash Bros/Samus Wins.bin",
+    "Duration": 5.09375
+  },
+  {
+    "Game": "Super Smash Bros.",
+    "Song": "Pikachu/Jigglypuff Wins!",
+    "Composers": "Hirokazu Ando",
+    "Converters": "SirEnobMort",
+    "Category": "events",
+    "Tags": [
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Sat Mar 01 2025 12:28:23 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Super%20Smash%20Bros/PikachuJigglypuff%20Wins.mp3",
+    "Binary": "binaries/Super Smash Bros/PikachuJigglypuff Wins.bin",
+    "Duration": 6.2
+  },
+  {
+    "Game": "Super Smash Bros.",
+    "Song": "Mario/Luigi Wins!",
+    "Composers": "Hirokazu Ando",
+    "Converters": "SirEnobMort",
+    "Category": "events",
+    "Tags": [
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Sat Mar 01 2025 12:28:24 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Super%20Smash%20Bros/MarioLuigi%20Wins.mp3",
+    "Binary": "binaries/Super Smash Bros/MarioLuigi Wins.bin",
+    "Duration": 6.21198703125
+  },
+  {
+    "Game": "Super Smash Bros.",
+    "Song": "Link Wins!",
+    "Composers": "Hirokazu Ando",
+    "Converters": "SirEnobMort",
+    "Category": "events",
+    "Tags": [
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Sat Mar 01 2025 12:28:24 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Super%20Smash%20Bros/Link%20Wins.mp3",
+    "Binary": "binaries/Super Smash Bros/Link Wins.bin",
+    "Duration": 5.524632458333333
+  },
+  {
+    "Game": "Super Smash Bros.",
+    "Song": "Kirby Wins!",
+    "Composers": "Hirokazu Ando",
+    "Converters": "SirEnobMort",
+    "Category": "events",
+    "Tags": [
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Sat Mar 01 2025 12:28:25 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Super%20Smash%20Bros/Kirby%20Wins.mp3",
+    "Binary": "binaries/Super Smash Bros/Kirby Wins.bin",
+    "Duration": 3.53773125
+  },
+  {
+    "Game": "Super Smash Bros.",
+    "Song": "Fox Wins!",
+    "Composers": "Hirokazu Ando",
+    "Converters": "SirEnobMort",
+    "Category": "events",
+    "Tags": [
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Sat Mar 01 2025 12:28:25 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Super%20Smash%20Bros/Fox%20Wins.mp3",
+    "Binary": "binaries/Super Smash Bros/Fox Wins.bin",
+    "Duration": 5.402172562499999
+  },
+  {
+    "Game": "Super Smash Bros.",
+    "Song": "Ness Wins!",
+    "Composers": "Hirokazu Ando",
+    "Converters": "SirEnobMort",
+    "Category": "events",
+    "Tags": [
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Sat Mar 01 2025 12:28:26 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Super%20Smash%20Bros/Ness%20Wins.mp3",
+    "Binary": "binaries/Super Smash Bros/Ness Wins.bin",
+    "Duration": 6.503361208333333
+  },
+  {
+    "Game": "Super Smash Bros.",
+    "Song": "Captain Falcon Wins!",
+    "Composers": "Hirokazu Ando",
+    "Converters": "SirEnobMort",
+    "Category": "events",
+    "Tags": [
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Sat Mar 01 2025 12:28:26 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Super%20Smash%20Bros/Captain%20Falcon%20Wins.mp3",
+    "Binary": "binaries/Super Smash Bros/Captain Falcon Wins.bin",
+    "Duration": 5.115537906249999
+  },
+  {
+    "Game": "The Sims",
+    "Song": "Buy Mode 1",
+    "Composers": "Jerry Martin",
+    "Converters": "AbscondWithAPie",
+    "Category": "bgm",
+    "Audio": "https://youtu.be/U39y9HdqlbA",
+    "Additional Notes": "thanks Revven",
+    "Tags": [
+      "Lobbies and Shops",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Sat Mar 01 2025 23:22:57 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/The Sims/Buy Mode 1.bin",
+    "Duration": 164.363472
+  },
+  {
+    "Game": "Metal Gear Solid 3: Snake Eater",
+    "Song": "Snake Eater",
+    "Composers": "Norihiko Hibino, Cynthia Harrell",
+    "Converters": "AbscondWithAPie",
+    "Category": "bgm",
+    "Audio": "https://www.youtube.com/watch?v=KjmP6Ev3ceE",
+    "Tags": [
+      "Exteriors",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Sun Mar 02 2025 00:04:36 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Metal Gear Solid 3 Snake Eater/Snake Eater.bin",
+    "Duration": 171.41675237500002
+  },
+  {
+    "Game": "Mario Party 3",
+    "Song": "What To Do?!?",
+    "Composers": "Ichiro Shimakura",
+    "Converters": "Altermentality",
+    "Category": "bgm",
+    "Audio": "https://www.youtube.com/watch?v=_F6hf-MLkus",
+    "Tags": [
+      "Minigames",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Mon Mar 03 2025 12:42:12 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Mario Party 3/What To Do.bin",
+    "Duration": 41.08102375000001
+  },
+  {
+    "Game": "LEGO Island",
+    "Song": "Brick By Brick",
+    "Composers": "Kathleen Enright, Henry Salvia",
+    "Converters": "AbscondWithAPie",
+    "Category": "bgm",
+    "Audio": "https://youtu.be/FJGDD_9Aiv8",
+    "Tags": [
+      "Exteriors",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Mon Mar 03 2025 13:41:48 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/LEGO Island/Brick By Brick.bin",
+    "Duration": 159.42751914375
+  },
+  {
+    "Game": "LEGO Island",
+    "Song": "Police Station",
+    "Composers": "Dave Barrows",
+    "Converters": "AbscondWithAPie",
+    "Category": "bgm",
+    "Audio": "https://youtu.be/cbRdwkg3og0",
+    "Tags": [
+      "Interiors",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Mon Mar 03 2025 13:43:30 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/LEGO Island/Police Station.bin",
+    "Duration": 56.612907
+  },
+  {
+    "Game": "Return of the Obra Dinn",
+    "Song": "Memento Mortem (Watch Theme)",
+    "Composers": "Lucas Pope",
+    "Converters": "Altermentality, AbscondWithAPie",
+    "Category": "majoritems",
+    "Tags": [
+      "Spawning",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Wed Mar 05 2025 15:00:57 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Return%20of%20the%20Obra%20Dinn/Memento%20Mortem%20(Watch%20Theme).mp3",
+    "Binary": "binaries/Return of the Obra Dinn/Memento Mortem (Watch Theme).bin",
+    "Duration": 2.9230739999999997
+  },
+  {
+    "Game": "Castlevania: Aria of Sorrow",
+    "Song": "Demon Castle Top Floor",
+    "Category": "bgm",
+    "Composers": "Michiru Yamane",
+    "Converters": "Schwartz Gandhi",
+    "Tags": [
+      "Interiors",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Wed Mar 05 2025 15:04:15 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Castlevania%20Aria%20of%20Sorrow/Demon%20Castle%20Top%20Floor.mp3",
+    "Binary": "binaries/Castlevania Aria of Sorrow/Demon Castle Top Floor.bin",
+    "Duration": 94.00349158333334
+  },
+  {
+    "Game": "LEGO Island",
+    "Song": "The Jail",
+    "Composers": "Lorin Nelson",
+    "Converters": "AbscondWithAPie",
+    "Category": "bgm",
+    "Audio": "https://youtu.be/KzgAH7srEto",
+    "Tags": [
+      "Interiors",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Wed Mar 05 2025 18:50:25 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/LEGO Island/The Jail.bin",
+    "Duration": 66.1875
+  },
+  {
+    "Game": "Sonic & Knuckles",
+    "Song": "The Doomsday Zone",
+    "Composers": "Howard Drossin, Jun Senoue",
+    "Converters": "The Sound Defense",
+    "Category": "bgm",
+    "Tags": [
+      "Fights",
+      "Minigames"
+    ],
+    "Verified": true,
+    "Date": "Thu Mar 06 2025 16:33:20 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Sonic%20%20Knuckles/The%20Doomsday%20Zone.mp3",
+    "Binary": "binaries/Sonic  Knuckles/The Doomsday Zone.bin",
+    "Duration": 62.916717
+  },
+  {
+    "Game": "Tales of Symphonia",
+    "Song": "Dry Trail",
+    "Composers": "Motoi Sakuraba",
+    "Converters": "Megacannon",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Thu Mar 06 2025 22:50:15 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Tales%20of%20Symphonia/Dry%20Trail.wav",
+    "Binary": "binaries/Tales of Symphonia/Dry Trail.bin",
+    "Duration": 82.285632
+  },
+  {
+    "Game": "Sonic & Knuckles",
+    "Song": "The Doomsday Zone",
+    "Composers": "Howard Drossin, Jun Senoue",
+    "Converters": "The Sound Defense",
+    "Category": "bgm",
+    "Update Notes": "Updates to volume and balance.",
+    "Tags": [
+      "Fights"
+    ],
+    "Verified": true,
+    "Date": "Fri Mar 07 2025 10:49:51 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Sonic%20%20Knuckles/The%20Doomsday%20Zone%20(REV%201).mp3",
+    "Binary": "binaries/Sonic  Knuckles/The Doomsday Zone (REV 1).bin",
+    "Duration": 62.916717
+  },
+  {
+    "Game": "Mario & Luigi: Superstar Saga",
+    "Song": "Little Fungitown",
+    "Composers": "Yoko Shimomura",
+    "Converters": "SirEnobMort",
+    "Category": "bgm",
+    "Tags": [
+      "Interiors",
+      "Exteriors",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Fri Mar 07 2025 23:08:59 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Mario%20%20Luigi%20Superstar%20Saga/Little%20Fungitown.mp3",
+    "Binary": "binaries/Mario  Luigi Superstar Saga/Little Fungitown.bin",
+    "Duration": 38.734375
+  },
+  {
+    "Game": "Tales of Symphonia",
+    "Song": "Dry Trail",
+    "Composers": "Motoi Sakuraba",
+    "Converters": "Megacannon",
+    "Category": "bgm",
+    "Update Notes": "This is a fix to change the .wav preview to a .mp3 preview. Also a slight volume reduction to better fit Exteriors and Calm tags.",
+    "Tags": [
+      "Exteriors",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Fri Mar 07 2025 23:10:45 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Tales%20of%20Symphonia/Dry%20Trail%20(REV%201).mp3",
+    "Binary": "binaries/Tales of Symphonia/Dry Trail (REV 1).bin",
+    "Duration": 82.285632
+  },
+  {
+    "Game": "Final Fantasy X",
+    "Song": "Via Purifico",
+    "Composers": "Nobuo Uematsu",
+    "Converters": "OnlySpaghettiCode",
+    "Category": "bgm",
+    "Tags": [
+      "Interiors",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Sat Mar 08 2025 05:57:33 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Final%20Fantasy%20X/Via%20Purifico.mp3",
+    "Binary": "binaries/Final Fantasy X/Via Purifico.bin",
+    "Duration": 63.69705168749999
   }
 ]
