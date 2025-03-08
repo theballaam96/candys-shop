@@ -36941,5 +36941,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Tales%20of%20Symphonia/Dry%20Trail%20(REV%201).mp3",
     "Binary": "binaries/Tales of Symphonia/Dry Trail (REV 1).bin",
     "Duration": 82.285632
+  },
+  {
+    "Game": "Final Fantasy X",
+    "Song": "Via Purifico",
+    "Composers": "Nobuo Uematsu",
+    "Converters": "OnlySpaghettiCode",
+    "Category": "bgm",
+    "Tags": [
+      "Interiors",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Sat Mar 08 2025 05:57:33 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Final%20Fantasy%20X/Via%20Purifico.mp3",
+    "Binary": "binaries/Final Fantasy X/Via Purifico.bin",
+    "Duration": 63.69705168749999
   }
 ]
