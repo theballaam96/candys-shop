@@ -36907,5 +36907,55 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Sonic%20%20Knuckles/The%20Doomsday%20Zone%20(REV%201).mp3",
     "Binary": "binaries/Sonic  Knuckles/The Doomsday Zone (REV 1).bin",
     "Duration": 62.916717
+  },
+  {
+    "Game": "Mario & Luigi: Superstar Saga",
+    "Song": "Little Fungitown",
+    "Composers": "Yoko Shimomura",
+    "Converters": "SirEnobMort",
+    "Category": "bgm",
+    "Tags": [
+      "Interiors",
+      "Exteriors",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Fri Mar 07 2025 23:08:59 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Mario%20%20Luigi%20Superstar%20Saga/Little%20Fungitown.mp3",
+    "Binary": "binaries/Mario  Luigi Superstar Saga/Little Fungitown.bin",
+    "Duration": 38.734375
+  },
+  {
+    "Game": "Tales of Symphonia",
+    "Song": "Dry Trail",
+    "Composers": "Motoi Sakuraba",
+    "Converters": "Megacannon",
+    "Category": "bgm",
+    "Update Notes": "This is a fix to change the .wav preview to a .mp3 preview. Also a slight volume reduction to better fit Exteriors and Calm tags.",
+    "Tags": [
+      "Exteriors",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Fri Mar 07 2025 23:10:45 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Tales%20of%20Symphonia/Dry%20Trail%20(REV%201).mp3",
+    "Binary": "binaries/Tales of Symphonia/Dry Trail (REV 1).bin",
+    "Duration": 82.285632
+  },
+  {
+    "Game": "Final Fantasy X",
+    "Song": "Via Purifico",
+    "Composers": "Nobuo Uematsu",
+    "Converters": "OnlySpaghettiCode",
+    "Category": "bgm",
+    "Tags": [
+      "Interiors",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Sat Mar 08 2025 05:57:33 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Final%20Fantasy%20X/Via%20Purifico.mp3",
+    "Binary": "binaries/Final Fantasy X/Via Purifico.bin",
+    "Duration": 63.69705168749999
   }
 ]
