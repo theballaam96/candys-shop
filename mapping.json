@@ -36973,5 +36973,264 @@
     "Date": "Sun Mar 09 2025 15:45:49 GMT+0000 (Coordinated Universal Time)",
     "Binary": "binaries/Pokémon Snap/Pokémon Album.bin",
     "Duration": 40.13020833333333
+  },
+  {
+    "Game": "New Super Mario Bros.",
+    "Song": "Toad House",
+    "Composers": "Asuka Hayazaki, Hajime Wakai, Koji Kondo",
+    "Converters": "SirEnobMort",
+    "Category": "bgm",
+    "Update Notes": "Happy MAR10 Day!",
+    "Tags": [
+      "Minigames",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Sun Mar 09 2025 15:47:49 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/New%20Super%20Mario%20Bros/Toad%20House.mp3",
+    "Binary": "binaries/New Super Mario Bros/Toad House.bin",
+    "Duration": 45.9278386875
+  },
+  {
+    "Game": "Mario & Luigi: Superstar Saga",
+    "Song": "World Map",
+    "Composers": "Yoko Shimomura",
+    "Converters": "SirEnobMort",
+    "Category": "bgm",
+    "Tags": [
+      "Lobbies and Shops",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Sun Mar 09 2025 15:47:49 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Mario%20%20Luigi%20Superstar%20Saga/World%20Map.mp3",
+    "Binary": "binaries/Mario  Luigi Superstar Saga/World Map.bin",
+    "Duration": 43.076936
+  },
+  {
+    "Game": "Donkey Kong 64",
+    "Song": "Mad Mashup",
+    "Composers": "Grant Kirkhope",
+    "Converters": "SirEnobMort",
+    "Category": "bgm",
+    "Update Notes": "Special Thanks to Umed for the idea!",
+    "Additional Notes": "A Music Mashup of the Mad Jack (DK64) and Weldar (Banjo-Tooie) boss fights.",
+    "Tags": [
+      "Fights",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Sun Mar 09 2025 15:47:50 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Donkey%20Kong%2064/Mad%20Mashup.mp3",
+    "Binary": "binaries/Donkey Kong 64/Mad Mashup.bin",
+    "Duration": 153.33317999999994
+  },
+  {
+    "Game": "Mario Party",
+    "Song": "Option House Theme",
+    "Composers": "Yasunori Mitsuda",
+    "Converters": "SirEnobMort",
+    "Category": "bgm",
+    "Update Notes": "Cleaned up the voice work, new laugh at beginning, added reverb, more YEAH 😎",
+    "Tags": [
+      "Lobbies and Shops",
+      "Gloomy",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Sun Mar 09 2025 15:47:51 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Mario%20Party/Option%20House%20Theme%20(REV%201).mp3",
+    "Binary": "binaries/Mario Party/Option House Theme (REV 1).bin",
+    "Duration": 22.666678
+  },
+  {
+    "Game": "Pokémon Snap",
+    "Song": "Out of Film!",
+    "Composers": "Ikuko Mimori",
+    "Converters": "Altermentality",
+    "Category": "majoritems",
+    "Tags": [
+      "Spawning",
+      "Collection",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Sun Mar 09 2025 15:47:52 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Pok%C3%A9mon%20Snap/Out%20of%20Film.mp3",
+    "Binary": "binaries/Pokémon Snap/Out of Film.bin",
+    "Duration": 3.6111053333333327
+  },
+  {
+    "Game": "Mario Kart 64",
+    "Song": "Battle Start",
+    "Composers": "Kenta Nagata",
+    "Converters": "SirEnobMort",
+    "Category": "majoritems",
+    "Tags": [
+      "Collection"
+    ],
+    "Verified": true,
+    "Date": "Sun Mar 09 2025 15:47:52 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Mario%20Kart%2064/Battle%20Start.mp3",
+    "Binary": "binaries/Mario Kart 64/Battle Start.bin",
+    "Duration": 2.1
+  },
+  {
+    "Game": "Super Smash Bros.",
+    "Song": "Stage Intro",
+    "Composers": "Hirokazu Ando",
+    "Converters": "SirEnobMort",
+    "Category": "majoritems",
+    "Tags": [
+      "Spawning"
+    ],
+    "Verified": true,
+    "Date": "Sun Mar 09 2025 15:47:53 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Super%20Smash%20Bros/Stage%20Intro.mp3",
+    "Binary": "binaries/Super Smash Bros/Stage Intro.bin",
+    "Duration": 3.3322004374999996
+  },
+  {
+    "Game": "Super Smash Bros.",
+    "Song": "Stage Clear",
+    "Composers": "Hirokazu Ando",
+    "Converters": "SirEnobMort",
+    "Category": "majoritems",
+    "Tags": [
+      "Collection",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Sun Mar 09 2025 15:47:53 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Super%20Smash%20Bros/Stage%20Clear.mp3",
+    "Binary": "binaries/Super Smash Bros/Stage Clear.bin",
+    "Duration": 3.6227560312500007
+  },
+  {
+    "Game": "Super Smash Bros.",
+    "Song": "Ending",
+    "Composers": "Hirokazu Ando",
+    "Converters": "SirEnobMort",
+    "Category": "events",
+    "Tags": [
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Sun Mar 09 2025 15:47:54 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Super%20Smash%20Bros/Ending.mp3",
+    "Binary": "binaries/Super Smash Bros/Ending.bin",
+    "Duration": 11.004352833333334
+  },
+  {
+    "Game": "I Spy: Spooky Mansion",
+    "Song": "Find Item Jingle 7",
+    "Category": "majoritems",
+    "Composers": "Chris Purke, Carl Peczynski",
+    "Converters": "Schwartz Gandhi",
+    "Tags": [
+      "Collection",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Sun Mar 09 2025 15:47:55 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/I%20Spy%20Spooky%20Mansion/Find%20Item%20Jingle%207.mp3",
+    "Binary": "binaries/I Spy Spooky Mansion/Find Item Jingle 7.bin",
+    "Duration": 2.8220574125
+  },
+  {
+    "Game": "I Spy: Spooky Mansion",
+    "Song": "Find Item Jingle 6",
+    "Category": "majoritems",
+    "Composers": "Chris Purke, Carl Peczynski",
+    "Converters": "Schwartz Gandhi",
+    "Tags": [
+      "Collection",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Sun Mar 09 2025 15:47:56 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/I%20Spy%20Spooky%20Mansion/Find%20Item%20Jingle%206.mp3",
+    "Binary": "binaries/I Spy Spooky Mansion/Find Item Jingle 6.bin",
+    "Duration": 2.8220574125
+  },
+  {
+    "Game": "I Spy: Spooky Mansion",
+    "Song": "Find Item Jingle 5",
+    "Category": "majoritems",
+    "Composers": "Chris Purke, Carl Peczynski",
+    "Converters": "Schwartz Gandhi",
+    "Tags": [
+      "Collection",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Sun Mar 09 2025 15:47:56 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/I%20Spy%20Spooky%20Mansion/Find%20Item%20Jingle%205.mp3",
+    "Binary": "binaries/I Spy Spooky Mansion/Find Item Jingle 5.bin",
+    "Duration": 2.8220574125
+  },
+  {
+    "Game": "I Spy: Spooky Mansion",
+    "Song": "Find Item Jingle 4",
+    "Category": "majoritems",
+    "Composers": "Chris Purke, Carl Peczynski",
+    "Converters": "Schwartz Gandhi",
+    "Tags": [
+      "Collection",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Sun Mar 09 2025 15:47:57 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/I%20Spy%20Spooky%20Mansion/Find%20Item%20Jingle%204.mp3",
+    "Binary": "binaries/I Spy Spooky Mansion/Find Item Jingle 4.bin",
+    "Duration": 2.9102926625000003
+  },
+  {
+    "Game": "I Spy: Spooky Mansion",
+    "Song": "Find Item Jingle 3",
+    "Category": "majoritems",
+    "Composers": "Chris Purke, Carl Peczynski",
+    "Converters": "Schwartz Gandhi",
+    "Tags": [
+      "Collection",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Sun Mar 09 2025 15:47:57 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/I%20Spy%20Spooky%20Mansion/Find%20Item%20Jingle%203.mp3",
+    "Binary": "binaries/I Spy Spooky Mansion/Find Item Jingle 3.bin",
+    "Duration": 1.5867639125000002
+  },
+  {
+    "Game": "I Spy: Spooky Mansion",
+    "Song": "Find Item Jingle 2",
+    "Category": "majoritems",
+    "Composers": "Chris Purke, Carl Peczynski",
+    "Converters": "Schwartz Gandhi",
+    "Tags": [
+      "Collection",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Sun Mar 09 2025 15:47:58 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/I%20Spy%20Spooky%20Mansion/Find%20Item%20Jingle%202.mp3",
+    "Binary": "binaries/I Spy Spooky Mansion/Find Item Jingle 2.bin",
+    "Duration": 2.8220574125
+  },
+  {
+    "Game": "I Spy: Spooky Mansion",
+    "Song": "Find Item Jingle 1",
+    "Category": "majoritems",
+    "Composers": "Chris Purke, Carl Peczynski",
+    "Converters": "Schwartz Gandhi",
+    "Tags": [
+      "Collection",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Sun Mar 09 2025 15:47:59 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/I%20Spy%20Spooky%20Mansion/Find%20Item%20Jingle%201.mp3",
+    "Binary": "binaries/I Spy Spooky Mansion/Find Item Jingle 1.bin",
+    "Duration": 2.1161754125
   }
 ]
