@@ -36957,5 +36957,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Final%20Fantasy%20X/Via%20Purifico.mp3",
     "Binary": "binaries/Final Fantasy X/Via Purifico.bin",
     "Duration": 63.69705168749999
+  },
+  {
+    "Game": "Pokémon Snap",
+    "Song": "Pokémon Album",
+    "Composers": "Ikuko Mimori",
+    "Converters": "Altermentality",
+    "Category": "bgm",
+    "Audio": "https://youtu.be/v2GOVL9-wnw",
+    "Tags": [
+      "Interiors",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Sun Mar 09 2025 15:45:49 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Pokémon Snap/Pokémon Album.bin",
+    "Duration": 40.13020833333333
   }
 ]
