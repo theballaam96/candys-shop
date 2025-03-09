@@ -37232,5 +37232,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/I%20Spy%20Spooky%20Mansion/Find%20Item%20Jingle%201.mp3",
     "Binary": "binaries/I Spy Spooky Mansion/Find Item Jingle 1.bin",
     "Duration": 2.1161754125
+  },
+  {
+    "Game": "I Spy: Spooky Mansion",
+    "Song": "Find Item Jingle 8",
+    "Category": "majoritems",
+    "Composers": "Chris Purke, Carl Peczynski",
+    "Converters": "Schwartz Gandhi",
+    "Tags": [
+      "Collection",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Sun Mar 09 2025 17:03:06 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/I%20Spy%20Spooky%20Mansion/Find%20Item%20Jingle%208.mp3",
+    "Binary": "binaries/I Spy Spooky Mansion/Find Item Jingle 8.bin",
+    "Duration": 2.8220574125
   }
 ]
