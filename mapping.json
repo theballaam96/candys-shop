@@ -37248,5 +37248,23 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/I%20Spy%20Spooky%20Mansion/Find%20Item%20Jingle%208.mp3",
     "Binary": "binaries/I Spy Spooky Mansion/Find Item Jingle 8.bin",
     "Duration": 2.8220574125
+  },
+  {
+    "Game": "Metroid Prime 2: Echoes",
+    "Song": "Menu Select",
+    "Composers": "Kenji Yamamoto",
+    "Converters": "BashPrime",
+    "Category": "bgm",
+    "Audio": "https://www.youtube.com/watch?v=XHjEOqlrpQc",
+    "Update Notes": "Updated the arrangement to more closely reflect the original track, also rebalance",
+    "Tags": [
+      "Interiors",
+      "Exteriors",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Mon Mar 10 2025 05:33:28 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Metroid Prime 2 Echoes/Menu Select (REV 1).bin",
+    "Duration": 92.59365740625
   }
 ]
