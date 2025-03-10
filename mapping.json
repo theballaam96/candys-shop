@@ -37266,5 +37266,22 @@
     "Date": "Mon Mar 10 2025 05:33:28 GMT+0000 (Coordinated Universal Time)",
     "Binary": "binaries/Metroid Prime 2 Echoes/Menu Select (REV 1).bin",
     "Duration": 92.59365740625
+  },
+  {
+    "Game": "Earthworm Jim 3D",
+    "Song": "Boogie Nights of the Living Dead",
+    "Composers": "Ged Grimes",
+    "Converters": "AbscondWithAPie",
+    "Category": "bgm",
+    "Audio": "https://youtu.be/Nr8ZvzXhrnw",
+    "Additional Notes": "All you Disco Chunky fans better be adding this to your packs",
+    "Tags": [
+      "Exteriors",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Mon Mar 10 2025 12:25:10 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Earthworm Jim 3D/Boogie Nights of the Living Dead.bin",
+    "Duration": 92.7681764625
   }
 ]
