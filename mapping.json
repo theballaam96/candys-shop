@@ -37283,5 +37283,18 @@
     "Date": "Mon Mar 10 2025 12:25:10 GMT+0000 (Coordinated Universal Time)",
     "Binary": "binaries/Earthworm Jim 3D/Boogie Nights of the Living Dead.bin",
     "Duration": 92.7681764625
+  },
+  {
+    "Game": "Metal Gear Solid",
+    "Song": "Alert",
+    "Composers": "Konami Kukeiha Club",
+    "Converters": "AbscondWithAPie",
+    "Category": "events",
+    "Additional Notes": "!",
+    "Verified": true,
+    "Date": "Tue Mar 11 2025 06:00:05 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Metal%20Gear%20Solid/Alert.mp3",
+    "Binary": "binaries/Metal Gear Solid/Alert.bin",
+    "Duration": 0.3333333333333333
   }
 ]
