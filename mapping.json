@@ -37329,5 +37329,157 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/New%20Super%20Mario%20Bros/Level%20Clear.mp3",
     "Binary": "binaries/New Super Mario Bros/Level Clear.bin",
     "Duration": 2.744791666666667
+  },
+  {
+    "Game": "Luigi's Mansion",
+    "Song": "Talking with Ghosts",
+    "Composers": "Kazumi Totaka",
+    "Converters": "OnlySpaghettiCode",
+    "Category": "bgm",
+    "Tags": [
+      "Lobbies and Shops",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Wed Mar 12 2025 20:45:08 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Luigis%20Mansion/Talking%20with%20Ghosts.mp3",
+    "Binary": "binaries/Luigis Mansion/Talking with Ghosts.bin",
+    "Duration": 30.943749999999998
+  },
+  {
+    "Game": "Donkey Kong Country 3: Dixie Kong's Double Trouble!",
+    "Song": "Bonus Win!",
+    "Composers": "David Wise",
+    "Converters": "OnlySpaghettiCode",
+    "Category": "majoritems",
+    "Tags": [
+      "Collection",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Wed Mar 12 2025 20:45:09 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Donkey%20Kong%20Country%203%20Dixie%20Kongs%20Double%20Trouble/Bonus%20Win.mp3",
+    "Binary": "binaries/Donkey Kong Country 3 Dixie Kongs Double Trouble/Bonus Win.bin",
+    "Duration": 3.1312499999999996
+  },
+  {
+    "Game": "Donkey Kong Country 3: Dixie Kong's Double Trouble!",
+    "Song": "Bonus Lose...",
+    "Composers": "David Wise",
+    "Converters": "OnlySpaghettiCode",
+    "Category": "events",
+    "Verified": true,
+    "Date": "Wed Mar 12 2025 20:45:09 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Donkey%20Kong%20Country%203%20Dixie%20Kongs%20Double%20Trouble/Bonus%20Lose.mp3",
+    "Binary": "binaries/Donkey Kong Country 3 Dixie Kongs Double Trouble/Bonus Lose.bin",
+    "Duration": 2.284227104166667
+  },
+  {
+    "Game": "The Legend of Zelda: A Link to the Past",
+    "Song": "Great Victory!",
+    "Composers": "Koji Kondo",
+    "Converters": "OnlySpaghettiCode",
+    "Category": "events",
+    "Tags": [
+      "Spawning",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Wed Mar 12 2025 20:45:10 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/The%20Legend%20of%20Zelda%20A%20Link%20to%20the%20Past/Great%20Victory.mp3",
+    "Binary": "binaries/The Legend of Zelda A Link to the Past/Great Victory.bin",
+    "Duration": 10.528666552083333
+  },
+  {
+    "Game": "The Legend of Zelda: A Link to the Past",
+    "Song": "Dungeon of Shadows",
+    "Composers": "Koji Kondo",
+    "Converters": "OnlySpaghettiCode",
+    "Category": "bgm",
+    "Tags": [
+      "Interiors",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Wed Mar 12 2025 20:45:10 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/The%20Legend%20of%20Zelda%20A%20Link%20to%20the%20Past/Dungeon%20of%20Shadows.mp3",
+    "Binary": "binaries/The Legend of Zelda A Link to the Past/Dungeon of Shadows.bin",
+    "Duration": 50.71300281250001
+  },
+  {
+    "Game": "Super Mario 64",
+    "Song": "Power Star",
+    "Composers": "Koji Kondo",
+    "Converters": "OnlySpaghettiCode",
+    "Category": "events",
+    "Tags": [
+      "Spawning"
+    ],
+    "Verified": true,
+    "Date": "Wed Mar 12 2025 20:45:12 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Super%20Mario%2064/Power%20Star.mp3",
+    "Binary": "binaries/Super Mario 64/Power Star.bin",
+    "Duration": 3.963541666666667
+  },
+  {
+    "Game": "The Legend of Zelda: A Link to the Past",
+    "Song": "Hyrule Field",
+    "Composers": "Koji Kondo",
+    "Converters": "OnlySpaghettiCode",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors"
+    ],
+    "Verified": true,
+    "Date": "Wed Mar 12 2025 20:45:11 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/The%20Legend%20of%20Zelda%20A%20Link%20to%20the%20Past/Hyrule%20Field.mp3",
+    "Binary": "binaries/The Legend of Zelda A Link to the Past/Hyrule Field.bin",
+    "Duration": 42.37132635416666
+  },
+  {
+    "Game": "Super Mario 64",
+    "Song": "Course Clear",
+    "Composers": "Koji Kondo",
+    "Converters": "OnlySpaghettiCode",
+    "Category": "majoritems",
+    "Tags": [
+      "Collection",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Wed Mar 12 2025 20:45:12 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Super%20Mario%2064/Course%20Clear.mp3",
+    "Binary": "binaries/Super Mario 64/Course Clear.bin",
+    "Duration": 2.3124976874999996
+  },
+  {
+    "Game": "The Legend of Zelda: The Wind Waker",
+    "Song": "Get Treasure Box",
+    "Composers": "Kenta Nagata, Koji Kondo, Hajime Wakai, Toru Minegishi",
+    "Converters": "OnlySpaghettiCode",
+    "Category": "majoritems",
+    "Tags": [
+      "Collection"
+    ],
+    "Verified": true,
+    "Date": "Wed Mar 12 2025 20:45:13 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/The%20Legend%20of%20Zelda%20The%20Wind%20Waker/Get%20Treasure%20Box.mp3",
+    "Binary": "binaries/The Legend of Zelda The Wind Waker/Get Treasure Box.bin",
+    "Duration": 1.7447916666666665
+  },
+  {
+    "Game": "The Legend of Zelda: The Wind Waker",
+    "Song": "Get Pearl",
+    "Composers": "Kenta Nagata, Koji Kondo, Hajime Wakai, Toru Minegishi",
+    "Converters": "OnlySpaghettiCode",
+    "Category": "majoritems",
+    "Tags": [
+      "Collection"
+    ],
+    "Verified": true,
+    "Date": "Wed Mar 12 2025 20:45:13 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/The%20Legend%20of%20Zelda%20The%20Wind%20Waker/Get%20Pearl.mp3",
+    "Binary": "binaries/The Legend of Zelda The Wind Waker/Get Pearl.bin",
+    "Duration": 2.760416666666667
   }
 ]
