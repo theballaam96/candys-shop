@@ -37313,5 +37313,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Sonic%20the%20Hedgehog%202/Aquatic%20Ruin%20Zone.mp3",
     "Binary": "binaries/Sonic the Hedgehog 2/Aquatic Ruin Zone.bin",
     "Duration": 36.6412
+  },
+  {
+    "Game": "New Super Mario Bros.",
+    "Song": "Level Clear",
+    "Composers": "Asuka Hayazaki, Hajime Wakai, Koji Kondo",
+    "Converters": "OnlySpaghettiCode",
+    "Category": "majoritems",
+    "Tags": [
+      "Collection",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Wed Mar 12 2025 20:40:26 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/New%20Super%20Mario%20Bros/Level%20Clear.mp3",
+    "Binary": "binaries/New Super Mario Bros/Level Clear.bin",
+    "Duration": 2.744791666666667
   }
 ]
