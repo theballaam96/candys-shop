@@ -37481,5 +37481,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/The%20Legend%20of%20Zelda%20The%20Wind%20Waker/Get%20Pearl.mp3",
     "Binary": "binaries/The Legend of Zelda The Wind Waker/Get Pearl.bin",
     "Duration": 2.760416666666667
+  },
+  {
+    "Game": "The Legend of Zelda: A Link to the Past",
+    "Song": "Hyrule Field",
+    "Composers": "Koji Kondo",
+    "Converters": "OnlySpaghettiCode",
+    "Category": "bgm",
+    "Update Notes": "First version did not post",
+    "Tags": [
+      "Exteriors"
+    ],
+    "Verified": true,
+    "Date": "Wed Mar 12 2025 20:55:56 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/The%20Legend%20of%20Zelda%20A%20Link%20to%20the%20Past/Hyrule%20Field%20(REV%201).mp3",
+    "Binary": "binaries/The Legend of Zelda A Link to the Past/Hyrule Field (REV 1).bin",
+    "Duration": 42.37132635416666
   }
 ]
