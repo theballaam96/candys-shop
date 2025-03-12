@@ -37497,5 +37497,22 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/The%20Legend%20of%20Zelda%20A%20Link%20to%20the%20Past/Hyrule%20Field%20(REV%201).mp3",
     "Binary": "binaries/The Legend of Zelda A Link to the Past/Hyrule Field (REV 1).bin",
     "Duration": 42.37132635416666
+  },
+  {
+    "Game": "Castlevania: Dawn of Sorrow",
+    "Song": "Demon Guest House",
+    "Category": "bgm",
+    "Composers": "Michiru Yamane",
+    "Converters": "Schwartz Gandhi",
+    "Tags": [
+      "Interiors",
+      "Gloomy",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Wed Mar 12 2025 22:08:48 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Castlevania%20Dawn%20of%20Sorrow/Demon%20Guest%20House.mp3",
+    "Binary": "binaries/Castlevania Dawn of Sorrow/Demon Guest House.bin",
+    "Duration": 105.28306800000001
   }
 ]
