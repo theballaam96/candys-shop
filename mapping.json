@@ -37514,5 +37514,23 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Castlevania%20Dawn%20of%20Sorrow/Demon%20Guest%20House.mp3",
     "Binary": "binaries/Castlevania Dawn of Sorrow/Demon Guest House.bin",
     "Duration": 105.28306800000001
+  },
+  {
+    "Game": "Metroid Prime 2: Echoes",
+    "Song": "Multiplayer",
+    "Composers": "Kenji Yamamoto",
+    "Converters": "BashPrime",
+    "Category": "bgm",
+    "Audio": "https://www.youtube.com/watch?v=F7Pqw-rI4P8",
+    "Update Notes": "Updated arrangement to more closely reflect the original track. Also mixing rebalance",
+    "Tags": [
+      "Fights",
+      "Exteriors",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Thu Mar 13 2025 05:50:41 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Metroid Prime 2 Echoes/Multiplayer (REV 1).bin",
+    "Duration": 162.1873378125
   }
 ]
