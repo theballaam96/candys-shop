@@ -37532,5 +37532,22 @@
     "Date": "Thu Mar 13 2025 05:50:41 GMT+0000 (Coordinated Universal Time)",
     "Binary": "binaries/Metroid Prime 2 Echoes/Multiplayer (REV 1).bin",
     "Duration": 162.1873378125
+  },
+  {
+    "Game": "Glover",
+    "Song": "Carnival Realm 1",
+    "Composers": "Mark Bandola, Rob Lord, Paul Weir",
+    "Converters": "Altermentality, AbscondWithAPie",
+    "Category": "bgm",
+    "Audio": "https://youtu.be/iWYa3jxoUCs",
+    "Update Notes": "Shoutouts to Schwartz Gandhi's unscrambler tool!",
+    "Tags": [
+      "Exteriors",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Sun Mar 16 2025 08:18:50 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Glover/Carnival Realm 1.bin",
+    "Duration": 251.07667199999997
   }
 ]
