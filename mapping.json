@@ -37549,5 +37549,88 @@
     "Date": "Sun Mar 16 2025 08:18:50 GMT+0000 (Coordinated Universal Time)",
     "Binary": "binaries/Glover/Carnival Realm 1.bin",
     "Duration": 251.07667199999997
+  },
+  {
+    "Game": "Donkey Kong: Jungle Climber",
+    "Song": "Boss Battle",
+    "Composers": "Yuichi Kanno, Yoshikata Hirota, Takashi Kouga",
+    "Converters": "SirEnobMort",
+    "Category": "bgm",
+    "Tags": [
+      "Fights",
+      "Happy",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Sun Mar 16 2025 08:21:54 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Donkey%20Kong%20Jungle%20Climber/Boss%20Battle.mp3",
+    "Binary": "binaries/Donkey Kong Jungle Climber/Boss Battle.bin",
+    "Duration": 48
+  },
+  {
+    "Game": "Donkey Kong: Jungle Climber",
+    "Song": "Mega K. Rool",
+    "Composers": "Yuichi Kanno, Yoshikata Hirota, Takashi Kouga",
+    "Converters": "SirEnobMort",
+    "Category": "bgm",
+    "Tags": [
+      "Minigames",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Sun Mar 16 2025 08:21:54 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Donkey%20Kong%20Jungle%20Climber/Mega%20K%20Rool.mp3",
+    "Binary": "binaries/Donkey Kong Jungle Climber/Mega K Rool.bin",
+    "Duration": 39
+  },
+  {
+    "Game": "Donkey Kong: Jungle Climber",
+    "Song": "Vs. Banana Ship",
+    "Composers": "Yuichi Kanno, Yoshikata Hirota, Takashi Kouga",
+    "Converters": "SirEnobMort",
+    "Category": "bgm",
+    "Tags": [
+      "Minigames",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Sun Mar 16 2025 08:21:55 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Donkey%20Kong%20Jungle%20Climber/Vs%20Banana%20Ship.mp3",
+    "Binary": "binaries/Donkey Kong Jungle Climber/Vs Banana Ship.bin",
+    "Duration": 36.705864
+  },
+  {
+    "Game": "Mario & Luigi: Superstar Saga",
+    "Song": "World Map",
+    "Composers": "Yoko Shimomura",
+    "Converters": "SirEnobMort",
+    "Category": "bgm",
+    "Update Notes": "Fixed panning issues.",
+    "Tags": [
+      "Lobbies and Shops",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Sun Mar 16 2025 08:21:56 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Mario%20%20Luigi%20Superstar%20Saga/World%20Map%20(REV%201).mp3",
+    "Binary": "binaries/Mario  Luigi Superstar Saga/World Map (REV 1).bin",
+    "Duration": 43.076936
+  },
+  {
+    "Game": "Plants vs. Zombies",
+    "Song": "Choose Your Seeds",
+    "Composers": "Laura Shigihara",
+    "Converters": "SirEnobMort",
+    "Category": "bgm",
+    "Update Notes": "Corrected panning problems",
+    "Tags": [
+      "Lobbies and Shops",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Sun Mar 16 2025 08:21:56 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Plants%20vs%20Zombies/Choose%20Your%20Seeds%20(REV%201).mp3",
+    "Binary": "binaries/Plants vs Zombies/Choose Your Seeds (REV 1).bin",
+    "Duration": 21.578125
   }
 ]
