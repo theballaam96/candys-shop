@@ -37632,5 +37632,22 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Plants%20vs%20Zombies/Choose%20Your%20Seeds%20(REV%201).mp3",
     "Binary": "binaries/Plants vs Zombies/Choose Your Seeds (REV 1).bin",
     "Duration": 21.578125
+  },
+  {
+    "Game": "Pokémon Stadium 2",
+    "Song": "Challenge Cup Final Battle 2",
+    "Composers": "Hajime Wakai",
+    "Converters": "LBFrank",
+    "Category": "bgm",
+    "Update Notes": "Slight tempo correction. Replaced Brass Section with Trumpet+French Horn combo",
+    "Tags": [
+      "Fights",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Mon Mar 17 2025 00:03:50 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Pok%C3%A9mon%20Stadium%202/Challenge%20Cup%20Final%20Battle%202%20(REV%201).mp3",
+    "Binary": "binaries/Pokémon Stadium 2/Challenge Cup Final Battle 2 (REV 1).bin",
+    "Duration": 79.849656
   }
 ]
