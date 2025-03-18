@@ -37666,5 +37666,22 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Sonic%20the%20Hedgehog/Labyrinth%20Zone.mp3",
     "Binary": "binaries/Sonic the Hedgehog/Labyrinth Zone.bin",
     "Duration": 36.48
+  },
+  {
+    "Game": "Castlevania: Dawn of Sorrow",
+    "Song": "After Confession",
+    "Category": "bgm",
+    "Composers": "Masahiko Kimura",
+    "Converters": "Schwartz Gandhi",
+    "Tags": [
+      "Interiors",
+      "Exteriors",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Tue Mar 18 2025 06:07:56 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Castlevania%20Dawn%20of%20Sorrow/After%20Confession.mp3",
+    "Binary": "binaries/Castlevania Dawn of Sorrow/After Confession.bin",
+    "Duration": 88.50099372916665
   }
 ]
