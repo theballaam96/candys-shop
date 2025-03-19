@@ -37683,5 +37683,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Castlevania%20Dawn%20of%20Sorrow/After%20Confession.mp3",
     "Binary": "binaries/Castlevania Dawn of Sorrow/After Confession.bin",
     "Duration": 88.50099372916665
+  },
+  {
+    "Game": "Metroid Prime",
+    "Song": "Magmoor Caverns",
+    "Composers": "Kenji Yamamoto, Kouichi Kyuma",
+    "Converters": "BashPrime",
+    "Category": "bgm",
+    "Audio": "https://www.youtube.com/watch?v=nEA7DhlfYkw",
+    "Tags": [
+      "Interiors",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Wed Mar 19 2025 05:28:19 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Metroid Prime/Magmoor Caverns.bin",
+    "Duration": 136.63928643749998
   }
 ]
