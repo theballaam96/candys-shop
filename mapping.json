@@ -37699,5 +37699,21 @@
     "Date": "Wed Mar 19 2025 05:28:19 GMT+0000 (Coordinated Universal Time)",
     "Binary": "binaries/Metroid Prime/Magmoor Caverns.bin",
     "Duration": 136.63928643749998
+  },
+  {
+    "Game": "The Legend of Zelda: Link's Awakening",
+    "Song": "Mabe Village (2019)",
+    "Category": "bgm",
+    "Composers": "Kozue Ishikawa, Ryo Nagamatsu",
+    "Converters": "Schwartz Gandhi",
+    "Tags": [
+      "Exteriors",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Thu Mar 20 2025 06:19:58 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/The%20Legend%20of%20Zelda%20Links%20Awakening/Mabe%20Village%20(2019).mp3",
+    "Binary": "binaries/The Legend of Zelda Links Awakening/Mabe Village (2019).bin",
+    "Duration": 144.46428466666666
   }
 ]
