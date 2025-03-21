@@ -19,12 +19,14 @@ async function run() {
 
     // Response Flags
     let song_upload = false;
+    let new_game = false;
     let mandatory_headers_included = [];
     let unlisted_headers = [];
     const number_vars = ["Tracks", "Duration"];
     const arr_vars = ["Tags"];
     const data_headers = [
         new UploadHeader("Game", true),
+        new UploadHeader("Needs a Logo", false),
         new UploadHeader("Song", true),
         new UploadHeader("Category", true),
         new UploadHeader("Composers", false),
@@ -129,7 +131,12 @@ async function run() {
       	json_output["Duration"] = midiParsed.duration;
       }
     }
-
+    
+    if (game_name != null) {
+        if (!Object.keys(imageData).includes(game_name)) {
+            new_game = true;
+        }
+    }
     let user = "Unknown";
     if (response.data.user) {
         user = response.data.user.login;
@@ -139,6 +146,7 @@ async function run() {
     if (song_upload) {
         const information = {
             "Game": Object.keys(json_output).includes("Game") ? json_output["Game"] : "Not Provided",
+            "Needs a logo": "Yes" ? new_game: "No",
             "Song Name": Object.keys(json_output).includes("Song") ? json_output["Song"] : "Not Provided",
             "Original Composer": Object.keys(json_output).includes("Composers") ? json_output["Composers"] : "Not Provided",
             "Converted By": Object.keys(json_output).includes("Converters") ? json_output["Converters"] : "Not Provided",
