@@ -37732,5 +37732,21 @@
     "Date": "Fri Mar 21 2025 13:54:00 GMT+0000 (Coordinated Universal Time)",
     "Binary": "binaries/The Sims/Buy Mode 4.bin",
     "Duration": 132.57033752291665
+  },
+  {
+    "Game": "Mega Man 8",
+    "Song": "Aqua Man",
+    "Composers": "Shusaku Uchiyama",
+    "Converters": "OnlySpaghettiCode",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Fri Mar 21 2025 18:52:37 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Mega%20Man%208/Aqua%20Man.mp3",
+    "Binary": "binaries/Mega Man 8/Aqua Man.bin",
+    "Duration": 60.477369260416665
   }
 ]
