@@ -37766,5 +37766,85 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Donkey%20Kong%2064/Ohhh%20Bean.mp3",
     "Binary": "binaries/Donkey Kong 64/Ohhh Bean.bin",
     "Duration": 3.25
+  },
+  {
+    "Game": "Kirby: Canvas Curse",
+    "Song": "Drawcia Demo",
+    "Composers": "Jun Ishikawa, Tadashi Ikegami",
+    "Converters": "SirEnobMort",
+    "Category": "events",
+    "Tags": [
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Fri Mar 21 2025 23:04:09 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Kirby%20Canvas%20Curse/Drawcia%20Demo.mp3",
+    "Binary": "binaries/Kirby Canvas Curse/Drawcia Demo.bin",
+    "Duration": 16.050408374999996
+  },
+  {
+    "Game": "New Super Mario Bros.",
+    "Song": "Mini-Game Select",
+    "Composers": "Asuka Hayazaki, Hajime Wakai, Koji Kondo",
+    "Converters": "SirEnobMort",
+    "Category": "bgm",
+    "Tags": [
+      "Lobbies and Shops",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Fri Mar 21 2025 23:04:10 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/New%20Super%20Mario%20Bros/Mini-Game%20Select.mp3",
+    "Binary": "binaries/New Super Mario Bros/Mini-Game Select.bin",
+    "Duration": 52.99166666666667
+  },
+  {
+    "Game": "New Super Mario Bros.",
+    "Song": "Mini-Game Menu",
+    "Composers": "Asuka Hayazaki, Hajime Wakai, Koji Kondo",
+    "Converters": "SirEnobMort",
+    "Category": "bgm",
+    "Tags": [
+      "Minigames",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Fri Mar 21 2025 23:04:10 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/New%20Super%20Mario%20Bros/Mini-Game%20Menu.mp3",
+    "Binary": "binaries/New Super Mario Bros/Mini-Game Menu.bin",
+    "Duration": 38.9441195
+  },
+  {
+    "Game": "Kirby: Nightmare in Dream Land",
+    "Song": "Kirby's Air Grind Goal",
+    "Composers": "Jun Ishikawa",
+    "Converters": "SirEnobMort",
+    "Category": "majoritems",
+    "Tags": [
+      "Spawning",
+      "Collection",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Fri Mar 21 2025 23:04:11 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Kirby%20Nightmare%20in%20Dream%20Land/Kirbys%20Air%20Grind%20Goal.mp3",
+    "Binary": "binaries/Kirby Nightmare in Dream Land/Kirbys Air Grind Goal.bin",
+    "Duration": 1.954787625
+  },
+  {
+    "Game": "Kirby: Nightmare in Dream Land",
+    "Song": "Kirby's Air Grind",
+    "Composers": "Jun Ishikawa",
+    "Converters": "SirEnobMort",
+    "Category": "bgm",
+    "Tags": [
+      "Minigames",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Fri Mar 21 2025 23:04:11 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Kirby%20Nightmare%20in%20Dream%20Land/Kirbys%20Air%20Grind.mp3",
+    "Binary": "binaries/Kirby Nightmare in Dream Land/Kirbys Air Grind.bin",
+    "Duration": 29.0757285
   }
 ]
