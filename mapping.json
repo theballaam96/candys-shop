@@ -37715,5 +37715,22 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/The%20Legend%20of%20Zelda%20Links%20Awakening/Mabe%20Village%20(2019).mp3",
     "Binary": "binaries/The Legend of Zelda Links Awakening/Mabe Village (2019).bin",
     "Duration": 144.46428466666666
+  },
+  {
+    "Game": "The Sims",
+    "Song": "Buy Mode 4",
+    "Composers": "Jerry Martin",
+    "Converters": "AbscondWithAPie",
+    "Category": "bgm",
+    "Audio": "https://youtu.be/wEf2vygc5ec",
+    "Tags": [
+      "Lobbies and Shops",
+      "Interiors",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Fri Mar 21 2025 13:54:00 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/The Sims/Buy Mode 4.bin",
+    "Duration": 132.57033752291665
   }
 ]
