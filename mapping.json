@@ -37748,5 +37748,23 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Mega%20Man%208/Aqua%20Man.mp3",
     "Binary": "binaries/Mega Man 8/Aqua Man.bin",
     "Duration": 60.477369260416665
+  },
+  {
+    "Game": "Donkey Kong 64",
+    "Song": "Ohhh Bean",
+    "Composers": "Grant Kirkhope",
+    "Converters": "Altermentality",
+    "Category": "majoritems",
+    "Update Notes": "Idea by Kamerson!",
+    "Tags": [
+      "Spawning",
+      "Collection",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Fri Mar 21 2025 22:59:15 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Donkey%20Kong%2064/Ohhh%20Bean.mp3",
+    "Binary": "binaries/Donkey Kong 64/Ohhh Bean.bin",
+    "Duration": 3.25
   }
 ]
