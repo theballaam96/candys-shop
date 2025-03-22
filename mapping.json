@@ -37861,5 +37861,21 @@
     "Audio": "https://www.youtube.com/watch?v=WRgIILmErhY",
     "Binary": "binaries/Metal Slug X/Kiss In The Dark -X-.bin",
     "Duration": 66.95216522916668
+  },
+  {
+    "Game": "Banjo-Kazooie",
+    "Song": "Collect Honeycomb",
+    "Composers": "Grant Kirkhope",
+    "Converters": "Zion Jaymes",
+    "Category": "majoritems",
+    "Tags": [
+      "Collection",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Sat Mar 22 2025 23:10:04 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Banjo-Kazooie/Collect%20Honeycomb.mp3",
+    "Binary": "binaries/Banjo-Kazooie/Collect Honeycomb.bin",
+    "Duration": 0.65078125
   }
 ]
