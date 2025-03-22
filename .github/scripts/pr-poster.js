@@ -42,6 +42,7 @@ async function run() {
         // new UploadHeader("Duration", true),
         // new UploadHeader("Tracks", true),
     ]
+    const imageData = fs.existsSync(filePath) ? require(filePath) : [];
 
 
     // PR Data
