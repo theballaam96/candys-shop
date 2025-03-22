@@ -152,7 +152,6 @@ async function run() {
     if (song_upload) {
         const information = {
             "Game": Object.keys(json_output).includes("Game") ? json_output["Game"] : "Not Provided",
-            "Needs a logo": new_game ? "Yes (<@83744702129504256>, please add a logo)" : "No",
             "Song Name": Object.keys(json_output).includes("Song") ? json_output["Song"] : "Not Provided",
             "Original Composer": Object.keys(json_output).includes("Composers") ? json_output["Composers"] : "Not Provided",
             "Converted By": Object.keys(json_output).includes("Converters") ? json_output["Converters"] : "Not Provided",
@@ -162,6 +161,7 @@ async function run() {
             "Binary File": bin_file ? bin_file : "Not Provided",
             "Audio File": preview_file ? preview_file : Object.keys(json_output).includes("Audio") ? json_output["Audio"] : "Not Provided",
             "Midi File": midi_file ? midi_file : "Not Provided",
+            "Needs a logo": new_game ? "Yes (<@83744702129504256>, please add a logo)" : "No",
             "Duration": Object.keys(json_output).includes("Duration") ? json_output["Duration"] : "Not Provided",
             "Update Notes": Object.keys(json_output).includes("Update Notes") ? json_output["Update Notes"] : "Not Provided",
             "Additional Notes": Object.keys(json_output).includes("Additional Notes") ? json_output["Additional Notes"] : "Not Provided",
