@@ -137,7 +137,7 @@ async function run() {
 
     if (Object.keys(json_output).includes("Game")) {
         if (json_output["Game"]) {
-            if (!Object.keys(imageData).includes(game_name)) {
+            if (!Object.keys(imageData).includes(json_output["Game"])) {
                 new_game = true;
             }
         }
