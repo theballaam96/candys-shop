@@ -131,12 +131,15 @@ async function run() {
       	json_output["Duration"] = midiParsed.duration;
       }
     }
-    
-    if (game_name != null) {
-        if (!Object.keys(imageData).includes(game_name)) {
-            new_game = true;
+
+    if (Object.keys(json_output).includes("Game")) {
+        if (json_output["Game"]) {
+            if (!Object.keys(imageData).includes(game_name)) {
+                new_game = true;
+            }
         }
     }
+
     let user = "Unknown";
     if (response.data.user) {
         user = response.data.user.login;
