@@ -152,7 +152,7 @@ async function run() {
     if (song_upload) {
         const information = {
             "Game": Object.keys(json_output).includes("Game") ? json_output["Game"] : "Not Provided",
-            "Needs a logo": "Yes (<@83744702129504256>, please add a logo)" ? new_game: "No",
+            "Needs a logo": new_game ? "Yes (<@83744702129504256>, please add a logo)" : "No",
             "Song Name": Object.keys(json_output).includes("Song") ? json_output["Song"] : "Not Provided",
             "Original Composer": Object.keys(json_output).includes("Composers") ? json_output["Composers"] : "Not Provided",
             "Converted By": Object.keys(json_output).includes("Converters") ? json_output["Converters"] : "Not Provided",
