@@ -42,6 +42,8 @@ async function run() {
         // new UploadHeader("Duration", true),
         // new UploadHeader("Tracks", true),
     ]
+    const file = "images.json"
+    const filePath = path.join(__dirname, `../../${file}`);
     const imageData = fs.existsSync(filePath) ? require(filePath) : [];
 
 
