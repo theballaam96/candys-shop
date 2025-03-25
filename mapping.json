@@ -37877,5 +37877,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Banjo-Kazooie/Collect%20Honeycomb.mp3",
     "Binary": "binaries/Banjo-Kazooie/Collect Honeycomb.bin",
     "Duration": 0.65078125
+  },
+  {
+    "Game": "Pokémon Black & White",
+    "Song": "Battle! (Wild Pokémon)",
+    "Composers": "Junichi Masuda, Go Ichinose",
+    "Converters": "nerosomething",
+    "Category": "bgm",
+    "Tags": [
+      "Fights",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Tue Mar 25 2025 01:19:14 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Pok%C3%A9mon%20Black%20%20White/Battle%20(Wild%20Pok%C3%A9mon).mp3",
+    "Binary": "binaries/Pokémon Black  White/Battle (Wild Pokémon).bin",
+    "Duration": 65.67753306249999
   }
 ]
