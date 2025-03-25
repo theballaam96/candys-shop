@@ -37909,5 +37909,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Sonic%20Advance%202/Music%20Plant%20Zone%20-%20Act%201.mp3",
     "Binary": "binaries/Sonic Advance 2/Music Plant Zone - Act 1.bin",
     "Duration": 57.599999999999994
+  },
+  {
+    "Game": "Mother 3",
+    "Song": "Fanfare of the Noble Spittoon",
+    "Composers": "Shogo Sakai",
+    "Converters": "nerosomething",
+    "Category": "events",
+    "Tags": [
+      "Collection",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Tue Mar 25 2025 01:23:41 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Mother%203/Fanfare%20of%20the%20Noble%20Spittoon.mp3",
+    "Binary": "binaries/Mother 3/Fanfare of the Noble Spittoon.bin",
+    "Duration": 7.878292625
   }
 ]
