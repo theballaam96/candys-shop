@@ -37893,5 +37893,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Pok%C3%A9mon%20Black%20%20White/Battle%20(Wild%20Pok%C3%A9mon).mp3",
     "Binary": "binaries/Pokémon Black  White/Battle (Wild Pokémon).bin",
     "Duration": 65.67753306249999
+  },
+  {
+    "Game": "Sonic Advance 2",
+    "Song": "Music Plant Zone - Act 1",
+    "Composers": "Yutaka Minobe",
+    "Converters": "Scela",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Tue Mar 25 2025 01:21:40 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Sonic%20Advance%202/Music%20Plant%20Zone%20-%20Act%201.mp3",
+    "Binary": "binaries/Sonic Advance 2/Music Plant Zone - Act 1.bin",
+    "Duration": 57.599999999999994
   }
 ]
