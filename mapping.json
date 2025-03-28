@@ -37925,5 +37925,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Mother%203/Fanfare%20of%20the%20Noble%20Spittoon.mp3",
     "Binary": "binaries/Mother 3/Fanfare of the Noble Spittoon.bin",
     "Duration": 7.878292625
+  },
+  {
+    "Game": "Look Outside",
+    "Song": "Safe Place",
+    "Composers": "Eric Shumaker",
+    "Converters": "iveli_alpaca",
+    "Category": "bgm",
+    "Audio": "https://www.youtube.com/watch?v=9XfgyVzoHAk",
+    "Tags": [
+      "Lobbies and Shops",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Fri Mar 28 2025 07:57:30 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Look Outside/Safe Place.bin",
+    "Duration": 71.99479166666667
   }
 ]
