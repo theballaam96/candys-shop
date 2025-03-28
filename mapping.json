@@ -37941,5 +37941,21 @@
     "Date": "Fri Mar 28 2025 07:57:30 GMT+0000 (Coordinated Universal Time)",
     "Binary": "binaries/Look Outside/Safe Place.bin",
     "Duration": 71.99479166666667
+  },
+  {
+    "Game": "Pokémon Snap",
+    "Song": "Volcano",
+    "Composers": "Ikuko Mimori",
+    "Converters": "Altermentality",
+    "Category": "bgm",
+    "Audio": "https://youtu.be/OCsMV7N09Iw",
+    "Tags": [
+      "Exteriors",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Fri Mar 28 2025 08:00:27 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Pokémon Snap/Volcano.bin",
+    "Duration": 59.999904
   }
 ]
