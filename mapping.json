@@ -37957,5 +37957,21 @@
     "Date": "Fri Mar 28 2025 08:00:27 GMT+0000 (Coordinated Universal Time)",
     "Binary": "binaries/Pokémon Snap/Volcano.bin",
     "Duration": 59.999904
+  },
+  {
+    "Game": "Pokémon Snap",
+    "Song": "Best Shot",
+    "Composers": "Ikuko Mimori",
+    "Converters": "Altermentality",
+    "Category": "bgm",
+    "Audio": "https://youtu.be/c2t28vLxzVg",
+    "Tags": [
+      "Lobbies and Shops",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Fri Mar 28 2025 08:02:04 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Pokémon Snap/Best Shot.bin",
+    "Duration": 12.7894545
   }
 ]
