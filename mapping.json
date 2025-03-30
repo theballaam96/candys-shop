@@ -37990,5 +37990,22 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Commander%20Keen%20in%20Goodbye,%20Galaxy/Youve%20Got%20to%20Eat%20Your%20Vegetables.mp3",
     "Binary": "binaries/Commander Keen in Goodbye, Galaxy/Youve Got to Eat Your Vegetables.bin",
     "Duration": 53.308115458333326
+  },
+  {
+    "Game": "Mario + Rabbids: Kingdom Battle",
+    "Song": "Steamed Up in the Factory",
+    "Composers": "Grant Kirkhope",
+    "Converters": "LBFrank",
+    "Category": "bgm",
+    "Tags": [
+      "Interiors",
+      "Gloomy",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Sun Mar 30 2025 18:58:39 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Mario%20%20Rabbids%20Kingdom%20Battle/Steamed%20Up%20in%20the%20Factory.mp3",
+    "Binary": "binaries/Mario  Rabbids Kingdom Battle/Steamed Up in the Factory.bin",
+    "Duration": 122.66709600000002
   }
 ]
