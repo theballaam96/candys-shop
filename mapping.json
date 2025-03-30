@@ -37973,5 +37973,22 @@
     "Date": "Fri Mar 28 2025 08:02:04 GMT+0000 (Coordinated Universal Time)",
     "Binary": "binaries/Pokémon Snap/Best Shot.bin",
     "Duration": 12.7894545
+  },
+  {
+    "Game": "Commander Keen in Goodbye, Galaxy!",
+    "Song": "You've Got to Eat Your Vegetables!!",
+    "Composers": "Bobby Prince",
+    "Converters": "Wibdiwoh",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors",
+      "Calm"
+    ],
+    "Additional Notes": "DOPEFISH LIVES",
+    "Verified": true,
+    "Date": "Sun Mar 30 2025 18:51:29 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Commander%20Keen%20in%20Goodbye,%20Galaxy/Youve%20Got%20to%20Eat%20Your%20Vegetables.mp3",
+    "Binary": "binaries/Commander Keen in Goodbye, Galaxy/Youve Got to Eat Your Vegetables.bin",
+    "Duration": 53.308115458333326
   }
 ]
