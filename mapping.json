@@ -38023,5 +38023,22 @@
     "Date": "Mon Mar 31 2025 20:15:07 GMT+0000 (Coordinated Universal Time)",
     "Binary": "binaries/BUDD/A Space Farers Anthem.bin",
     "Duration": 162.59374999999997
+  },
+  {
+    "Game": "Sonic the Hedgehog 3",
+    "Song": "Final Boss",
+    "Composers": "Masanori Hikichi",
+    "Converters": "The Sound Defense",
+    "Category": "bgm",
+    "Additional Notes": "This song is also known as \"Big Arms\".",
+    "Tags": [
+      "Fights",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Mon Mar 31 2025 20:23:50 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Sonic%20the%20Hedgehog%203/Final%20Boss.mp3",
+    "Binary": "binaries/Sonic the Hedgehog 3/Final Boss.bin",
+    "Duration": 58.18176000000001
   }
 ]
