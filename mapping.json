@@ -38007,5 +38007,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Mario%20%20Rabbids%20Kingdom%20Battle/Steamed%20Up%20in%20the%20Factory.mp3",
     "Binary": "binaries/Mario  Rabbids Kingdom Battle/Steamed Up in the Factory.bin",
     "Duration": 122.66709600000002
+  },
+  {
+    "Game": "BUDD",
+    "Song": "A Space Farer's Anthem",
+    "Composers": "iveli_alpaca",
+    "Converters": "iveli_alpaca",
+    "Category": "bgm",
+    "Audio": "https://www.youtube.com/watch?v=oFCKxq8kG_o",
+    "Tags": [
+      "Lobbies and Shops",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Mon Mar 31 2025 20:15:07 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/BUDD/A Space Farers Anthem.bin",
+    "Duration": 162.59374999999997
   }
 ]
