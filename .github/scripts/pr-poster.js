@@ -161,7 +161,7 @@ async function run() {
             "Binary File": bin_file ? bin_file : "Not Provided",
             "Audio File": preview_file ? preview_file : Object.keys(json_output).includes("Audio") ? json_output["Audio"] : "Not Provided",
             "Midi File": midi_file ? midi_file : "Not Provided",
-            "Needs a logo": new_game ? "Yes (<@83744702129504256>, please add a logo)" : "No",
+            "Needs a logo": new_game ? "Yes" : "No",
             "Duration": Object.keys(json_output).includes("Duration") ? json_output["Duration"] : "Not Provided",
             "Update Notes": Object.keys(json_output).includes("Update Notes") ? json_output["Update Notes"] : "Not Provided",
             "Additional Notes": Object.keys(json_output).includes("Additional Notes") ? json_output["Additional Notes"] : "Not Provided",
@@ -194,12 +194,16 @@ async function run() {
         )
     }
     const webhookUrl = process.env.DISCORD_WEBHOOK_SUBMISSIONS;
+    let ending = ""
+    if (song_upload && new_game) {
+        ending = " (<@83744702129504256> - Logo ping)"
+    }
     const options = {
         method: "POST",
         url: webhookUrl,
         headers: { "Content-Type": "application/json" },
         data: {
-            content: `New Pull Request from ${user}`,
+            content: `New Pull Request from ${user}${ending}`,
             embeds: embeds_arr,
         },
     }
