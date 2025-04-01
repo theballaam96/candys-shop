@@ -38057,5 +38057,23 @@
     "Date": "Tue Apr 01 2025 09:33:48 GMT+0000 (Coordinated Universal Time)",
     "Binary": "binaries/Resident Evil Directors Cut Dual Shock Ver/Mansion Basement.bin",
     "Duration": 37.479166666666664
+  },
+  {
+    "Game": "Rayman 3: Hoodlum Havoc",
+    "Song": "Hoodoo Sorcerer",
+    "Composers": "Laurent Parisi",
+    "Converters": "Manic Bestia",
+    "Category": "bgm",
+    "Additional Notes": "Original midi transposition by Sunchipp",
+    "Tags": [
+      "Fights",
+      "Lobbies and Shops",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Tue Apr 01 2025 13:54:17 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Rayman%203%20Hoodlum%20Havoc/Hoodoo%20Sorcerer.mp3",
+    "Binary": "binaries/Rayman 3 Hoodlum Havoc/Hoodoo Sorcerer.bin",
+    "Duration": 38.019776
   }
 ]
