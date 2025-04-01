@@ -31,6 +31,7 @@ jobs:
           npm install @octokit/rest
           npm install midi-file
           npm install @tonejs/midi
+          npm install string-similarity-js
           
       - name: Analyze Pull Request
         run: node .github/scripts/pr-analyzer.js
