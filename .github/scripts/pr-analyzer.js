@@ -5,6 +5,7 @@
     const path = require('path');
     const parseMidi = require("midi-file").parseMidi;
     const { Midi } = require("@tonejs/midi");
+    const { stringSimilarity } = require("string-similarity-js");
     
     const invalid_chars = [
         ":", "/", "\'", "\"", "?", "#", "%", "&", "{", "}", "\\", "<", ">", "*", "$",
@@ -226,7 +227,7 @@
                 let max_score = 0;
                 let max_score_name = "";
                 Object.keys(imageData).forEach(gn => {
-                    new_score = stringCompare(game_name, gn);
+                    new_score = stringSimilarity(game_name, gn);
                     if (new_score > max_score) {
                         max_score = new_score
                         max_score_name = gn
