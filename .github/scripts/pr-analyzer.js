@@ -220,7 +220,7 @@
         }
     
         const game_name = Object.keys(json_output).includes("Game") ? json_output["Game"] : null;
-        const similarity_threshold = 0.75
+        const similarity_threshold = 0.4
         if (game_name != null) {
             if (!Object.keys(imageData).includes(game_name)) {
                 new_game = true;
