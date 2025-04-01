@@ -228,6 +228,7 @@
                 let max_score_name = "";
                 Object.keys(imageData).forEach(gn => {
                     new_score = stringSimilarity(game_name, gn);
+                    console.log(game_name, gn, new_score)
                     if (new_score > max_score) {
                         max_score = new_score
                         max_score_name = gn
