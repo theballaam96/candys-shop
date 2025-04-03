@@ -38075,5 +38075,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Rayman%203%20Hoodlum%20Havoc/Hoodoo%20Sorcerer.mp3",
     "Binary": "binaries/Rayman 3 Hoodlum Havoc/Hoodoo Sorcerer.bin",
     "Duration": 38.019776
+  },
+  {
+    "Game": "Resident Evil 2 (1998)",
+    "Song": "Raccoon City PD",
+    "Composers": "Masami Ueda, Shusaku Uchiyama, Syun Nishigaki",
+    "Converters": "iveli_alpaca",
+    "Category": "bgm",
+    "Audio": "https://www.youtube.com/watch?v=UhCxeDUVpK4",
+    "Tags": [
+      "Lobbies and Shops",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Thu Apr 03 2025 11:22:41 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Resident Evil 2 (1998)/Raccoon City PD.bin",
+    "Duration": 46.82162605208333
   }
 ]
