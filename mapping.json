@@ -38091,5 +38091,23 @@
     "Date": "Thu Apr 03 2025 11:22:41 GMT+0000 (Coordinated Universal Time)",
     "Binary": "binaries/Resident Evil 2 (1998)/Raccoon City PD.bin",
     "Duration": 46.82162605208333
+  },
+  {
+    "Game": "Mario + Rabbids: Kingdom Battle",
+    "Song": "Steamed Up in the Factory",
+    "Composers": "Grant Kirkhope",
+    "Converters": "LBFrank",
+    "Category": "bgm",
+    "Update Notes": "Volume adjustments",
+    "Tags": [
+      "Interiors",
+      "Gloomy",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Sun Apr 06 2025 23:36:43 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Mario%20%20Rabbids%20Kingdom%20Battle/Steamed%20Up%20in%20the%20Factory%20(REV%201).mp3",
+    "Binary": "binaries/Mario  Rabbids Kingdom Battle/Steamed Up in the Factory (REV 1).bin",
+    "Duration": 122.66709600000002
   }
 ]
