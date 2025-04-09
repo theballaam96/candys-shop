@@ -38125,5 +38125,22 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Castlevania%20Symphony%20of%20the%20Night/Requiem%20of%20the%20Gods.mp3",
     "Binary": "binaries/Castlevania Symphony of the Night/Requiem of the Gods.bin",
     "Duration": 126.85585800000001
+  },
+  {
+    "Game": "Kingdom Hearts",
+    "Song": "Captain Hook's Pirate Ship",
+    "Category": "bgm",
+    "Composers": "Yoko Shimomura",
+    "Converters": "Schwartz Gandhi",
+    "Tags": [
+      "Interiors",
+      "Gloomy",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Wed Apr 09 2025 21:15:44 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Kingdom%20Hearts/Captain%20Hooks%20Pirate%20Ship.mp3",
+    "Binary": "binaries/Kingdom Hearts/Captain Hooks Pirate Ship.bin",
+    "Duration": 70
   }
 ]
