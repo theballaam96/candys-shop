@@ -38109,5 +38109,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Mario%20%20Rabbids%20Kingdom%20Battle/Steamed%20Up%20in%20the%20Factory%20(REV%201).mp3",
     "Binary": "binaries/Mario  Rabbids Kingdom Battle/Steamed Up in the Factory (REV 1).bin",
     "Duration": 122.66709600000002
+  },
+  {
+    "Game": "Castlevania: Symphony of the Night",
+    "Song": "Requiem of the Gods",
+    "Category": "bgm",
+    "Composers": "Michiru Yamane",
+    "Converters": "Schwartz Gandhi",
+    "Tags": [
+      "Interiors",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Wed Apr 09 2025 21:13:53 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Castlevania%20Symphony%20of%20the%20Night/Requiem%20of%20the%20Gods.mp3",
+    "Binary": "binaries/Castlevania Symphony of the Night/Requiem of the Gods.bin",
+    "Duration": 126.85585800000001
   }
 ]
