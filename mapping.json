@@ -38142,5 +38142,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Kingdom%20Hearts/Captain%20Hooks%20Pirate%20Ship.mp3",
     "Binary": "binaries/Kingdom Hearts/Captain Hooks Pirate Ship.bin",
     "Duration": 70
+  },
+  {
+    "Game": "Sonic Heroes",
+    "Song": "Sonic Heroes",
+    "Composers": "Crush 40",
+    "Converters": "Raphix",
+    "Category": "bgm",
+    "Tags": [
+      "Fights",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Thu Apr 10 2025 02:09:48 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Sonic%20Heroes/Sonic%20Heroes.mp3",
+    "Binary": "binaries/Sonic Heroes/Sonic Heroes.bin",
+    "Duration": 85.42800052083332
   }
 ]
