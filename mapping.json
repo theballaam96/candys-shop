@@ -38173,5 +38173,59 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Kingdom%20Hearts/Pirates%20Gigue.mp3",
     "Binary": "binaries/Kingdom Hearts/Pirates Gigue.bin",
     "Duration": 49.354842
+  },
+  {
+    "Game": "Sonic Adventure",
+    "Song": "Windy & Ripply",
+    "Composers": "Jun Senoue",
+    "Converters": "iveli_alpaca",
+    "Category": "bgm",
+    "Audio": "https://youtu.be/FQJnPVEvtfk?si=sb5zKKcyHeGU2haL",
+    "Tags": [
+      "Exteriors",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Sat Apr 12 2025 02:43:59 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Sonic Adventure/Windy  Ripply.bin",
+    "Duration": 95.28942041666667
+  },
+  {
+    "Game": "Sonic the Hedgehog",
+    "Song": "Labyrinth Zone",
+    "Composers": "Masato Nakamura",
+    "Converters": "The Sound Defense",
+    "Category": "bgm",
+    "Update Notes": "Improved the sound of the lead instrument.",
+    "Tags": [
+      "Lobbies and Shops",
+      "Exteriors",
+      "Happy",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Sat Apr 12 2025 02:44:00 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Sonic%20the%20Hedgehog/Labyrinth%20Zone%20(REV%201).mp3",
+    "Binary": "binaries/Sonic the Hedgehog/Labyrinth Zone (REV 1).bin",
+    "Duration": 36.48
+  },
+  {
+    "Game": "Sonic Colors",
+    "Song": "Planet Wisp (Act 1)",
+    "Composers": "Kenichi Tokoi",
+    "Converters": "The Sound Defense",
+    "Category": "bgm",
+    "Update Notes": "Updates to volume and some note lengths.",
+    "Tags": [
+      "Lobbies and Shops",
+      "Exteriors",
+      "Happy",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Sat Apr 12 2025 02:44:01 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Sonic%20Colors/Planet%20Wisp%20(Act%201)%20(REV%201).mp3",
+    "Binary": "binaries/Sonic Colors/Planet Wisp (Act 1) (REV 1).bin",
+    "Duration": 68.10804
   }
 ]
