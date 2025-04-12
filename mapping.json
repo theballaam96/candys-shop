@@ -38158,5 +38158,20 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Sonic%20Heroes/Sonic%20Heroes.mp3",
     "Binary": "binaries/Sonic Heroes/Sonic Heroes.bin",
     "Duration": 85.42800052083332
+  },
+  {
+    "Game": "Kingdom Hearts",
+    "Song": "Pirate's Gigue",
+    "Category": "bgm",
+    "Composers": "Yoko Shimomura",
+    "Converters": "Schwartz Gandhi",
+    "Tags": [
+      "Fights"
+    ],
+    "Verified": true,
+    "Date": "Sat Apr 12 2025 02:41:19 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Kingdom%20Hearts/Pirates%20Gigue.mp3",
+    "Binary": "binaries/Kingdom Hearts/Pirates Gigue.bin",
+    "Duration": 49.354842
   }
 ]
