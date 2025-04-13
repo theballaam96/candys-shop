@@ -38259,5 +38259,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Secret%20of%20Mana/The%20Little%20Sprite.mp3",
     "Binary": "binaries/Secret of Mana/The Little Sprite.bin",
     "Duration": 40.34666420833332
+  },
+  {
+    "Game": "Kingdom Hearts II",
+    "Song": "Waltz of the Damned",
+    "Category": "bgm",
+    "Composers": "Yoko Shimomura",
+    "Converters": "Schwartz Gandhi",
+    "Tags": [
+      "Interiors",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Sun Apr 13 2025 16:13:15 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Kingdom%20Hearts%20II/Waltz%20of%20the%20Damned.mp3",
+    "Binary": "binaries/Kingdom Hearts II/Waltz of the Damned.bin",
+    "Duration": 53.1
   }
 ]
