@@ -38227,5 +38227,37 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Sonic%20Colors/Planet%20Wisp%20(Act%201)%20(REV%201).mp3",
     "Binary": "binaries/Sonic Colors/Planet Wisp (Act 1) (REV 1).bin",
     "Duration": 68.10804
+  },
+  {
+    "Game": "Donkey Kong Country",
+    "Song": "Cranky's Theme",
+    "Composers": "David Wise",
+    "Converters": "OnlySpaghettiCode",
+    "Category": "bgm",
+    "Tags": [
+      "Lobbies and Shops",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Sun Apr 13 2025 11:56:19 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Donkey%20Kong%20Country/Crankys%20Theme.mp3",
+    "Binary": "binaries/Donkey Kong Country/Crankys Theme.bin",
+    "Duration": 74.65776795833335
+  },
+  {
+    "Game": "Secret of Mana",
+    "Song": "The Little Sprite",
+    "Composers": "Hiroki Kikuta",
+    "Converters": "OnlySpaghettiCode",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Sun Apr 13 2025 11:56:19 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Secret%20of%20Mana/The%20Little%20Sprite.mp3",
+    "Binary": "binaries/Secret of Mana/The Little Sprite.bin",
+    "Duration": 40.34666420833332
   }
 ]
