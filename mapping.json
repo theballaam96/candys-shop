@@ -1446,7 +1446,7 @@
     "Verified": true
   },
   {
-    "Game": "Mario & Luigi: Bowser's Inside Story",
+    "Game": "Mario  Luigi: Bowser's Inside Story",
     "Song": "In the final",
     "Category": "bgm",
     "Composers": "Yoko Shimomura",
@@ -1460,7 +1460,7 @@
     "Verified": true
   },
   {
-    "Game": "Mario & Luigi: Bowser's Inside Story",
+    "Game": "Mario  Luigi: Bowser's Inside Story",
     "Song": "Cavi Cape",
     "Category": "bgm",
     "Composers": "Yoko Shimomura",
@@ -1476,7 +1476,7 @@
     "Verified": true
   },
   {
-    "Game": "Mario & Luigi: Bowser's Inside Story",
+    "Game": "Mario  Luigi: Bowser's Inside Story",
     "Song": "Forever in the Plains",
     "Category": "bgm",
     "Composers": "Yoko Shimomura",
@@ -1492,7 +1492,7 @@
     "Verified": true
   },
   {
-    "Game": "Mario & Luigi: Bowser's Inside Story",
+    "Game": "Mario  Luigi: Bowser's Inside Story",
     "Song": "Plack Beach",
     "Category": "bgm",
     "Composers": "Yoko Shimomura",
@@ -1508,7 +1508,7 @@
     "Verified": true
   },
   {
-    "Game": "Mario & Luigi: Bowser's Inside Story",
+    "Game": "Mario  Luigi: Bowser's Inside Story",
     "Song": "Dimble Wood",
     "Category": "bgm",
     "Composers": "Yoko Shimomura",
@@ -1755,7 +1755,7 @@
     "Composers": "Ronan \"Mr. Sauceman\" de Castel",
     "Converters": "AaronDobbe",
     "Binary": "binaries/Pizza Tower/Cold Spaghetti by AaronDobbe.bin",
-    "Audio": "https://www.youtube.com/watch?v=zZQkUTzQTys&t=8",
+    "Audio": "https://www.youtube.com/watch?v=zZQkUTzQTyst=8",
     "Duration": 169.1429840000011,
     "Tracks": 11,
     "Tags": [
@@ -1766,7 +1766,7 @@
     "Verified": true
   },
   {
-    "Game": "Pokémon Red, Blue & Yellow",
+    "Game": "Pokémon Red, Blue  Yellow",
     "Song": "Pokemon Trainer Battle",
     "Category": "bgm",
     "Composers": "Junichi Masuda",
@@ -1778,7 +1778,7 @@
     "Verified": true
   },
   {
-    "Game": "Pokémon Ruby, Sapphire & Emerald",
+    "Game": "Pokémon Ruby, Sapphire  Emerald",
     "Song": "Littleroot Town",
     "Category": "bgm",
     "Composers": "Go Ichinose",
@@ -1863,7 +1863,7 @@
     "Composers": "David Butterfield",
     "Converters": "GlitchGlider",
     "Binary": "binaries/Subway Surfers/Main Theme by GlitchGlider.bin",
-    "Audio": "https://www.youtube.com/watch?v=0p6_v_DJLPM&feature=youtu.be",
+    "Audio": "https://www.youtube.com/watch?v=0p6_v_DJLPMfeature=youtu.be",
     "Duration": 96,
     "Tracks": 16,
     "Verified": true
@@ -2067,7 +2067,7 @@
     "Composers": "Koji Kondo",
     "Converters": "Wolfeni",
     "Binary": "binaries/The Legend of Zelda Majoras Mask/Great Bay Temple by Wolfeni.bin",
-    "Audio": "https://www.youtube.com/watch?v=WroWnuxlXGI&feature=youtu.be",
+    "Audio": "https://www.youtube.com/watch?v=WroWnuxlXGIfeature=youtu.be",
     "Duration": 116.36371199999796,
     "Tracks": 10,
     "Tags": [
@@ -2643,7 +2643,7 @@
   {
     "Date": "Mon Jun 19 2023 23:57:23 GMT-0500 (Central Daylight Time)",
     "Game": "Super Mario 64",
-    "Song": "Lethal Lava Land & Shifting Sand Land",
+    "Song": "Lethal Lava Land  Shifting Sand Land",
     "Category": "bgm",
     "Composers": "Koji Kondo",
     "Converters": "UmedMuzl",
@@ -4774,7 +4774,7 @@
     "Game": "Super Smash Bros. Melee",
     "Song": "Targets!",
     "Category": "bgm",
-    "Composers": "Shogo Sakai, Hirokazu Ando & Tadashi Ikegami",
+    "Composers": "Shogo Sakai, Hirokazu Ando, Tadashi Ikegami",
     "Converters": "OnlySpaghettiCode",
     "Binary": "binaries/Super Smash Bros Melee/Targets by OnlySpaghettiCode.bin",
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Super%20Smash%20Bros%20Melee/Targets%20by%20OnlySpaghettiCode.mp3",
@@ -4910,7 +4910,7 @@
     "Game": "Super Smash Bros. Melee",
     "Song": "Targets!",
     "Category": "bgm",
-    "Composers": "Shogo Sakai, Hirokazu Ando & Tadashi Ikegami",
+    "Composers": "Shogo Sakai, Hirokazu Ando, Tadashi Ikegami",
     "Converters": "OnlySpaghettiCode",
     "Binary": "binaries/Super Smash Bros Melee/Targets by OnlySpaghettiCode (REV 1).bin",
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Super%20Smash%20Bros%20Melee/Targets%20by%20OnlySpaghettiCode%20%28REV%201%29.mp3",
@@ -5790,7 +5790,7 @@
     "Game": "Pokémon Black 2 & White 2",
     "Song": "Virbank City",
     "Category": "bgm",
-    "Composers": "Go Ichinose & Hitomi Satō",
+    "Composers": "Go Ichinose, Hitomi Satō",
     "Converters": "OnlySpaghettiCode",
     "Binary": "binaries/Pokémon Black 2  White 2/Virbank City by OnlySpaghettiCode.bin",
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Pok%C3%A9mon%20Black%202%20%20White%202/Virbank%20City%20by%20OnlySpaghettiCode.mp3",
@@ -5845,7 +5845,7 @@
     "Game": "Pokémon Mystery Dungeon: Explorers of Sky",
     "Song": "Through the Sea of Time",
     "Category": "bgm",
-    "Composers": "Hideki Sakamoto, Arata Liyoshi & Yoshihiro Maeda",
+    "Composers": "Hideki Sakamoto, Arata Liyoshi, Yoshihiro Maeda",
     "Converters": "OnlySpaghettiCode",
     "Binary": "binaries/Pokémon Mystery Dungeon Explorers of Sky/Through the Sea of Time by OnlySpaghettiCode.bin",
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Pok%C3%A9mon%20Mystery%20Dungeon%20Explorers%20of%20Sky/Through%20the%20Sea%20of%20Time%20by%20OnlySpaghettiCode.mp3",
@@ -5879,7 +5879,7 @@
     "Game": "Pokémon Mystery Dungeon: Explorers of Sky",
     "Song": "Crystal Cave",
     "Category": "bgm",
-    "Composers": "Hideki Sakamoto, Arata Liyoshi & Yoshihiro Maeda",
+    "Composers": "Hideki Sakamoto, Arata Liyoshi, Yoshihiro Maeda",
     "Converters": "OnlySpaghettiCode",
     "Binary": "binaries/Pokémon Mystery Dungeon Explorers of Sky/Crystal Cave by OnlySpaghettiCode.bin",
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Pok%C3%A9mon%20Mystery%20Dungeon%20Explorers%20of%20Sky/Crystal%20Cave%20by%20OnlySpaghettiCode.mp3",
@@ -16826,7 +16826,7 @@
   {
     "Game": "Castlevania: Dawn of Sorrow",
     "Song": "Demon Castle Pinnacle",
-    "Composers": "Masahiko Kimura & Michiru Yamane",
+    "Composers": "Masahiko Kimura, Michiru Yamane",
     "Converters": "HothRaka",
     "Category": "bgm",
     "Tags": [
@@ -21249,7 +21249,7 @@
   {
     "Game": "Pokémon Mystery Dungeon: Explorers of Sky",
     "Song": "Through the Sea of Time",
-    "Composers": "Hideki Sakamoto, Arata Liyoshi & Yoshihiro Maeda",
+    "Composers": "Hideki Sakamoto, Arata Liyoshi, Yoshihiro Maeda",
     "Converters": "OnlySpaghettiCode",
     "Category": "bgm",
     "Update Notes": "Rebalance",
@@ -21299,7 +21299,7 @@
   {
     "Game": "Pokémon Black & White",
     "Song": "Battle (Elite Four)",
-    "Composers": "Junichi Masuda & Go Ichinose",
+    "Composers": "Junichi Masuda, Go Ichinose",
     "Converters": "OnlySpaghettiCode",
     "Category": "bgm",
     "Update Notes": "Rebalance",
@@ -24818,7 +24818,7 @@
   {
     "Game": "Killer Instinct",
     "Song": "The Instinct",
-    "Composers": "Robin Beanland & Graeme Norgate",
+    "Composers": "Robin Beanland, Graeme Norgate",
     "Converters": "cdh90",
     "Category": "bgm",
     "Tags": [
@@ -25578,7 +25578,7 @@
   {
     "Game": "The Legend of Zelda: Spirit Tracks",
     "Song": "Aboda Village",
-    "Composers": "Toru Minegishi & Manaka Tominaga",
+    "Composers": "Toru Minegishi, Manaka Tominaga",
     "Converters": "OnlySpaghettiCode",
     "Category": "bgm",
     "Tags": [
@@ -25594,7 +25594,7 @@
   {
     "Game": "The Legend of Zelda: Spirit Tracks",
     "Song": "Anouki Village",
-    "Composers": "Toru Minegishi & Manaka Tominaga",
+    "Composers": "Toru Minegishi, Manaka Tominaga",
     "Converters": "OnlySpaghettiCode",
     "Category": "bgm",
     "Tags": [
@@ -25610,7 +25610,7 @@
   {
     "Game": "The Legend of Zelda: Spirit Tracks",
     "Song": "Castle Town",
-    "Composers": "Toru Minegishi & Manaka Tominaga",
+    "Composers": "Toru Minegishi, Manaka Tominaga",
     "Converters": "OnlySpaghettiCode",
     "Category": "bgm",
     "Tags": [
@@ -25627,7 +25627,7 @@
   {
     "Game": "The Legend of Zelda: Spirit Tracks",
     "Song": "Final Exam",
-    "Composers": "Toru Minegishi & Manaka Tominaga",
+    "Composers": "Toru Minegishi, Manaka Tominaga",
     "Converters": "OnlySpaghettiCode",
     "Category": "bgm",
     "Tags": [
@@ -25707,7 +25707,7 @@
   {
     "Game": "The Legend of Zelda: Spirit Tracks",
     "Song": "Forest/Snow/Ocean Temple",
-    "Composers": "Toru Minegishi & Manaka Tominaga",
+    "Composers": "Toru Minegishi, Manaka Tominaga",
     "Converters": "OnlySpaghettiCode",
     "Category": "bgm",
     "Tags": [
@@ -25723,7 +25723,7 @@
   {
     "Game": "The Legend of Zelda: Spirit Tracks",
     "Song": "Fraaz",
-    "Composers": "Toru Minegishi & Manaka Tominaga",
+    "Composers": "Toru Minegishi, Manaka Tominaga",
     "Converters": "OnlySpaghettiCode",
     "Category": "bgm",
     "Tags": [
@@ -25738,7 +25738,7 @@
   {
     "Game": "The Legend of Zelda: Spirit Tracks",
     "Song": "Tower of Spirits (Dungeon)",
-    "Composers": "Toru Minegishi & Manaka Tominaga",
+    "Composers": "Toru Minegishi, Manaka Tominaga",
     "Converters": "OnlySpaghettiCode",
     "Category": "bgm",
     "Tags": [
@@ -25754,7 +25754,7 @@
   {
     "Game": "The Legend of Zelda: Spirit Tracks",
     "Song": "Cursed Overworld",
-    "Composers": "Toru Minegishi & Manaka Tominaga",
+    "Composers": "Toru Minegishi, Manaka Tominaga",
     "Converters": "OnlySpaghettiCode",
     "Category": "bgm",
     "Tags": [
@@ -35127,7 +35127,7 @@
   {
     "Game": "Killer Instinct",
     "Song": "Riptor",
-    "Composers": "Robin Beanland & Graeme Norgate",
+    "Composers": "Robin Beanland, Graeme Norgate",
     "Converters": "HavenKnight93",
     "Category": "bgm",
     "Tags": [
@@ -35160,7 +35160,7 @@
   {
     "Game": "Killer Instinct",
     "Song": "Spinal",
-    "Composers": "Robin Beanland & Graeme Norgate",
+    "Composers": "Robin Beanland, Graeme Norgate",
     "Converters": "HavenKnight93",
     "Category": "bgm",
     "Tags": [
@@ -35176,7 +35176,7 @@
   {
     "Game": "Crystar",
     "Song": "Berserk",
-    "Composers": "Sakuzyo & Katali",
+    "Composers": "Sakuzyo, Katali",
     "Converters": "GlitchGlider",
     "Category": "bgm",
     "Audio": "https://youtu.be/0_63EnHQMNc",
@@ -35207,7 +35207,7 @@
   {
     "Game": "Crystar",
     "Song": "0",
-    "Composers": "Sakuzyo & Katali",
+    "Composers": "Sakuzyo, Katali",
     "Converters": "GlitchGlider",
     "Category": "bgm",
     "Audio": "https://youtu.be/PP7w_OTJggE",
