@@ -38308,5 +38308,21 @@
     "Date": "Mon Apr 14 2025 07:24:11 GMT+0000 (Coordinated Universal Time)",
     "Binary": "binaries/Mario Party/Eternal Star.bin",
     "Duration": 65.775
+  },
+  {
+    "Game": "Ace Attorney Investigations 2: Prosecutor's Gambit",
+    "Song": "Shaun Fenn ~ Bull Headed Teenager",
+    "Composers": "Noriyuki Iwadare",
+    "Converters": "Cash Money",
+    "Category": "bgm",
+    "Tags": [
+      "Lobbies and Shops",
+      "Interiors"
+    ],
+    "Verified": true,
+    "Date": "Mon Apr 14 2025 07:27:16 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Ace%20Attorney%20Investigations%202%20Prosecutors%20Gambit/Shaun%20Fenn%20~%20Bull%20Headed%20Teenager.mp3",
+    "Binary": "binaries/Ace Attorney Investigations 2 Prosecutors Gambit/Shaun Fenn ~ Bull Headed Teenager.bin",
+    "Duration": 74.48958333333333
   }
 ]
