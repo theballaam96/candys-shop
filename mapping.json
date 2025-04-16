@@ -38340,5 +38340,56 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/UFO%2050/Mooncat%20Forest%20A.mp3",
     "Binary": "binaries/UFO 50/Mooncat Forest A.bin",
     "Duration": 40.0003
+  },
+  {
+    "Game": "Donkey Kong 64",
+    "Song": "End of Prologue Fanfare",
+    "Composers": "Grant Kirkhope",
+    "Converters": "Altermentality",
+    "Category": "bgm",
+    "Tags": [
+      "Spawning",
+      "Collection",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Wed Apr 16 2025 05:03:53 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Donkey%20Kong%2064/End%20of%20Prologue%20Fanfare.mp3",
+    "Binary": "binaries/Donkey Kong 64/End of Prologue Fanfare.bin",
+    "Duration": 2.875
+  },
+  {
+    "Game": "Mario Party",
+    "Song": "Outcome of Adventure",
+    "Composers": "Yasunori Mitsuda",
+    "Converters": "Altermentality",
+    "Category": "bgm",
+    "Audio": "https://youtu.be/hqJM7Ilh-IQ",
+    "Tags": [
+      "Lobbies and Shops",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Wed Apr 16 2025 05:03:54 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Mario Party/Outcome of Adventure.bin",
+    "Duration": 30.0970703125
+  },
+  {
+    "Game": "ENA: Dream BBQ",
+    "Song": "Night Hill",
+    "Composers": "John Fraser",
+    "Converters": "Cash Money",
+    "Category": "bgm",
+    "Additional Notes": "He has no lines, he stands in one place, this kong has a handsome face",
+    "Tags": [
+      "Interiors",
+      "Exteriors",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Wed Apr 16 2025 05:03:54 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/ENA%20Dream%20BBQ/Night%20Hill.mp3",
+    "Binary": "binaries/ENA Dream BBQ/Night Hill.bin",
+    "Duration": 51.917463
   }
 ]
