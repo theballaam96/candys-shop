@@ -38324,5 +38324,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Ace%20Attorney%20Investigations%202%20Prosecutors%20Gambit/Shaun%20Fenn%20~%20Bull%20Headed%20Teenager.mp3",
     "Binary": "binaries/Ace Attorney Investigations 2 Prosecutors Gambit/Shaun Fenn ~ Bull Headed Teenager.bin",
     "Duration": 74.48958333333333
+  },
+  {
+    "Game": "UFO 50",
+    "Song": "Mooncat Forest A",
+    "Composers": "Erik Suhrke",
+    "Converters": "Cash Money",
+    "Category": "bgm",
+    "Tags": [
+      "Interiors",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Wed Apr 16 2025 05:00:55 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/UFO%2050/Mooncat%20Forest%20A.mp3",
+    "Binary": "binaries/UFO 50/Mooncat Forest A.bin",
+    "Duration": 40.0003
   }
 ]
