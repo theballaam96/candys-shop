@@ -38408,5 +38408,20 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Secret%20of%20Mana/Distant%20Thunder.mp3",
     "Binary": "binaries/Secret of Mana/Distant Thunder.bin",
     "Duration": 95.32803324999999
+  },
+  {
+    "Game": "Live A Live",
+    "Song": "Sound of Shinobi",
+    "Composers": "Yoko Shimomura",
+    "Converters": "OnlySpaghettiCode",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors"
+    ],
+    "Verified": true,
+    "Date": "Thu Apr 17 2025 14:19:05 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Live%20A%20Live/Sound%20of%20Shinobi.mp3",
+    "Binary": "binaries/Live A Live/Sound of Shinobi.bin",
+    "Duration": 94.453184
   }
 ]
