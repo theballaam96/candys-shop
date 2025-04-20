@@ -1021,6 +1021,10 @@
    "Sonic the Hedgehog 3":{
       "icon":"https://i.imgur.com/muIG2yP.png"
    },
+   "Sonic the Hedgehog Spinball":{
+      "icon":"https://i.imgur.com/4QfxupD.png",
+      "short_name": "Sonic Spinball"
+   },
    "Sonic Triple Trouble":{
       "icon":"https://i.imgur.com/PG6sCj1.png"
    },
