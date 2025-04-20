@@ -38455,5 +38455,22 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Secret%20of%20Mana/A%20Wish.mp3",
     "Binary": "binaries/Secret of Mana/A Wish.bin",
     "Duration": 48.657105947916676
+  },
+  {
+    "Game": "Sonic Lost World",
+    "Song": "Sea Bottom Segue",
+    "Composers": "Tomoya Ohtani, Takahito Eguchi",
+    "Converters": "gloomy",
+    "Category": "bgm",
+    "Tags": [
+      "Interiors",
+      "Exteriors",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Sun Apr 20 2025 07:17:24 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Sonic%20Lost%20World/Sea%20Bottom%20Segue.mp3",
+    "Binary": "binaries/Sonic Lost World/Sea Bottom Segue.bin",
+    "Duration": 169.40800353125
   }
 ]
