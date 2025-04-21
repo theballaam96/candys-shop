@@ -38489,5 +38489,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Sonic%20the%20Hedgehog%20Spinball/Toxic%20Caves.mp3",
     "Binary": "binaries/Sonic the Hedgehog Spinball/Toxic Caves.bin",
     "Duration": 77.41936
+  },
+  {
+    "Game": "Live A Live",
+    "Song": "MEGALOMANIA",
+    "Composers": "Yoko Shimomura",
+    "Converters": "iveli_alpaca",
+    "Category": "bgm",
+    "Audio": "https://www.youtube.com/watch?v=_nH4JTDUaQk",
+    "Tags": [
+      "Fights",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Mon Apr 21 2025 06:19:10 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Live A Live/MEGALOMANIA.bin",
+    "Duration": 142.661894375
   }
 ]
