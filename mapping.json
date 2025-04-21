@@ -38472,5 +38472,22 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Sonic%20Lost%20World/Sea%20Bottom%20Segue.mp3",
     "Binary": "binaries/Sonic Lost World/Sea Bottom Segue.bin",
     "Duration": 169.40800353125
+  },
+  {
+    "Game": "Sonic the Hedgehog Spinball",
+    "Song": "Toxic Caves",
+    "Composers": "Barry Blum, Brian Coburn, Howard Drossin",
+    "Converters": "The Sound Defense",
+    "Category": "bgm",
+    "Tags": [
+      "Interiors",
+      "Exteriors",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Mon Apr 21 2025 06:15:10 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Sonic%20the%20Hedgehog%20Spinball/Toxic%20Caves.mp3",
+    "Binary": "binaries/Sonic the Hedgehog Spinball/Toxic Caves.bin",
+    "Duration": 77.41936
   }
 ]
