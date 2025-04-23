@@ -38555,5 +38555,37 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Live%20A%20Live/A%20Painful%20Death%20at%20the%20Hands%20of%20a%20Psycho.mp3",
     "Binary": "binaries/Live A Live/A Painful Death at the Hands of a Psycho.bin",
     "Duration": 37.1533203125
+  },
+  {
+    "Game": "Live A Live",
+    "Song": "The Birds Fly in the Sky, the Fish Swim in the River",
+    "Composers": "Yoko Shimomura",
+    "Converters": "OnlySpaghettiCode",
+    "Category": "bgm",
+    "Tags": [
+      "Lobbies and Shops",
+      "Interiors",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Wed Apr 23 2025 12:28:52 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Live%20A%20Live/The%20Birds%20Fly%20in%20the%20Sky,%20the%20Fish%20Swim%20in%20the%20River.mp3",
+    "Binary": "binaries/Live A Live/The Birds Fly in the Sky, the Fish Swim in the River.bin",
+    "Duration": 52.26476142708333
+  },
+  {
+    "Game": "Live A Live",
+    "Song": "Difficult Fight",
+    "Composers": "Yoko Shimomura",
+    "Converters": "OnlySpaghettiCode",
+    "Category": "bgm",
+    "Tags": [
+      "Fights"
+    ],
+    "Verified": true,
+    "Date": "Wed Apr 23 2025 12:28:52 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Live%20A%20Live/Difficult%20Fight.mp3",
+    "Binary": "binaries/Live A Live/Difficult Fight.bin",
+    "Duration": 81.70657662499998
   }
 ]
