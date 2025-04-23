@@ -38521,5 +38521,23 @@
     "Date": "Wed Apr 23 2025 00:52:03 GMT+0000 (Coordinated Universal Time)",
     "Binary": "binaries/Live A Live/Fine Weather.bin",
     "Duration": 80.635
+  },
+  {
+    "Game": "Kirby Super Star",
+    "Song": "Rest Area (Melee)",
+    "Composers": "Jun Ishikawa, Shogo Sakai",
+    "Converters": "psych",
+    "Category": "bgm",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Kirby%20Super%20Star/Rest%20Area%20(Melee).mp3",
+    "Tags": [
+      "Lobbies and Shops",
+      "Interiors",
+      "Happy",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Wed Apr 23 2025 00:54:58 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Kirby Super Star/Rest Area (Melee).bin",
+    "Duration": 23.704258020833336
   }
 ]
