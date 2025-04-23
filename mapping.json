@@ -38587,5 +38587,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Live%20A%20Live/Difficult%20Fight.mp3",
     "Binary": "binaries/Live A Live/Difficult Fight.bin",
     "Duration": 81.70657662499998
+  },
+  {
+    "Game": "Kingdom Hearts",
+    "Song": "Monstrous Monstro",
+    "Category": "bgm",
+    "Composers": "Yoko Shimomura",
+    "Converters": "Schwartz Gandhi",
+    "Tags": [
+      "Fights",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Wed Apr 23 2025 19:16:13 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Kingdom%20Hearts/Monstrous%20Monstro.mp3",
+    "Binary": "binaries/Kingdom Hearts/Monstrous Monstro.bin",
+    "Duration": 54.418572000000005
   }
 ]
