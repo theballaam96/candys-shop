@@ -38505,5 +38505,21 @@
     "Date": "Mon Apr 21 2025 06:19:10 GMT+0000 (Coordinated Universal Time)",
     "Binary": "binaries/Live A Live/MEGALOMANIA.bin",
     "Duration": 142.661894375
+  },
+  {
+    "Game": "Live A Live",
+    "Song": "Fine Weather",
+    "Composers": "Yoko Shimomura",
+    "Converters": "iveli_alpaca",
+    "Category": "bgm",
+    "Audio": "https://www.youtube.com/watch?v=dVeKDKxEUEM",
+    "Tags": [
+      "Exteriors",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Wed Apr 23 2025 00:52:03 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Live A Live/Fine Weather.bin",
+    "Duration": 80.635
   }
 ]
