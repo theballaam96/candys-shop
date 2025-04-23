@@ -38539,5 +38539,21 @@
     "Date": "Wed Apr 23 2025 00:54:58 GMT+0000 (Coordinated Universal Time)",
     "Binary": "binaries/Kirby Super Star/Rest Area (Melee).bin",
     "Duration": 23.704258020833336
+  },
+  {
+    "Game": "Live A Live",
+    "Song": "A Painful Death at the Hands of a Psycho",
+    "Composers": "Yoko Shimomura",
+    "Converters": "OnlySpaghettiCode",
+    "Category": "bgm",
+    "Tags": [
+      "Fights",
+      "Minigames"
+    ],
+    "Verified": true,
+    "Date": "Wed Apr 23 2025 12:25:47 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Live%20A%20Live/A%20Painful%20Death%20at%20the%20Hands%20of%20a%20Psycho.mp3",
+    "Binary": "binaries/Live A Live/A Painful Death at the Hands of a Psycho.bin",
+    "Duration": 37.1533203125
   }
 ]
