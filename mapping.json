@@ -38603,5 +38603,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Kingdom%20Hearts/Monstrous%20Monstro.mp3",
     "Binary": "binaries/Kingdom Hearts/Monstrous Monstro.bin",
     "Duration": 54.418572000000005
+  },
+  {
+    "Game": "Mario Party",
+    "Song": "Bowser's Magma Mountain",
+    "Composers": "Yasunori Mitsuda",
+    "Converters": "Altermentality",
+    "Category": "bgm",
+    "Audio": "https://youtu.be/4Q4Ow3-P-hw",
+    "Tags": [
+      "Exteriors",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Thu Apr 24 2025 03:40:49 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Mario Party/Bowsers Magma Mountain.bin",
+    "Duration": 48.3375
   }
 ]
