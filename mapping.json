@@ -38619,5 +38619,20 @@
     "Date": "Thu Apr 24 2025 03:40:49 GMT+0000 (Coordinated Universal Time)",
     "Binary": "binaries/Mario Party/Bowsers Magma Mountain.bin",
     "Duration": 48.3375
+  },
+  {
+    "Game": "Kingdom Hearts II",
+    "Song": "Deep Anxiety",
+    "Category": "bgm",
+    "Composers": "Yoko Shimomura",
+    "Converters": "Schwartz Gandhi, OnlySpaghettiCode",
+    "Tags": [
+      "Fights"
+    ],
+    "Verified": true,
+    "Date": "Fri Apr 25 2025 14:54:21 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Kingdom%20Hearts%20II/Deep%20Anxiety.mp3",
+    "Binary": "binaries/Kingdom Hearts II/Deep Anxiety.bin",
+    "Duration": 65.75344
   }
 ]
