@@ -38634,5 +38634,22 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Kingdom%20Hearts%20II/Deep%20Anxiety.mp3",
     "Binary": "binaries/Kingdom Hearts II/Deep Anxiety.bin",
     "Duration": 65.75344
+  },
+  {
+    "Game": "Shantae and the Pirate's Curse",
+    "Song": "Scorching Dunes (Sunburn Island)",
+    "Composers": "Jake \"Virt\" Kaufman",
+    "Converters": "The Sound Defense",
+    "Category": "bgm",
+    "Additional Notes": "The official name of the song includes \"Sunburn Island\" even though the name of the level it plays on is \"Tan Line Island\".",
+    "Tags": [
+      "Exteriors",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Wed Apr 30 2025 03:58:51 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Shantae%20and%20the%20Pirates%20Curse/Scorching%20Dunes%20(Sunburn%20Island).mp3",
+    "Binary": "binaries/Shantae and the Pirates Curse/Scorching Dunes (Sunburn Island).bin",
+    "Duration": 144.25
   }
 ]
