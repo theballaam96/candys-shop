@@ -38651,5 +38651,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Shantae%20and%20the%20Pirates%20Curse/Scorching%20Dunes%20(Sunburn%20Island).mp3",
     "Binary": "binaries/Shantae and the Pirates Curse/Scorching Dunes (Sunburn Island).bin",
     "Duration": 144.25
+  },
+  {
+    "Game": "Kingdom Hearts",
+    "Song": "Traverse Town",
+    "Category": "bgm",
+    "Composers": "Yoko Shimomura",
+    "Converters": "Schwartz Gandhi",
+    "Tags": [
+      "Exteriors",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Fri May 02 2025 04:13:42 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Kingdom%20Hearts/Traverse%20Town.mp3",
+    "Binary": "binaries/Kingdom Hearts/Traverse Town.bin",
+    "Duration": 34.285696
   }
 ]
