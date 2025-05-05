@@ -38761,5 +38761,21 @@
     "Audio": "https://www.youtube.com/watch?v=9RVVQ82nQ1U",
     "Binary": "binaries/Yu-Gi-Oh Dungeon Dice Monsters/Normal Theme.bin",
     "Duration": 80.39973041666667
+  },
+  {
+    "Game": "Chrono Cross",
+    "Song": "The Brink of Death",
+    "Composers": "Yasunori Mitsuda",
+    "Converters": "OnlySpaghettiCode",
+    "Category": "bgm",
+    "Tags": [
+      "Fights",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Mon May 05 2025 01:17:40 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Chrono%20Cross/The%20Brink%20of%20Death.mp3",
+    "Binary": "binaries/Chrono Cross/The Brink of Death.bin",
+    "Duration": 73.852948125
   }
 ]
