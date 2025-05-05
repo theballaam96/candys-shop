@@ -1,0 +1,30 @@
+name: Cleanup Previews
+
+on:
+  workflow_dispatch:  # Manually trigger the workflow
+
+jobs:
+  clean:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repo
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: Install Dependencies
+        run: pip install pyyaml
+
+      - name: Run Cleanup Script
+        run: python .github/scripts/cleanup.py
+
+      - name: Commit Changes
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add mapping.json previews/
+          git diff --cached --quiet || git commit -m "Cleanup duplicates and unused previews"
+          git push
