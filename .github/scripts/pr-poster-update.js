@@ -68,9 +68,9 @@ async function run() {
       if (f.filename) {
         const extension_sep = f.filename.split(".");
         const extension = extension_sep[extension_sep.length - 1];
-        if (extension == "bin") {
+        if (extension.toLowerCase() == "bin") {
             bin_file = f.raw_url;
-        } else if (extension == "mid") {
+        } else if (extension.toLowerCase() == "mid") {
             midi_file = f.raw_url;
             midi_raw_file = f.raw_url;
         } else if (preview_extensions.includes(extension)) {
