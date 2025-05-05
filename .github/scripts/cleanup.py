@@ -42,10 +42,13 @@ with open(MAPPING_FILE, "w") as f:
 used_audio_files = [x["Audio"] for x in unique_dict]
 
 # Remove unused files in previews/
+cleaned_files =  0
 for root, _, files in os.walk(PREVIEWS_DIR):
     for file in files:
         full_path = os.path.join(root, file)
         rel_path = os.path.relpath(full_path, ".")
         if rel_path not in used_audio_files:
             print(f"Removing unused preview file: {rel_path}")
+            cleaned_files += 1
             # os.remove(full_path)
+print(f"Cleaned {cleaned_files} files")
