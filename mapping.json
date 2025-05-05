@@ -1725,7 +1725,7 @@
     "Game": "Consoles and BIOS",
     "Song": "Gamecube Startup",
     "Category": "events",
-    "Composers": "T\u014dru Minegishi",
+    "Composers": "Tōru Minegishi",
     "Converters": "UmedMuzl",
     "Binary": "binaries/Consoles and BIOS/Gamecube Startup by UmedMuzl.bin",
     "Audio": "https://www.youtube.com/watch?v=UCq_tvn-_ck",
@@ -1812,12 +1812,12 @@
     "Verified": true
   },
   {
-    "Game": "Pok\u00e9mon Red, Blue & Yellow",
+    "Game": "Pokémon Red, Blue & Yellow",
     "Song": "Pokemon Trainer Battle",
     "Category": "bgm",
     "Composers": "Junichi Masuda",
     "Converters": "Bismuth",
-    "Binary": "binaries/Pok\u00e9mon Red, Blue  Yellow/Pokemon Trainer Battle by Bismuth.bin",
+    "Binary": "binaries/Pokémon Red, Blue  Yellow/Pokemon Trainer Battle by Bismuth.bin",
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Pok%C3%A9mon%20Red%2C%20Blue%20%20Yellow/Pokemon%20Trainer%20Battle%20by%20Bismuth.mp3",
     "Duration": 91.99990799999995,
     "Tracks": 7,
@@ -1825,12 +1825,12 @@
     "pruned": true
   },
   {
-    "Game": "Pok\u00e9mon Ruby, Sapphire & Emerald",
+    "Game": "Pokémon Ruby, Sapphire & Emerald",
     "Song": "Littleroot Town",
     "Category": "bgm",
     "Composers": "Go Ichinose",
     "Converters": "UmedMuzl",
-    "Binary": "binaries/Pok\u00e9mon Ruby, Sapphire  Emerald/Littleroot Town by UmedMuzl.bin",
+    "Binary": "binaries/Pokémon Ruby, Sapphire  Emerald/Littleroot Town by UmedMuzl.bin",
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Pok%C3%A9mon%20Ruby%2C%20Sapphire%20%20Emerald/Littleroot%20Town%20by%20UmedMuzl.wav",
     "Duration": 108.51057912500119,
     "Tracks": 12,
@@ -1843,12 +1843,12 @@
     "pruned": true
   },
   {
-    "Game": "Pok\u00e9mon Snap",
+    "Game": "Pokémon Snap",
     "Song": "Flute Jingle 1",
     "Category": "events",
     "Composers": "Ikuko Mimori",
     "Converters": "Ballaam",
-    "Binary": "binaries/Pok\u00e9mon Snap/Flute Jingle 1 by Ballaam.bin",
+    "Binary": "binaries/Pokémon Snap/Flute Jingle 1 by Ballaam.bin",
     "Audio": "https://youtu.be/FcVbAOCKdTQ",
     "Duration": 12.489583333333355,
     "Tracks": 3,
@@ -1858,12 +1858,12 @@
     "Verified": true
   },
   {
-    "Game": "Pok\u00e9mon Snap",
+    "Game": "Pokémon Snap",
     "Song": "Flute Jingle 2",
     "Category": "events",
     "Composers": "Ikuko Mimori",
     "Converters": "Ballaam",
-    "Binary": "binaries/Pok\u00e9mon Snap/Flute Jingle 2 by Ballaam.bin",
+    "Binary": "binaries/Pokémon Snap/Flute Jingle 2 by Ballaam.bin",
     "Audio": "https://youtu.be/g6j90klL0Cg",
     "Duration": 14.406250000000004,
     "Tracks": 3,
@@ -2222,7 +2222,7 @@
     "Game": "The Legend of Zelda: The Wind Waker",
     "Song": "Outset Island",
     "Category": "bgm",
-    "Composers": "Hajime Wakai, Kenta Nagata, T\u014dru Minegishi, Koji Kondo",
+    "Composers": "Hajime Wakai, Kenta Nagata, Tōru Minegishi, Koji Kondo",
     "Converters": "OnlySpaghettiCode",
     "Binary": "binaries/The Legend of Zelda The Wind Waker/Outset Island by OnlySpaghettiCode.bin",
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/The%20Legend%20of%20Zelda%20The%20Wind%20Waker/Outset%20Island%20by%20OnlySpaghettiCode.mp3",
@@ -2256,7 +2256,7 @@
     "Game": "The Legend of Zelda: Twilight Princess",
     "Song": "Midnas Lament",
     "Category": "bgm",
-    "Composers": "T\u014dru Minegishi",
+    "Composers": "Tōru Minegishi",
     "Converters": "OnlySpaghettiCode",
     "Binary": "binaries/The Legend of Zelda Twilight Princess/Midnas Lament by OnlySpaghettiCode.bin",
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/The%20Legend%20of%20Zelda%20Twilight%20Princess/Midnas%20Lament%20by%20OnlySpaghettiCode.mp3",
@@ -2274,7 +2274,7 @@
     "Game": "The Legend of Zelda: Twilight Princess",
     "Song": "Faron Woods",
     "Category": "bgm",
-    "Composers": "T\u014dru Minegishi, Asuka Hayazaki, Koji Kondo",
+    "Composers": "Tōru Minegishi, Asuka Hayazaki, Koji Kondo",
     "Converters": "OnlySpaghettiCode",
     "Binary": "binaries/The Legend of Zelda Twilight Princess/Faron Woods by OnlySpaghettiCode.bin",
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/The%20Legend%20of%20Zelda%20Twilight%20Princess/Faron%20Woods%20by%20OnlySpaghettiCode.mp3",
@@ -2292,7 +2292,7 @@
     "Game": "The Legend of Zelda: Twilight Princess",
     "Song": "Sacred Grove",
     "Category": "bgm",
-    "Composers": "Koji Kondo, T\u014dru Minegishi",
+    "Composers": "Koji Kondo, Tōru Minegishi",
     "Converters": "OnlySpaghettiCode",
     "Binary": "binaries/The Legend of Zelda Twilight Princess/Sacred Grove by OnlySpaghettiCode.bin",
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/The%20Legend%20of%20Zelda%20Twilight%20Princess/Sacred%20Grove%20by%20OnlySpaghettiCode.mp3",
@@ -2309,7 +2309,7 @@
     "Game": "The Legend of Zelda: Twilight Princess",
     "Song": "Zoras Domain",
     "Category": "bgm",
-    "Composers": "T\u014dru Minegishi, Asuka Hayazaki, Koji Kondo",
+    "Composers": "Tōru Minegishi, Asuka Hayazaki, Koji Kondo",
     "Converters": "OnlySpaghettiCode",
     "Binary": "binaries/The Legend of Zelda Twilight Princess/Zoras Domain by OnlySpaghettiCode.bin",
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/The%20Legend%20of%20Zelda%20Twilight%20Princess/Zoras%20Domain%20by%20OnlySpaghettiCode.mp3",
@@ -2326,7 +2326,7 @@
     "Game": "The Legend of Zelda: Twilight Princess",
     "Song": "Lake Hylia",
     "Category": "bgm",
-    "Composers": "T\u014dru Minegishi",
+    "Composers": "Tōru Minegishi",
     "Converters": "OnlySpaghettiCode",
     "Binary": "binaries/The Legend of Zelda Twilight Princess/Lake Hylia by OnlySpaghettiCode.bin",
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/The%20Legend%20of%20Zelda%20Twilight%20Princess/Lake%20Hylia%20by%20OnlySpaghettiCode.mp3",
@@ -2975,12 +2975,12 @@
   },
   {
     "Date": "Sun Jun 25 2023 17:26:24 GMT-0500 (Central Daylight Time)",
-    "Game": "Pok\u00e9mon Stadium 2",
+    "Game": "Pokémon Stadium 2",
     "Song": "Furret's Frolic",
     "Category": "bgm",
     "Composers": "Hajime Wakai",
     "Converters": "adeleine64DS",
-    "Binary": "binaries/Pok\u00e9mon Stadium 2/Furrets Frolic by adeleine64DS.bin",
+    "Binary": "binaries/Pokémon Stadium 2/Furrets Frolic by adeleine64DS.bin",
     "Audio": "https://www.youtube.com/watch?v=e7FZzajgw8g",
     "Duration": 13.799999999999994,
     "Tracks": 7,
@@ -3615,12 +3615,12 @@
   },
   {
     "Date": "Thu Jun 29 2023 17:06:55 GMT-0500 (Central Daylight Time)",
-    "Game": "Pok\u00e9mon Gold, Silver & Crystal",
+    "Game": "Pokémon Gold, Silver & Crystal",
     "Song": "Champion & Red Battle Music (HGSS)",
     "Category": "bgm",
     "Composers": "Junichi Masuda",
     "Converters": "UmedMuzl",
-    "Binary": "binaries/Pok\u00e9mon Gold, Silver  Crystal/Champion  Red Battle Music (HGSS) by UmedMuzl.bin",
+    "Binary": "binaries/Pokémon Gold, Silver  Crystal/Champion  Red Battle Music (HGSS) by UmedMuzl.bin",
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Pok%C3%A9mon%20Gold%2C%20Silver%20%20Crystal/Champion%20%20Red%20Battle%20Music%20%28HGSS%29%20by%20UmedMuzl.mp3",
     "Duration": 201.19567899999728,
     "Tracks": 15,
@@ -3976,7 +3976,7 @@
     "Game": "Rayman",
     "Song": "Yeah! (PS1)",
     "Category": "events",
-    "Composers": "R\u00e9mi Gazel",
+    "Composers": "Rémi Gazel",
     "Converters": "adeleine64DS",
     "Binary": "binaries/Rayman/Yeah (PS1) by adeleine64DS.bin",
     "Audio": "https://www.youtube.com/watch?v=L2dpO1P-i2w",
@@ -4025,7 +4025,7 @@
     "Game": "Mega Man Battle Chip Challenge",
     "Song": "Navi Clash!",
     "Category": "bgm",
-    "Composers": "Studio Clich\u00e9, Yusuke Beppu",
+    "Composers": "Studio Cliché, Yusuke Beppu",
     "Converters": "Wibdiwoh",
     "Binary": "binaries/Mega Man Battle Chip Challenge/Navi Clash by Wibdiwoh.bin",
     "Audio": "https://www.youtube.com/watch?v=FewNX07Hmo0",
@@ -4061,7 +4061,7 @@
     "Game": "The Legend of Zelda: Spirit Tracks",
     "Song": "Song of Discovery",
     "Category": "events",
-    "Composers": "T\u014dru Minegishi, Manaka Tominaga",
+    "Composers": "Tōru Minegishi, Manaka Tominaga",
     "Converters": "OnlySpaghettiCode",
     "Binary": "binaries/The Legend of Zelda Spirit Tracks/Song of Discovery by OnlySpaghettiCode.bin",
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/The%20Legend%20of%20Zelda%20Spirit%20Tracks/Song%20of%20Discovery%20by%20OnlySpaghettiCode.mp3",
@@ -4077,7 +4077,7 @@
     "Game": "The Legend of Zelda: Spirit Tracks",
     "Song": "Get Heart Container",
     "Category": "majoritems",
-    "Composers": "T\u014dru Minegishi, Manaka Tominaga",
+    "Composers": "Tōru Minegishi, Manaka Tominaga",
     "Converters": "OnlySpaghettiCode",
     "Binary": "binaries/The Legend of Zelda Spirit Tracks/Get Heart Container by OnlySpaghettiCode.bin",
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/The%20Legend%20of%20Zelda%20Spirit%20Tracks/Get%20Heart%20Container%20by%20OnlySpaghettiCode.mp3",
@@ -4093,7 +4093,7 @@
     "Game": "The Legend of Zelda: Spirit Tracks",
     "Song": "Song of Healing",
     "Category": "events",
-    "Composers": "T\u014dru Minegishi, Manaka Tominaga",
+    "Composers": "Tōru Minegishi, Manaka Tominaga",
     "Converters": "OnlySpaghettiCode",
     "Binary": "binaries/The Legend of Zelda Spirit Tracks/Song of Healing by OnlySpaghettiCode.bin",
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/The%20Legend%20of%20Zelda%20Spirit%20Tracks/Song%20of%20Healing%20by%20OnlySpaghettiCode.mp3",
@@ -4110,7 +4110,7 @@
     "Game": "The Legend of Zelda: Spirit Tracks",
     "Song": "Song of Light",
     "Category": "events",
-    "Composers": "T\u014dru Minegishi, Manaka Tominaga",
+    "Composers": "Tōru Minegishi, Manaka Tominaga",
     "Converters": "OnlySpaghettiCode",
     "Binary": "binaries/The Legend of Zelda Spirit Tracks/Song of Light by OnlySpaghettiCode.bin",
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/The%20Legend%20of%20Zelda%20Spirit%20Tracks/Song%20of%20Light%20by%20OnlySpaghettiCode.mp3",
@@ -4127,7 +4127,7 @@
     "Game": "The Legend of Zelda: Spirit Tracks",
     "Song": "Passenger Mood Up",
     "Category": "minoritems",
-    "Composers": "T\u014dru Minegishi, Manaka Tominaga",
+    "Composers": "Tōru Minegishi, Manaka Tominaga",
     "Converters": "OnlySpaghettiCode",
     "Binary": "binaries/The Legend of Zelda Spirit Tracks/Passenger Mood Up by OnlySpaghettiCode.bin",
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/The%20Legend%20of%20Zelda%20Spirit%20Tracks/Passenger%20Mood%20Up%20by%20OnlySpaghettiCode.mp3",
@@ -4143,7 +4143,7 @@
     "Game": "Mega Man Battle Chip Challenge",
     "Song": "Navi Clash!",
     "Category": "bgm",
-    "Composers": "Studio Clich\u00e9, Yusuke Beppu",
+    "Composers": "Studio Cliché, Yusuke Beppu",
     "Converters": "Wibdiwoh",
     "Binary": "binaries/Mega Man Battle Chip Challenge/Navi Clash by Wibdiwoh (REV 1).bin",
     "Audio": "https://www.youtube.com/watch?v=FewNX07Hmo0",
@@ -4236,12 +4236,12 @@
   },
   {
     "Date": "Sat Jul 08 2023 08:03:19 GMT-0500 (Central Daylight Time)",
-    "Game": "Pok\u00e9mon Stadium 2",
+    "Game": "Pokémon Stadium 2",
     "Song": "Furret's Frolic",
     "Category": "bgm",
     "Composers": "Hajime Wakai",
     "Converters": "adeleine64DS",
-    "Binary": "binaries/Pok\u00e9mon Stadium 2/Furrets Frolic by adeleine64DS (REV 1).bin",
+    "Binary": "binaries/Pokémon Stadium 2/Furrets Frolic by adeleine64DS (REV 1).bin",
     "Audio": "https://www.youtube.com/watch?v=SgeB50kwzfE",
     "Duration": 13.799999999999994,
     "Tracks": 7,
@@ -4714,7 +4714,7 @@
     "Game": "Bermuda Syndrome",
     "Song": "Jungle 1",
     "Category": "bgm",
-    "Composers": "Tom Holewa, J\u00f6rg Martin Schwiezer",
+    "Composers": "Tom Holewa, Jörg Martin Schwiezer",
     "Converters": "Wibdiwoh",
     "Binary": "binaries/Bermuda Syndrome/Jungle 1 by Wibdiwoh.bin",
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Bermuda%20Syndrome/Jungle%201%20by%20Wibdiwoh.mp3",
@@ -4988,7 +4988,7 @@
     "Game": "The Legend of Zelda: Spirit Tracks",
     "Song": "Realm Overworld",
     "Category": "bgm",
-    "Composers": "T\u014dru Minegishi",
+    "Composers": "Tōru Minegishi",
     "Converters": "OnlySpaghettiCode",
     "Binary": "binaries/The Legend of Zelda Spirit Tracks/Realm Overworld by OnlySpaghettiCode.bin",
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/The%20Legend%20of%20Zelda%20Spirit%20Tracks/Realm%20Overworld%20by%20OnlySpaghettiCode.mp3",
@@ -5175,12 +5175,12 @@
   },
   {
     "Date": "Wed Jul 19 2023 13:15:35 GMT-0500 (Central Daylight Time)",
-    "Game": "Pok\u00e9mon Snap",
+    "Game": "Pokémon Snap",
     "Song": "Valley",
     "Category": "bgm",
     "Composers": "Ikuko Mimori",
     "Converters": "adeleine64DS",
-    "Binary": "binaries/Pok\u00e9mon Snap/Valley by adeleine64DS.bin",
+    "Binary": "binaries/Pokémon Snap/Valley by adeleine64DS.bin",
     "Audio": "https://www.youtube.com/watch?v=tJe4vEorIoY",
     "Duration": 52.21875000000014,
     "Tracks": 15,
@@ -5244,7 +5244,7 @@
     "Game": "Bermuda Syndrome",
     "Song": "Jungle 1",
     "Category": "bgm",
-    "Composers": "Tom Holewa, J\u00f6rg Martin Schwiezer",
+    "Composers": "Tom Holewa, Jörg Martin Schwiezer",
     "Converters": "Wibdiwoh",
     "Binary": "binaries/Bermuda Syndrome/Jungle 1 by Wibdiwoh (REV 1).bin",
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Bermuda%20Syndrome/Jungle%201%20by%20Wibdiwoh%20%28REV%201%29.mp3",
@@ -5349,7 +5349,7 @@
     "Game": "Mega Man Battle Chip Challenge",
     "Song": "Navi Clash!",
     "Category": "bgm",
-    "Composers": "Studio Clich\u00e9, Yusuke Beppu",
+    "Composers": "Studio Cliché, Yusuke Beppu",
     "Converters": "Wibdiwoh",
     "Binary": "binaries/Mega Man Battle Chip Challenge/Navi Clash by Wibdiwoh (REV 2).bin",
     "Audio": "https://www.youtube.com/watch?v=FewNX07Hmo0",
@@ -5830,12 +5830,12 @@
   },
   {
     "Date": "Wed Jul 26 2023 23:03:06 GMT-0500 (Central Daylight Time)",
-    "Game": "Pok\u00e9mon Black & White",
+    "Game": "Pokémon Black & White",
     "Song": "Route 10",
     "Category": "bgm",
     "Composers": "Shota Kageyama",
     "Converters": "OnlySpaghettiCode",
-    "Binary": "binaries/Pok\u00e9mon Black  White/Route 10 by OnlySpaghettiCode.bin",
+    "Binary": "binaries/Pokémon Black  White/Route 10 by OnlySpaghettiCode.bin",
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Pok%C3%A9mon%20Black%20%20White/Route%2010%20by%20OnlySpaghettiCode.mp3",
     "Duration": 68.66957418749999,
     "Tracks": 14,
@@ -5919,12 +5919,12 @@
   },
   {
     "Date": "Thu Jul 27 2023 17:54:37 GMT-0500 (Central Daylight Time)",
-    "Game": "Pok\u00e9mon Black 2 & White 2",
+    "Game": "Pokémon Black 2 & White 2",
     "Song": "Virbank City",
     "Category": "bgm",
-    "Composers": "Go Ichinose, Hitomi Sat\u014d",
+    "Composers": "Go Ichinose, Hitomi Satō",
     "Converters": "OnlySpaghettiCode",
-    "Binary": "binaries/Pok\u00e9mon Black 2  White 2/Virbank City by OnlySpaghettiCode.bin",
+    "Binary": "binaries/Pokémon Black 2  White 2/Virbank City by OnlySpaghettiCode.bin",
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Pok%C3%A9mon%20Black%202%20%20White%202/Virbank%20City%20by%20OnlySpaghettiCode.mp3",
     "Duration": 49.632356249999994,
     "Tracks": 12,
@@ -5938,12 +5938,12 @@
   },
   {
     "Date": "Fri Jul 28 2023 00:12:29 GMT-0500 (Central Daylight Time)",
-    "Game": "Pok\u00e9mon Black & White",
+    "Game": "Pokémon Black & White",
     "Song": "Battle (Elite Four)",
     "Category": "bgm",
     "Composers": "Junichi Masuda, Go Ichinose",
     "Converters": "OnlySpaghettiCode",
-    "Binary": "binaries/Pok\u00e9mon Black  White/Battle (Elite Four) by OnlySpaghettiCode.bin",
+    "Binary": "binaries/Pokémon Black  White/Battle (Elite Four) by OnlySpaghettiCode.bin",
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Pok%C3%A9mon%20Black%20%20White/Battle%20%28Elite%20Four%29%20by%20OnlySpaghettiCode.mp3",
     "Duration": 93.63143849999999,
     "Tracks": 15,
@@ -5957,12 +5957,12 @@
   },
   {
     "Date": "Fri Jul 28 2023 11:43:48 GMT-0500 (Central Daylight Time)",
-    "Game": "Pok\u00e9mon Diamond, Pearl & Platinum",
+    "Game": "Pokémon Diamond, Pearl & Platinum",
     "Song": "Route 209",
     "Category": "bgm",
-    "Composers": "Hitomi Sat\u014d",
+    "Composers": "Hitomi Satō",
     "Converters": "OnlySpaghettiCode",
-    "Binary": "binaries/Pok\u00e9mon Diamond, Pearl  Platinum/Route 209 by OnlySpaghettiCode.bin",
+    "Binary": "binaries/Pokémon Diamond, Pearl  Platinum/Route 209 by OnlySpaghettiCode.bin",
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Pok%C3%A9mon%20Diamond%2C%20Pearl%20%20Platinum/Route%20209%20by%20OnlySpaghettiCode.mp3",
     "Duration": 75.5232105,
     "Tracks": 14,
@@ -5976,12 +5976,12 @@
   },
   {
     "Date": "Fri Jul 28 2023 13:57:28 GMT-0500 (Central Daylight Time)",
-    "Game": "Pok\u00e9mon Mystery Dungeon: Explorers of Sky",
+    "Game": "Pokémon Mystery Dungeon: Explorers of Sky",
     "Song": "Through the Sea of Time",
     "Category": "bgm",
     "Composers": "Hideki Sakamoto, Arata Iiyoshi, Yoshihiro Maeda",
     "Converters": "OnlySpaghettiCode",
-    "Binary": "binaries/Pok\u00e9mon Mystery Dungeon Explorers of Sky/Through the Sea of Time by OnlySpaghettiCode.bin",
+    "Binary": "binaries/Pokémon Mystery Dungeon Explorers of Sky/Through the Sea of Time by OnlySpaghettiCode.bin",
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Pok%C3%A9mon%20Mystery%20Dungeon%20Explorers%20of%20Sky/Through%20the%20Sea%20of%20Time%20by%20OnlySpaghettiCode.mp3",
     "Duration": 97.6171875,
     "Tracks": 16,
@@ -6011,12 +6011,12 @@
   },
   {
     "Date": "Fri Jul 28 2023 16:52:35 GMT-0500 (Central Daylight Time)",
-    "Game": "Pok\u00e9mon Mystery Dungeon: Explorers of Sky",
+    "Game": "Pokémon Mystery Dungeon: Explorers of Sky",
     "Song": "Crystal Cave",
     "Category": "bgm",
     "Composers": "Hideki Sakamoto, Arata Iiyoshi, Yoshihiro Maeda",
     "Converters": "OnlySpaghettiCode",
-    "Binary": "binaries/Pok\u00e9mon Mystery Dungeon Explorers of Sky/Crystal Cave by OnlySpaghettiCode.bin",
+    "Binary": "binaries/Pokémon Mystery Dungeon Explorers of Sky/Crystal Cave by OnlySpaghettiCode.bin",
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Pok%C3%A9mon%20Mystery%20Dungeon%20Explorers%20of%20Sky/Crystal%20Cave%20by%20OnlySpaghettiCode.mp3",
     "Duration": 186.83342675,
     "Tracks": 14,
@@ -6386,12 +6386,12 @@
   },
   {
     "Date": "Tue Aug 08 2023 18:29:36 GMT-0500 (Central Daylight Time)",
-    "Game": "Pok\u00e9mon Puzzle League",
+    "Game": "Pokémon Puzzle League",
     "Song": "VS Bruno",
     "Category": "bgm",
     "Composers": "Michael Whalen, John Siegler, Ralph Schuckett, Neil Jason, Lawrence Schwedler, Ken Cummings",
     "Converters": "HavenKnight93",
-    "Binary": "binaries/Pok\u00e9mon Puzzle League/VS Bruno by HavenKnight93.bin",
+    "Binary": "binaries/Pokémon Puzzle League/VS Bruno by HavenKnight93.bin",
     "Audio": "https://www.youtube.com/watch?v=RDpqih_C7Ww",
     "Duration": 60.000056,
     "Tracks": 13,
@@ -6404,12 +6404,12 @@
   },
   {
     "Date": "Tue Aug 08 2023 18:32:08 GMT-0500 (Central Daylight Time)",
-    "Game": "Pok\u00e9mon Puzzle League",
+    "Game": "Pokémon Puzzle League",
     "Song": "VS Lt. Surge",
     "Category": "bgm",
     "Composers": "Michael Whalen, John Siegler, Ralph Schuckett, Neil Jason, Lawrence Schwedler, Ken Cummings",
     "Converters": "HavenKnight93",
-    "Binary": "binaries/Pok\u00e9mon Puzzle League/VS Lt Surge by HavenKnight93.bin",
+    "Binary": "binaries/Pokémon Puzzle League/VS Lt Surge by HavenKnight93.bin",
     "Audio": "https://www.youtube.com/watch?v=FnsI3rRk-hI",
     "Duration": 59.76758627083334,
     "Tracks": 13,
@@ -6723,7 +6723,7 @@
     "Game": "The Legend of Zelda: Phantom Hourglass",
     "Song": "Linebeck's Theme",
     "Category": "bgm",
-    "Composers": "Kenta Nagata, T\u014dru Minegishi",
+    "Composers": "Kenta Nagata, Tōru Minegishi",
     "Converters": "Schwartz Gandhi",
     "Binary": "binaries/The Legend of Zelda Phantom Hourglass/Linebecks Theme by Schwartz Gandhi.bin",
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/The%20Legend%20of%20Zelda%20Phantom%20Hourglass/Linebecks%20Theme%20by%20Schwartz%20Gandhi.mp3",
@@ -6847,12 +6847,12 @@
   },
   {
     "Date": "Wed Aug 23 2023 22:30:25 GMT-0500 (Central Daylight Time)",
-    "Game": "Pok\u00e9mon Diamond, Pearl & Platinum",
+    "Game": "Pokémon Diamond, Pearl & Platinum",
     "Song": "Jubilife City (Night)",
     "Category": "bgm",
-    "Composers": "Hitomi Sat\u014d",
+    "Composers": "Hitomi Satō",
     "Converters": "Schwartz Gandhi",
-    "Binary": "binaries/Pok\u00e9mon Diamond, Pearl  Platinum/Jubilife City (Night) by Schwartz Gandhi.bin",
+    "Binary": "binaries/Pokémon Diamond, Pearl  Platinum/Jubilife City (Night) by Schwartz Gandhi.bin",
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Pok%C3%A9mon%20Diamond%2C%20Pearl%20%20Platinum/Jubilife%20City%20%28Night%29%20by%20Schwartz%20Gandhi.mp3",
     "Duration": 45.538299916666666,
     "Tracks": 9,
@@ -6869,7 +6869,7 @@
     "Game": "Super Mario 3D World",
     "Song": "Bowser's Lava Lake Keep",
     "Category": "bgm",
-    "Composers": "Mahito Yokota, T\u014dru Minegishi, et. al.",
+    "Composers": "Mahito Yokota, Tōru Minegishi, et. al.",
     "Converters": "Fiy3ro",
     "Binary": "binaries/Super Mario 3D World/Bowsers Lava Lake Keep by Fiy3ro.bin",
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Super%20Mario%203D%20World/Bowsers%20Lava%20Lake%20Keep%20by%20Fiy3ro.mp3",
@@ -6921,12 +6921,12 @@
   },
   {
     "Date": "Thu Aug 24 2023 23:37:13 GMT-0500 (Central Daylight Time)",
-    "Game": "Pok\u00e9mon Diamond, Pearl & Platinum",
+    "Game": "Pokémon Diamond, Pearl & Platinum",
     "Song": "Champion Cynthia's Battle theme",
     "Category": "bgm",
     "Composers": "Junichi Masuda",
     "Converters": "UmedMuzl",
-    "Binary": "binaries/Pok\u00e9mon Diamond, Pearl  Platinum/Champion Cynthias Battle theme by UmedMuzl.bin",
+    "Binary": "binaries/Pokémon Diamond, Pearl  Platinum/Champion Cynthias Battle theme by UmedMuzl.bin",
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Pok%C3%A9mon%20Diamond%2C%20Pearl%20%20Platinum/Champion%20Cynthias%20Battle%20theme%20by%20UmedMuzl.mp3",
     "Duration": 85.2019675,
     "Tracks": 11,
@@ -6956,12 +6956,12 @@
   },
   {
     "Date": "Fri Aug 25 2023 01:03:13 GMT-0500 (Central Daylight Time)",
-    "Game": "Pok\u00e9mon Diamond, Pearl & Platinum",
+    "Game": "Pokémon Diamond, Pearl & Platinum",
     "Song": "Route 201",
     "Category": "bgm",
     "Composers": "Junichi Masuda",
     "Converters": "UmedMuzl",
-    "Binary": "binaries/Pok\u00e9mon Diamond, Pearl  Platinum/Route 201 by UmedMuzl.bin",
+    "Binary": "binaries/Pokémon Diamond, Pearl  Platinum/Route 201 by UmedMuzl.bin",
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Pok%C3%A9mon%20Diamond%2C%20Pearl%20%20Platinum/Route%20201%20by%20UmedMuzl.mp3",
     "Duration": 30.239583333333332,
     "Tracks": 11,
@@ -7010,12 +7010,12 @@
   },
   {
     "Date": "Fri Aug 25 2023 23:58:44 GMT-0500 (Central Daylight Time)",
-    "Game": "Pok\u00e9mon Diamond, Pearl & Platinum",
+    "Game": "Pokémon Diamond, Pearl & Platinum",
     "Song": "Battle! Dialga Palkia",
     "Category": "bgm",
     "Composers": "Junichi Masuda",
     "Converters": "UmedMuzl",
-    "Binary": "binaries/Pok\u00e9mon Diamond, Pearl  Platinum/Battle Dialga Palkia by UmedMuzl.bin",
+    "Binary": "binaries/Pokémon Diamond, Pearl  Platinum/Battle Dialga Palkia by UmedMuzl.bin",
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Pok%C3%A9mon%20Diamond%2C%20Pearl%20%20Platinum/Battle%20Dialga%20Palkia%20by%20UmedMuzl.mp3",
     "Duration": 154.1595680625,
     "Tracks": 11,
@@ -7398,12 +7398,12 @@
   },
   {
     "Date": "Sat Aug 26 2023 23:23:59 GMT-0500 (Central Daylight Time)",
-    "Game": "Pok\u00e9mon Diamond, Pearl & Platinum",
+    "Game": "Pokémon Diamond, Pearl & Platinum",
     "Song": "Twinleaf Town",
     "Category": "bgm",
     "Composers": "Junichi Masuda",
     "Converters": "UmedMuzl",
-    "Binary": "binaries/Pok\u00e9mon Diamond, Pearl  Platinum/Twinleaf Town by UmedMuzl.bin",
+    "Binary": "binaries/Pokémon Diamond, Pearl  Platinum/Twinleaf Town by UmedMuzl.bin",
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Pok%C3%A9mon%20Diamond%2C%20Pearl%20%20Platinum/Twinleaf%20Town%20by%20UmedMuzl.mp3",
     "Duration": 75.359375,
     "Tracks": 12,
@@ -8793,12 +8793,12 @@
   },
   {
     "Date": "Mon Sep 18 2023 16:20:10 GMT-0500 (Central Daylight Time)",
-    "Game": "Pok\u00e9mon Diamond, Pearl & Platinum",
+    "Game": "Pokémon Diamond, Pearl & Platinum",
     "Song": "Route 205 (Day)",
     "Category": "bgm",
     "Composers": "Junichi Masuda",
     "Converters": "Schwartz Gandhi",
-    "Binary": "binaries/Pok\u00e9mon Diamond, Pearl  Platinum/Route 205 (Day) by Schwartz Gandhi.bin",
+    "Binary": "binaries/Pokémon Diamond, Pearl  Platinum/Route 205 (Day) by Schwartz Gandhi.bin",
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Pok%C3%A9mon%20Diamond%2C%20Pearl%20%20Platinum/Route%20205%20%28Day%29%20by%20Schwartz%20Gandhi.mp3",
     "Duration": 48.0125,
     "Tracks": 11,
@@ -8899,12 +8899,12 @@
   },
   {
     "Date": "Thu Sep 21 2023 15:20:27 GMT-0500 (Central Daylight Time)",
-    "Game": "Pok\u00e9mon Diamond, Pearl & Platinum",
+    "Game": "Pokémon Diamond, Pearl & Platinum",
     "Song": "Eterna Forest",
     "Category": "bgm",
-    "Composers": "Hitomi Sat\u014d",
+    "Composers": "Hitomi Satō",
     "Converters": "Schwartz Gandhi",
-    "Binary": "binaries/Pok\u00e9mon Diamond, Pearl  Platinum/Eterna Forest by Schwartz Gandhi.bin",
+    "Binary": "binaries/Pokémon Diamond, Pearl  Platinum/Eterna Forest by Schwartz Gandhi.bin",
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Pok%C3%A9mon%20Diamond%2C%20Pearl%20%20Platinum/Eterna%20Forest%20by%20Schwartz%20Gandhi.mp3",
     "Duration": 75.7812803125,
     "Tracks": 9,
@@ -9758,12 +9758,12 @@
   },
   {
     "Date": "Sun Oct 08 2023 00:13:11 GMT-0500 (Central Daylight Time)",
-    "Game": "Pok\u00e9mon Ruby, Sapphire & Emerald",
+    "Game": "Pokémon Ruby, Sapphire & Emerald",
     "Song": "Victory Road",
     "Category": "bgm",
     "Composers": "Go Ichinose",
     "Converters": "UmedMuzl, HavenKnight93",
-    "Binary": "binaries/Pok\u00e9mon Ruby, Sapphire  Emerald/Victory Road by UmedMuzl, HavenKnight93.bin",
+    "Binary": "binaries/Pokémon Ruby, Sapphire  Emerald/Victory Road by UmedMuzl, HavenKnight93.bin",
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Pok%C3%A9mon%20Ruby%2C%20Sapphire%20%20Emerald/Victory%20Road%20by%20UmedMuzl%2C%20HavenKnight93.mp3",
     "Duration": 98.73130050000002,
     "Tracks": 11,
@@ -9791,12 +9791,12 @@
   },
   {
     "Date": "Sun Oct 08 2023 11:44:40 GMT-0500 (Central Daylight Time)",
-    "Game": "Pok\u00e9mon Red, Blue & Yellow",
+    "Game": "Pokémon Red, Blue & Yellow",
     "Song": "Battle! Champion (FRLG)",
     "Category": "bgm",
     "Composers": "Junichi Masuda, Go Ichinose",
     "Converters": "HavenKnight93",
-    "Binary": "binaries/Pok\u00e9mon Red, Blue  Yellow/Battle Champion (FRLG) by HavenKnight93.bin",
+    "Binary": "binaries/Pokémon Red, Blue  Yellow/Battle Champion (FRLG) by HavenKnight93.bin",
     "Audio": "https://www.youtube.com/watch?v=Y9cKiKSSWB0",
     "Duration": 73.9752463125,
     "Tracks": 12,
@@ -9809,12 +9809,12 @@
   },
   {
     "Date": "Sun Oct 08 2023 11:48:46 GMT-0500 (Central Daylight Time)",
-    "Game": "Pok\u00e9mon Ruby, Sapphire & Emerald",
+    "Game": "Pokémon Ruby, Sapphire & Emerald",
     "Song": "Battle! Elite Four",
     "Category": "bgm",
     "Composers": "Junichi Masuda, Go Ichinose",
     "Converters": "HavenKnight93",
-    "Binary": "binaries/Pok\u00e9mon Ruby, Sapphire  Emerald/Battle Elite Four by HavenKnight93.bin",
+    "Binary": "binaries/Pokémon Ruby, Sapphire  Emerald/Battle Elite Four by HavenKnight93.bin",
     "Audio": "https://youtu.be/x0SISjGCqIs",
     "Duration": 61.717326750000005,
     "Tracks": 11,
@@ -9827,12 +9827,12 @@
   },
   {
     "Date": "Sun Oct 08 2023 14:31:16 GMT-0500 (Central Daylight Time)",
-    "Game": "Pok\u00e9mon Diamond, Pearl & Platinum",
+    "Game": "Pokémon Diamond, Pearl & Platinum",
     "Song": "Opening Credits",
     "Category": "events",
-    "Composers": "Hitomi Sat\u014d, Junichi Masuda",
+    "Composers": "Hitomi Satō, Junichi Masuda",
     "Converters": "HavenKnight93",
-    "Binary": "binaries/Pok\u00e9mon Diamond, Pearl  Platinum/Opening Credits by HavenKnight93.bin",
+    "Binary": "binaries/Pokémon Diamond, Pearl  Platinum/Opening Credits by HavenKnight93.bin",
     "Audio": "https://youtu.be/3XTsEE-LYzo",
     "Duration": 19.21875,
     "Tracks": 13,
@@ -9845,12 +9845,12 @@
   },
   {
     "Date": "Sun Oct 08 2023 16:23:56 GMT-0500 (Central Daylight Time)",
-    "Game": "Pok\u00e9mon Diamond, Pearl & Platinum",
+    "Game": "Pokémon Diamond, Pearl & Platinum",
     "Song": "Battle! Arceus",
     "Category": "bgm",
     "Composers": "Junichi Masuda, Go Ichinose",
     "Converters": "HavenKnight93",
-    "Binary": "binaries/Pok\u00e9mon Diamond, Pearl  Platinum/Battle Arceus by HavenKnight93.bin",
+    "Binary": "binaries/Pokémon Diamond, Pearl  Platinum/Battle Arceus by HavenKnight93.bin",
     "Audio": "https://youtu.be/clSzF_x2YRI",
     "Duration": 80.04166666666667,
     "Tracks": 11,
@@ -9864,12 +9864,12 @@
   },
   {
     "Date": "Sun Oct 08 2023 17:37:48 GMT-0500 (Central Daylight Time)",
-    "Game": "Pok\u00e9mon Diamond, Pearl & Platinum",
+    "Game": "Pokémon Diamond, Pearl & Platinum",
     "Song": "Battle! Legendary Trio",
     "Category": "bgm",
     "Composers": "Junichi Masuda, Go Ichinose",
     "Converters": "HavenKnight93",
-    "Binary": "binaries/Pok\u00e9mon Diamond, Pearl  Platinum/Battle Legendary Trio by HavenKnight93.bin",
+    "Binary": "binaries/Pokémon Diamond, Pearl  Platinum/Battle Legendary Trio by HavenKnight93.bin",
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Pok%C3%A9mon%20Diamond%2C%20Pearl%20%20Platinum/Battle%20Legendary%20Trio%20by%20HavenKnight93.mp3",
     "Duration": 109.75146481250002,
     "Tracks": 12,
@@ -9971,12 +9971,12 @@
   },
   {
     "Date": "Mon Oct 09 2023 22:23:42 GMT-0500 (Central Daylight Time)",
-    "Game": "Pok\u00e9mon Ruby, Sapphire & Emerald",
+    "Game": "Pokémon Ruby, Sapphire & Emerald",
     "Song": "Littleroot Town",
     "Category": "bgm",
     "Composers": "Go Ichinose",
     "Converters": "UmedMuzl",
-    "Binary": "binaries/Pok\u00e9mon Ruby, Sapphire  Emerald/Littleroot Town by UmedMuzl (REV 1).bin",
+    "Binary": "binaries/Pokémon Ruby, Sapphire  Emerald/Littleroot Town by UmedMuzl (REV 1).bin",
     "Audio": "https://www.youtube.com/watch?v=1_1nmMAs0I8",
     "Duration": 108.77927087500001,
     "Tracks": 12,
@@ -10204,12 +10204,12 @@
   },
   {
     "Date": "Wed Oct 11 2023 17:18:49 GMT-0500 (Central Daylight Time)",
-    "Game": "Pok\u00e9mon Red, Blue & Yellow",
+    "Game": "Pokémon Red, Blue & Yellow",
     "Song": "Battle! Champion (FRLG)",
     "Category": "bgm",
     "Composers": "Junichi Masuda, Go Ichinose",
     "Converters": "HavenKnight93",
-    "Binary": "binaries/Pok\u00e9mon Red, Blue  Yellow/Battle Champion (FRLG) by HavenKnight93 (REV 1).bin",
+    "Binary": "binaries/Pokémon Red, Blue  Yellow/Battle Champion (FRLG) by HavenKnight93 (REV 1).bin",
     "Audio": "https://www.youtube.com/watch?v=WwZ6oP2Ukuk",
     "Duration": 74.04065325,
     "Tracks": 12,
@@ -10297,7 +10297,7 @@
     "Game": "The Legend of Zelda: Twilight Princess",
     "Song": "Agitha's Castle",
     "Category": "bgm",
-    "Composers": "T\u014dru Minegishi, Asuka Hayazaki",
+    "Composers": "Tōru Minegishi, Asuka Hayazaki",
     "Converters": "Schwartz Gandhi",
     "Binary": "binaries/The Legend of Zelda Twilight Princess/Agithas Castle by Schwartz Gandhi.bin",
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/The%20Legend%20of%20Zelda%20Twilight%20Princess/Agithas%20Castle%20by%20Schwartz%20Gandhi.mp3",
@@ -10383,12 +10383,12 @@
   },
   {
     "Date": "Sat Oct 14 2023 19:55:34 GMT-0500 (Central Daylight Time)",
-    "Game": "Pok\u00e9mon Diamond, Pearl & Platinum",
+    "Game": "Pokémon Diamond, Pearl & Platinum",
     "Song": "Battle! Legendary Trio",
     "Category": "bgm",
     "Composers": "Junichi Masuda, Go Ichinose",
     "Converters": "HavenKnight93",
-    "Binary": "binaries/Pok\u00e9mon Diamond, Pearl  Platinum/Battle Legendary Trio by HavenKnight93 (REV 1).bin",
+    "Binary": "binaries/Pokémon Diamond, Pearl  Platinum/Battle Legendary Trio by HavenKnight93 (REV 1).bin",
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Pok%C3%A9mon%20Diamond%2C%20Pearl%20%20Platinum/Battle%20Legendary%20Trio%20by%20HavenKnight93%20%28REV%201%29.mp3",
     "Duration": 109.99340056250001,
     "Tracks": 12,
@@ -10577,12 +10577,12 @@
   },
   {
     "Date": "Fri Oct 20 2023 12:14:05 GMT-0500 (Central Daylight Time)",
-    "Game": "Pok\u00e9mon Stadium 2",
+    "Game": "Pokémon Stadium 2",
     "Song": "Egg Emergency",
     "Category": "bgm",
     "Composers": "Hajime Wakai",
     "Converters": "SirEnobMort",
-    "Binary": "binaries/Pok\u00e9mon Stadium 2/Egg Emergency by SirEnobMort.bin",
+    "Binary": "binaries/Pokémon Stadium 2/Egg Emergency by SirEnobMort.bin",
     "Audio": "https://youtu.be/WqOlcXhRE8Y",
     "Duration": 23.719248854166665,
     "Tracks": 11,
@@ -10594,12 +10594,12 @@
   },
   {
     "Date": "Fri Oct 20 2023 16:47:35 GMT-0500 (Central Daylight Time)",
-    "Game": "Pok\u00e9mon Stadium",
+    "Game": "Pokémon Stadium",
     "Song": "VS Intro (Short)",
     "Category": "events",
-    "Composers": "Hajime Wakai, Kenta Nagata, T\u014dru Minegishi",
+    "Composers": "Hajime Wakai, Kenta Nagata, Tōru Minegishi",
     "Converters": "SirEnobMort",
-    "Binary": "binaries/Pok\u00e9mon Stadium/VS Intro (Short) by SirEnobMort.bin",
+    "Binary": "binaries/Pokémon Stadium/VS Intro (Short) by SirEnobMort.bin",
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Pok%C3%A9mon%20Stadium/VS%20Intro%20%28Short%29%20by%20SirEnobMort.mp3",
     "Duration": 5.114434062500001,
     "Tracks": 14,
@@ -11430,12 +11430,12 @@
   },
   {
     "Date": "Fri Nov 03 2023 18:36:44 GMT-0500 (Central Daylight Time)",
-    "Game": "Pok\u00e9mon Stadium",
+    "Game": "Pokémon Stadium",
     "Song": "VS Intro",
     "Category": "events",
-    "Composers": "Hajime Wakai, Kenta Nagata, T\u014dru Minegishi",
+    "Composers": "Hajime Wakai, Kenta Nagata, Tōru Minegishi",
     "Converters": "SirEnobMort",
-    "Binary": "binaries/Pok\u00e9mon Stadium/VS Intro by SirEnobMort.bin",
+    "Binary": "binaries/Pokémon Stadium/VS Intro by SirEnobMort.bin",
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Pok%C3%A9mon%20Stadium/VS%20Intro%20by%20SirEnobMort.mp3",
     "Duration": 7.658446875000001,
     "Tracks": 16,
@@ -11444,17 +11444,17 @@
       "Happy"
     ],
     "Verified": true,
-    "Additional Notes": "The Full Version of the VS Intro from Pok\u00e9mon Stadium, which is a few seconds longer than \"VS Intro (Short)\". Would work well for the Boss Unlock Event.",
+    "Additional Notes": "The Full Version of the VS Intro from Pokémon Stadium, which is a few seconds longer than \"VS Intro (Short)\". Would work well for the Boss Unlock Event.",
     "pruned": true
   },
   {
     "Date": "Fri Nov 03 2023 19:15:08 GMT-0500 (Central Daylight Time)",
-    "Game": "Pok\u00e9mon Stadium",
+    "Game": "Pokémon Stadium",
     "Song": "VS Intro",
     "Category": "events",
-    "Composers": "Hajime Wakai, Kenta Nagata, T\u014dru Minegishi",
+    "Composers": "Hajime Wakai, Kenta Nagata, Tōru Minegishi",
     "Converters": "SirEnobMort",
-    "Binary": "binaries/Pok\u00e9mon Stadium/VS Intro by SirEnobMort (REV 1).bin",
+    "Binary": "binaries/Pokémon Stadium/VS Intro by SirEnobMort (REV 1).bin",
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Pok%C3%A9mon%20Stadium/VS%20Intro%20by%20SirEnobMort%20%28REV%201%29.mp3",
     "Duration": 7.658446875000001,
     "Tracks": 16,
@@ -11464,7 +11464,7 @@
     ],
     "Update of": 672,
     "Verified": true,
-    "Additional Notes": "The Full Version of the VS Intro from Pok\u00e9mon Stadium, which is a few seconds longer than \"VS Intro (Short)\". Would work well for the Boss Unlock Event. Preview Link fixed :)",
+    "Additional Notes": "The Full Version of the VS Intro from Pokémon Stadium, which is a few seconds longer than \"VS Intro (Short)\". Would work well for the Boss Unlock Event. Preview Link fixed :)",
     "pruned": true
   },
   {
@@ -11597,12 +11597,12 @@
   },
   {
     "Date": "Sun Nov 05 2023 17:30:26 GMT-0600 (Central Standard Time)",
-    "Game": "Pok\u00e9mon Stadium 2",
+    "Game": "Pokémon Stadium 2",
     "Song": "Professor Oak's Lab",
     "Category": "bgm",
     "Composers": "Hajime Wakai",
     "Converters": "SirEnobMort",
-    "Binary": "binaries/Pok\u00e9mon Stadium 2/Professor Oaks Lab by SirEnobMort.bin",
+    "Binary": "binaries/Pokémon Stadium 2/Professor Oaks Lab by SirEnobMort.bin",
     "Audio": "https://youtu.be/k_t38PYXb9k",
     "Duration": 63.2237095,
     "Tracks": 16,
@@ -11970,7 +11970,7 @@
     "Game": "Rhythm Heaven Fever",
     "Song": "Ringside",
     "Category": "bgm",
-    "Composers": "Tsunku\u2642, Masami Yone, Shinji Ushiroda, Asuka Ito",
+    "Composers": "Tsunku♂, Masami Yone, Shinji Ushiroda, Asuka Ito",
     "Converters": "Cash Money",
     "Binary": "binaries/Rhythm Heaven Fever/Ringside by Cash Money.bin",
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Rhythm%20Heaven%20Fever/Ringside%20by%20Cash%20Money.mp3",
@@ -11989,7 +11989,7 @@
     "Game": "Rhythm Heaven Fever",
     "Song": "Ringside (Instrumental)",
     "Category": "bgm",
-    "Composers": "Tsunku\u2642, Masami Yone, Shinji Ushiroda, Asuka Ito",
+    "Composers": "Tsunku♂, Masami Yone, Shinji Ushiroda, Asuka Ito",
     "Converters": "Cash Money",
     "Binary": "binaries/Rhythm Heaven Fever/Ringside (Instrumental) by Cash Money.bin",
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Rhythm%20Heaven%20Fever/Ringside%20%28Instrumental%29%20by%20Cash%20Money.mp3",
@@ -12061,7 +12061,7 @@
     "Game": "The Legend of Zelda: The Wind Waker",
     "Song": "Pirates",
     "Category": "bgm",
-    "Composers": "Kenta Nagata, Koji Kondo, Hajime Wakai, T\u014dru Minegishi",
+    "Composers": "Kenta Nagata, Koji Kondo, Hajime Wakai, Tōru Minegishi",
     "Converters": "Cmellz",
     "Binary": "binaries/The Legend of Zelda The Wind Waker/Pirates by Cmellz.bin",
     "Audio": "https://youtu.be/dIW-_J_SEX0?si=0edTIoYw9h_IJRTM",
@@ -12745,12 +12745,12 @@
   },
   {
     "Date": "Sun Nov 26 2023 19:18:57 GMT-0600 (Central Standard Time)",
-    "Game": "Pok\u00e9mon Red, Blue & Yellow",
+    "Game": "Pokémon Red, Blue & Yellow",
     "Song": "Pokemon Trainer Battle",
     "Category": "bgm",
     "Composers": "Junichi Masuda",
     "Converters": "Bismuth",
-    "Binary": "binaries/Pok\u00e9mon Red, Blue  Yellow/Pokemon Trainer Battle by Bismuth (REV 1).bin",
+    "Binary": "binaries/Pokémon Red, Blue  Yellow/Pokemon Trainer Battle by Bismuth (REV 1).bin",
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Pok%C3%A9mon%20Red%2C%20Blue%20%20Yellow/Pokemon%20Trainer%20Battle%20by%20Bismuth%20%28REV%201%29.mp3",
     "Duration": 91.99990799999999,
     "Tracks": 7,
@@ -13228,12 +13228,12 @@
   },
   {
     "Date": "Wed Dec 06 2023 18:13:30 GMT-0600 (Central Standard Time)",
-    "Game": "Pok\u00e9mon Stadium 2",
+    "Game": "Pokémon Stadium 2",
     "Song": "Team Preparations",
     "Category": "bgm",
     "Composers": "Hajime Wakai",
     "Converters": "HavenKnight93",
-    "Binary": "binaries/Pok\u00e9mon Stadium 2/Team Preparations by HavenKnight93.bin",
+    "Binary": "binaries/Pokémon Stadium 2/Team Preparations by HavenKnight93.bin",
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Pok%C3%A9mon%20Stadium%202/Team%20Preparations%20by%20HavenKnight93.mp3",
     "Duration": 44.30764799999999,
     "Tracks": 10,
@@ -13376,12 +13376,12 @@
   },
   {
     "Date": "Sat Dec 09 2023 15:02:10 GMT-0600 (Central Standard Time)",
-    "Game": "Pok\u00e9mon Stadium 2",
+    "Game": "Pokémon Stadium 2",
     "Song": "Battle! (Team Rocket)",
     "Category": "bgm",
     "Composers": "Hajime Wakai",
     "Converters": "HavenKnight93",
-    "Binary": "binaries/Pok\u00e9mon Stadium 2/Battle (Team Rocket) by HavenKnight93.bin",
+    "Binary": "binaries/Pokémon Stadium 2/Battle (Team Rocket) by HavenKnight93.bin",
     "Audio": "https://www.youtube.com/watch?v=QzoD2OTqwsI",
     "Duration": 68.89166666666667,
     "Tracks": 11,
@@ -14454,12 +14454,12 @@
   },
   {
     "Date": "Wed Dec 20 2023 02:53:21 GMT-0600 (Central Standard Time)",
-    "Game": "Pok\u00e9mon Stadium 2",
+    "Game": "Pokémon Stadium 2",
     "Song": "Delibird's Delivery",
     "Category": "bgm",
     "Composers": "Hajime Wakai",
     "Converters": "SirEnobMort",
-    "Binary": "binaries/Pok\u00e9mon Stadium 2/Delibirds Delivery by SirEnobMort.bin",
+    "Binary": "binaries/Pokémon Stadium 2/Delibirds Delivery by SirEnobMort.bin",
     "Audio": "https://youtu.be/iOkNIJnCfJ8",
     "Duration": 18.321410250000003,
     "Tracks": 15,
@@ -14469,7 +14469,7 @@
       "Calm"
     ],
     "Verified": true,
-    "Additional Notes": "Happy Holidays! \ud83c\udf85"
+    "Additional Notes": "Happy Holidays! 🎅"
   },
   {
     "Date": "Wed Dec 20 2023 13:05:25 GMT-0600 (Central Standard Time)",
@@ -14907,7 +14907,7 @@
     "Game": "The Legend of Zelda: Twilight Princess",
     "Song": "Wild Goat",
     "Category": "bgm",
-    "Composers": "T\u014dru Minegishi, Asuka Hayazaki, Koji Kondo",
+    "Composers": "Tōru Minegishi, Asuka Hayazaki, Koji Kondo",
     "Converters": "UmedMuzl",
     "Binary": "binaries/The Legend of Zelda Twilight Princess/Wild Goat by UmedMuzl.bin",
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/The%20Legend%20of%20Zelda%20Twilight%20Princess/Wild%20Goat%20by%20UmedMuzl.mp3",
@@ -15752,7 +15752,7 @@
     "Game": "Animal Crossing",
     "Song": "The K. Funk (Aircheck)",
     "Category": "bgm",
-    "Composers": "T\u014dru Minegishi",
+    "Composers": "Tōru Minegishi",
     "Converters": "peaches",
     "Binary": "binaries/Animal Crossing/The K Funk (Aircheck) by peaches.bin",
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Animal%20Crossing/The%20K%20Funk%20%28Aircheck%29%20by%20peaches.mp3",
@@ -15771,7 +15771,7 @@
     "Game": "Animal Crossing",
     "Song": "KK Bossa (Live)",
     "Category": "bgm",
-    "Composers": "T\u014dru Minegishi",
+    "Composers": "Tōru Minegishi",
     "Converters": "peaches",
     "Binary": "binaries/Animal Crossing/KK Bossa (Live) by peaches.bin",
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Animal%20Crossing/KK%20Bossa%20%28Live%29%20by%20peaches.mp3",
@@ -15790,7 +15790,7 @@
     "Game": "Animal Crossing",
     "Song": "The K. Funk (Aircheck)",
     "Category": "bgm",
-    "Composers": "T\u014dru Minegishi",
+    "Composers": "Tōru Minegishi",
     "Converters": "peaches",
     "Binary": "binaries/Animal Crossing/The K Funk (Aircheck) by peaches (REV 1).bin",
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Animal%20Crossing/The%20K%20Funk%20%28Aircheck%29%20by%20peaches%20%28REV%201%29.mp3",
@@ -16002,7 +16002,7 @@
     "Game": "Mega Man Battle Chip Challenge",
     "Song": "Strong Opponent",
     "Category": "bgm",
-    "Composers": "Studio Clich\u00e9, Yusuke Beppu",
+    "Composers": "Studio Cliché, Yusuke Beppu",
     "Converters": "AaronDobbe",
     "Binary": "binaries/Mega Man Battle Chip Challenge/Strong Opponent by AaronDobbe.bin",
     "Audio": "https://www.youtube.com/watch?v=FJu3UbpI94c",
@@ -16092,7 +16092,7 @@
     "Game": "The Legend of Zelda: Twilight Princess",
     "Song": "Blizzeta Battle Second Half",
     "Category": "bgm",
-    "Composers": "T\u014dru Minegishi, Asuka Hayazaki",
+    "Composers": "Tōru Minegishi, Asuka Hayazaki",
     "Converters": "HavenKnight93",
     "Binary": "binaries/The Legend of Zelda Twilight Princess/Blizzeta Battle Second Half by HavenKnight93.bin",
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/The%20Legend%20of%20Zelda%20Twilight%20Princess/Blizzeta%20Battle%20Second%20Half%20by%20HavenKnight93.mp3",
@@ -16357,7 +16357,7 @@
     "Game": "Bermuda Syndrome",
     "Song": "Jungle 1",
     "Category": "bgm",
-    "Composers": "Tom Holewa, J\u00f6rg Martin Schwiezer",
+    "Composers": "Tom Holewa, Jörg Martin Schwiezer",
     "Converters": "Wibdiwoh",
     "Binary": "binaries/Bermuda Syndrome/Jungle 1 by Wibdiwoh (REV 2).bin",
     "Audio": "https://www.youtube.com/watch?v=tBOQavOriNY",
@@ -16968,7 +16968,7 @@
   {
     "Game": "The Legend of Zelda: Twilight Princess",
     "Song": "Agitha's Castle",
-    "Composers": "T\u014dru Minegishi",
+    "Composers": "Tōru Minegishi",
     "Converters": "Schwartz Gandhi",
     "Category": "bgm",
     "Audio": "https://www.youtube.com/watch?v=ttcdwt-rFxs",
@@ -17159,7 +17159,7 @@
     "Game": "Rhythm Heaven",
     "Song": "Remix Jingle",
     "Category": "events",
-    "Composers": "Tsunku\u2642\ufe0f",
+    "Composers": "Tsunku♂️",
     "Converters": "Schwartz Gandhi",
     "Tags": [
       "Spawning"
@@ -17191,7 +17191,7 @@
     "Game": "Rhythm Heaven",
     "Song": "Big Rock Finish H",
     "Category": "events",
-    "Composers": "Tsunku\u2642\ufe0f",
+    "Composers": "Tsunku♂️",
     "Converters": "Schwartz Gandhi",
     "Tags": [
       "Spawning",
@@ -17370,7 +17370,7 @@
     "Duration": 202.50003374999997
   },
   {
-    "Game": "Pok\u00e9mon Stadium 2",
+    "Game": "Pokémon Stadium 2",
     "Song": "Clear!",
     "Composers": "Hajime Wakai",
     "Converters": "SirEnobMort",
@@ -17378,14 +17378,14 @@
     "Verified": true,
     "Date": "Sat Feb 24 2024 14:28:03 GMT+0000 (Coordinated Universal Time)",
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Pok%C3%A9mon%20Stadium%202/Clear.mp3",
-    "Binary": "binaries/Pok\u00e9mon Stadium 2/Clear.bin",
+    "Binary": "binaries/Pokémon Stadium 2/Clear.bin",
     "Duration": 2.708330625,
     "pruned": true
   },
   {
-    "Game": "Pok\u00e9mon Stadium",
+    "Game": "Pokémon Stadium",
     "Song": "Clefairy Says (Finger Pointing)",
-    "Composers": "Hajime Wakai, Kenta Nagata, T\u014dru Minegishi",
+    "Composers": "Hajime Wakai, Kenta Nagata, Tōru Minegishi",
     "Converters": "SirEnobMort",
     "Category": "events",
     "Tags": [
@@ -17396,7 +17396,7 @@
     "Verified": true,
     "Date": "Sat Feb 24 2024 11:58:56 GMT+0000 (Coordinated Universal Time)",
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Pok%C3%A9mon%20Stadium/Clefairy%20Says%20(Right%20Version).mp3",
-    "Binary": "binaries/Pok\u00e9mon Stadium/Clefairy Says (Right Version).bin",
+    "Binary": "binaries/Pokémon Stadium/Clefairy Says (Right Version).bin",
     "Duration": 8.40625,
     "pruned": true
   },
@@ -17465,15 +17465,15 @@
     "pruned": true
   },
   {
-    "Game": "Pok\u00e9mon Stadium",
-    "Song": "Pok\u00e9mon Present Revealed",
-    "Composers": "Hajime Wakai, Kenta Nagata, T\u014dru Minegishi",
+    "Game": "Pokémon Stadium",
+    "Song": "Pokémon Present Revealed",
+    "Composers": "Hajime Wakai, Kenta Nagata, Tōru Minegishi",
     "Converters": "SirEnobMort",
     "Category": "majoritems",
     "Verified": true,
     "Date": "Sat Feb 24 2024 12:29:18 GMT+0000 (Coordinated Universal Time)",
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Pok%C3%A9mon%20Stadium/Pok%C3%A9mon%20Present%20Revealed.mp3",
-    "Binary": "binaries/Pok\u00e9mon Stadium/Pok\u00e9mon Present Revealed.bin",
+    "Binary": "binaries/Pokémon Stadium/Pokémon Present Revealed.bin",
     "Duration": 4.31596790625,
     "pruned": true
   },
@@ -17738,15 +17738,15 @@
     "Duration": 44.56691971875
   },
   {
-    "Game": "Pok\u00e9mon Stadium",
+    "Game": "Pokémon Stadium",
     "Song": "Gym Leader Castle: Stage Clear",
-    "Composers": "Hajime Wakai, Kenta Nagata, T\u014dru Minegishi",
+    "Composers": "Hajime Wakai, Kenta Nagata, Tōru Minegishi",
     "Converters": "SirEnobMort",
     "Category": "events",
     "Verified": true,
     "Date": "Sun Mar 03 2024 16:41:11 GMT+0000 (Coordinated Universal Time)",
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Pok%C3%A9mon%20Stadium/Gym%20Leader%20Castle%20Stage%20Clear.mp3",
-    "Binary": "binaries/Pok\u00e9mon Stadium/Gym Leader Castle Stage Clear.bin",
+    "Binary": "binaries/Pokémon Stadium/Gym Leader Castle Stage Clear.bin",
     "Duration": 2.3491407499999997,
     "pruned": true
   },
@@ -17895,9 +17895,9 @@
     "Duration": 48.65055520833333
   },
   {
-    "Game": "Pok\u00e9mon Stadium",
+    "Game": "Pokémon Stadium",
     "Song": "VS Won",
-    "Composers": "Hajime Wakai, Kenta Nagata, T\u014dru Minegishi",
+    "Composers": "Hajime Wakai, Kenta Nagata, Tōru Minegishi",
     "Converters": "SirEnobMort",
     "Category": "events",
     "Tags": [
@@ -17906,14 +17906,14 @@
     "Verified": true,
     "Date": "Sat Mar 09 2024 16:52:24 GMT+0000 (Coordinated Universal Time)",
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Pok%C3%A9mon%20Stadium/VS%20Won.mp3",
-    "Binary": "binaries/Pok\u00e9mon Stadium/VS Won.bin",
+    "Binary": "binaries/Pokémon Stadium/VS Won.bin",
     "Duration": 21.097665375,
     "pruned": true
   },
   {
-    "Game": "Pok\u00e9mon Stadium",
+    "Game": "Pokémon Stadium",
     "Song": "Gym Leader Castle: Stage Clear",
-    "Composers": "Hajime Wakai, Kenta Nagata, T\u014dru Minegishi",
+    "Composers": "Hajime Wakai, Kenta Nagata, Tōru Minegishi",
     "Converters": "SirEnobMort",
     "Category": "events",
     "Tags": [
@@ -17922,14 +17922,14 @@
     "Verified": true,
     "Date": "Sat Mar 09 2024 16:54:24 GMT+0000 (Coordinated Universal Time)",
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Pok%C3%A9mon%20Stadium/Gym%20Leader%20Castle%20Stage%20Clear%20(REV%201).mp3",
-    "Binary": "binaries/Pok\u00e9mon Stadium/Gym Leader Castle Stage Clear (REV 1).bin",
+    "Binary": "binaries/Pokémon Stadium/Gym Leader Castle Stage Clear (REV 1).bin",
     "Duration": 2.3491407499999997,
     "pruned": true
   },
   {
-    "Game": "Pok\u00e9mon Stadium",
+    "Game": "Pokémon Stadium",
     "Song": "Mini-Game End",
-    "Composers": "Hajime Wakai, Kenta Nagata, T\u014dru Minegishi",
+    "Composers": "Hajime Wakai, Kenta Nagata, Tōru Minegishi",
     "Converters": "SirEnobMort",
     "Category": "events",
     "Tags": [
@@ -17938,14 +17938,14 @@
     "Verified": true,
     "Date": "Sat Mar 09 2024 16:56:20 GMT+0000 (Coordinated Universal Time)",
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Pok%C3%A9mon%20Stadium/Mini%20Game%20End.mp3",
-    "Binary": "binaries/Pok\u00e9mon Stadium/Mini Game End.bin",
+    "Binary": "binaries/Pokémon Stadium/Mini Game End.bin",
     "Duration": 2.8124971875,
     "pruned": true
   },
   {
-    "Game": "Pok\u00e9mon Stadium",
+    "Game": "Pokémon Stadium",
     "Song": "End Battle!",
-    "Composers": "Hajime Wakai, Kenta Nagata, T\u014dru Minegishi",
+    "Composers": "Hajime Wakai, Kenta Nagata, Tōru Minegishi",
     "Converters": "SirEnobMort",
     "Category": "events",
     "Tags": [
@@ -17955,14 +17955,14 @@
     "Verified": true,
     "Date": "Sat Mar 09 2024 16:57:20 GMT+0000 (Coordinated Universal Time)",
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Pok%C3%A9mon%20Stadium/Battle%20End.mp3",
-    "Binary": "binaries/Pok\u00e9mon Stadium/Battle End.bin",
+    "Binary": "binaries/Pokémon Stadium/Battle End.bin",
     "Duration": 6.764961406250001,
     "pruned": true
   },
   {
-    "Game": "Pok\u00e9mon Stadium",
+    "Game": "Pokémon Stadium",
     "Song": "VS Intro",
-    "Composers": "Hajime Wakai, Kenta Nagata, T\u014dru Minegishi",
+    "Composers": "Hajime Wakai, Kenta Nagata, Tōru Minegishi",
     "Converters": "SirEnobMort",
     "Category": "events",
     "Update Notes": "Volume adjusted, removed excess events from MIDI.",
@@ -17973,14 +17973,14 @@
     "Verified": true,
     "Date": "Sat Mar 09 2024 16:58:16 GMT+0000 (Coordinated Universal Time)",
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Pok%C3%A9mon%20Stadium/VS%20Intro%20(REV%202).mp3",
-    "Binary": "binaries/Pok\u00e9mon Stadium/VS Intro (REV 2).bin",
+    "Binary": "binaries/Pokémon Stadium/VS Intro (REV 2).bin",
     "Duration": 7.658446875000001,
     "pruned": true
   },
   {
-    "Game": "Pok\u00e9mon Stadium",
+    "Game": "Pokémon Stadium",
     "Song": "VS Intro (Short)",
-    "Composers": "Hajime Wakai, Kenta Nagata, T\u014dru Minegishi",
+    "Composers": "Hajime Wakai, Kenta Nagata, Tōru Minegishi",
     "Converters": "SirEnobMort",
     "Category": "events",
     "Update Notes": "Volume adjusted, removed excess events from MIDI.",
@@ -17991,7 +17991,7 @@
     "Verified": true,
     "Date": "Sat Mar 09 2024 16:59:58 GMT+0000 (Coordinated Universal Time)",
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Pok%C3%A9mon%20Stadium/VS%20Intro%20(Short)%20(REV%201).mp3",
-    "Binary": "binaries/Pok\u00e9mon Stadium/VS Intro (Short) (REV 1).bin",
+    "Binary": "binaries/Pokémon Stadium/VS Intro (Short) (REV 1).bin",
     "Duration": 5.044011562500001,
     "pruned": true
   },
@@ -18376,7 +18376,7 @@
     "Duration": 2.69844375
   },
   {
-    "Game": "Pok\u00e9mon XD: Gale of Darkness",
+    "Game": "Pokémon XD: Gale of Darkness",
     "Song": "Miror B. Battle",
     "Composers": "Tsukasa Tawada",
     "Converters": "WingullFTW",
@@ -18388,7 +18388,7 @@
     "Verified": true,
     "Date": "Thu Mar 21 2024 03:46:43 GMT+0000 (Coordinated Universal Time)",
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Pok%C3%A9mon%20XD%20Gale%20of%20Darkness/Miror%20B%20Battle.mp3",
-    "Binary": "binaries/Pok\u00e9mon XD Gale of Darkness/Miror B Battle.bin",
+    "Binary": "binaries/Pokémon XD Gale of Darkness/Miror B Battle.bin",
     "Duration": 50.364152877083335,
     "pruned": true
   },
@@ -18538,7 +18538,7 @@
     "pruned": true
   },
   {
-    "Game": "Pok\u00e9mon XD: Gale of Darkness",
+    "Game": "Pokémon XD: Gale of Darkness",
     "Song": "Miror B. Battle",
     "Composers": "Tsukasa Tawada",
     "Converters": "WingullFTW",
@@ -18552,7 +18552,7 @@
     "Verified": true,
     "Date": "Tue Mar 26 2024 14:25:13 GMT+0000 (Coordinated Universal Time)",
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Pok%C3%A9mon%20XD%20Gale%20of%20Darkness/Miror%20B%20Battle%20(REV%201).mp3",
-    "Binary": "binaries/Pok\u00e9mon XD Gale of Darkness/Miror B Battle (REV 1).bin",
+    "Binary": "binaries/Pokémon XD Gale of Darkness/Miror B Battle (REV 1).bin",
     "Duration": 52.88245932291667
   },
   {
@@ -18720,7 +18720,7 @@
     "Duration": 47.99916666666667
   },
   {
-    "Game": "Viva Pi\u00f1ata",
+    "Game": "Viva Piñata",
     "Song": "Day 10",
     "Composers": "Grant Kirkhope",
     "Converters": "UmedMuzl",
@@ -18732,7 +18732,7 @@
     "Verified": true,
     "Date": "Sat Mar 30 2024 09:57:20 GMT+0000 (Coordinated Universal Time)",
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Viva%20Pi%C3%B1ata/Day%2010.mp3",
-    "Binary": "binaries/Viva Pi\u00f1ata/Day 10.bin",
+    "Binary": "binaries/Viva Piñata/Day 10.bin",
     "Duration": 111.3
   },
   {
@@ -18786,7 +18786,7 @@
   {
     "Game": "Castlevania: Circle of the Moon",
     "Song": "Awake",
-    "Composers": "S\u014dtar\u014d Tojima, Hiroshi Mitsuoka",
+    "Composers": "Sōtarō Tojima, Hiroshi Mitsuoka",
     "Converters": "Fiy3ro",
     "Category": "bgm",
     "Tags": [
@@ -19724,9 +19724,9 @@
     "Duration": 2.1620154166666663
   },
   {
-    "Game": "Pok\u00e9mon Stadium",
+    "Game": "Pokémon Stadium",
     "Song": "Gym Leader Castle: Stage Clear",
-    "Composers": "Hajime Wakai, Kenta Nagata, T\u014dru Minegishi",
+    "Composers": "Hajime Wakai, Kenta Nagata, Tōru Minegishi",
     "Converters": "SirEnobMort",
     "Category": "events",
     "Update Notes": "Removed excess event from MIDI to cut down silence at end.",
@@ -19737,14 +19737,14 @@
     "Verified": true,
     "Date": "Mon Apr 22 2024 11:35:50 GMT+0000 (Coordinated Universal Time)",
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Pok%C3%A9mon%20Stadium/Gym%20Leader%20Castle%20Stage%20Clear%20(REV%202).mp3",
-    "Binary": "binaries/Pok\u00e9mon Stadium/Gym Leader Castle Stage Clear (REV 2).bin",
+    "Binary": "binaries/Pokémon Stadium/Gym Leader Castle Stage Clear (REV 2).bin",
     "Duration": 2.3491407499999997,
     "pruned": true
   },
   {
-    "Game": "Pok\u00e9mon Stadium",
-    "Song": "Pok\u00e9mon Present Revealed",
-    "Composers": "Hajime Wakai, Kenta Nagata, T\u014dru Minegishi",
+    "Game": "Pokémon Stadium",
+    "Song": "Pokémon Present Revealed",
+    "Composers": "Hajime Wakai, Kenta Nagata, Tōru Minegishi",
     "Converters": "SirEnobMort",
     "Category": "majoritems",
     "Update Notes": "Removed excess event from MIDI to cut down silence at end.",
@@ -19755,14 +19755,14 @@
     "Verified": true,
     "Date": "Mon Apr 22 2024 11:36:52 GMT+0000 (Coordinated Universal Time)",
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Pok%C3%A9mon%20Stadium/Pok%C3%A9mon%20Present%20Revealed%20(REV%201).mp3",
-    "Binary": "binaries/Pok\u00e9mon Stadium/Pok\u00e9mon Present Revealed (REV 1).bin",
+    "Binary": "binaries/Pokémon Stadium/Pokémon Present Revealed (REV 1).bin",
     "Duration": 4.31596790625,
     "pruned": true
   },
   {
-    "Game": "Pok\u00e9mon Stadium",
+    "Game": "Pokémon Stadium",
     "Song": "Clefairy Says (Finger Pointing)",
-    "Composers": "Hajime Wakai, Kenta Nagata, T\u014dru Minegishi",
+    "Composers": "Hajime Wakai, Kenta Nagata, Tōru Minegishi",
     "Converters": "SirEnobMort",
     "Category": "events",
     "Update Notes": "Removed excess event from MIDI to cut down silence at end.",
@@ -19773,12 +19773,12 @@
     "Verified": true,
     "Date": "Mon Apr 22 2024 11:37:51 GMT+0000 (Coordinated Universal Time)",
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Pok%C3%A9mon%20Stadium/Clefairy%20Says%20(Right%20Version)%20(REV%201).mp3",
-    "Binary": "binaries/Pok\u00e9mon Stadium/Clefairy Says (Right Version) (REV 1).bin",
+    "Binary": "binaries/Pokémon Stadium/Clefairy Says (Right Version) (REV 1).bin",
     "Duration": 8.40625,
     "pruned": true
   },
   {
-    "Game": "Pok\u00e9mon Stadium 2",
+    "Game": "Pokémon Stadium 2",
     "Song": "Clear!",
     "Composers": "Hajime Wakai",
     "Converters": "SirEnobMort",
@@ -19791,14 +19791,14 @@
     "Verified": true,
     "Date": "Mon Apr 22 2024 11:38:52 GMT+0000 (Coordinated Universal Time)",
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Pok%C3%A9mon%20Stadium%202/Clear%20(REV%201).mp3",
-    "Binary": "binaries/Pok\u00e9mon Stadium 2/Clear (REV 1).bin",
+    "Binary": "binaries/Pokémon Stadium 2/Clear (REV 1).bin",
     "Duration": 2.708330625,
     "pruned": true
   },
   {
-    "Game": "Pok\u00e9mon Stadium",
+    "Game": "Pokémon Stadium",
     "Song": "VS Intro (Short)",
-    "Composers": "Hajime Wakai, Kenta Nagata, T\u014dru Minegishi",
+    "Composers": "Hajime Wakai, Kenta Nagata, Tōru Minegishi",
     "Converters": "SirEnobMort",
     "Category": "events",
     "Update Notes": "Removed excess event from MIDI to cut down silence at end.",
@@ -19809,14 +19809,14 @@
     "Verified": true,
     "Date": "Mon Apr 22 2024 11:43:49 GMT+0000 (Coordinated Universal Time)",
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Pok%C3%A9mon%20Stadium/VS%20Intro%20(Short)%20(REV%202).mp3",
-    "Binary": "binaries/Pok\u00e9mon Stadium/VS Intro (Short) (REV 2).bin",
+    "Binary": "binaries/Pokémon Stadium/VS Intro (Short) (REV 2).bin",
     "Duration": 5.044011562500001,
     "pruned": true
   },
   {
-    "Game": "Pok\u00e9mon Stadium",
+    "Game": "Pokémon Stadium",
     "Song": "VS Intro",
-    "Composers": "Hajime Wakai, Kenta Nagata, T\u014dru Minegishi",
+    "Composers": "Hajime Wakai, Kenta Nagata, Tōru Minegishi",
     "Converters": "SirEnobMort",
     "Category": "events",
     "Update Notes": "Removed excess event from MIDI to cut down silence at end.",
@@ -19827,14 +19827,14 @@
     "Verified": true,
     "Date": "Mon Apr 22 2024 11:44:57 GMT+0000 (Coordinated Universal Time)",
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Pok%C3%A9mon%20Stadium/VS%20Intro%20(REV%203).mp3",
-    "Binary": "binaries/Pok\u00e9mon Stadium/VS Intro (REV 3).bin",
+    "Binary": "binaries/Pokémon Stadium/VS Intro (REV 3).bin",
     "Duration": 7.658446875000001,
     "pruned": true
   },
   {
-    "Game": "Pok\u00e9mon Stadium",
+    "Game": "Pokémon Stadium",
     "Song": "Mini-Game End",
-    "Composers": "Hajime Wakai, Kenta Nagata, T\u014dru Minegishi",
+    "Composers": "Hajime Wakai, Kenta Nagata, Tōru Minegishi",
     "Converters": "SirEnobMort",
     "Category": "events",
     "Update Notes": "Removed excess event from MIDI to cut down silence at end.",
@@ -19845,14 +19845,14 @@
     "Verified": true,
     "Date": "Mon Apr 22 2024 11:46:32 GMT+0000 (Coordinated Universal Time)",
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Pok%C3%A9mon%20Stadium/Mini%20Game%20End%20(REV%201).mp3",
-    "Binary": "binaries/Pok\u00e9mon Stadium/Mini Game End (REV 1).bin",
+    "Binary": "binaries/Pokémon Stadium/Mini Game End (REV 1).bin",
     "Duration": 2.8124971875,
     "pruned": true
   },
   {
-    "Game": "Pok\u00e9mon Stadium",
+    "Game": "Pokémon Stadium",
     "Song": "VS Won",
-    "Composers": "Hajime Wakai, Kenta Nagata, T\u014dru Minegishi",
+    "Composers": "Hajime Wakai, Kenta Nagata, Tōru Minegishi",
     "Converters": "SirEnobMort",
     "Category": "events",
     "Update Notes": "Removed excess event from MIDI to cut down silence at end.",
@@ -19864,7 +19864,7 @@
     "Verified": true,
     "Date": "Mon Apr 22 2024 11:47:33 GMT+0000 (Coordinated Universal Time)",
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Pok%C3%A9mon%20Stadium/VS%20Won%20(REV%201).mp3",
-    "Binary": "binaries/Pok\u00e9mon Stadium/VS Won (REV 1).bin",
+    "Binary": "binaries/Pokémon Stadium/VS Won (REV 1).bin",
     "Duration": 21.097665375,
     "pruned": true
   },
@@ -19887,9 +19887,9 @@
     "pruned": true
   },
   {
-    "Game": "Pok\u00e9mon Stadium",
+    "Game": "Pokémon Stadium",
     "Song": "End Battle!",
-    "Composers": "Hajime Wakai, Kenta Nagata, T\u014dru Minegishi",
+    "Composers": "Hajime Wakai, Kenta Nagata, Tōru Minegishi",
     "Converters": "SirEnobMort",
     "Category": "events",
     "Update Notes": "Removed excess event from MIDI to cut down silence at end and boosted overall volume.",
@@ -19900,7 +19900,7 @@
     "Verified": true,
     "Date": "Mon Apr 22 2024 11:52:09 GMT+0000 (Coordinated Universal Time)",
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Pok%C3%A9mon%20Stadium/Battle%20End%20(REV%201).mp3",
-    "Binary": "binaries/Pok\u00e9mon Stadium/Battle End (REV 1).bin",
+    "Binary": "binaries/Pokémon Stadium/Battle End (REV 1).bin",
     "Duration": 6.764961406250001,
     "pruned": true
   },
@@ -20359,7 +20359,7 @@
     "Duration": 14.061709708333332
   },
   {
-    "Game": "Pok\u00e9mon Gold, Silver & Crystal",
+    "Game": "Pokémon Gold, Silver & Crystal",
     "Song": "Champion & Red Battle Music (HGSS)",
     "Composers": "Junichi Masuda",
     "Converters": "UmedMuzl",
@@ -20370,7 +20370,7 @@
     "Verified": true,
     "Date": "Tue May 07 2024 21:50:40 GMT+0000 (Coordinated Universal Time)",
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Pok%C3%A9mon%20Gold,%20Silver%20%20Crystal/Champion%20%20Red%20Battle%20Music%20(HGSS)%20(REV%201).mp3",
-    "Binary": "binaries/Pok\u00e9mon Gold, Silver  Crystal/Champion  Red Battle Music (HGSS) (REV 1).bin",
+    "Binary": "binaries/Pokémon Gold, Silver  Crystal/Champion  Red Battle Music (HGSS) (REV 1).bin",
     "Duration": 67.81250904166666
   },
   {
@@ -20391,7 +20391,7 @@
     "Duration": 100.21569199999999
   },
   {
-    "Game": "Pok\u00e9mon Colosseum",
+    "Game": "Pokémon Colosseum",
     "Song": "Cipher Admin Battle",
     "Composers": "Tsukasa Tawada",
     "Converters": "LBFrank",
@@ -20402,12 +20402,12 @@
     "Verified": true,
     "Date": "Fri May 10 2024 22:02:27 GMT+0000 (Coordinated Universal Time)",
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Pok%C3%A9mon%20Colosseum/Cipher%20Admin%20Battle.mp3",
-    "Binary": "binaries/Pok\u00e9mon Colosseum/Cipher Admin Battle.bin",
+    "Binary": "binaries/Pokémon Colosseum/Cipher Admin Battle.bin",
     "Duration": 84,
     "pruned": true
   },
   {
-    "Game": "Pok\u00e9mon Gold, Silver & Crystal",
+    "Game": "Pokémon Gold, Silver & Crystal",
     "Song": "Title Theme",
     "Composers": "Junichi Masuda",
     "Converters": "UmedMuzl",
@@ -20419,7 +20419,7 @@
     "Verified": true,
     "Date": "Sun May 12 2024 13:07:26 GMT+0000 (Coordinated Universal Time)",
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Pok%C3%A9mon%20Gold,%20Silver%20%20Crystal/Title%20Theme.mp3",
-    "Binary": "binaries/Pok\u00e9mon Gold, Silver  Crystal/Title Theme.bin",
+    "Binary": "binaries/Pokémon Gold, Silver  Crystal/Title Theme.bin",
     "Duration": 74.76517212499999
   },
   {
@@ -20624,7 +20624,7 @@
     "Duration": 126.27455400000001
   },
   {
-    "Game": "Pok\u00e9mon Diamond, Pearl & Platinum",
+    "Game": "Pokémon Diamond, Pearl & Platinum",
     "Song": "Route 205 (Day)",
     "Category": "bgm",
     "Composers": "Junichi Masuda",
@@ -20637,7 +20637,7 @@
     "Verified": true,
     "Date": "Tue May 14 2024 21:31:28 GMT+0000 (Coordinated Universal Time)",
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Route%20205%20(Day)/Pok%C3%A9mon%20Diamond,%20Pearl%20%20Platinum.mp3",
-    "Binary": "binaries/Route 205 (Day)/Pok\u00e9mon Diamond, Pearl  Platinum.bin",
+    "Binary": "binaries/Route 205 (Day)/Pokémon Diamond, Pearl  Platinum.bin",
     "Duration": 48.0125
   },
   {
@@ -21011,7 +21011,7 @@
   {
     "Game": "Bermuda Syndrome",
     "Song": "Jungle 1",
-    "Composers": "Tom Holewa, J\u00f6rg Martin Schwiezer",
+    "Composers": "Tom Holewa, Jörg Martin Schwiezer",
     "Converters": "Wibdiwoh",
     "Category": "bgm",
     "Audio": "https://www.youtube.com/watch?v=tBOQavOriNY",
@@ -21128,7 +21128,7 @@
     "Duration": 41.04164204166666
   },
   {
-    "Game": "Pok\u00e9mon Ruby, Sapphire & Emerald",
+    "Game": "Pokémon Ruby, Sapphire & Emerald",
     "Song": "Littleroot Town",
     "Composers": "Go Ichinose",
     "Converters": "UmedMuzl",
@@ -21141,7 +21141,7 @@
     "Verified": true,
     "Date": "Fri May 17 2024 17:51:18 GMT+0000 (Coordinated Universal Time)",
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Pok%C3%A9mon%20Ruby,%20Sapphire%20%20Emerald/Littleroot%20Town%20(REV%202).mp3",
-    "Binary": "binaries/Pok\u00e9mon Ruby, Sapphire  Emerald/Littleroot Town (REV 2).bin",
+    "Binary": "binaries/Pokémon Ruby, Sapphire  Emerald/Littleroot Town (REV 2).bin",
     "Duration": 54.16671
   },
   {
@@ -21180,7 +21180,7 @@
     "Duration": 53.06895225
   },
   {
-    "Game": "Pok\u00e9mon Ruby, Sapphire & Emerald",
+    "Game": "Pokémon Ruby, Sapphire & Emerald",
     "Song": "Verdanturf Town",
     "Composers": "Go Ichinose",
     "Converters": "UmedMuzl",
@@ -21192,7 +21192,7 @@
     "Verified": true,
     "Date": "Fri May 17 2024 20:55:02 GMT+0000 (Coordinated Universal Time)",
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Pok%C3%A9mon%20Ruby,%20Sapphire%20%20Emerald/Verdanturf%20Town.mp3",
-    "Binary": "binaries/Pok\u00e9mon Ruby, Sapphire  Emerald/Verdanturf Town.bin",
+    "Binary": "binaries/Pokémon Ruby, Sapphire  Emerald/Verdanturf Town.bin",
     "Duration": 46.242578020833335
   },
   {
@@ -21212,7 +21212,7 @@
     "Duration": 94.006
   },
   {
-    "Game": "Pok\u00e9mon Red, Blue & Yellow",
+    "Game": "Pokémon Red, Blue & Yellow",
     "Song": "Lavender Town",
     "Composers": "Junichi Masuda",
     "Converters": "UmedMuzl",
@@ -21224,7 +21224,7 @@
     ],
     "Verified": true,
     "Date": "Mon May 20 2024 06:20:00 GMT+0000 (Coordinated Universal Time)",
-    "Binary": "binaries/Pok\u00e9mon Red, Blue  Yellow/Lavender Town.bin",
+    "Binary": "binaries/Pokémon Red, Blue  Yellow/Lavender Town.bin",
     "Duration": 82.5
   },
   {
@@ -21346,7 +21346,7 @@
   {
     "Game": "The Legend of Zelda: Twilight Princess",
     "Song": "Zoras Domain",
-    "Composers": "T\u014dru Minegishi, Asuka Hayazaki, Koji Kondo",
+    "Composers": "Tōru Minegishi, Asuka Hayazaki, Koji Kondo",
     "Converters": "OnlySpaghettiCode",
     "Category": "bgm",
     "Update Notes": "Reverb",
@@ -21363,7 +21363,7 @@
   {
     "Game": "The Legend of Zelda: Twilight Princess",
     "Song": "Sacred Grove",
-    "Composers": "Koji Kondo, T\u014dru Minegishi",
+    "Composers": "Koji Kondo, Tōru Minegishi",
     "Converters": "OnlySpaghettiCode",
     "Category": "bgm",
     "Update Notes": "Reverb",
@@ -21380,7 +21380,7 @@
   {
     "Game": "The Legend of Zelda: Twilight Princess",
     "Song": "Midnas Lament",
-    "Composers": "T\u014dru Minegishi",
+    "Composers": "Tōru Minegishi",
     "Converters": "OnlySpaghettiCode",
     "Category": "bgm",
     "Update Notes": "Rebalance",
@@ -21397,7 +21397,7 @@
   {
     "Game": "The Legend of Zelda: Twilight Princess",
     "Song": "Faron Woods",
-    "Composers": "T\u014dru Minegishi, Asuka Hayazaki, Koji Kondo",
+    "Composers": "Tōru Minegishi, Asuka Hayazaki, Koji Kondo",
     "Converters": "OnlySpaghettiCode",
     "Category": "bgm",
     "Update Notes": "Rebalance",
@@ -21415,7 +21415,7 @@
   {
     "Game": "The Legend of Zelda: The Wind Waker",
     "Song": "Outset Island",
-    "Composers": "Hajime Wakai, Kenta Nagata, T\u014dru Minegishi, Koji Kondo",
+    "Composers": "Hajime Wakai, Kenta Nagata, Tōru Minegishi, Koji Kondo",
     "Converters": "OnlySpaghettiCode",
     "Category": "bgm",
     "Update Notes": "Rebalance",
@@ -21449,7 +21449,7 @@
   {
     "Game": "The Legend of Zelda: Spirit Tracks",
     "Song": "Realm Overworld",
-    "Composers": "T\u014dru Minegishi",
+    "Composers": "Tōru Minegishi",
     "Converters": "OnlySpaghettiCode",
     "Category": "bgm",
     "Update Notes": "Rebalance",
@@ -21584,7 +21584,7 @@
     "Duration": 61.928509500000004
   },
   {
-    "Game": "Pok\u00e9mon Mystery Dungeon: Explorers of Sky",
+    "Game": "Pokémon Mystery Dungeon: Explorers of Sky",
     "Song": "Through the Sea of Time",
     "Composers": "Hideki Sakamoto, Arata Iiyoshi, Yoshihiro Maeda",
     "Converters": "OnlySpaghettiCode",
@@ -21597,13 +21597,13 @@
     "Verified": true,
     "Date": "Wed May 22 2024 01:08:38 GMT+0000 (Coordinated Universal Time)",
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Pok%C3%A9mon%20Mystery%20Dungeon%20Explorers%20of%20Sky/Through%20the%20Sea%20of%20Time%20(REV%201).mp3",
-    "Binary": "binaries/Pok\u00e9mon Mystery Dungeon Explorers of Sky/Through the Sea of Time (REV 1).bin",
+    "Binary": "binaries/Pokémon Mystery Dungeon Explorers of Sky/Through the Sea of Time (REV 1).bin",
     "Duration": 97.6171875
   },
   {
-    "Game": "Pok\u00e9mon Diamond, Pearl & Platinum",
+    "Game": "Pokémon Diamond, Pearl & Platinum",
     "Song": "Route 209",
-    "Composers": "Hitomi Sat\u014d",
+    "Composers": "Hitomi Satō",
     "Converters": "OnlySpaghettiCode",
     "Category": "bgm",
     "Update Notes": "Rebalance",
@@ -21613,11 +21613,11 @@
     "Verified": true,
     "Date": "Wed May 22 2024 01:08:38 GMT+0000 (Coordinated Universal Time)",
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Pok%C3%A9mon%20Diamond,%20Pearl%20%20Platinum/Route%20209%20(REV%201).mp3",
-    "Binary": "binaries/Pok\u00e9mon Diamond, Pearl  Platinum/Route 209 (REV 1).bin",
+    "Binary": "binaries/Pokémon Diamond, Pearl  Platinum/Route 209 (REV 1).bin",
     "Duration": 75.5232105
   },
   {
-    "Game": "Pok\u00e9mon Black & White",
+    "Game": "Pokémon Black & White",
     "Song": "Route 10",
     "Composers": "Shota Kageyama",
     "Converters": "OnlySpaghettiCode",
@@ -21630,11 +21630,11 @@
     "Verified": true,
     "Date": "Wed May 22 2024 01:08:39 GMT+0000 (Coordinated Universal Time)",
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Pok%C3%A9mon%20Black%20%20White/Route%2010%20(REV%201).mp3",
-    "Binary": "binaries/Pok\u00e9mon Black  White/Route 10 (REV 1).bin",
+    "Binary": "binaries/Pokémon Black  White/Route 10 (REV 1).bin",
     "Duration": 68.66957418749999
   },
   {
-    "Game": "Pok\u00e9mon Black & White",
+    "Game": "Pokémon Black & White",
     "Song": "Battle (Elite Four)",
     "Composers": "Junichi Masuda, Go Ichinose",
     "Converters": "OnlySpaghettiCode",
@@ -21647,7 +21647,7 @@
     "Verified": true,
     "Date": "Wed May 22 2024 01:08:40 GMT+0000 (Coordinated Universal Time)",
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Pok%C3%A9mon%20Black%20%20White/Battle%20(Elite%20Four)%20(REV%201).mp3",
-    "Binary": "binaries/Pok\u00e9mon Black  White/Battle (Elite Four) (REV 1).bin",
+    "Binary": "binaries/Pokémon Black  White/Battle (Elite Four) (REV 1).bin",
     "Duration": 93.63143849999999
   },
   {
@@ -22062,7 +22062,7 @@
   {
     "Game": "Klonoa 2: Lunatea's Veil",
     "Song": "Dream Stone Collect",
-    "Composers": "Yuji Masubuchi, Tomomitsu Kaneko, Katsur\u014d Tajima",
+    "Composers": "Yuji Masubuchi, Tomomitsu Kaneko, Katsurō Tajima",
     "Converters": "iveli_alpaca",
     "Category": "minoritems",
     "Tags": [
@@ -22078,7 +22078,7 @@
   {
     "Game": "Klonoa 2: Lunatea's Veil",
     "Song": "Memory Doll Collect",
-    "Composers": "Yuji Masubuchi, Tomomitsu Kaneko, Katsur\u014d Tajima",
+    "Composers": "Yuji Masubuchi, Tomomitsu Kaneko, Katsurō Tajima",
     "Converters": "iveli_alpaca",
     "Category": "minoritems",
     "Tags": [
@@ -22095,7 +22095,7 @@
   {
     "Game": "Klonoa 2: Lunatea's Veil",
     "Song": "Memory Doll Completed",
-    "Composers": "Yuji Masubuchi, Tomomitsu Kaneko, Katsur\u014d Tajima",
+    "Composers": "Yuji Masubuchi, Tomomitsu Kaneko, Katsurō Tajima",
     "Converters": "iveli_alpaca",
     "Category": "majoritems",
     "Tags": [
@@ -22177,7 +22177,7 @@
     "Duration": 110.76921600000001
   },
   {
-    "Game": "Pok\u00e9mon Stadium 2",
+    "Game": "Pokémon Stadium 2",
     "Song": "Team Preparations",
     "Composers": "Hajime Wakai",
     "Converters": "HavenKnight93",
@@ -22190,7 +22190,7 @@
     "Verified": true,
     "Date": "Thu May 23 2024 17:39:01 GMT+0000 (Coordinated Universal Time)",
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Pok%C3%A9mon%20Stadium%202/Team%20Preparations%20(REV%201).mp3",
-    "Binary": "binaries/Pok\u00e9mon Stadium 2/Team Preparations (REV 1).bin",
+    "Binary": "binaries/Pokémon Stadium 2/Team Preparations (REV 1).bin",
     "Duration": 44.30764799999999
   },
   {
@@ -22412,9 +22412,9 @@
     "Duration": 95.06721708333335
   },
   {
-    "Game": "Pok\u00e9mon Black & White",
+    "Game": "Pokémon Black & White",
     "Song": "Driftveil City",
-    "Composers": "Hitomi Sat\u014d",
+    "Composers": "Hitomi Satō",
     "Converters": "OnlySpaghettiCode",
     "Category": "bgm",
     "Tags": [
@@ -22423,7 +22423,7 @@
     "Verified": true,
     "Date": "Tue May 28 2024 22:52:01 GMT+0000 (Coordinated Universal Time)",
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Pok%C3%A9mon%20Black%20%20White/Driftveil%20City.mp3",
-    "Binary": "binaries/Pok\u00e9mon Black  White/Driftveil City.bin",
+    "Binary": "binaries/Pokémon Black  White/Driftveil City.bin",
     "Duration": 40.9444035
   },
   {
@@ -22444,7 +22444,7 @@
     "Duration": 102.4
   },
   {
-    "Game": "Pok\u00e9mon Stadium 2",
+    "Game": "Pokémon Stadium 2",
     "Song": "Clear Cut Challenge Round End",
     "Composers": "Hajime Wakai",
     "Converters": "HavenKnight93",
@@ -22456,7 +22456,7 @@
     "Verified": true,
     "Date": "Wed May 29 2024 00:40:02 GMT+0000 (Coordinated Universal Time)",
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Pok%C3%A9mon%20Stadium%202/Clear%20Cut%20Challenge%20Round%20End.mp3",
-    "Binary": "binaries/Pok\u00e9mon Stadium 2/Clear Cut Challenge Round End.bin",
+    "Binary": "binaries/Pokémon Stadium 2/Clear Cut Challenge Round End.bin",
     "Duration": 5.120688375
   },
   {
@@ -22964,7 +22964,7 @@
   {
     "Game": "Rayman",
     "Song": "Yeah! (PS1)",
-    "Composers": "R\u00e9mi Gazel",
+    "Composers": "Rémi Gazel",
     "Converters": "adeleine64DS",
     "Category": "events",
     "Audio": "https://www.youtube.com/watch?v=L2dpO1P-i2w",
@@ -23112,7 +23112,7 @@
   {
     "Game": "The Legend of Zelda: Spirit Tracks",
     "Song": "Song of Light",
-    "Composers": "T\u014dru Minegishi, Manaka Tominaga",
+    "Composers": "Tōru Minegishi, Manaka Tominaga",
     "Converters": "OnlySpaghettiCode",
     "Category": "events",
     "Update Notes": "Rebalanced",
@@ -23128,7 +23128,7 @@
   {
     "Game": "The Legend of Zelda: Spirit Tracks",
     "Song": "Song of Healing",
-    "Composers": "T\u014dru Minegishi, Manaka Tominaga",
+    "Composers": "Tōru Minegishi, Manaka Tominaga",
     "Converters": "OnlySpaghettiCode",
     "Category": "events",
     "Update Notes": "Rebalanced",
@@ -23293,7 +23293,7 @@
   {
     "Game": "Super Mario 3D World",
     "Song": "Bowser's Lava Lake Keep",
-    "Composers": "Mahito Yokota, T\u014dru Minegishi, et. al.",
+    "Composers": "Mahito Yokota, Tōru Minegishi, et. al.",
     "Converters": "Fiy3ro",
     "Category": "bgm",
     "Update Notes": "Volume rebalance, fix some duplicated notes in percussion",
@@ -23443,7 +23443,7 @@
     "Duration": 116.44984000000001
   },
   {
-    "Game": "Pok\u00e9mon Diamond, Pearl & Platinum",
+    "Game": "Pokémon Diamond, Pearl & Platinum",
     "Song": "Champion Cynthia's Battle theme",
     "Composers": "Junichi Masuda, Go Ichinose",
     "Converters": "UmedMuzl",
@@ -23454,7 +23454,7 @@
     "Verified": true,
     "Date": "Tue Jun 04 2024 10:38:29 GMT+0000 (Coordinated Universal Time)",
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Pok%C3%A9mon%20Diamond,%20Pearl%20%20Platinum/Champion%20Cynthias%20Battle%20theme%20(REV%201).mp3",
-    "Binary": "binaries/Pok\u00e9mon Diamond, Pearl  Platinum/Champion Cynthias Battle theme (REV 1).bin",
+    "Binary": "binaries/Pokémon Diamond, Pearl  Platinum/Champion Cynthias Battle theme (REV 1).bin",
     "Duration": 85.04153949999998
   },
   {
@@ -23494,7 +23494,7 @@
   {
     "Game": "Action 52",
     "Song": "Game 52: Cheetahmen [BGM] (NES)",
-    "Composers": "Mario Gonz\u00e1lez, Javier P\u00e9rez, Ed Bogas",
+    "Composers": "Mario González, Javier Pérez, Ed Bogas",
     "Converters": "Wibdiwoh",
     "Category": "bgm",
     "Tags": [
@@ -24838,7 +24838,7 @@
     "Duration": 3
   },
   {
-    "Game": "Pok\u00e9mon X & Y",
+    "Game": "Pokémon X & Y",
     "Song": "Snowbelle City",
     "Category": "bgm",
     "Composers": "Shota Kageyama",
@@ -24850,7 +24850,7 @@
     "Verified": true,
     "Date": "Thu Jul 11 2024 02:47:25 GMT+0000 (Coordinated Universal Time)",
     "Audio": "https://youtube.com/watch?v=woVH_jcL2wE",
-    "Binary": "binaries/Pok\u00e9mon X  Y/Snowbelle City.bin",
+    "Binary": "binaries/Pokémon X  Y/Snowbelle City.bin",
     "Duration": 53.615618214583336
   },
   {
@@ -24871,7 +24871,7 @@
     "Duration": 101.40751971875001
   },
   {
-    "Game": "Pok\u00e9mon Gold, Silver & Crystal",
+    "Game": "Pokémon Gold, Silver & Crystal",
     "Song": "National Park",
     "Composers": "Go Ichinose",
     "Converters": "BashPrime",
@@ -24883,11 +24883,11 @@
     "Verified": true,
     "Date": "Thu Jul 11 2024 08:57:11 GMT+0000 (Coordinated Universal Time)",
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Pok%C3%A9mon%20Gold,%20Silver%20%20Crystal/National%20Park.mp3",
-    "Binary": "binaries/Pok\u00e9mon Gold, Silver  Crystal/National Park.bin",
+    "Binary": "binaries/Pokémon Gold, Silver  Crystal/National Park.bin",
     "Duration": 77.39999999999999
   },
   {
-    "Game": "Pok\u00e9mon Trading Card Game",
+    "Game": "Pokémon Trading Card Game",
     "Song": "Duel",
     "Composers": "Ichiro Shimakura",
     "Converters": "Wibdiwoh",
@@ -24899,11 +24899,11 @@
     "Verified": true,
     "Date": "Thu Jul 11 2024 19:41:57 GMT+0000 (Coordinated Universal Time)",
     "Audio": "https://www.youtube.com/watch?v=jiYtFzHg4M4",
-    "Binary": "binaries/Pok\u00e9mon Trading Card Game/Duel.bin",
+    "Binary": "binaries/Pokémon Trading Card Game/Duel.bin",
     "Duration": 130.8642578125
   },
   {
-    "Game": "Pok\u00e9mon Trading Card Game",
+    "Game": "Pokémon Trading Card Game",
     "Song": "Club Master Duel",
     "Composers": "Ichiro Shimakura",
     "Converters": "Wibdiwoh",
@@ -24914,11 +24914,11 @@
     "Verified": true,
     "Date": "Thu Jul 11 2024 19:43:16 GMT+0000 (Coordinated Universal Time)",
     "Audio": "https://www.youtube.com/watch?v=7f4hjqaWPjo",
-    "Binary": "binaries/Pok\u00e9mon Trading Card Game/Club Master Duel.bin",
+    "Binary": "binaries/Pokémon Trading Card Game/Club Master Duel.bin",
     "Duration": 108.27072
   },
   {
-    "Game": "Pok\u00e9mon Trading Card Game",
+    "Game": "Pokémon Trading Card Game",
     "Song": "Ronald's Theme",
     "Composers": "Ichiro Shimakura",
     "Converters": "Wibdiwoh",
@@ -24929,11 +24929,11 @@
     "Verified": true,
     "Date": "Thu Jul 11 2024 19:44:46 GMT+0000 (Coordinated Universal Time)",
     "Audio": "https://www.youtube.com/watch?v=3oO5NAtrbKc",
-    "Binary": "binaries/Pok\u00e9mon Trading Card Game/Ronalds Theme.bin",
+    "Binary": "binaries/Pokémon Trading Card Game/Ronalds Theme.bin",
     "Duration": 83.41945913541667
   },
   {
-    "Game": "Pok\u00e9mon Trading Card Game",
+    "Game": "Pokémon Trading Card Game",
     "Song": "Imakuni's Theme",
     "Composers": "Ichiro Shimakura",
     "Converters": "Wibdiwoh",
@@ -24944,11 +24944,11 @@
     "Verified": true,
     "Date": "Thu Jul 11 2024 19:46:01 GMT+0000 (Coordinated Universal Time)",
     "Audio": "https://www.youtube.com/watch?v=Tf6NzHiDlTw",
-    "Binary": "binaries/Pok\u00e9mon Trading Card Game/Imakunis Theme.bin",
+    "Binary": "binaries/Pokémon Trading Card Game/Imakunis Theme.bin",
     "Duration": 48.398139895833324
   },
   {
-    "Game": "Pok\u00e9mon Trading Card Game",
+    "Game": "Pokémon Trading Card Game",
     "Song": "Grand Master Duel",
     "Composers": "Ichiro Shimakura",
     "Converters": "Wibdiwoh",
@@ -24959,7 +24959,7 @@
     "Verified": true,
     "Date": "Thu Jul 11 2024 19:47:33 GMT+0000 (Coordinated Universal Time)",
     "Audio": "https://www.youtube.com/watch?v=KDheTDXo6DU",
-    "Binary": "binaries/Pok\u00e9mon Trading Card Game/Grand Master Duel.bin",
+    "Binary": "binaries/Pokémon Trading Card Game/Grand Master Duel.bin",
     "Duration": 163.435512
   },
   {
@@ -24996,7 +24996,7 @@
     "Duration": 86.18189000000001
   },
   {
-    "Game": "Pok\u00e9mon Gold, Silver & Crystal",
+    "Game": "Pokémon Gold, Silver & Crystal",
     "Song": "Azalea Town (HGSS)",
     "Composers": "Go Ichinose, Shota Kageyama",
     "Converters": "BashPrime",
@@ -25008,7 +25008,7 @@
     "Verified": true,
     "Date": "Fri Jul 12 2024 21:25:48 GMT+0000 (Coordinated Universal Time)",
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Pok%C3%A9mon%20Gold,%20Silver%20%20Crystal/Azalea%20Town%20(HGSS).mp3",
-    "Binary": "binaries/Pok\u00e9mon Gold, Silver  Crystal/Azalea Town (HGSS).bin",
+    "Binary": "binaries/Pokémon Gold, Silver  Crystal/Azalea Town (HGSS).bin",
     "Duration": 68.375
   },
   {
@@ -25044,9 +25044,9 @@
     "Duration": 5.60184625
   },
   {
-    "Game": "Pok\u00e9mon Black 2 & White 2",
+    "Game": "Pokémon Black 2 & White 2",
     "Song": "Mistralton City Gym",
-    "Composers": "Junichi Masuda, Hitomi Sat\u014d",
+    "Composers": "Junichi Masuda, Hitomi Satō",
     "Converters": "BashPrime",
     "Category": "bgm",
     "Additional Notes": "I really hope you enjoy this song because I had to transcribe the arpeggio strings completely by ear",
@@ -25058,7 +25058,7 @@
     "Verified": true,
     "Date": "Sat Jul 13 2024 10:01:43 GMT+0000 (Coordinated Universal Time)",
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Pok%C3%A9mon%20Black%202%20%20White%202/Mistralton%20City%20Gym.mp3",
-    "Binary": "binaries/Pok\u00e9mon Black 2  White 2/Mistralton City Gym.bin",
+    "Binary": "binaries/Pokémon Black 2  White 2/Mistralton City Gym.bin",
     "Duration": 36.057291666666664
   },
   {
@@ -25494,7 +25494,7 @@
     "Duration": 67.3
   },
   {
-    "Game": "Pok\u00e9mon Card GB2: Great Rocket-Dan Sanjo",
+    "Game": "Pokémon Card GB2: Great Rocket-Dan Sanjo",
     "Song": "Colorless Altar and Sealed Fort",
     "Composers": "Ichiro Shimakura",
     "Converters": "Wibdiwoh",
@@ -25506,11 +25506,11 @@
     "Verified": true,
     "Date": "Sun Jul 21 2024 09:53:16 GMT+0000 (Coordinated Universal Time)",
     "Audio": "https://www.youtube.com/watch?v=LoM9GsjiOqE",
-    "Binary": "binaries/Pok\u00e9mon Card GB2 Great Rocket-Dan Sanjo/Colorless Altar and Sealed Fort.bin",
+    "Binary": "binaries/Pokémon Card GB2 Great Rocket-Dan Sanjo/Colorless Altar and Sealed Fort.bin",
     "Duration": 73.11938064583335
   },
   {
-    "Game": "Pok\u00e9mon Card GB2: Great Rocket-Dan Sanjo",
+    "Game": "Pokémon Card GB2: Great Rocket-Dan Sanjo",
     "Song": "Invasion of Team GR",
     "Composers": "Ichiro Shimakura",
     "Converters": "Wibdiwoh",
@@ -25521,11 +25521,11 @@
     "Verified": true,
     "Date": "Sun Jul 21 2024 09:54:46 GMT+0000 (Coordinated Universal Time)",
     "Audio": "https://www.youtube.com/watch?v=zA_OV_bjLP8",
-    "Binary": "binaries/Pok\u00e9mon Card GB2 Great Rocket-Dan Sanjo/Invasion of Team GR.bin",
+    "Binary": "binaries/Pokémon Card GB2 Great Rocket-Dan Sanjo/Invasion of Team GR.bin",
     "Duration": 53.6396790625
   },
   {
-    "Game": "Pok\u00e9mon Trading Card Game",
+    "Game": "Pokémon Trading Card Game",
     "Song": "Win",
     "Composers": "Ichiro Shimakura",
     "Converters": "Wibdiwoh",
@@ -25536,11 +25536,11 @@
     "Verified": true,
     "Date": "Mon Jul 22 2024 16:53:14 GMT+0000 (Coordinated Universal Time)",
     "Audio": "https://www.youtube.com/watch?v=30KpkuQwn2Y",
-    "Binary": "binaries/Pok\u00e9mon Trading Card Game/Win.bin",
+    "Binary": "binaries/Pokémon Trading Card Game/Win.bin",
     "Duration": 4.109375
   },
   {
-    "Game": "Pok\u00e9mon Trading Card Game",
+    "Game": "Pokémon Trading Card Game",
     "Song": "Lost",
     "Composers": "Ichiro Shimakura",
     "Converters": "Wibdiwoh",
@@ -25551,11 +25551,11 @@
     "Verified": true,
     "Date": "Mon Jul 22 2024 16:59:07 GMT+0000 (Coordinated Universal Time)",
     "Audio": "https://www.youtube.com/watch?v=DcejnoK-Jso",
-    "Binary": "binaries/Pok\u00e9mon Trading Card Game/Lost.bin",
+    "Binary": "binaries/Pokémon Trading Card Game/Lost.bin",
     "Duration": 5.438910114583333
   },
   {
-    "Game": "Pok\u00e9mon Trading Card Game",
+    "Game": "Pokémon Trading Card Game",
     "Song": "Let's Duel",
     "Composers": "Ichiro Shimakura",
     "Converters": "Wibdiwoh",
@@ -25566,11 +25566,11 @@
     "Verified": true,
     "Date": "Mon Jul 22 2024 16:59:08 GMT+0000 (Coordinated Universal Time)",
     "Audio": "https://www.youtube.com/watch?v=M1pWDNa02qY",
-    "Binary": "binaries/Pok\u00e9mon Trading Card Game/Lets Duel.bin",
+    "Binary": "binaries/Pokémon Trading Card Game/Lets Duel.bin",
     "Duration": 0.88636275
   },
   {
-    "Game": "Pok\u00e9mon Trading Card Game",
+    "Game": "Pokémon Trading Card Game",
     "Song": "Get Master Medal",
     "Composers": "Ichiro Shimakura",
     "Converters": "Wibdiwoh",
@@ -25582,11 +25582,11 @@
     "Verified": true,
     "Date": "Mon Jul 22 2024 16:59:09 GMT+0000 (Coordinated Universal Time)",
     "Audio": "https://www.youtube.com/watch?v=4FnUidbUx0U",
-    "Binary": "binaries/Pok\u00e9mon Trading Card Game/Get Master Medal.bin",
+    "Binary": "binaries/Pokémon Trading Card Game/Get Master Medal.bin",
     "Duration": 5.325633624999999
   },
   {
-    "Game": "Pok\u00e9mon Trading Card Game",
+    "Game": "Pokémon Trading Card Game",
     "Song": "Get Booster Pack",
     "Composers": "Ichiro Shimakura",
     "Converters": "Wibdiwoh",
@@ -25598,7 +25598,7 @@
     "Verified": true,
     "Date": "Mon Jul 22 2024 16:59:10 GMT+0000 (Coordinated Universal Time)",
     "Audio": "https://www.youtube.com/watch?v=g5-mnBFWiI8",
-    "Binary": "binaries/Pok\u00e9mon Trading Card Game/Get Booster Pack.bin",
+    "Binary": "binaries/Pokémon Trading Card Game/Get Booster Pack.bin",
     "Duration": 1.42105275
   },
   {
@@ -25726,7 +25726,7 @@
     "Game": "The Legend of Zelda: Phantom Hourglass",
     "Song": "Phantom Hourglass Activated",
     "Category": "events",
-    "Composers": "Kenta Nagata, T\u014dru Minegishi",
+    "Composers": "Kenta Nagata, Tōru Minegishi",
     "Converters": "Schwartz Gandhi",
     "Tags": [
       "Spawning",
@@ -25742,7 +25742,7 @@
     "Game": "The Legend of Zelda: Phantom Hourglass",
     "Song": "Phantom Linebeck",
     "Category": "bgm",
-    "Composers": "Kenta Nagata, T\u014dru Minegishi",
+    "Composers": "Kenta Nagata, Tōru Minegishi",
     "Converters": "Schwartz Gandhi",
     "Tags": [
       "Fights",
@@ -25758,7 +25758,7 @@
     "Game": "The Legend of Zelda: Phantom Hourglass",
     "Song": "Small Treasure",
     "Category": "majoritems",
-    "Composers": "Kenta Nagata, T\u014dru Minegishi",
+    "Composers": "Kenta Nagata, Tōru Minegishi",
     "Converters": "Schwartz Gandhi",
     "Tags": [
       "Collection",
@@ -25890,7 +25890,7 @@
     "Game": "The Legend of Zelda: Phantom Hourglass",
     "Song": "Linebeck's Theme",
     "Category": "bgm",
-    "Composers": "Kenta Nagata, T\u014dru Minegishi",
+    "Composers": "Kenta Nagata, Tōru Minegishi",
     "Converters": "Schwartz Gandhi",
     "Tags": [
       "Exteriors",
@@ -25924,7 +25924,7 @@
   {
     "Game": "The Legend of Zelda: Spirit Tracks",
     "Song": "Aboda Village",
-    "Composers": "T\u014dru Minegishi, Manaka Tominaga",
+    "Composers": "Tōru Minegishi, Manaka Tominaga",
     "Converters": "OnlySpaghettiCode",
     "Category": "bgm",
     "Tags": [
@@ -25940,7 +25940,7 @@
   {
     "Game": "The Legend of Zelda: Spirit Tracks",
     "Song": "Anouki Village",
-    "Composers": "T\u014dru Minegishi, Manaka Tominaga",
+    "Composers": "Tōru Minegishi, Manaka Tominaga",
     "Converters": "OnlySpaghettiCode",
     "Category": "bgm",
     "Tags": [
@@ -25956,7 +25956,7 @@
   {
     "Game": "The Legend of Zelda: Spirit Tracks",
     "Song": "Castle Town",
-    "Composers": "T\u014dru Minegishi, Manaka Tominaga",
+    "Composers": "Tōru Minegishi, Manaka Tominaga",
     "Converters": "OnlySpaghettiCode",
     "Category": "bgm",
     "Tags": [
@@ -25973,7 +25973,7 @@
   {
     "Game": "The Legend of Zelda: Spirit Tracks",
     "Song": "Final Exam",
-    "Composers": "T\u014dru Minegishi, Manaka Tominaga",
+    "Composers": "Tōru Minegishi, Manaka Tominaga",
     "Converters": "OnlySpaghettiCode",
     "Category": "bgm",
     "Tags": [
@@ -25989,7 +25989,7 @@
     "Game": "The Legend of Zelda: Phantom Hourglass",
     "Song": "Bellum",
     "Category": "bgm",
-    "Composers": "Kenta Nagata, T\u014dru Minegishi",
+    "Composers": "Kenta Nagata, Tōru Minegishi",
     "Converters": "Schwartz Gandhi",
     "Tags": [
       "Fights",
@@ -26054,7 +26054,7 @@
   {
     "Game": "The Legend of Zelda: Spirit Tracks",
     "Song": "Forest/Snow/Ocean Temple",
-    "Composers": "T\u014dru Minegishi, Manaka Tominaga",
+    "Composers": "Tōru Minegishi, Manaka Tominaga",
     "Converters": "OnlySpaghettiCode",
     "Category": "bgm",
     "Tags": [
@@ -26070,7 +26070,7 @@
   {
     "Game": "The Legend of Zelda: Spirit Tracks",
     "Song": "Fraaz",
-    "Composers": "T\u014dru Minegishi, Manaka Tominaga",
+    "Composers": "Tōru Minegishi, Manaka Tominaga",
     "Converters": "OnlySpaghettiCode",
     "Category": "bgm",
     "Tags": [
@@ -26085,7 +26085,7 @@
   {
     "Game": "The Legend of Zelda: Spirit Tracks",
     "Song": "Tower of Spirits (Dungeon)",
-    "Composers": "T\u014dru Minegishi, Manaka Tominaga",
+    "Composers": "Tōru Minegishi, Manaka Tominaga",
     "Converters": "OnlySpaghettiCode",
     "Category": "bgm",
     "Tags": [
@@ -26101,7 +26101,7 @@
   {
     "Game": "The Legend of Zelda: Spirit Tracks",
     "Song": "Cursed Overworld",
-    "Composers": "T\u014dru Minegishi, Manaka Tominaga",
+    "Composers": "Tōru Minegishi, Manaka Tominaga",
     "Converters": "OnlySpaghettiCode",
     "Category": "bgm",
     "Tags": [
@@ -26533,7 +26533,7 @@
     "Duration": 118.16672575000001
   },
   {
-    "Game": "Pok\u00e9mon Diamond, Pearl & Platinum",
+    "Game": "Pokémon Diamond, Pearl & Platinum",
     "Song": "Battle! Dialga Palkia",
     "Composers": "Junichi Masuda",
     "Converters": "UmedMuzl",
@@ -26544,7 +26544,7 @@
     "Verified": true,
     "Date": "Sat Aug 10 2024 21:00:39 GMT+0000 (Coordinated Universal Time)",
     "Audio": "https://www.youtube.com/watch?v=cCy2q-r0Lso",
-    "Binary": "binaries/Pok\u00e9mon Diamond, Pearl  Platinum/Battle Dialga Palkia (REV 1).bin",
+    "Binary": "binaries/Pokémon Diamond, Pearl  Platinum/Battle Dialga Palkia (REV 1).bin",
     "Duration": 154.1595680625
   },
   {
@@ -27006,7 +27006,7 @@
   {
     "Game": "Rhythm Heaven Fever",
     "Song": "See-Saw",
-    "Composers": "Tsunku\u2642",
+    "Composers": "Tsunku♂",
     "Converters": "iveli_alpaca",
     "Category": "bgm",
     "Audio": "https://youtu.be/5N5KzvALkr4",
@@ -27022,7 +27022,7 @@
   {
     "Game": "Rhythm Heaven Fever",
     "Song": "See-Saw (with Vocals)",
-    "Composers": "Tsunku\u2642",
+    "Composers": "Tsunku♂",
     "Converters": "iveli_alpaca",
     "Category": "bgm",
     "Audio": "https://www.youtube.com/watch?v=zCF6LQyuN08",
@@ -27037,7 +27037,7 @@
     "Duration": 97.95190361458334
   },
   {
-    "Game": "Pok\u00e9mon Gold, Silver & Crystal",
+    "Game": "Pokémon Gold, Silver & Crystal",
     "Song": "Goldenrod Game Corner (HGSS)",
     "Composers": "Go Ichinose",
     "Converters": "BashPrime",
@@ -27051,7 +27051,7 @@
     ],
     "Verified": true,
     "Date": "Tue Aug 20 2024 04:11:12 GMT+0000 (Coordinated Universal Time)",
-    "Binary": "binaries/Pok\u00e9mon Gold, Silver  Crystal/Goldenrod Game Corner (HGSS).bin",
+    "Binary": "binaries/Pokémon Gold, Silver  Crystal/Goldenrod Game Corner (HGSS).bin",
     "Duration": 82.17299474999999
   },
   {
@@ -27119,7 +27119,7 @@
     "Duration": 38.325
   },
   {
-    "Game": "Pok\u00e9mon Stadium 2",
+    "Game": "Pokémon Stadium 2",
     "Song": "Egg Emergency",
     "Composers": "Hajime Wakai",
     "Converters": "SirEnobMort",
@@ -27132,7 +27132,7 @@
     "Verified": true,
     "Date": "Wed Aug 21 2024 08:40:11 GMT+0000 (Coordinated Universal Time)",
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Pok%C3%A9mon%20Stadium%202/Egg%20Emergency%20(REV%201).mp3",
-    "Binary": "binaries/Pok\u00e9mon Stadium 2/Egg Emergency (REV 1).bin",
+    "Binary": "binaries/Pokémon Stadium 2/Egg Emergency (REV 1).bin",
     "Duration": 23.596298104166664
   },
   {
@@ -27245,7 +27245,7 @@
     "Duration": 36.111129166666665
   },
   {
-    "Game": "Pok\u00e9mon XD: Gale of Darkness",
+    "Game": "Pokémon XD: Gale of Darkness",
     "Song": "S.S. Libra",
     "Composers": "Tsukasa Tawada",
     "Converters": "LBFrank",
@@ -27258,7 +27258,7 @@
     "Verified": true,
     "Date": "Sat Aug 24 2024 21:31:42 GMT+0000 (Coordinated Universal Time)",
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Pok%C3%A9mon%20XD%20Gale%20of%20Darkness/SS%20Libra.mp3",
-    "Binary": "binaries/Pok\u00e9mon XD Gale of Darkness/SS Libra.bin",
+    "Binary": "binaries/Pokémon XD Gale of Darkness/SS Libra.bin",
     "Duration": 51.98379437500001,
     "pruned": true
   },
@@ -27314,7 +27314,7 @@
     "pruned": true
   },
   {
-    "Game": "Pok\u00e9mon Black & White",
+    "Game": "Pokémon Black & White",
     "Song": "Accumula Town",
     "Composers": "Shota Kageyama",
     "Converters": "OnlySpaghettiCode",
@@ -27327,7 +27327,7 @@
     "Verified": true,
     "Date": "Wed Aug 28 2024 00:48:52 GMT+0000 (Coordinated Universal Time)",
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Pok%C3%A9mon%20Black%20%20White/Accumula%20Town.mp3",
-    "Binary": "binaries/Pok\u00e9mon Black  White/Accumula Town.bin",
+    "Binary": "binaries/Pokémon Black  White/Accumula Town.bin",
     "Duration": 34.29127635416667
   },
   {
@@ -27412,7 +27412,7 @@
     "Duration": 67.83333333333333
   },
   {
-    "Game": "Pok\u00e9mon Colosseum",
+    "Game": "Pokémon Colosseum",
     "Song": "Cipher Admin Battle",
     "Composers": "Tsukasa Tawada",
     "Converters": "LBFrank",
@@ -27424,7 +27424,7 @@
     "Verified": true,
     "Date": "Sat Aug 31 2024 17:16:18 GMT+0000 (Coordinated Universal Time)",
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Pok%C3%A9mon%20Colosseum/Cipher%20Admin%20Battle%20(REV%201).mp3",
-    "Binary": "binaries/Pok\u00e9mon Colosseum/Cipher Admin Battle (REV 1).bin",
+    "Binary": "binaries/Pokémon Colosseum/Cipher Admin Battle (REV 1).bin",
     "Duration": 82.622904
   },
   {
@@ -27541,7 +27541,7 @@
     "Duration": 21.929002791666665
   },
   {
-    "Game": "Pok\u00e9mon Diamond, Pearl & Platinum",
+    "Game": "Pokémon Diamond, Pearl & Platinum",
     "Song": "Gym Leader Battle Music",
     "Composers": "Junichi Masuda",
     "Converters": "UmedMuzl",
@@ -27552,7 +27552,7 @@
     "Verified": true,
     "Date": "Thu Sep 05 2024 16:43:05 GMT+0000 (Coordinated Universal Time)",
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Pok%C3%A9mon%20Diamond,%20Pearl%20%20Platinum/Gym%20Leader%20Battle%20Music.mp3",
-    "Binary": "binaries/Pok\u00e9mon Diamond, Pearl  Platinum/Gym Leader Battle Music.bin",
+    "Binary": "binaries/Pokémon Diamond, Pearl  Platinum/Gym Leader Battle Music.bin",
     "Duration": 91.99990799999999
   },
   {
@@ -27573,7 +27573,7 @@
     "Duration": 264.02205740625004
   },
   {
-    "Game": "Pok\u00e9mon Colosseum",
+    "Game": "Pokémon Colosseum",
     "Song": "Team Snagem Battle",
     "Composers": "Tsukasa Tawada",
     "Converters": "iveli_alpaca",
@@ -27586,7 +27586,7 @@
     ],
     "Verified": true,
     "Date": "Thu Sep 05 2024 16:46:06 GMT+0000 (Coordinated Universal Time)",
-    "Binary": "binaries/Pok\u00e9mon Colosseum/Team Snagem Battle.bin",
+    "Binary": "binaries/Pokémon Colosseum/Team Snagem Battle.bin",
     "Duration": 49.26688298958334
   },
   {
@@ -27940,7 +27940,7 @@
       "Exteriors",
       "Happy"
     ],
-    "Additional Notes": "\u2468\uff0e\u30d0\u30ab",
+    "Additional Notes": "⑨．バカ",
     "Verified": true,
     "Date": "Mon Sep 09 2024 13:02:56 GMT+0000 (Coordinated Universal Time)",
     "Binary": "binaries/Touhou Koumakyou ~ The Embodiment of Scarlet Devil/Beloved Tomboyish Daughter.bin",
@@ -28188,7 +28188,7 @@
     "Duration": 2.46875
   },
   {
-    "Game": "Pok\u00e9mon Diamond, Pearl & Platinum",
+    "Game": "Pokémon Diamond, Pearl & Platinum",
     "Song": "Bicycle",
     "Composers": "Go Ichinose",
     "Converters": "nerosomething",
@@ -28200,7 +28200,7 @@
     "Verified": true,
     "Date": "Mon Sep 16 2024 18:52:25 GMT+0000 (Coordinated Universal Time)",
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Pok%C3%A9mon%20Diamond,%20Pearl%20%20Platinum/Bicycle.mp3",
-    "Binary": "binaries/Pok\u00e9mon Diamond, Pearl  Platinum/Bicycle.bin",
+    "Binary": "binaries/Pokémon Diamond, Pearl  Platinum/Bicycle.bin",
     "Duration": 70.50140185416666
   },
   {
@@ -28348,7 +28348,7 @@
     "Duration": 78.4
   },
   {
-    "Game": "Pok\u00e9mon Mystery Dungeon: Explorers of Sky",
+    "Game": "Pokémon Mystery Dungeon: Explorers of Sky",
     "Song": "Spinda's Cafe",
     "Composers": "Arata Iiyoshi",
     "Converters": "Altermentality",
@@ -28362,7 +28362,7 @@
     ],
     "Verified": true,
     "Date": "Mon Sep 23 2024 05:52:31 GMT+0000 (Coordinated Universal Time)",
-    "Binary": "binaries/Pok\u00e9mon Mystery Dungeon Explorers of Sky/Spindas Cafe.bin",
+    "Binary": "binaries/Pokémon Mystery Dungeon Explorers of Sky/Spindas Cafe.bin",
     "Duration": 84.5
   },
   {
@@ -28399,7 +28399,7 @@
     "Duration": 67.44316383333333
   },
   {
-    "Game": "Pok\u00e9mon X & Y",
+    "Game": "Pokémon X & Y",
     "Song": "Laverre City",
     "Category": "bgm",
     "Composers": "Shota Kageyama",
@@ -28412,12 +28412,12 @@
     "Verified": true,
     "Date": "Wed Sep 25 2024 19:38:17 GMT+0000 (Coordinated Universal Time)",
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Pok%C3%A9mon%20X%20%20Y/Laverre%20City.mp3",
-    "Binary": "binaries/Pok\u00e9mon X  Y/Laverre City.bin",
+    "Binary": "binaries/Pokémon X  Y/Laverre City.bin",
     "Duration": 62.99921875,
     "pruned": true
   },
   {
-    "Game": "Pok\u00e9mon XD: Gale of Darkness",
+    "Game": "Pokémon XD: Gale of Darkness",
     "Song": "S.S. Libra",
     "Composers": "Tsukasa Tawada",
     "Converters": "LBFrank",
@@ -28431,7 +28431,7 @@
     "Verified": true,
     "Date": "Thu Sep 26 2024 23:33:09 GMT+0000 (Coordinated Universal Time)",
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Pok%C3%A9mon%20XD%20Gale%20of%20Darkness/SS%20Libra%20(REV%201).mp3",
-    "Binary": "binaries/Pok\u00e9mon XD Gale of Darkness/SS Libra (REV 1).bin",
+    "Binary": "binaries/Pokémon XD Gale of Darkness/SS Libra (REV 1).bin",
     "Duration": 52.14385587500001
   },
   {
@@ -28825,7 +28825,7 @@
   {
     "Game": "The Legend of Zelda: Twilight Princess",
     "Song": "Hidden Village",
-    "Composers": "T\u014dru Minegishi",
+    "Composers": "Tōru Minegishi",
     "Converters": "Zion Jaymes",
     "Category": "bgm",
     "Additional Notes": "DK64 doesn't even have guitar... Or a jaw harp. I wanted to die",
@@ -28937,7 +28937,7 @@
     "Duration": 65.91489675
   },
   {
-    "Game": "Pok\u00e9mon Snap",
+    "Game": "Pokémon Snap",
     "Song": "Cave",
     "Composers": "Ikuko Mimori",
     "Converters": "Altermentality",
@@ -28949,7 +28949,7 @@
     ],
     "Verified": true,
     "Date": "Fri Oct 18 2024 00:08:37 GMT+0000 (Coordinated Universal Time)",
-    "Binary": "binaries/Pok\u00e9mon Snap/Cave.bin",
+    "Binary": "binaries/Pokémon Snap/Cave.bin",
     "Duration": 56.67154029166667
   },
   {
@@ -28970,7 +28970,7 @@
     "Duration": 150.98958333333334
   },
   {
-    "Game": "Pok\u00e9mon Snap",
+    "Game": "Pokémon Snap",
     "Song": "Professor Oak's Lab",
     "Composers": "Ikuko Mimori",
     "Converters": "Altermentality",
@@ -28982,7 +28982,7 @@
     ],
     "Verified": true,
     "Date": "Fri Oct 18 2024 11:46:35 GMT+0000 (Coordinated Universal Time)",
-    "Binary": "binaries/Pok\u00e9mon Snap/Professor Oaks Lab.bin",
+    "Binary": "binaries/Pokémon Snap/Professor Oaks Lab.bin",
     "Duration": 33.79380895833333
   },
   {
@@ -29411,7 +29411,7 @@
     "Duration": 129.24683364583333
   },
   {
-    "Game": "Pok\u00e9mon Snap",
+    "Game": "Pokémon Snap",
     "Song": "Beach",
     "Composers": "Ikuko Mimori",
     "Converters": "Altermentality",
@@ -29423,7 +29423,7 @@
     ],
     "Verified": true,
     "Date": "Wed Oct 30 2024 22:39:18 GMT+0000 (Coordinated Universal Time)",
-    "Binary": "binaries/Pok\u00e9mon Snap/Beach.bin",
+    "Binary": "binaries/Pokémon Snap/Beach.bin",
     "Duration": 70.00520833333333
   },
   {
@@ -29462,7 +29462,7 @@
   {
     "Game": "The Legend of Zelda: Twilight Princess",
     "Song": "Ordon Village",
-    "Composers": "T\u014dru Minegishi",
+    "Composers": "Tōru Minegishi",
     "Converters": "OnlySpaghettiCode",
     "Category": "bgm",
     "Tags": [
@@ -29511,7 +29511,7 @@
   {
     "Game": "The Legend of Zelda: Twilight Princess",
     "Song": "Kakariko Village",
-    "Composers": "Koji Kondo, T\u014dru Minegishi",
+    "Composers": "Koji Kondo, Tōru Minegishi",
     "Converters": "OnlySpaghettiCode",
     "Category": "bgm",
     "Tags": [
@@ -29677,7 +29677,7 @@
   {
     "Game": "The Legend of Zelda: Twilight Princess",
     "Song": "Fishing Hole",
-    "Composers": "T\u014dru Minegishi, Asuka Hayazaki",
+    "Composers": "Tōru Minegishi, Asuka Hayazaki",
     "Converters": "OnlySpaghettiCode",
     "Category": "bgm",
     "Tags": [
@@ -29725,7 +29725,7 @@
   {
     "Game": "The Legend of Zelda: Twilight Princess",
     "Song": "Ooccoo's Theme",
-    "Composers": "T\u014dru Minegishi, Asuka Hayazaki",
+    "Composers": "Tōru Minegishi, Asuka Hayazaki",
     "Converters": "OnlySpaghettiCode",
     "Category": "bgm",
     "Tags": [
@@ -29837,9 +29837,9 @@
     "Duration": 5.5681762500000005
   },
   {
-    "Game": "Pok\u00e9mon Stadium",
+    "Game": "Pokémon Stadium",
     "Song": "Clefairy Says (Finger Pointing)",
-    "Composers": "Hajime Wakai, Kenta Nagata, T\u014dru Minegishi",
+    "Composers": "Hajime Wakai, Kenta Nagata, Tōru Minegishi",
     "Converters": "SirEnobMort",
     "Category": "events",
     "Update Notes": "Changed the song title: (Right Version) -> (Finger Pointing), slight instrument adjustments made, volume rebalance.",
@@ -29851,13 +29851,13 @@
     "Verified": true,
     "Date": "Tue Nov 05 2024 06:54:14 GMT+0000 (Coordinated Universal Time)",
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Pok%C3%A9mon%20Stadium/Clefairy%20Says%20(Finger%20Pointing)%20(REV%202).mp3",
-    "Binary": "binaries/Pok\u00e9mon Stadium/Clefairy Says (Finger Pointing) (REV 2).bin",
+    "Binary": "binaries/Pokémon Stadium/Clefairy Says (Finger Pointing) (REV 2).bin",
     "Duration": 8.4
   },
   {
-    "Game": "Pok\u00e9mon Stadium",
+    "Game": "Pokémon Stadium",
     "Song": "End Battle!",
-    "Composers": "Hajime Wakai, Kenta Nagata, T\u014dru Minegishi",
+    "Composers": "Hajime Wakai, Kenta Nagata, Tōru Minegishi",
     "Converters": "SirEnobMort",
     "Category": "events",
     "Update Notes": "New title: \"Battle End\" -> \"End Battle!\", new announcer vox! + audio rebalance",
@@ -29868,7 +29868,7 @@
     "Verified": true,
     "Date": "Tue Nov 05 2024 08:46:54 GMT+0000 (Coordinated Universal Time)",
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Pok%C3%A9mon%20Stadium/End%20Battle%20(REV%202).mp3",
-    "Binary": "binaries/Pok\u00e9mon Stadium/End Battle (REV 2).bin",
+    "Binary": "binaries/Pokémon Stadium/End Battle (REV 2).bin",
     "Duration": 5.9198914062500005
   },
   {
@@ -29890,9 +29890,9 @@
     "pruned": true
   },
   {
-    "Game": "Pok\u00e9mon Stadium",
+    "Game": "Pokémon Stadium",
     "Song": "VS Won",
-    "Composers": "Hajime Wakai, Kenta Nagata, T\u014dru Minegishi",
+    "Composers": "Hajime Wakai, Kenta Nagata, Tōru Minegishi",
     "Converters": "SirEnobMort",
     "Category": "events",
     "Tags": [
@@ -29904,7 +29904,7 @@
     "Verified": true,
     "Date": "Tue Nov 05 2024 22:57:15 GMT+0000 (Coordinated Universal Time)",
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Pok%C3%A9mon%20Stadium/VS%20Won%20(REV%202).mp3",
-    "Binary": "binaries/Pok\u00e9mon Stadium/VS Won (REV 2).bin",
+    "Binary": "binaries/Pokémon Stadium/VS Won (REV 2).bin",
     "Duration": 7.11533353125
   },
   {
@@ -29924,7 +29924,7 @@
     "Duration": 135.6498
   },
   {
-    "Game": "Pok\u00e9mon Diamond, Pearl & Platinum",
+    "Game": "Pokémon Diamond, Pearl & Platinum",
     "Song": "Obtained a Badge!",
     "Composers": "Junichi Masuda, Go Ichinose",
     "Converters": "UmedMuzl",
@@ -29935,13 +29935,13 @@
     "Verified": true,
     "Date": "Wed Nov 06 2024 00:13:44 GMT+0000 (Coordinated Universal Time)",
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Pok%C3%A9mon%20Diamond,%20Pearl%20%20Platinum/Obtained%20a%20Badge.mp3",
-    "Binary": "binaries/Pok\u00e9mon Diamond, Pearl  Platinum/Obtained a Badge.bin",
+    "Binary": "binaries/Pokémon Diamond, Pearl  Platinum/Obtained a Badge.bin",
     "Duration": 4.7829899375
   },
   {
-    "Game": "Pok\u00e9mon Diamond, Pearl & Platinum",
+    "Game": "Pokémon Diamond, Pearl & Platinum",
     "Song": "Wi-Fi Plaza: Parade",
-    "Composers": "Hitomi Sat\u014d",
+    "Composers": "Hitomi Satō",
     "Converters": "UmedMuzl",
     "Category": "bgm",
     "Tags": [
@@ -29951,11 +29951,11 @@
     "Verified": true,
     "Date": "Wed Nov 06 2024 07:41:27 GMT+0000 (Coordinated Universal Time)",
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Pok%C3%A9mon%20Diamond,%20Pearl%20%20Platinum/Wi-Fi%20Plaza%20Parade.mp3",
-    "Binary": "binaries/Pok\u00e9mon Diamond, Pearl  Platinum/Wi-Fi Plaza Parade.bin",
+    "Binary": "binaries/Pokémon Diamond, Pearl  Platinum/Wi-Fi Plaza Parade.bin",
     "Duration": 55.3046875
   },
   {
-    "Game": "Pok\u00e9mon Stadium 2",
+    "Game": "Pokémon Stadium 2",
     "Song": "Clear!",
     "Composers": "Hajime Wakai",
     "Converters": "SirEnobMort",
@@ -29968,13 +29968,13 @@
     "Verified": true,
     "Date": "Wed Nov 06 2024 20:19:34 GMT+0000 (Coordinated Universal Time)",
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Pok%C3%A9mon%20Stadium%202/Clear%20(REV%202).mp3",
-    "Binary": "binaries/Pok\u00e9mon Stadium 2/Clear (REV 2).bin",
+    "Binary": "binaries/Pokémon Stadium 2/Clear (REV 2).bin",
     "Duration": 2.7824046250000003
   },
   {
-    "Game": "Pok\u00e9mon Stadium",
+    "Game": "Pokémon Stadium",
     "Song": "VS Intro (Short)",
-    "Composers": "Hajime Wakai, Kenta Nagata, T\u014dru Minegishi",
+    "Composers": "Hajime Wakai, Kenta Nagata, Tōru Minegishi",
     "Converters": "SirEnobMort",
     "Category": "events",
     "Update Notes": "Volume Rebalance",
@@ -29986,13 +29986,13 @@
     "Verified": true,
     "Date": "Wed Nov 06 2024 20:22:14 GMT+0000 (Coordinated Universal Time)",
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Pok%C3%A9mon%20Stadium/VS%20Intro%20(Short)%20(REV%203).mp3",
-    "Binary": "binaries/Pok\u00e9mon Stadium/VS Intro (Short) (REV 3).bin",
+    "Binary": "binaries/Pokémon Stadium/VS Intro (Short) (REV 3).bin",
     "Duration": 5.044011562500001
   },
   {
-    "Game": "Pok\u00e9mon Stadium",
+    "Game": "Pokémon Stadium",
     "Song": "VS Intro",
-    "Composers": "Hajime Wakai, Kenta Nagata, T\u014dru Minegishi",
+    "Composers": "Hajime Wakai, Kenta Nagata, Tōru Minegishi",
     "Converters": "SirEnobMort",
     "Category": "events",
     "Update Notes": "Volume Rebalance",
@@ -30003,13 +30003,13 @@
     "Verified": true,
     "Date": "Wed Nov 06 2024 20:22:14 GMT+0000 (Coordinated Universal Time)",
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Pok%C3%A9mon%20Stadium/VS%20Intro%20(REV%204).mp3",
-    "Binary": "binaries/Pok\u00e9mon Stadium/VS Intro (REV 4).bin",
+    "Binary": "binaries/Pokémon Stadium/VS Intro (REV 4).bin",
     "Duration": 7.658446875000001
   },
   {
-    "Game": "Pok\u00e9mon Stadium",
-    "Song": "Pok\u00e9mon Present Revealed",
-    "Composers": "Hajime Wakai, Kenta Nagata, T\u014dru Minegishi",
+    "Game": "Pokémon Stadium",
+    "Song": "Pokémon Present Revealed",
+    "Composers": "Hajime Wakai, Kenta Nagata, Tōru Minegishi",
     "Converters": "SirEnobMort",
     "Category": "majoritems",
     "Update Notes": "Volume Rebalance",
@@ -30020,13 +30020,13 @@
     "Verified": true,
     "Date": "Wed Nov 06 2024 20:22:15 GMT+0000 (Coordinated Universal Time)",
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Pok%C3%A9mon%20Stadium/Pok%C3%A9mon%20Present%20Revealed%20(REV%202).mp3",
-    "Binary": "binaries/Pok\u00e9mon Stadium/Pok\u00e9mon Present Revealed (REV 2).bin",
+    "Binary": "binaries/Pokémon Stadium/Pokémon Present Revealed (REV 2).bin",
     "Duration": 4.3124956875
   },
   {
-    "Game": "Pok\u00e9mon Stadium",
+    "Game": "Pokémon Stadium",
     "Song": "Mini-Game End",
-    "Composers": "Hajime Wakai, Kenta Nagata, T\u014dru Minegishi",
+    "Composers": "Hajime Wakai, Kenta Nagata, Tōru Minegishi",
     "Converters": "SirEnobMort",
     "Category": "events",
     "Update Notes": "Volume Rebalance",
@@ -30036,13 +30036,13 @@
     "Verified": true,
     "Date": "Wed Nov 06 2024 20:22:16 GMT+0000 (Coordinated Universal Time)",
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Pok%C3%A9mon%20Stadium/Mini-Game%20End%20(REV%202).mp3",
-    "Binary": "binaries/Pok\u00e9mon Stadium/Mini-Game End (REV 2).bin",
+    "Binary": "binaries/Pokémon Stadium/Mini-Game End (REV 2).bin",
     "Duration": 2.791663875
   },
   {
-    "Game": "Pok\u00e9mon Stadium",
+    "Game": "Pokémon Stadium",
     "Song": "Gym Leader Castle: Stage Clear",
-    "Composers": "Hajime Wakai, Kenta Nagata, T\u014dru Minegishi",
+    "Composers": "Hajime Wakai, Kenta Nagata, Tōru Minegishi",
     "Converters": "SirEnobMort",
     "Category": "events",
     "Update Notes": "Volume Rebalance",
@@ -30052,7 +30052,7 @@
     "Verified": true,
     "Date": "Wed Nov 06 2024 20:22:17 GMT+0000 (Coordinated Universal Time)",
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Pok%C3%A9mon%20Stadium/Gym%20Leader%20Castle%20Stage%20Clear%20(REV%203).mp3",
-    "Binary": "binaries/Pok\u00e9mon Stadium/Gym Leader Castle Stage Clear (REV 3).bin",
+    "Binary": "binaries/Pokémon Stadium/Gym Leader Castle Stage Clear (REV 3).bin",
     "Duration": 2.3491407499999997
   },
   {
@@ -30376,7 +30376,7 @@
   },
   {
     "Game": "Touhou Hisouten ~ Scarlet Weather Rhapsody",
-    "Song": "Catastrophe in Bhav\u00e2gra ~ Wonderful Heaven",
+    "Song": "Catastrophe in Bhavâgra ~ Wonderful Heaven",
     "Category": "bgm",
     "Composers": "ZUN",
     "Converters": "Schwartz Gandhi",
@@ -30387,7 +30387,7 @@
     "Verified": true,
     "Date": "Fri Nov 15 2024 22:59:56 GMT+0000 (Coordinated Universal Time)",
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Touhou%20Hisouten%20~%20Scarlet%20Weather%20Rhapsody/Catastrophe%20in%20Bhav%C3%A2gra%20~%20Wonderful%20Heaven.mp3",
-    "Binary": "binaries/Touhou Hisouten ~ Scarlet Weather Rhapsody/Catastrophe in Bhav\u00e2gra ~ Wonderful Heaven.bin",
+    "Binary": "binaries/Touhou Hisouten ~ Scarlet Weather Rhapsody/Catastrophe in Bhavâgra ~ Wonderful Heaven.bin",
     "Duration": 118.32082
   },
   {
@@ -30489,7 +30489,7 @@
     "Duration": 3.59875
   },
   {
-    "Game": "Pok\u00e9mon X & Y",
+    "Game": "Pokémon X & Y",
     "Song": "Laverre City",
     "Category": "bgm",
     "Composers": "Shota Kageyama",
@@ -30503,7 +30503,7 @@
     "Verified": true,
     "Date": "Thu Nov 21 2024 12:45:36 GMT+0000 (Coordinated Universal Time)",
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Pok%C3%A9mon%20X%20%20Y/Laverre%20City%20(REV%201).mp3",
-    "Binary": "binaries/Pok\u00e9mon X  Y/Laverre City (REV 1).bin",
+    "Binary": "binaries/Pokémon X  Y/Laverre City (REV 1).bin",
     "Duration": 62.99921875
   },
   {
@@ -30572,7 +30572,7 @@
   {
     "Game": "Rayman 2: The Great Escape",
     "Song": "The Hall Of Doors",
-    "Composers": "\u00c9ric Chevalier",
+    "Composers": "Éric Chevalier",
     "Converters": "Manic Bestia",
     "Category": "bgm",
     "Tags": [
@@ -30719,7 +30719,7 @@
   {
     "Game": "Rayman 2: The Great Escape",
     "Song": "The Precipice - The Great Escape",
-    "Composers": "\u00c9ric Chevalier",
+    "Composers": "Éric Chevalier",
     "Converters": "Manic Bestia",
     "Category": "bgm",
     "Tags": [
@@ -30767,7 +30767,7 @@
   {
     "Game": "Rayman 2: The Great Escape",
     "Song": "The Cave of Bad Dreams - Post Mortem",
-    "Composers": "\u00c9ric Chevalier",
+    "Composers": "Éric Chevalier",
     "Converters": "Manic Bestia",
     "Category": "bgm",
     "Tags": [
@@ -30851,7 +30851,7 @@
   {
     "Game": "Rayman 2: The Great Escape",
     "Song": "Ly The Fairy",
-    "Composers": "\u00c9ric Chevalier",
+    "Composers": "Éric Chevalier",
     "Converters": "Manic Bestia",
     "Category": "bgm",
     "Tags": [
@@ -30932,7 +30932,7 @@
   {
     "Game": "Rayman 2: The Great Escape",
     "Song": "The Pirate Mines Free!",
-    "Composers": "\u00c9ric Chevalier",
+    "Composers": "Éric Chevalier",
     "Converters": "Manic Bestia",
     "Category": "bgm",
     "Tags": [
@@ -31181,7 +31181,7 @@
   {
     "Game": "Rayman 2: The Great Escape",
     "Song": "Try Again!",
-    "Composers": "\u00c9ric Chevalier",
+    "Composers": "Éric Chevalier",
     "Converters": "Manic Bestia",
     "Category": "events",
     "Tags": [
@@ -31216,7 +31216,7 @@
   {
     "Game": "Rayman 2: The Great Escape",
     "Song": "(The Fairy Glade) Beginning",
-    "Composers": "\u00c9ric Chevalier",
+    "Composers": "Éric Chevalier",
     "Converters": "Manic Bestia",
     "Category": "bgm",
     "Tags": [
@@ -31449,20 +31449,20 @@
     "Duration": 31.5061296875
   },
   {
-    "Game": "Pok\u00e9mon Gold, Silver & Crystal",
+    "Game": "Pokémon Gold, Silver & Crystal",
     "Song": "Dark Cave (Kirkhope Style)",
     "Composers": "Junichi Masuda",
     "Converters": "BashPrime",
     "Category": "bgm",
     "Audio": "https://www.youtube.com/watch?v=FGIMwCXfDZo",
-    "Additional Notes": "Based on the Dark Cave MIDI arrangement by Jo\u00e3o \"Johnnyz\" Buaes",
+    "Additional Notes": "Based on the Dark Cave MIDI arrangement by João \"Johnnyz\" Buaes",
     "Tags": [
       "Interiors",
       "Gloomy"
     ],
     "Verified": true,
     "Date": "Wed Dec 11 2024 23:36:55 GMT+0000 (Coordinated Universal Time)",
-    "Binary": "binaries/Pok\u00e9mon Gold, Silver  Crystal/Dark Cave (Kirkhope Style).bin",
+    "Binary": "binaries/Pokémon Gold, Silver  Crystal/Dark Cave (Kirkhope Style).bin",
     "Duration": 130.0390625
   },
   {
@@ -31562,9 +31562,9 @@
     "Duration": 61.77407
   },
   {
-    "Game": "Pok\u00e9mon Diamond, Pearl & Platinum",
+    "Game": "Pokémon Diamond, Pearl & Platinum",
     "Song": "Route 201",
-    "Composers": "Hitomi Sat\u014d",
+    "Composers": "Hitomi Satō",
     "Converters": "UmedMuzl",
     "Category": "bgm",
     "Update Notes": "Better mixing",
@@ -31575,7 +31575,7 @@
     "Verified": true,
     "Date": "Sat Dec 14 2024 03:26:34 GMT+0000 (Coordinated Universal Time)",
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Pok%C3%A9mon%20Diamond,%20Pearl%20%20Platinum/Route%20201%20(REV%201).mp3",
-    "Binary": "binaries/Pok\u00e9mon Diamond, Pearl  Platinum/Route 201 (REV 1).bin",
+    "Binary": "binaries/Pokémon Diamond, Pearl  Platinum/Route 201 (REV 1).bin",
     "Duration": 30.239583333333332
   },
   {
@@ -31613,10 +31613,10 @@
     "Duration": 30.642736624999998
   },
   {
-    "Game": "Pok\u00e9mon Diamond, Pearl & Platinum",
+    "Game": "Pokémon Diamond, Pearl & Platinum",
     "Song": "Eterna Forest",
     "Category": "bgm",
-    "Composers": "Hitomi Sat\u014d",
+    "Composers": "Hitomi Satō",
     "Converters": "Schwartz Gandhi",
     "Tags": [
       "Exteriors",
@@ -31626,7 +31626,7 @@
     "Verified": true,
     "Date": "Sat Dec 14 2024 05:35:13 GMT+0000 (Coordinated Universal Time)",
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Pok%C3%A9mon%20Diamond,%20Pearl%20%20Platinum/Eterna%20Forest%20(REV%201).mp3",
-    "Binary": "binaries/Pok\u00e9mon Diamond, Pearl  Platinum/Eterna Forest (REV 1).bin",
+    "Binary": "binaries/Pokémon Diamond, Pearl  Platinum/Eterna Forest (REV 1).bin",
     "Duration": 75.78128031249999
   },
   {
@@ -31729,10 +31729,10 @@
     "Duration": 69.56437420208334
   },
   {
-    "Game": "Pok\u00e9mon Diamond, Pearl & Platinum",
+    "Game": "Pokémon Diamond, Pearl & Platinum",
     "Song": "Jubilife City (Night)",
     "Category": "bgm",
-    "Composers": "Hitomi Sat\u014d",
+    "Composers": "Hitomi Satō",
     "Converters": "Schwartz Gandhi",
     "Tags": [
       "Lobbies and Shops",
@@ -31743,7 +31743,7 @@
     "Verified": true,
     "Date": "Sat Dec 14 2024 20:34:55 GMT+0000 (Coordinated Universal Time)",
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Pok%C3%A9mon%20Diamond,%20Pearl%20%20Platinum/Jubilife%20City%20(Night)%20(REV%201).mp3",
-    "Binary": "binaries/Pok\u00e9mon Diamond, Pearl  Platinum/Jubilife City (Night) (REV 1).bin",
+    "Binary": "binaries/Pokémon Diamond, Pearl  Platinum/Jubilife City (Night) (REV 1).bin",
     "Duration": 45.54742399999999
   },
   {
@@ -32039,7 +32039,7 @@
     "Duration": 104.34538841666665
   },
   {
-    "Game": "Pok\u00e9mon Red, Blue & Yellow",
+    "Game": "Pokémon Red, Blue & Yellow",
     "Song": "Pokemon Trainer Battle",
     "Composers": "Junichi Masuda",
     "Converters": "Bismuth",
@@ -32051,7 +32051,7 @@
     "Verified": true,
     "Date": "Sun Dec 15 2024 08:15:59 GMT+0000 (Coordinated Universal Time)",
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Pok%C3%A9mon%20Red,%20Blue%20%20Yellow/Pokemon%20Trainer%20Battle%20(REV%202).mp3",
-    "Binary": "binaries/Pok\u00e9mon Red, Blue  Yellow/Pokemon Trainer Battle (REV 2).bin",
+    "Binary": "binaries/Pokémon Red, Blue  Yellow/Pokemon Trainer Battle (REV 2).bin",
     "Duration": 91.99990799999999
   },
   {
@@ -32107,7 +32107,7 @@
   {
     "Game": "Rhythm Heaven Fever",
     "Song": "Ringside",
-    "Composers": "Tsunku\u2642, Masami Yone, Shinji Ushiroda, Asuka Ito",
+    "Composers": "Tsunku♂, Masami Yone, Shinji Ushiroda, Asuka Ito",
     "Converters": "Cash Money",
     "Category": "bgm",
     "Update Notes": "Rebalanced volume, lowered brass & vocals, fixed out of range notes",
@@ -32124,7 +32124,7 @@
   {
     "Game": "Rhythm Heaven Fever",
     "Song": "Ringside (Instrumental)",
-    "Composers": "Tsunku\u2642, Masami Yone, Shinji Ushiroda, Asuka Ito",
+    "Composers": "Tsunku♂, Masami Yone, Shinji Ushiroda, Asuka Ito",
     "Converters": "Cash Money",
     "Category": "bgm",
     "Update Notes": "Rebalanced volume, lowered brass, fixed out of range notes",
@@ -32586,7 +32586,7 @@
     "Game": "Rhythm Heaven",
     "Song": "Remix Jingle",
     "Category": "events",
-    "Composers": "Tsunku\u2642\ufe0f",
+    "Composers": "Tsunku♂️",
     "Converters": "Schwartz Gandhi",
     "Tags": [
       "Spawning",
@@ -33745,7 +33745,7 @@
     "Duration": 77.99609375
   },
   {
-    "Game": "Pok\u00e9mon Diamond, Pearl & Platinum",
+    "Game": "Pokémon Diamond, Pearl & Platinum",
     "Song": "Champion Cynthia",
     "Composers": "Go Ichinose",
     "Converters": "BashPrime",
@@ -33759,7 +33759,7 @@
     "Verified": true,
     "Date": "Fri Dec 20 2024 19:58:22 GMT+0000 (Coordinated Universal Time)",
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Pok%C3%A9mon%20Diamond,%20Pearl%20%20Platinum/Champion%20Cynthia.mp3",
-    "Binary": "binaries/Pok\u00e9mon Diamond, Pearl  Platinum/Champion Cynthia.bin",
+    "Binary": "binaries/Pokémon Diamond, Pearl  Platinum/Champion Cynthia.bin",
     "Duration": 40.414644375
   },
   {
@@ -33813,9 +33813,9 @@
     "Duration": 43.693138125000004
   },
   {
-    "Game": "Pok\u00e9mon Diamond, Pearl & Platinum",
-    "Song": "Pok\u00e9mon Center (Night)",
-    "Composers": "Hitomi Sat\u014d",
+    "Game": "Pokémon Diamond, Pearl & Platinum",
+    "Song": "Pokémon Center (Night)",
+    "Composers": "Hitomi Satō",
     "Converters": "BashPrime",
     "Category": "bgm",
     "Audio": "https://www.youtube.com/watch?v=Vm3XjxVDfaA",
@@ -33827,7 +33827,7 @@
     ],
     "Verified": true,
     "Date": "Sun Dec 22 2024 00:57:10 GMT+0000 (Coordinated Universal Time)",
-    "Binary": "binaries/Pok\u00e9mon Diamond, Pearl  Platinum/Pokemon Center (Night).bin",
+    "Binary": "binaries/Pokémon Diamond, Pearl  Platinum/Pokemon Center (Night).bin",
     "Duration": 82.43692227083334
   },
   {
@@ -33847,7 +33847,7 @@
     "Duration": 68.54067715625001
   },
   {
-    "Game": "Pok\u00e9mon Ruby, Sapphire & Emerald",
+    "Game": "Pokémon Ruby, Sapphire & Emerald",
     "Song": "Battle! (Elite Four)",
     "Composers": "Junichi Masuda",
     "Converters": "BashPrime",
@@ -33860,7 +33860,7 @@
     ],
     "Verified": true,
     "Date": "Mon Dec 23 2024 01:38:44 GMT+0000 (Coordinated Universal Time)",
-    "Binary": "binaries/Pok\u00e9mon Ruby, Sapphire  Emerald/Battle (Elite Four).bin",
+    "Binary": "binaries/Pokémon Ruby, Sapphire  Emerald/Battle (Elite Four).bin",
     "Duration": 61.69980337500001
   },
   {
@@ -33896,7 +33896,7 @@
     "Duration": 21.6420238125
   },
   {
-    "Game": "Pok\u00e9mon Diamond, Pearl & Platinum",
+    "Game": "Pokémon Diamond, Pearl & Platinum",
     "Song": "The Grand Underground",
     "Composers": "Go Ichinose",
     "Converters": "UmedMuzl",
@@ -33908,7 +33908,7 @@
     "Verified": true,
     "Date": "Tue Dec 24 2024 22:12:09 GMT+0000 (Coordinated Universal Time)",
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Pok%C3%A9mon%20Diamond,%20Pearl%20%20Platinum/The%20Grand%20Underground.mp3",
-    "Binary": "binaries/Pok\u00e9mon Diamond, Pearl  Platinum/The Grand Underground.bin",
+    "Binary": "binaries/Pokémon Diamond, Pearl  Platinum/The Grand Underground.bin",
     "Duration": 77.73958333333333
   },
   {
@@ -34688,7 +34688,7 @@
     "Converters": "Altermentality",
     "Category": "bgm",
     "Audio": "https://youtu.be/-NvI6MrOYh4",
-    "Update Notes": "\ud83c\udf4b",
+    "Update Notes": "🍋",
     "Tags": [
       "Lobbies and Shops",
       "Gloomy"
@@ -35239,7 +35239,7 @@
   {
     "Game": "Picross DS",
     "Song": "Waltz",
-    "Composers": "Nobuhiro \u014cuchi, Masashi Sugiyama, Ayako Yamaguchi",
+    "Composers": "Nobuhiro Ōuchi, Masashi Sugiyama, Ayako Yamaguchi",
     "Converters": "UmedMuzl",
     "Category": "bgm",
     "Tags": [
@@ -35433,7 +35433,7 @@
     "Duration": 160.52337843749999
   },
   {
-    "Game": "Pok\u00e9mon Black & White",
+    "Game": "Pokémon Black & White",
     "Song": "White Forest",
     "Composers": "Shota Kageyama",
     "Converters": "AquaPhoenix",
@@ -35445,7 +35445,7 @@
     "Verified": true,
     "Date": "Wed Jan 22 2025 09:41:11 GMT+0000 (Coordinated Universal Time)",
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Pok%C3%A9mon%20Black%20%20White/White%20Forest.mp3",
-    "Binary": "binaries/Pok\u00e9mon Black  White/White Forest.bin",
+    "Binary": "binaries/Pokémon Black  White/White Forest.bin",
     "Duration": 42.00390625
   },
   {
@@ -36086,7 +36086,7 @@
     "Duration": 34.284123083333334
   },
   {
-    "Game": "Pok\u00e9mon Mystery Dungeon: Explorers of Sky",
+    "Game": "Pokémon Mystery Dungeon: Explorers of Sky",
     "Song": "Spinda's Cafe",
     "Composers": "Arata Iiyoshi",
     "Converters": "Altermentality",
@@ -36101,7 +36101,7 @@
     ],
     "Verified": true,
     "Date": "Sun Feb 09 2025 21:11:02 GMT+0000 (Coordinated Universal Time)",
-    "Binary": "binaries/Pok\u00e9mon Mystery Dungeon Explorers of Sky/Spindas Cafe (REV 1).bin",
+    "Binary": "binaries/Pokémon Mystery Dungeon Explorers of Sky/Spindas Cafe (REV 1).bin",
     "Duration": 84
   },
   {
@@ -36545,7 +36545,7 @@
     "Duration": 48
   },
   {
-    "Game": "Pok\u00e9mon Stadium 2",
+    "Game": "Pokémon Stadium 2",
     "Song": "Challenge Cup Final Battle 2",
     "Composers": "Hajime Wakai",
     "Converters": "LBFrank",
@@ -36557,7 +36557,7 @@
     "Verified": true,
     "Date": "Sat Feb 15 2025 01:42:42 GMT+0000 (Coordinated Universal Time)",
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Pok%C3%A9mon%20Stadium%202/Challenge%20Cup%20Final%20Battle%202.mp3",
-    "Binary": "binaries/Pok\u00e9mon Stadium 2/Challenge Cup Final Battle 2.bin",
+    "Binary": "binaries/Pokémon Stadium 2/Challenge Cup Final Battle 2.bin",
     "Duration": 76.956414,
     "pruned": true
   },
@@ -36629,7 +36629,7 @@
     "Composers": "Kazumi Totaka",
     "Converters": "SirEnobMort",
     "Category": "bgm",
-    "Update Notes": "\ud83c\udf4a\ud83c\udf48\u2764\ufe0f\ud83c\udf47\ud83c\udf4d",
+    "Update Notes": "🍊🍈❤️🍇🍍",
     "Tags": [
       "Interiors",
       "Exteriors",
@@ -36642,7 +36642,7 @@
     "Duration": 214.2262749166666
   },
   {
-    "Game": "Pok\u00e9mon Stadium 2",
+    "Game": "Pokémon Stadium 2",
     "Song": "Team Rocket Battle",
     "Composers": "Hajime Wakai",
     "Converters": "LBFrank",
@@ -36655,7 +36655,7 @@
     "Verified": true,
     "Date": "Mon Feb 17 2025 22:32:36 GMT+0000 (Coordinated Universal Time)",
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Pok%C3%A9mon%20Stadium%202/Team%20Rocket%20Battle.mp3",
-    "Binary": "binaries/Pok\u00e9mon Stadium 2/Team Rocket Battle.bin",
+    "Binary": "binaries/Pokémon Stadium 2/Team Rocket Battle.bin",
     "Duration": 74.48274
   },
   {
@@ -37320,8 +37320,8 @@
     "Duration": 63.69705168749999
   },
   {
-    "Game": "Pok\u00e9mon Snap",
-    "Song": "Pok\u00e9mon Album",
+    "Game": "Pokémon Snap",
+    "Song": "Pokémon Album",
     "Composers": "Ikuko Mimori",
     "Converters": "Altermentality",
     "Category": "bgm",
@@ -37332,7 +37332,7 @@
     ],
     "Verified": true,
     "Date": "Sun Mar 09 2025 15:45:49 GMT+0000 (Coordinated Universal Time)",
-    "Binary": "binaries/Pok\u00e9mon Snap/Pok\u00e9mon Album.bin",
+    "Binary": "binaries/Pokémon Snap/Pokémon Album.bin",
     "Duration": 40.13020833333333
   },
   {
@@ -37393,7 +37393,7 @@
     "Composers": "Yasunori Mitsuda",
     "Converters": "SirEnobMort",
     "Category": "bgm",
-    "Update Notes": "Cleaned up the voice work, new laugh at beginning, added reverb, more YEAH \ud83d\ude0e",
+    "Update Notes": "Cleaned up the voice work, new laugh at beginning, added reverb, more YEAH 😎",
     "Tags": [
       "Lobbies and Shops",
       "Gloomy",
@@ -37406,7 +37406,7 @@
     "Duration": 22.666678
   },
   {
-    "Game": "Pok\u00e9mon Snap",
+    "Game": "Pokémon Snap",
     "Song": "Out of Film!",
     "Composers": "Ikuko Mimori",
     "Converters": "Altermentality",
@@ -37419,7 +37419,7 @@
     "Verified": true,
     "Date": "Sun Mar 09 2025 15:47:52 GMT+0000 (Coordinated Universal Time)",
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Pok%C3%A9mon%20Snap/Out%20of%20Film.mp3",
-    "Binary": "binaries/Pok\u00e9mon Snap/Out of Film.bin",
+    "Binary": "binaries/Pokémon Snap/Out of Film.bin",
     "Duration": 3.6111053333333327
   },
   {
@@ -37818,7 +37818,7 @@
   {
     "Game": "The Legend of Zelda: The Wind Waker",
     "Song": "Get Treasure Box",
-    "Composers": "Kenta Nagata, Koji Kondo, Hajime Wakai, T\u014dru Minegishi",
+    "Composers": "Kenta Nagata, Koji Kondo, Hajime Wakai, Tōru Minegishi",
     "Converters": "OnlySpaghettiCode",
     "Category": "majoritems",
     "Tags": [
@@ -37833,7 +37833,7 @@
   {
     "Game": "The Legend of Zelda: The Wind Waker",
     "Song": "Get Pearl",
-    "Composers": "Kenta Nagata, Koji Kondo, Hajime Wakai, T\u014dru Minegishi",
+    "Composers": "Kenta Nagata, Koji Kondo, Hajime Wakai, Tōru Minegishi",
     "Converters": "OnlySpaghettiCode",
     "Category": "majoritems",
     "Tags": [
@@ -37997,7 +37997,7 @@
     "Duration": 21.578125
   },
   {
-    "Game": "Pok\u00e9mon Stadium 2",
+    "Game": "Pokémon Stadium 2",
     "Song": "Challenge Cup Final Battle 2",
     "Composers": "Hajime Wakai",
     "Converters": "LBFrank",
@@ -38010,7 +38010,7 @@
     "Verified": true,
     "Date": "Mon Mar 17 2025 00:03:50 GMT+0000 (Coordinated Universal Time)",
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Pok%C3%A9mon%20Stadium%202/Challenge%20Cup%20Final%20Battle%202%20(REV%201).mp3",
-    "Binary": "binaries/Pok\u00e9mon Stadium 2/Challenge Cup Final Battle 2 (REV 1).bin",
+    "Binary": "binaries/Pokémon Stadium 2/Challenge Cup Final Battle 2 (REV 1).bin",
     "Duration": 79.849656
   },
   {
@@ -38243,8 +38243,8 @@
     "Duration": 0.65078125
   },
   {
-    "Game": "Pok\u00e9mon Black & White",
-    "Song": "Battle! (Wild Pok\u00e9mon)",
+    "Game": "Pokémon Black & White",
+    "Song": "Battle! (Wild Pokémon)",
     "Composers": "Junichi Masuda, Go Ichinose",
     "Converters": "nerosomething",
     "Category": "bgm",
@@ -38255,7 +38255,7 @@
     "Verified": true,
     "Date": "Tue Mar 25 2025 01:19:14 GMT+0000 (Coordinated Universal Time)",
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Pok%C3%A9mon%20Black%20%20White/Battle%20(Wild%20Pok%C3%A9mon).mp3",
-    "Binary": "binaries/Pok\u00e9mon Black  White/Battle (Wild Pok\u00e9mon).bin",
+    "Binary": "binaries/Pokémon Black  White/Battle (Wild Pokémon).bin",
     "Duration": 65.67753306249999
   },
   {
@@ -38307,7 +38307,7 @@
     "Duration": 71.99479166666667
   },
   {
-    "Game": "Pok\u00e9mon Snap",
+    "Game": "Pokémon Snap",
     "Song": "Volcano",
     "Composers": "Ikuko Mimori",
     "Converters": "Altermentality",
@@ -38319,11 +38319,11 @@
     ],
     "Verified": true,
     "Date": "Fri Mar 28 2025 08:00:27 GMT+0000 (Coordinated Universal Time)",
-    "Binary": "binaries/Pok\u00e9mon Snap/Volcano.bin",
+    "Binary": "binaries/Pokémon Snap/Volcano.bin",
     "Duration": 59.999904
   },
   {
-    "Game": "Pok\u00e9mon Snap",
+    "Game": "Pokémon Snap",
     "Song": "Best Shot",
     "Composers": "Ikuko Mimori",
     "Converters": "Altermentality",
@@ -38335,7 +38335,7 @@
     ],
     "Verified": true,
     "Date": "Fri Mar 28 2025 08:02:04 GMT+0000 (Coordinated Universal Time)",
-    "Binary": "binaries/Pok\u00e9mon Snap/Best Shot.bin",
+    "Binary": "binaries/Pokémon Snap/Best Shot.bin",
     "Duration": 12.7894545
   },
   {
@@ -39191,5 +39191,21 @@
     "Date": "Mon May 05 2025 13:11:59 GMT+0000 (Coordinated Universal Time)",
     "Binary": "binaries/Waterworld/Map (SNES).bin",
     "Duration": 54.339648000000004
+  },
+  {
+    "Game": "Persona 4",
+    "Song": "Secret Base",
+    "Composers": "Shoji Meguro",
+    "Converters": "OnlySpaghettiCode",
+    "Category": "bgm",
+    "Tags": [
+      "Interiors",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Mon May 05 2025 23:24:40 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Persona%204/Secret%20Base.mp3",
+    "Binary": "binaries/Persona 4/Secret Base.bin",
+    "Duration": 75.15052308333334
   }
 ]
