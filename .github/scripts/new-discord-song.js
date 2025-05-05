@@ -23,12 +23,10 @@ function adjustRawURL(input_url) {
     return input_url.replace("github.com","raw.githubusercontent.com").replace("raw/","")
 }
 
-const PR_NUMBER = 1706;
-
 async function run() {
   try {
     // Get the PR number
-    const prNumber = PR_NUMBER;
+    const prNumber = process.argv[2;
     const repo = "theballaam96/candys-shop";
     const token = process.env.PAT_TOKEN;
     // Get the repository owner and name
