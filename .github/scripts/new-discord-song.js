@@ -162,13 +162,7 @@ async function run() {
       }
     }
 
-    // Append the PR message to the JSON file
-    existingData.push(json_output);
-
-    // Write the updated JSON file
-    fs.writeFileSync(filePath, JSON.stringify(existingData, null, 2));
-
-    console.log("PR message appended to JSON file successfully.");
+    console.log("Getting PR Message Data.");
 
     // Post to discord
     const shorthand_to_long = {
