@@ -2,6 +2,11 @@ name: Post Discord Song
 
 on:
   workflow_dispatch:
+    inputs:
+      prnum:
+        description: 'PR Number'
+        required: true
+        default: '0'
 
 jobs:
   fix_repository:
@@ -25,20 +30,6 @@ jobs:
             npm install @tonejs/midi
 
       - name: Posting Song
-        run: node .github/scripts/new-discord-song.js
+        run: node .github/scripts/new-discord-song.js "${{ github.event.inputs.prnum }}"
         env:
           PAT_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Create Zip
-        run: |
-          python3 zip_mapped.py
-          zip -r -q binaries.zip binaries
-  
-      - name: Commit and push changes
-        run: |
-          git config --global user.email "actions@github.com"
-          git config --global user.name "GitHub Actions"
-
-          git add .
-          git commit -m "Repository Fixed"
-          git push
