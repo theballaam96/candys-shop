@@ -112,8 +112,8 @@ async function run() {
     const filePath = path.join(__dirname, `../../${file}`);
     const existingData = fs.existsSync(filePath) ? require(filePath) : [];
     // Get new file name
-    let revisions = existingData.filter((entry) => ((entry["Game"] == json_output["Game"]) && (entry["Song"] == json_output["Song"]))).length;
-    const rev_string = revisions == 0 ? "" : ` (REV ${revisions})`;
+    let revisions = existingData.filter((entry) => ((entry["Game"] == json_output["Game"]) && (entry["Song"] == json_output["Song"]))).length - 1;
+    const rev_string = revisions < 1 ? "" : ` (REV ${revisions})`;
     const sub_file = `${filterFilename(json_output["Game"])}/${filterFilename(json_output["Song"])}${rev_string}`
     let binary_link = null;
     if (preview_file) {
