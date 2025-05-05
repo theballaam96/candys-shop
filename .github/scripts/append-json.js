@@ -159,7 +159,9 @@ async function run() {
             fs.writeFileSync(binNewFilePath, binFileData);
           }
         }
-        fs.unlinkSync(binFilePath);
+        if (fs.existsSync(binFilePath)) {
+          fs.unlinkSync(binFilePath);
+        }
       }
     })
     console.log("File Transfer Done")
