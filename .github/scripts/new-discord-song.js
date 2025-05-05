@@ -26,7 +26,7 @@ function adjustRawURL(input_url) {
 async function run() {
   try {
     // Get the PR number
-    const prNumber = process.argv[2;
+    const prNumber = process.argv[2];
     const repo = "theballaam96/candys-shop";
     const token = process.env.PAT_TOKEN;
     // Get the repository owner and name
