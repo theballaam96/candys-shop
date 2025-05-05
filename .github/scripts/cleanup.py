@@ -40,7 +40,11 @@ with open(MAPPING_FILE, "w") as f:
     json.dump(data, f, indent=2)
 
 # Step 5: Cleanup unused preview files
-used_audio_files = [x["Audio"] for x in unique_dict]
+used_audio_files = []
+for x in unique_dict:
+    audio = x["Audio"]
+    if isinstance(audio, str) and "github.com" in audio:
+        used_audio_files.append(audio.split("raw/main/")[1])
 
 # Remove unused files in previews/
 cleaned_files =  0
