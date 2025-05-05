@@ -44,7 +44,9 @@ used_audio_files = []
 for x in unique_dict:
     audio = x["Audio"]
     if isinstance(audio, str) and "github.com" in audio:
-        used_audio_files.append(audio.split("raw/main/")[1])
+        file = audio.split("raw/main/")[1]
+        print("Unique File", file)
+        used_audio_files.append(file)
 
 # Remove unused files in previews/
 cleaned_files =  0
