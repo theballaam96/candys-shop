@@ -38667,5 +38667,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Kingdom%20Hearts/Traverse%20Town.mp3",
     "Binary": "binaries/Kingdom Hearts/Traverse Town.bin",
     "Duration": 34.285696
+  },
+  {
+    "Game": "Kingdom Hearts",
+    "Song": "Blast Away! -Gummi Ship III-",
+    "Category": "bgm",
+    "Composers": "Yoko Shimomura",
+    "Converters": "Schwartz Gandhi",
+    "Tags": [
+      "Exteriors",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Mon May 05 2025 00:36:59 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Kingdom%20Hearts/Blast%20Away%20-Gummi%20Ship%20III-.mp3",
+    "Binary": "binaries/Kingdom Hearts/Blast Away -Gummi Ship III-.bin",
+    "Duration": 51.428520000000006
   }
 ]
