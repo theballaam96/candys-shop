@@ -38777,5 +38777,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Chrono%20Cross/The%20Brink%20of%20Death.mp3",
     "Binary": "binaries/Chrono Cross/The Brink of Death.bin",
     "Duration": 73.852948125
+  },
+  {
+    "Game": "Kingdom Hearts",
+    "Song": "Destiny Islands",
+    "Category": "bgm",
+    "Composers": "Yoko Shimomura",
+    "Converters": "Schwartz Gandhi, OnlySpaghettiCode",
+    "Tags": [
+      "Exteriors",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Mon May 05 2025 12:08:22 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Kingdom%20Hearts/Destiny%20Islands.mp3",
+    "Binary": "binaries/Kingdom Hearts/Destiny Islands.bin",
+    "Duration": 52.8
   }
 ]
