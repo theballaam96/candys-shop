@@ -38701,5 +38701,20 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Kingdom%20Hearts%20II/The%20Other%20Promise.mp3",
     "Binary": "binaries/Kingdom Hearts II/The Other Promise.bin",
     "Duration": 128.7140574999999
+  },
+  {
+    "Game": "Yu-Gi-Oh! Dungeon Dice Monsters",
+    "Song": "Tech Theme",
+    "Composers": "Hiroshi Tanabe",
+    "Converters": "Wibdiwoh",
+    "Category": "bgm",
+    "Tags": [
+      "Minigames"
+    ],
+    "Verified": true,
+    "Date": "Mon May 05 2025 00:41:21 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Yu-Gi-Oh%20Dungeon%20Dice%20Monsters/Tech%20Theme.mp3",
+    "Binary": "binaries/Yu-Gi-Oh Dungeon Dice Monsters/Tech Theme.bin",
+    "Duration": 81.87174479166666
   }
 ]
