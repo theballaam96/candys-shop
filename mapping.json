@@ -38683,5 +38683,23 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Kingdom%20Hearts/Blast%20Away%20-Gummi%20Ship%20III-.mp3",
     "Binary": "binaries/Kingdom Hearts/Blast Away -Gummi Ship III-.bin",
     "Duration": 51.428520000000006
+  },
+  {
+    "Game": "Kingdom Hearts II",
+    "Song": "The Other Promise",
+    "Category": "bgm",
+    "Composers": "Yoko Shimomura",
+    "Converters": "Schwartz Gandhi",
+    "Tags": [
+      "Fights",
+      "Exteriors",
+      "Gloomy",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Mon May 05 2025 00:38:59 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Kingdom%20Hearts%20II/The%20Other%20Promise.mp3",
+    "Binary": "binaries/Kingdom Hearts II/The Other Promise.bin",
+    "Duration": 128.7140574999999
   }
 ]
