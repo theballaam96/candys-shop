@@ -38793,5 +38793,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Kingdom%20Hearts/Destiny%20Islands.mp3",
     "Binary": "binaries/Kingdom Hearts/Destiny Islands.bin",
     "Duration": 52.8
+  },
+  {
+    "Game": "Chip's Challenge",
+    "Song": "CHIP01",
+    "Composers": "Unknown",
+    "Converters": "Altermentality",
+    "Category": "bgm",
+    "Audio": "https://youtu.be/xLjgOhvIUa4",
+    "Tags": [
+      "Lobbies and Shops",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Mon May 05 2025 13:07:32 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Chips Challenge/CHIP01.bin",
+    "Duration": 36.5523031875
   }
 ]
