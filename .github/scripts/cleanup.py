@@ -15,12 +15,12 @@ for item in data:
         if unique_item["Game"] == item["Game"]:
             if unique_item["Song"] == item["Song"]:
                 contains = True
-                unique_item["Audio"] = item["Audio"]
+                unique_item["Audio"] = item.get("Audio", "")
     if not contains:
         unique_dict.append({
             "Game": item["Game"],
             "Song": item["Song"],
-            "Audio": item["Audio"],
+            "Audio": item.get("Audio", ""),
         })
 
 # Push to mapping that it the link has been pruned
@@ -30,9 +30,10 @@ for item in data:
             continue
         if unique_item["Song"] != item["Song"]:
             continue
-        if unique_item["Audio"] == item["Audio"]:
+        audio = item.get("Audio", "")
+        if unique_item["Audio"] == audio:
             continue
-        if isinstance(item["Audio"], str) and "github.com" in item["Audio"]:
+        if isinstance(audio, str) and "github.com" in audio:
             item["pruned"] = True
 
 with open(MAPPING_FILE, "w") as f:
