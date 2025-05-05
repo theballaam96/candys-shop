@@ -9,7 +9,7 @@ on:
         default: '0'
 
 jobs:
-  fix_repository:
+  post_song:
     permissions: write-all
     runs-on: ubuntu-latest
     steps:
