@@ -38809,5 +38809,22 @@
     "Date": "Mon May 05 2025 13:07:32 GMT+0000 (Coordinated Universal Time)",
     "Binary": "binaries/Chips Challenge/CHIP01.bin",
     "Duration": 36.5523031875
+  },
+  {
+    "Game": "Waterworld",
+    "Song": "Map (SNES)",
+    "Composers": "Dean Evans",
+    "Converters": "psych",
+    "Category": "bgm",
+    "Audio": "https://youtu.be/KUSM9uyRs6E",
+    "Tags": [
+      "Lobbies and Shops",
+      "Exteriors",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Mon May 05 2025 13:11:59 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Waterworld/Map (SNES).bin",
+    "Duration": 54.339648000000004
   }
 ]
