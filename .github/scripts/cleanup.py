@@ -1,5 +1,6 @@
 import json
 import os
+from urllib.parse import unquote
 
 MAPPING_FILE = "mapping.json"
 PREVIEWS_DIR = "previews"
@@ -44,7 +45,7 @@ used_audio_files = []
 for x in unique_dict:
     audio = x["Audio"]
     if isinstance(audio, str) and "github.com" in audio:
-        file = audio.split("raw/main/")[1]
+        file = unquote(audio.split("raw/main/")[1])
         print("Unique File", file)
         used_audio_files.append(file)
 
