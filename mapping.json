@@ -39207,5 +39207,22 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Persona%204/Secret%20Base.mp3",
     "Binary": "binaries/Persona 4/Secret Base.bin",
     "Duration": 75.15052308333334
+  },
+  {
+    "Game": "Shenmue",
+    "Song": "Tomato Convenience Store",
+    "Composers": "Ryuji Iuchi",
+    "Converters": "The Sound Defense",
+    "Category": "bgm",
+    "Tags": [
+      "Lobbies and Shops",
+      "Happy",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Thu May 08 2025 12:26:30 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Shenmue/Tomato%20Convenience%20Store.mp3",
+    "Binary": "binaries/Shenmue/Tomato Convenience Store.bin",
+    "Duration": 21.573023999999997
   }
 ]
