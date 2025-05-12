@@ -39224,5 +39224,84 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Shenmue/Tomato%20Convenience%20Store.mp3",
     "Binary": "binaries/Shenmue/Tomato Convenience Store.bin",
     "Duration": 21.573023999999997
+  },
+  {
+    "Game": "Mario Party 2",
+    "Song": "Not Gonna Lose",
+    "Composers": "Hironao Yamamoto, Shohei Bando, Kazuhiko Sawaguchi",
+    "Converters": "Altermentality",
+    "Category": "bgm",
+    "Audio": "https://youtu.be/fjfHPyMn8xM",
+    "Tags": [
+      "Minigames",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Mon May 12 2025 10:13:27 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Mario Party 2/Not Gonna Lose.bin",
+    "Duration": 39.31641699166667
+  },
+  {
+    "Game": "Mario Party 3",
+    "Song": "Got It?",
+    "Composers": "Ichiro Shimakura",
+    "Converters": "Altermentality",
+    "Category": "bgm",
+    "Audio": "https://youtu.be/3yxEC9Xn_tk",
+    "Tags": [
+      "Minigames",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Mon May 12 2025 10:13:27 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Mario Party 3/Got It.bin",
+    "Duration": 35.294155152083334
+  },
+  {
+    "Game": "Yu-Gi-Oh! The Eternal Duelist Soul",
+    "Song": "VS - Yami Yugi",
+    "Composers": "Toshihisa Furusawa",
+    "Converters": "Wibdiwoh",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors"
+    ],
+    "Verified": true,
+    "Date": "Mon May 12 2025 10:13:28 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Yu-Gi-Oh%20The%20Eternal%20Duelist%20Soul/VS%20-%20Yami%20Yugi.mp3",
+    "Binary": "binaries/Yu-Gi-Oh The Eternal Duelist Soul/VS - Yami Yugi.bin",
+    "Duration": 92.30279231249999
+  },
+  {
+    "Game": "The Legend of Zelda: Ocarina of Time",
+    "Song": "Mini Game",
+    "Composers": "Koji Kondo",
+    "Converters": "Altermentality",
+    "Category": "bgm",
+    "Audio": "https://youtu.be/ACLce4kCWJQ",
+    "Tags": [
+      "Minigames",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Mon May 12 2025 10:13:29 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/The Legend of Zelda Ocarina of Time/Mini Game.bin",
+    "Duration": 25.94592
+  },
+  {
+    "Game": "Kingdom Hearts II",
+    "Song": "Sinister Sundown",
+    "Category": "bgm",
+    "Composers": "Yoko Shimomura",
+    "Converters": "Schwartz Gandhi",
+    "Tags": [
+      "Fights",
+      "Minigames"
+    ],
+    "Verified": true,
+    "Date": "Mon May 12 2025 10:13:29 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Kingdom%20Hearts%20II/Sinister%20Sundown.mp3",
+    "Binary": "binaries/Kingdom Hearts II/Sinister Sundown.bin",
+    "Duration": 58.461479999999995
   }
 ]
