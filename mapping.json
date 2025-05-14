@@ -39303,5 +39303,23 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Kingdom%20Hearts%20II/Sinister%20Sundown.mp3",
     "Binary": "binaries/Kingdom Hearts II/Sinister Sundown.bin",
     "Duration": 58.461479999999995
+  },
+  {
+    "Game": "The Legend of Zelda: Ocarina of Time",
+    "Song": "Gold Skulltula Token",
+    "Composers": "Koji Kondo",
+    "Converters": "psych",
+    "Category": "minoritems",
+    "Tags": [
+      "Spawning",
+      "Collection",
+      "Happy",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Wed May 14 2025 16:30:40 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/The%20Legend%20of%20Zelda%20Ocarina%20of%20Time/Gold%20Skulltula%20Token.mp3",
+    "Binary": "binaries/The Legend of Zelda Ocarina of Time/Gold Skulltula Token.bin",
+    "Duration": 1.1927083333333333
   }
 ]
