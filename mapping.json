@@ -39353,5 +39353,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Kingdom%20Hearts%20II/The%20Afternoon%20Streets.mp3",
     "Binary": "binaries/Kingdom Hearts II/The Afternoon Streets.bin",
     "Duration": 78.857156
+  },
+  {
+    "Game": "Kingdom Hearts",
+    "Song": "Spooks of Halloween Town",
+    "Category": "bgm",
+    "Composers": "Yoko Shimomura",
+    "Converters": "Schwartz Gandhi",
+    "Tags": [
+      "Fights",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Wed May 14 2025 22:21:14 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Kingdom%20Hearts/Spooks%20of%20Halloween%20Town.mp3",
+    "Binary": "binaries/Kingdom Hearts/Spooks of Halloween Town.bin",
+    "Duration": 63.3851735
   }
 ]
