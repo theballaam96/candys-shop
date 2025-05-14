@@ -39369,5 +39369,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Kingdom%20Hearts/Spooks%20of%20Halloween%20Town.mp3",
     "Binary": "binaries/Kingdom Hearts/Spooks of Halloween Town.bin",
     "Duration": 63.3851735
+  },
+  {
+    "Game": "Final Fantasy VII",
+    "Song": "The Oppressed",
+    "Composers": "Nobuo Uematsu",
+    "Converters": "OnlySpaghettiCode",
+    "Category": "bgm",
+    "Tags": [
+      "Interiors",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Wed May 14 2025 23:26:49 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Final%20Fantasy%20VII/The%20Oppressed.mp3",
+    "Binary": "binaries/Final Fantasy VII/The Oppressed.bin",
+    "Duration": 75.24250470833334
   }
 ]
