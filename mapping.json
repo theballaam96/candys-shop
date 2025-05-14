@@ -39337,5 +39337,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Kingdom%20Hearts%20II/Lazy%20Afternoons.mp3",
     "Binary": "binaries/Kingdom Hearts II/Lazy Afternoons.bin",
     "Duration": 85.41587766666667
+  },
+  {
+    "Game": "Kingdom Hearts II",
+    "Song": "The Afternoon Streets",
+    "Category": "bgm",
+    "Composers": "Yoko Shimomura",
+    "Converters": "Schwartz Gandhi",
+    "Tags": [
+      "Exteriors",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Wed May 14 2025 22:17:17 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Kingdom%20Hearts%20II/The%20Afternoon%20Streets.mp3",
+    "Binary": "binaries/Kingdom Hearts II/The Afternoon Streets.bin",
+    "Duration": 78.857156
   }
 ]
