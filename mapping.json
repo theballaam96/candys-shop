@@ -39385,5 +39385,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Final%20Fantasy%20VII/The%20Oppressed.mp3",
     "Binary": "binaries/Final Fantasy VII/The Oppressed.bin",
     "Duration": 75.24250470833334
+  },
+  {
+    "Game": "Final Fantasy VII",
+    "Song": "Ahead on Our Way",
+    "Composers": "Nobuo Uematsu",
+    "Converters": "OnlySpaghettiCode",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Fri May 16 2025 00:24:42 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Final%20Fantasy%20VII/Ahead%20on%20Our%20Way.mp3",
+    "Binary": "binaries/Final Fantasy VII/Ahead on Our Way.bin",
+    "Duration": 102.37133035416666
   }
 ]
