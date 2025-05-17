@@ -39401,5 +39401,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Final%20Fantasy%20VII/Ahead%20on%20Our%20Way.mp3",
     "Binary": "binaries/Final Fantasy VII/Ahead on Our Way.bin",
     "Duration": 102.37133035416666
+  },
+  {
+    "Game": "Kingdom Hearts",
+    "Song": "Never Land Sky",
+    "Category": "bgm",
+    "Composers": "Yoko Shimomura",
+    "Converters": "Schwartz Gandhi",
+    "Tags": [
+      "Exteriors",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Sat May 17 2025 15:04:17 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Kingdom%20Hearts/Never%20Land%20Sky.mp3",
+    "Binary": "binaries/Kingdom Hearts/Never Land Sky.bin",
+    "Duration": 44.800000000000004
   }
 ]
