@@ -39433,5 +39433,21 @@
     "Audio": "https://www.youtube.com/watch?v=CKCb50Hjd8M",
     "Binary": "binaries/Yu-Gi-Oh The Eternal Duelist Soul/VS - Yami Yugi (REV 1).bin",
     "Duration": 92.30279231249999
+  },
+  {
+    "Game": "SimCity",
+    "Song": "Village (SNES)",
+    "Composers": "Soyo Oka",
+    "Converters": "psych",
+    "Category": "bgm",
+    "Audio": "https://youtu.be/gLl-jpj_KR8",
+    "Tags": [
+      "Exteriors",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Sun May 18 2025 02:56:48 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/SimCity/Village (SNES).bin",
+    "Duration": 37.340296447916664
   }
 ]
