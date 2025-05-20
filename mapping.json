@@ -39449,5 +39449,21 @@
     "Date": "Sun May 18 2025 02:56:48 GMT+0000 (Coordinated Universal Time)",
     "Binary": "binaries/SimCity/Village (SNES).bin",
     "Duration": 37.340296447916664
+  },
+  {
+    "Game": "Paper Mario",
+    "Song": "Toad Town",
+    "Composers": "Yuka Tsujiyoko",
+    "Converters": "Altermentality",
+    "Category": "bgm",
+    "Audio": "https://youtu.be/YgjAX-pO7oE",
+    "Tags": [
+      "Exteriors",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Tue May 20 2025 15:02:40 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Paper Mario/Toad Town.bin",
+    "Duration": 68.22821533333334
   }
 ]
