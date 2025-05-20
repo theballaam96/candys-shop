@@ -39500,5 +39500,22 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Mario%20%20Rabbids%20Kingdom%20Battle/Mystic%20Journey.mp3",
     "Binary": "binaries/Mario  Rabbids Kingdom Battle/Mystic Journey.bin",
     "Duration": 66.46147199999999
+  },
+  {
+    "Game": "Soulcalibur II",
+    "Song": "Rise Thy Sword",
+    "Composers": "Junichi Nakatsuru, Yoshihito Yano, Asuka Sakai, Rio Hamamoto, Ryuichi Takada, Junichi Takagi",
+    "Converters": "Zion Jaymes",
+    "Category": "bgm",
+    "Additional Notes": "YOU CONCEITED WRETCHED HUMAN!",
+    "Tags": [
+      "Fights",
+      "Exteriors"
+    ],
+    "Verified": true,
+    "Date": "Tue May 20 2025 15:54:17 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Soulcalibur%20II/Rise%20Thy%20Sword.mp3",
+    "Binary": "binaries/Soulcalibur II/Rise Thy Sword.bin",
+    "Duration": 87.978153
   }
 ]
