@@ -39465,5 +39465,22 @@
     "Date": "Tue May 20 2025 15:02:40 GMT+0000 (Coordinated Universal Time)",
     "Binary": "binaries/Paper Mario/Toad Town.bin",
     "Duration": 68.22821533333334
+  },
+  {
+    "Game": "Mario Party 3",
+    "Song": "Big Trouble!",
+    "Composers": "Ichiro Shimakura",
+    "Converters": "Altermentality",
+    "Category": "bgm",
+    "Audio": "https://www.youtube.com/watch?v=3W2e-pvFqPw",
+    "Update Notes": "Volume boost; moving to fights only instead of fights/minigames",
+    "Tags": [
+      "Fights",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Tue May 20 2025 15:04:50 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Mario Party 3/Big Trouble (REV 1).bin",
+    "Duration": 36.79091575000001
   }
 ]
