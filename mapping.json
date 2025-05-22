@@ -10616,7 +10616,7 @@
     "Game": "Paper Mario: The Thousand-Year Door",
     "Song": "Rogueport",
     "Category": "bgm",
-    "Composers": "Yoshito Sekigawa, Yuka Tsujiyoko, Saki Hayama",
+    "Composers": "Yuka Tsujiyoko, Yoshito Hirano",
     "Converters": "freddywondercat",
     "Binary": "binaries/Paper Mario The Thousand-Year Door/Rogueport by freddywondercat.bin",
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Paper%20Mario%20The%20Thousand-Year%20Door/Rogueport%20by%20freddywondercat.mp3",
@@ -32551,7 +32551,7 @@
   {
     "Game": "Paper Mario: The Thousand-Year Door",
     "Song": "Rogueport",
-    "Composers": "Yoshito Sekigawa, Yuka Tsujiyoko, Saki Hayama",
+    "Composers": "Yuka Tsujiyoko, Yoshito Hirano",
     "Converters": "freddywondercat",
     "Category": "bgm",
     "Update Notes": "Rebalanced volume",
@@ -39537,7 +39537,7 @@
   {
     "Game": "Paper Mario: The Thousand-Year Door",
     "Song": "Rogueport Sewers",
-    "Composers": "Yuka Tsujiyoko",
+    "Composers": "Yuka Tsujiyoko, Yoshito Hirano",
     "Converters": "OnlySpaghettiCode",
     "Category": "bgm",
     "Tags": [
