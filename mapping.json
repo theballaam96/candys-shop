@@ -39549,5 +39549,23 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Paper%20Mario%20The%20Thousand-Year%20Door/Rogueport%20Sewers.mp3",
     "Binary": "binaries/Paper Mario The Thousand-Year Door/Rogueport Sewers.bin",
     "Duration": 55.547546583333336
+  },
+  {
+    "Game": "Kingdom Hearts: Chain of Memories",
+    "Song": "Castle Oblivion",
+    "Category": "bgm",
+    "Composers": "Yoko Shimomura",
+    "Converters": "Schwartz Gandhi",
+    "Tags": [
+      "Interiors",
+      "Gloomy"
+    ],
+    "Additional Notes": "Based on Re:Coded. Also featuring asynchronous looping!",
+    "Update Notes": "This song features a proof of concept for utilising asynchronous looping in custom music. Hopefully this technique will be easier to do in the future.",
+    "Verified": true,
+    "Date": "Thu May 22 2025 02:34:38 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Kingdom%20Hearts%20Chain%20of%20Memories/Castle%20Oblivion.mp3",
+    "Binary": "binaries/Kingdom Hearts Chain of Memories/Castle Oblivion.bin",
+    "Duration": 82.48697916666666
   }
 ]
