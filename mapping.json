@@ -39517,5 +39517,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Soulcalibur%20II/Rise%20Thy%20Sword.mp3",
     "Binary": "binaries/Soulcalibur II/Rise Thy Sword.bin",
     "Duration": 87.978153
+  },
+  {
+    "Game": "The Legend of Zelda: A Link to the Past",
+    "Song": "Black Mist",
+    "Composers": "Koji Kondo",
+    "Converters": "OnlySpaghettiCode",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Thu May 22 2025 02:26:46 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/The%20Legend%20of%20Zelda%20A%20Link%20to%20the%20Past/Black%20Mist.mp3",
+    "Binary": "binaries/The Legend of Zelda A Link to the Past/Black Mist.bin",
+    "Duration": 54.650738937499995
   }
 ]
