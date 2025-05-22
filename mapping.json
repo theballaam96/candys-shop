@@ -39533,5 +39533,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/The%20Legend%20of%20Zelda%20A%20Link%20to%20the%20Past/Black%20Mist.mp3",
     "Binary": "binaries/The Legend of Zelda A Link to the Past/Black Mist.bin",
     "Duration": 54.650738937499995
+  },
+  {
+    "Game": "Paper Mario: The Thousand-Year Door",
+    "Song": "Rogueport Sewers",
+    "Composers": "Yuka Tsujiyoko",
+    "Converters": "OnlySpaghettiCode",
+    "Category": "bgm",
+    "Tags": [
+      "Interiors",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Thu May 22 2025 02:29:32 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Paper%20Mario%20The%20Thousand-Year%20Door/Rogueport%20Sewers.mp3",
+    "Binary": "binaries/Paper Mario The Thousand-Year Door/Rogueport Sewers.bin",
+    "Duration": 55.547546583333336
   }
 ]
