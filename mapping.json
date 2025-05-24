@@ -39583,5 +39583,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/The%20Legend%20of%20Zelda%20The%20Minish%20Cap/Hyrule%20Town.mp3",
     "Binary": "binaries/The Legend of Zelda The Minish Cap/Hyrule Town.bin",
     "Duration": 43.948041406250006
+  },
+  {
+    "Game": "The Legend of Zelda: The Minish Cap",
+    "Song": "Picori Festival",
+    "Composers": "Mitsuhiko Takano",
+    "Converters": "OnlySpaghettiCode",
+    "Category": "bgm",
+    "Tags": [
+      "Interiors",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Sat May 24 2025 23:32:40 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/The%20Legend%20of%20Zelda%20The%20Minish%20Cap/Picori%20Festival.mp3",
+    "Binary": "binaries/The Legend of Zelda The Minish Cap/Picori Festival.bin",
+    "Duration": 28.812499999999996
   }
 ]
