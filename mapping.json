@@ -39599,5 +39599,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/The%20Legend%20of%20Zelda%20The%20Minish%20Cap/Picori%20Festival.mp3",
     "Binary": "binaries/The Legend of Zelda The Minish Cap/Picori Festival.bin",
     "Duration": 28.812499999999996
+  },
+  {
+    "Game": "Kingdom Hearts",
+    "Song": "To Our Surprise",
+    "Category": "bgm",
+    "Composers": "Yoko Shimomura",
+    "Converters": "Schwartz Gandhi",
+    "Tags": [
+      "Fights",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Sun May 25 2025 02:25:38 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Kingdom%20Hearts/To%20Our%20Surprise.mp3",
+    "Binary": "binaries/Kingdom Hearts/To Our Surprise.bin",
+    "Duration": 60.98855133333333
   }
 ]
