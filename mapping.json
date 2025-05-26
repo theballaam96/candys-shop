@@ -39615,5 +39615,20 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Kingdom%20Hearts/To%20Our%20Surprise.mp3",
     "Binary": "binaries/Kingdom Hearts/To Our Surprise.bin",
     "Duration": 60.98855133333333
+  },
+  {
+    "Game": "The Legend of Zelda: The Minish Cap",
+    "Song": "Mt. Crenel",
+    "Composers": "Mitsuhiko Takano",
+    "Converters": "OnlySpaghettiCode",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors"
+    ],
+    "Verified": true,
+    "Date": "Mon May 26 2025 20:35:38 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/The%20Legend%20of%20Zelda%20The%20Minish%20Cap/Mt%20Crenel.mp3",
+    "Binary": "binaries/The Legend of Zelda The Minish Cap/Mt Crenel.bin",
+    "Duration": 42.451880624999994
   }
 ]
