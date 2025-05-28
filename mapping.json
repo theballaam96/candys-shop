@@ -39680,5 +39680,22 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Lagoon/Atland.mp3",
     "Binary": "binaries/Lagoon/Atland.bin",
     "Duration": 70.000028
+  },
+  {
+    "Game": "Kingdom Hearts",
+    "Song": "Dearly Beloved",
+    "Category": "bgm",
+    "Composers": "Yoko Shimomura",
+    "Converters": "Schwartz Gandhi",
+    "Tags": [
+      "Exteriors",
+      "Lobbies and Shops",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Wed May 28 2025 20:28:19 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Kingdom%20Hearts/Dearly%20Beloved.mp3",
+    "Binary": "binaries/Kingdom Hearts/Dearly Beloved.bin",
+    "Duration": 119.2707140625
   }
 ]
