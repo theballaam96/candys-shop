@@ -39630,5 +39630,22 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/The%20Legend%20of%20Zelda%20The%20Minish%20Cap/Mt%20Crenel.mp3",
     "Binary": "binaries/The Legend of Zelda The Minish Cap/Mt Crenel.bin",
     "Duration": 42.451880624999994
+  },
+  {
+    "Game": "Animal Crossing",
+    "Song": "Rainy Day",
+    "Composers": "Kazumi Totaka, Shinobu Tanaka, Toru Minegishi",
+    "Converters": "Leaddy",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors",
+      "Happy",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Wed May 28 2025 02:58:25 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Animal%20Crossing/Rainy%20Day.mp3",
+    "Binary": "binaries/Animal Crossing/Rainy Day.bin",
+    "Duration": 96.5
   }
 ]
