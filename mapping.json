@@ -39647,5 +39647,38 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Animal%20Crossing/Rainy%20Day.mp3",
     "Binary": "binaries/Animal Crossing/Rainy Day.bin",
     "Duration": 96.5
+  },
+  {
+    "Game": "Golden Sun",
+    "Song": "Sad Town",
+    "Composers": "Motoi Sakuraba",
+    "Converters": "Leaddy",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Wed May 28 2025 03:01:27 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Golden%20Sun/Sad%20Town.mp3",
+    "Binary": "binaries/Golden Sun/Sad Town.bin",
+    "Duration": 80.59855970833334
+  },
+  {
+    "Game": "Lagoon",
+    "Song": "Atland",
+    "Composers": "Hideki Suzuki",
+    "Converters": "Leaddy",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors",
+      "Happy",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Wed May 28 2025 03:01:28 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Lagoon/Atland.mp3",
+    "Binary": "binaries/Lagoon/Atland.bin",
+    "Duration": 70.000028
   }
 ]
