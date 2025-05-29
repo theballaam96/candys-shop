@@ -39697,5 +39697,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Kingdom%20Hearts/Dearly%20Beloved.mp3",
     "Binary": "binaries/Kingdom Hearts/Dearly Beloved.bin",
     "Duration": 119.2707140625
+  },
+  {
+    "Game": "The Legend of Zelda: Majora's Mask",
+    "Song": "Bremen March",
+    "Composers": "Koji Kondo",
+    "Converters": "Altermentality",
+    "Category": "bgm",
+    "Tags": [
+      "Lobbies and Shops",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Thu May 29 2025 05:18:37 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/The%20Legend%20of%20Zelda%20Majoras%20Mask/Bremen%20March.mp3",
+    "Binary": "binaries/The Legend of Zelda Majoras Mask/Bremen March.bin",
+    "Duration": 20
   }
 ]
