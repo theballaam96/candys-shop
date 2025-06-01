@@ -39731,5 +39731,23 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Animal%20Crossing/Rainy%20Day%20(REV%201).mp3",
     "Binary": "binaries/Animal Crossing/Rainy Day (REV 1).bin",
     "Duration": 96.5
+  },
+  {
+    "Game": "Bishoujo Senshi Sailor Moon Super S: Zenin Sanka!! Shuyaku Soudatsusen",
+    "Song": "Sailor Saturn's Theme",
+    "Composers": "Seisuke Itoh, Hiroo Ikeda, Katsuyuki Harada",
+    "Converters": "Leaddy",
+    "Category": "bgm",
+    "Tags": [
+      "Interiors",
+      "Exteriors",
+      "Gloomy",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Sun Jun 01 2025 01:32:25 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Bishoujo%20Senshi%20Sailor%20Moon%20Super%20S%20Zenin%20Sanka%20Shuyaku%20Soudatsusen/Sailor%20Saturns%20Theme.mp3",
+    "Binary": "binaries/Bishoujo Senshi Sailor Moon Super S Zenin Sanka Shuyaku Soudatsusen/Sailor Saturns Theme.bin",
+    "Duration": 61.411733999999996
   }
 ]
