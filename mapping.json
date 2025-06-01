@@ -39749,5 +39749,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Bishoujo%20Senshi%20Sailor%20Moon%20Super%20S%20Zenin%20Sanka%20Shuyaku%20Soudatsusen/Sailor%20Saturns%20Theme.mp3",
     "Binary": "binaries/Bishoujo Senshi Sailor Moon Super S Zenin Sanka Shuyaku Soudatsusen/Sailor Saturns Theme.bin",
     "Duration": 61.411733999999996
+  },
+  {
+    "Game": "Rugrats: Search for Reptar",
+    "Song": "Chuckie's Glasses",
+    "Composers": "Gene M. Rozenberg, Mark Mothersbaugh",
+    "Converters": "Leaddy",
+    "Category": "bgm",
+    "Tags": [
+      "Minigames",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Sun Jun 01 2025 19:10:09 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Rugrats%20Search%20for%20Reptar/Chuckies%20Glasses.mp3",
+    "Binary": "binaries/Rugrats Search for Reptar/Chuckies Glasses.bin",
+    "Duration": 32
   }
 ]
