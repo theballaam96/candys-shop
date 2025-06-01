@@ -39713,5 +39713,23 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/The%20Legend%20of%20Zelda%20Majoras%20Mask/Bremen%20March.mp3",
     "Binary": "binaries/The Legend of Zelda Majoras Mask/Bremen March.bin",
     "Duration": 20
+  },
+  {
+    "Game": "Animal Crossing",
+    "Song": "Rainy Day",
+    "Composers": "Kazumi Totaka, Shinobu Tanaka, Toru Minegishi",
+    "Converters": "Leaddy",
+    "Category": "bgm",
+    "Update Notes": "after fixing the song after receiving feedback... i managed to upload the wrong version.... this has fixed bass and slightly quieter rain (white noise)",
+    "Tags": [
+      "Exteriors",
+      "Happy",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Sun Jun 01 2025 01:29:49 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Animal%20Crossing/Rainy%20Day%20(REV%201).mp3",
+    "Binary": "binaries/Animal Crossing/Rainy Day (REV 1).bin",
+    "Duration": 96.5
   }
 ]
