@@ -18,11 +18,13 @@ for item in data:
                 contains = True
                 unique_item["Audio"] = item.get("Audio", "")
     if not contains:
-        unique_dict.append({
+        temp = {
             "Game": item["Game"],
             "Song": item["Song"],
-            "Audio": item.get("Audio", ""),
-        })
+        }
+        if "Audio" in item:
+            temp["Audio"] = item["Audio"]
+        unique_dict.append(temp)
 
 # Push to mapping that it the link has been pruned
 for item in data:
