@@ -39813,5 +39813,22 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Duke%20Nukem%203D/Party%20Cruise.mp3",
     "Binary": "binaries/Duke Nukem 3D/Party Cruise.bin",
     "Duration": 144.25
+  },
+  {
+    "Game": "Duke Nukem 3D",
+    "Song": "Jungle Vein",
+    "Composers": "Jenna Ramsey",
+    "Converters": "Barrels O' Fun",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors",
+      "Happy",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Tue Jun 03 2025 09:00:30 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Duke%20Nukem%203D/Jungle%20Vein.mp3",
+    "Binary": "binaries/Duke Nukem 3D/Jungle Vein.bin",
+    "Duration": 149.777628
   }
 ]
