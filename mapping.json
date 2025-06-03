@@ -39780,5 +39780,22 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Kingdom%20Hearts%20II/Working%20Together.mp3",
     "Binary": "binaries/Kingdom Hearts II/Working Together.bin",
     "Duration": 72.911424
+  },
+  {
+    "Game": "Duke Nukem 3D",
+    "Song": "Solitary Man",
+    "Composers": "Jenna Ramsey",
+    "Converters": "Barrels O' Fun",
+    "Category": "bgm",
+    "Tags": [
+      "Lobbies and Shops",
+      "Interiors",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Tue Jun 03 2025 08:55:03 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Duke%20Nukem%203D/Solitary%20Man.mp3",
+    "Binary": "binaries/Duke Nukem 3D/Solitary Man.bin",
+    "Duration": 136.000068
   }
 ]
