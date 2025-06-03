@@ -39845,5 +39845,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Valkyrie%20Profile/Fighting%20the%20Shadowy%20Gods.mp3",
     "Binary": "binaries/Valkyrie Profile/Fighting the Shadowy Gods.bin",
     "Duration": 96.015625
+  },
+  {
+    "Game": "Valkyrie Profile",
+    "Song": "Confidence in the Domination",
+    "Composers": "Motoi Sakuraba",
+    "Converters": "OnlySpaghettiCode",
+    "Category": "bgm",
+    "Tags": [
+      "Fights",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Tue Jun 03 2025 19:29:49 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Valkyrie%20Profile/Confidence%20in%20the%20Domination.mp3",
+    "Binary": "binaries/Valkyrie Profile/Confidence in the Domination.bin",
+    "Duration": 72.21867778125001
   }
 ]
