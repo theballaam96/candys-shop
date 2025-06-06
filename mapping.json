@@ -39862,5 +39862,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Valkyrie%20Profile/Confidence%20in%20the%20Domination.mp3",
     "Binary": "binaries/Valkyrie Profile/Confidence in the Domination.bin",
     "Duration": 72.21867778125001
+  },
+  {
+    "Game": "Pokémon Gold, Silver & Crystal",
+    "Song": "Union Cave",
+    "Composers": "Junichi Masuda",
+    "Converters": "Leaddy",
+    "Category": "bgm",
+    "Tags": [
+      "Interiors",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Fri Jun 06 2025 21:46:51 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Pok%C3%A9mon%20Gold,%20Silver%20%20Crystal/Union%20Cave.mp3",
+    "Binary": "binaries/Pokémon Gold, Silver  Crystal/Union Cave.bin",
+    "Duration": 65.4807605
   }
 ]
