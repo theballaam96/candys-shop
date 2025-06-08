@@ -39878,5 +39878,23 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Pok%C3%A9mon%20Gold,%20Silver%20%20Crystal/Union%20Cave.mp3",
     "Binary": "binaries/Pokémon Gold, Silver  Crystal/Union Cave.bin",
     "Duration": 65.4807605
+  },
+  {
+    "Game": "The Legend of Zelda: Ocarina of Time",
+    "Song": "Shooting Gallery",
+    "Composers": "Koji Kondo",
+    "Converters": "Altermentality",
+    "Category": "bgm",
+    "Audio": "https://youtu.be/IyJzDxiPHVE",
+    "Additional Notes": "The \"fade in\" at the beginning is built into the song, which I think is pretty interesting. It implies that the music is playing in-universe in these little challenge/game shops you're opening the door and walking into! It doesn't really make sense with the way the rest of the song loops but hey.",
+    "Tags": [
+      "Lobbies and Shops",
+      "Minigames",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Sun Jun 08 2025 01:52:04 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/The Legend of Zelda Ocarina of Time/Shooting Gallery.bin",
+    "Duration": 32.1
   }
 ]
