@@ -39896,5 +39896,20 @@
     "Date": "Sun Jun 08 2025 01:52:04 GMT+0000 (Coordinated Universal Time)",
     "Binary": "binaries/The Legend of Zelda Ocarina of Time/Shooting Gallery.bin",
     "Duration": 32.1
+  },
+  {
+    "Game": "Valkyrie Profile",
+    "Song": "Doorway to Heaven",
+    "Composers": "Motoi Sakuraba",
+    "Converters": "OnlySpaghettiCode",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors"
+    ],
+    "Verified": true,
+    "Date": "Tue Jun 10 2025 20:40:25 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Valkyrie%20Profile/Doorway%20to%20Heaven.mp3",
+    "Binary": "binaries/Valkyrie Profile/Doorway to Heaven.bin",
+    "Duration": 100.01041666666667
   }
 ]
