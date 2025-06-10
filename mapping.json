@@ -39911,5 +39911,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Valkyrie%20Profile/Doorway%20to%20Heaven.mp3",
     "Binary": "binaries/Valkyrie Profile/Doorway to Heaven.bin",
     "Duration": 100.01041666666667
+  },
+  {
+    "Game": "Super Smash Bros.",
+    "Song": "Stage Intro",
+    "Composers": "Hirokazu Ando",
+    "Converters": "SirEnobMort",
+    "Category": "majoritems",
+    "Update Notes": "Lowered the number of voices to fix audio bug.",
+    "Tags": [
+      "Spawning"
+    ],
+    "Verified": true,
+    "Date": "Tue Jun 10 2025 20:42:53 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Super%20Smash%20Bros/Stage%20Intro%20(REV%201).mp3",
+    "Binary": "binaries/Super Smash Bros/Stage Intro (REV 1).bin",
+    "Duration": 3.3322004374999996
   }
 ]
