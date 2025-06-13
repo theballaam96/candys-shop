@@ -39926,5 +39926,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Super%20Smash%20Bros/Stage%20Intro%20(REV%201).mp3",
     "Binary": "binaries/Super Smash Bros/Stage Intro (REV 1).bin",
     "Duration": 3.3322004374999996
+  },
+  {
+    "Game": "Super Mario RPG: Legend of the Seven Stars",
+    "Song": "Let's Race",
+    "Composers": "Yoko Shimomura",
+    "Converters": "OnlySpaghettiCode",
+    "Category": "bgm",
+    "Tags": [
+      "Minigames",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Fri Jun 13 2025 20:19:49 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Super%20Mario%20RPG%20Legend%20of%20the%20Seven%20Stars/Lets%20Race.mp3",
+    "Binary": "binaries/Super Mario RPG Legend of the Seven Stars/Lets Race.bin",
+    "Duration": 27.766794208333337
   }
 ]
