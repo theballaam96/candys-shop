@@ -39942,5 +39942,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Super%20Mario%20RPG%20Legend%20of%20the%20Seven%20Stars/Lets%20Race.mp3",
     "Binary": "binaries/Super Mario RPG Legend of the Seven Stars/Lets Race.bin",
     "Duration": 27.766794208333337
+  },
+  {
+    "Game": "Donkey Kong Land",
+    "Song": "Flooded Ruins (Kremlantis)",
+    "Composers": "David Wise",
+    "Converters": "Altermentality, Shannon \"Pongball\" Mason",
+    "Category": "bgm",
+    "Audio": "https://youtu.be/EHRrwdmR8Kw",
+    "Tags": [
+      "Exteriors",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Fri Jun 13 2025 20:23:34 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Donkey Kong Land/Flooded Ruins (Kremlantis).bin",
+    "Duration": 144
   }
 ]
