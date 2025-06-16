@@ -39958,5 +39958,22 @@
     "Date": "Fri Jun 13 2025 20:23:34 GMT+0000 (Coordinated Universal Time)",
     "Binary": "binaries/Donkey Kong Land/Flooded Ruins (Kremlantis).bin",
     "Duration": 144
+  },
+  {
+    "Game": "Chrono Trigger",
+    "Song": "Corridors of Time",
+    "Composers": "Yasunori Mitsuda",
+    "Converters": "The Sound Defense",
+    "Category": "bgm",
+    "Tags": [
+      "Interiors",
+      "Exteriors",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Mon Jun 16 2025 21:42:13 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Chrono%20Trigger/Corridors%20of%20Time.mp3",
+    "Binary": "binaries/Chrono Trigger/Corridors of Time.bin",
+    "Duration": 85.71424
   }
 ]
