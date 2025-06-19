@@ -39975,5 +39975,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Chrono%20Trigger/Corridors%20of%20Time.mp3",
     "Binary": "binaries/Chrono Trigger/Corridors of Time.bin",
     "Duration": 85.71424
+  },
+  {
+    "Game": "Donkey Kong Country 3: Dixie Kong's Double Trouble!",
+    "Song": "Rockface Rumble",
+    "Composers": "Eveline Fischer",
+    "Converters": "psych, goobbue, Wibdiwoh",
+    "Category": "bgm",
+    "Audio": "https://youtu.be/RReM-pHWKq4",
+    "Tags": [
+      "Exteriors",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Thu Jun 19 2025 23:38:20 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Donkey Kong Country 3 Dixie Kongs Double Trouble/Rockface Rumble.bin",
+    "Duration": 70.2
   }
 ]
