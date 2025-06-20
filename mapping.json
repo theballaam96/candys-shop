@@ -40006,5 +40006,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Kingdom%20Hearts%20II/Reviving%20Hallow%20Bastion.mp3",
     "Binary": "binaries/Kingdom Hearts II/Reviving Hallow Bastion.bin",
     "Duration": 119.87132345833335
+  },
+  {
+    "Game": "Donkey Kong",
+    "Song": "Stage Opening",
+    "Category": "events",
+    "Composers": "Yukio Kaneoka",
+    "Converters": "Schwartz Gandhi",
+    "Tags": [
+      "Spawning",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Fri Jun 20 2025 06:44:48 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Donkey%20Kong/Stage%20Opening.mp3",
+    "Binary": "binaries/Donkey Kong/Stage Opening.bin",
+    "Duration": 5.052632
   }
 ]
