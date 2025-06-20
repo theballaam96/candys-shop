@@ -39991,5 +39991,20 @@
     "Date": "Thu Jun 19 2025 23:38:20 GMT+0000 (Coordinated Universal Time)",
     "Binary": "binaries/Donkey Kong Country 3 Dixie Kongs Double Trouble/Rockface Rumble.bin",
     "Duration": 70.2
+  },
+  {
+    "Game": "Kingdom Hearts II",
+    "Song": "Reviving Hallow Bastion",
+    "Category": "bgm",
+    "Composers": "Yoko Shimomura",
+    "Converters": "Schwartz Gandhi",
+    "Tags": [
+      "Exteriors"
+    ],
+    "Verified": true,
+    "Date": "Fri Jun 20 2025 02:33:10 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Kingdom%20Hearts%20II/Reviving%20Hallow%20Bastion.mp3",
+    "Binary": "binaries/Kingdom Hearts II/Reviving Hallow Bastion.bin",
+    "Duration": 119.87132345833335
   }
 ]
