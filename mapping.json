@@ -40054,5 +40054,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Jet%20Force%20Gemini/Ichor.mp3",
     "Binary": "binaries/Jet Force Gemini/Ichor.bin",
     "Duration": 189.66861375
+  },
+  {
+    "Game": "Final Fantasy VII",
+    "Song": "Mako Reactor",
+    "Composers": "Nobuo Uematsu",
+    "Converters": "PotentiallyEvil",
+    "Category": "bgm",
+    "Tags": [
+      "Interiors",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Sun Jun 22 2025 17:11:47 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Final%20Fantasy%20VII/Mako%20Reactor.mp3",
+    "Binary": "binaries/Final Fantasy VII/Mako Reactor.bin",
+    "Duration": 96.021875
   }
 ]
