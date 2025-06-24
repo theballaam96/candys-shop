@@ -40086,5 +40086,80 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Deltarune/Its%20TV%20Time.mp3",
     "Binary": "binaries/Deltarune/Its TV Time.bin",
     "Duration": 165.354564375
+  },
+  {
+    "Game": "Yume Nikki",
+    "Song": "Flute 5",
+    "Category": "minoritems",
+    "Composers": "Kikiyama",
+    "Converters": "Schwartz Gandhi",
+    "Tags": [
+      "Collection"
+    ],
+    "Verified": true,
+    "Date": "Tue Jun 24 2025 15:29:13 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Yume%20Nikki/Flute%205.mp3",
+    "Binary": "binaries/Yume Nikki/Flute 5.bin",
+    "Duration": 0.43068217708333334
+  },
+  {
+    "Game": "Yume Nikki",
+    "Song": "Flute 4",
+    "Category": "minoritems",
+    "Composers": "Kikiyama",
+    "Converters": "Schwartz Gandhi",
+    "Tags": [
+      "Collection"
+    ],
+    "Verified": true,
+    "Date": "Tue Jun 24 2025 15:29:14 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Yume%20Nikki/Flute%204.mp3",
+    "Binary": "binaries/Yume Nikki/Flute 4.bin",
+    "Duration": 0.43068217708333334
+  },
+  {
+    "Game": "Yume Nikki",
+    "Song": "Flute 3",
+    "Category": "minoritems",
+    "Composers": "Kikiyama",
+    "Converters": "Schwartz Gandhi",
+    "Tags": [
+      "Collection"
+    ],
+    "Verified": true,
+    "Date": "Tue Jun 24 2025 15:29:14 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Yume%20Nikki/Flute%203.mp3",
+    "Binary": "binaries/Yume Nikki/Flute 3.bin",
+    "Duration": 0.43068217708333334
+  },
+  {
+    "Game": "Yume Nikki",
+    "Song": "Flute 2",
+    "Category": "minoritems",
+    "Composers": "Kikiyama",
+    "Converters": "Schwartz Gandhi",
+    "Tags": [
+      "Collection"
+    ],
+    "Verified": true,
+    "Date": "Tue Jun 24 2025 15:29:15 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Yume%20Nikki/Flute%202.mp3",
+    "Binary": "binaries/Yume Nikki/Flute 2.bin",
+    "Duration": 0.43068217708333334
+  },
+  {
+    "Game": "Yume Nikki",
+    "Song": "Flute 1",
+    "Category": "minoritems",
+    "Composers": "Kikiyama",
+    "Converters": "Schwartz Gandhi",
+    "Tags": [
+      "Collection"
+    ],
+    "Verified": true,
+    "Date": "Tue Jun 24 2025 15:29:16 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Yume%20Nikki/Flute%201.mp3",
+    "Binary": "binaries/Yume Nikki/Flute 1.bin",
+    "Duration": 0.43068217708333334
   }
 ]
