@@ -40070,5 +40070,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Final%20Fantasy%20VII/Mako%20Reactor.mp3",
     "Binary": "binaries/Final Fantasy VII/Mako Reactor.bin",
     "Duration": 96.021875
+  },
+  {
+    "Game": "Deltarune",
+    "Song": "It's TV Time!",
+    "Composers": "Toby Fox",
+    "Converters": "Cash Money",
+    "Category": "bgm",
+    "Tags": [
+      "Fights",
+      "Minigames"
+    ],
+    "Verified": true,
+    "Date": "Tue Jun 24 2025 15:25:01 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Deltarune/Its%20TV%20Time.mp3",
+    "Binary": "binaries/Deltarune/Its TV Time.bin",
+    "Duration": 165.354564375
   }
 ]
