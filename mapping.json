@@ -40178,5 +40178,20 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Phoenix%20Wright%20Ace%20Attorney/Investigation%20~%20Opening.mp3",
     "Binary": "binaries/Phoenix Wright Ace Attorney/Investigation ~ Opening.bin",
     "Duration": 48.0125
+  },
+  {
+    "Game": "Phoenix Wright: Ace Attorney",
+    "Song": "Trial",
+    "Composers": "Masakazu Sugimori",
+    "Converters": "OnlySpaghettiCode",
+    "Category": "bgm",
+    "Tags": [
+      "Interiors"
+    ],
+    "Verified": true,
+    "Date": "Thu Jun 26 2025 23:26:18 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Phoenix%20Wright%20Ace%20Attorney/Trial.mp3",
+    "Binary": "binaries/Phoenix Wright Ace Attorney/Trial.bin",
+    "Duration": 48
   }
 ]
