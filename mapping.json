@@ -40193,5 +40193,23 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Phoenix%20Wright%20Ace%20Attorney/Trial.mp3",
     "Binary": "binaries/Phoenix Wright Ace Attorney/Trial.bin",
     "Duration": 48
+  },
+  {
+    "Game": "The Legend of Zelda: Majora's Mask",
+    "Song": "Bomber Notebook Update",
+    "Composers": "Yoji Inagaki, Mitsuhiro Hikino, Takuya Maekawa",
+    "Converters": "The Sound Defense",
+    "Category": "majoritems",
+    "Additional Notes": "These three folks are credited with the sound effects for Majora's Mask.",
+    "Tags": [
+      "Spawning",
+      "Collection",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Sun Jun 29 2025 14:12:29 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/The%20Legend%20of%20Zelda%20Majoras%20Mask/Bomber%20Notebook%20Update.mp3",
+    "Binary": "binaries/The Legend of Zelda Majoras Mask/Bomber Notebook Update.bin",
+    "Duration": 1.071429
   }
 ]
