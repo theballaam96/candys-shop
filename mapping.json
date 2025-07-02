@@ -40211,5 +40211,22 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/The%20Legend%20of%20Zelda%20Majoras%20Mask/Bomber%20Notebook%20Update.mp3",
     "Binary": "binaries/The Legend of Zelda Majoras Mask/Bomber Notebook Update.bin",
     "Duration": 1.071429
+  },
+  {
+    "Game": "Undertale",
+    "Song": "Hopes and Dreams",
+    "Composers": "Toby Fox",
+    "Converters": "Cash Money",
+    "Category": "bgm",
+    "Additional Notes": "Donkey readies \"HYPER MOON KICK.\"",
+    "Tags": [
+      "Fights",
+      "stream-unsafe"
+    ],
+    "Verified": true,
+    "Date": "Wed Jul 02 2025 16:16:33 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Undertale/Hopes%20and%20Dreams.mp3",
+    "Binary": "binaries/Undertale/Hopes and Dreams.bin",
+    "Duration": 178.94727
   }
 ]
