@@ -40228,5 +40228,39 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Undertale/Hopes%20and%20Dreams.mp3",
     "Binary": "binaries/Undertale/Hopes and Dreams.bin",
     "Duration": 178.94727
+  },
+  {
+    "Game": "Undertale",
+    "Song": "Your Best Friend",
+    "Composers": "Toby Fox",
+    "Converters": "Cash Money",
+    "Category": "bgm",
+    "Tags": [
+      "Lobbies and Shops",
+      "stream-unsafe",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Wed Jul 02 2025 16:19:33 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Undertale/Your%20Best%20Friend.mp3",
+    "Binary": "binaries/Undertale/Your Best Friend.bin",
+    "Duration": 22.671372479166664
+  },
+  {
+    "Game": "Shuusou Gyoku",
+    "Song": "False Strawberry",
+    "Category": "bgm",
+    "Composers": "ZUN",
+    "Converters": "Schwartz Gandhi",
+    "Tags": [
+      "Exteriors",
+      "Happy"
+    ],
+    "Update Notes": "volume nerf and fixma preview",
+    "Verified": true,
+    "Date": "Wed Jul 02 2025 16:19:34 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Shuusou%20Gyoku/False%20Strawberry%20(REV%202).mp3",
+    "Binary": "binaries/Shuusou Gyoku/False Strawberry (REV 2).bin",
+    "Duration": 91.59518399999999
   }
 ]
