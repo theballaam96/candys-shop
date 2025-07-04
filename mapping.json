@@ -40280,5 +40280,56 @@
     "Date": "Fri Jul 04 2025 14:24:12 GMT+0000 (Coordinated Universal Time)",
     "Binary": "binaries/Super Metroid/Lower Brinstar.bin",
     "Duration": 125.241775875
+  },
+  {
+    "Game": "Ketsui: Kizuna Jigoku Tachi",
+    "Song": "NO REMORSE",
+    "Composers": "Manabu Namiki",
+    "Converters": "iveli_alpaca",
+    "Category": "bgm",
+    "Audio": "https://www.youtube.com/watch?v=yclDBJe8fgU",
+    "Tags": [
+      "Fights",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Fri Jul 04 2025 14:32:23 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Ketsui Kizuna Jigoku Tachi/NO REMORSE.bin",
+    "Duration": 105.596875
+  },
+  {
+    "Game": "Metroid Fusion",
+    "Song": "Final Mission",
+    "Composers": "Minako Hamano, Akira Fujiwara",
+    "Converters": "BashPrime",
+    "Category": "bgm",
+    "Audio": "https://www.youtube.com/watch?v=yZlF88Io0o4",
+    "Additional Notes": "Ripped from a Metroid Fusion ROM using VG Music Studio",
+    "Tags": [
+      "Interiors",
+      "Exteriors",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Fri Jul 04 2025 14:32:24 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Metroid Fusion/Final Mission.bin",
+    "Duration": 64.854876125
+  },
+  {
+    "Game": "OneShot",
+    "Song": "Phosphor",
+    "Composers": "Nightmargin",
+    "Converters": "iveli_alpaca",
+    "Category": "bgm",
+    "Audio": "https://www.youtube.com/watch?v=cGLv7UjMI94",
+    "Tags": [
+      "Interiors",
+      "Gloomy",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Fri Jul 04 2025 14:32:25 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/OneShot/Phosphor.bin",
+    "Duration": 191.99534371875
   }
 ]
