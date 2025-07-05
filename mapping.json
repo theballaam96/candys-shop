@@ -40211,5 +40211,125 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/The%20Legend%20of%20Zelda%20Majoras%20Mask/Bomber%20Notebook%20Update.mp3",
     "Binary": "binaries/The Legend of Zelda Majoras Mask/Bomber Notebook Update.bin",
     "Duration": 1.071429
+  },
+  {
+    "Game": "Undertale",
+    "Song": "Hopes and Dreams",
+    "Composers": "Toby Fox",
+    "Converters": "Cash Money",
+    "Category": "bgm",
+    "Additional Notes": "Donkey readies \"HYPER MOON KICK.\"",
+    "Tags": [
+      "Fights",
+      "stream-unsafe"
+    ],
+    "Verified": true,
+    "Date": "Wed Jul 02 2025 16:16:33 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Undertale/Hopes%20and%20Dreams.mp3",
+    "Binary": "binaries/Undertale/Hopes and Dreams.bin",
+    "Duration": 178.94727
+  },
+  {
+    "Game": "Undertale",
+    "Song": "Your Best Friend",
+    "Composers": "Toby Fox",
+    "Converters": "Cash Money",
+    "Category": "bgm",
+    "Tags": [
+      "Lobbies and Shops",
+      "stream-unsafe",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Wed Jul 02 2025 16:19:33 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Undertale/Your%20Best%20Friend.mp3",
+    "Binary": "binaries/Undertale/Your Best Friend.bin",
+    "Duration": 22.671372479166664
+  },
+  {
+    "Game": "Shuusou Gyoku",
+    "Song": "False Strawberry",
+    "Category": "bgm",
+    "Composers": "ZUN",
+    "Converters": "Schwartz Gandhi",
+    "Tags": [
+      "Exteriors",
+      "Happy"
+    ],
+    "Update Notes": "volume nerf and fixma preview",
+    "Verified": true,
+    "Date": "Wed Jul 02 2025 16:19:34 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Shuusou%20Gyoku/False%20Strawberry%20(REV%202).mp3",
+    "Binary": "binaries/Shuusou Gyoku/False Strawberry (REV 2).bin",
+    "Duration": 91.59518399999999
+  },
+  {
+    "Game": "Super Metroid",
+    "Song": "Lower Brinstar",
+    "Composers": "Kenji Yamamoto",
+    "Converters": "psych",
+    "Category": "bgm",
+    "Audio": "https://youtu.be/SO2bA-5mb_A",
+    "Tags": [
+      "Interiors",
+      "Exteriors",
+      "Gloomy",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Fri Jul 04 2025 14:24:12 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Super Metroid/Lower Brinstar.bin",
+    "Duration": 125.241775875
+  },
+  {
+    "Game": "Ketsui: Kizuna Jigoku Tachi",
+    "Song": "NO REMORSE",
+    "Composers": "Manabu Namiki",
+    "Converters": "iveli_alpaca",
+    "Category": "bgm",
+    "Audio": "https://www.youtube.com/watch?v=yclDBJe8fgU",
+    "Tags": [
+      "Fights",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Fri Jul 04 2025 14:32:23 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Ketsui Kizuna Jigoku Tachi/NO REMORSE.bin",
+    "Duration": 105.596875
+  },
+  {
+    "Game": "Metroid Fusion",
+    "Song": "Final Mission",
+    "Composers": "Minako Hamano, Akira Fujiwara",
+    "Converters": "BashPrime",
+    "Category": "bgm",
+    "Audio": "https://www.youtube.com/watch?v=yZlF88Io0o4",
+    "Additional Notes": "Ripped from a Metroid Fusion ROM using VG Music Studio",
+    "Tags": [
+      "Interiors",
+      "Exteriors",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Fri Jul 04 2025 14:32:24 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Metroid Fusion/Final Mission.bin",
+    "Duration": 64.854876125
+  },
+  {
+    "Game": "OneShot",
+    "Song": "Phosphor",
+    "Composers": "Nightmargin",
+    "Converters": "iveli_alpaca",
+    "Category": "bgm",
+    "Audio": "https://www.youtube.com/watch?v=cGLv7UjMI94",
+    "Tags": [
+      "Interiors",
+      "Gloomy",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Fri Jul 04 2025 14:32:25 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/OneShot/Phosphor.bin",
+    "Duration": 191.99534371875
   }
 ]
