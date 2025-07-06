@@ -40347,5 +40347,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Sonic%20the%20Hedgehog%202/Hill%20Top%20Zone.mp3",
     "Binary": "binaries/Sonic the Hedgehog 2/Hill Top Zone.bin",
     "Duration": 43.243280000000006
+  },
+  {
+    "Game": "Ratchet & Clank",
+    "Song": "Logging Site, Eudora",
+    "Composers": "David Bergeaud",
+    "Converters": "iveli_alpaca",
+    "Category": "bgm",
+    "Audio": "https://www.youtube.com/watch?v=pFxiAY7HAfM",
+    "Tags": [
+      "Exteriors",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Sun Jul 06 2025 23:12:16 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Ratchet  Clank/Logging Site, Eudora.bin",
+    "Duration": 119.04499999999999
   }
 ]
