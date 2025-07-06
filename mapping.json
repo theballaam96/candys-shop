@@ -40331,5 +40331,21 @@
     "Date": "Fri Jul 04 2025 14:32:25 GMT+0000 (Coordinated Universal Time)",
     "Binary": "binaries/OneShot/Phosphor.bin",
     "Duration": 191.99534371875
+  },
+  {
+    "Game": "Sonic the Hedgehog 2",
+    "Song": "Hill Top Zone",
+    "Composers": "Masato Nakamura",
+    "Converters": "The Sound Defense",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Sun Jul 06 2025 04:58:23 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Sonic%20the%20Hedgehog%202/Hill%20Top%20Zone.mp3",
+    "Binary": "binaries/Sonic the Hedgehog 2/Hill Top Zone.bin",
+    "Duration": 43.243280000000006
   }
 ]
