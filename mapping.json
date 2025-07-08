@@ -40460,5 +40460,20 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Kingdom%20Hearts%20II/Rowdy%20Rumble.mp3",
     "Binary": "binaries/Kingdom Hearts II/Rowdy Rumble.bin",
     "Duration": 78.06816099999999
+  },
+  {
+    "Game": "Ottifanten: Kommando Stoertebeker",
+    "Song": "Game Over",
+    "Composers": "Stello Doussis",
+    "Converters": "psych",
+    "Category": "events",
+    "Tags": [
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Tue Jul 08 2025 21:21:25 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Ottifanten%20Kommando%20Stoertebeker/Game%20Over.mp3",
+    "Binary": "binaries/Ottifanten Kommando Stoertebeker/Game Over.bin",
+    "Duration": 4.7039403125
   }
 ]
