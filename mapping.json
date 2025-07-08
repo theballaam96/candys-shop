@@ -40475,5 +40475,145 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Ottifanten%20Kommando%20Stoertebeker/Game%20Over.mp3",
     "Binary": "binaries/Ottifanten Kommando Stoertebeker/Game Over.bin",
     "Duration": 4.7039403125
+  },
+  {
+    "Game": "Ottifanten: Kommando Stoertebeker",
+    "Song": "Victory Jingle 3",
+    "Composers": "Stello Doussis",
+    "Converters": "Wibdiwoh",
+    "Category": "events",
+    "Audio": "https://www.youtube.com/watch?v=8kbpmN142xo",
+    "Tags": [
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Tue Jul 08 2025 21:26:36 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Ottifanten Kommando Stoertebeker/Victory Jingle 3.bin",
+    "Duration": 2.0398764166666665
+  },
+  {
+    "Game": "Ottifanten: Kommando Stoertebeker",
+    "Song": "Victory Jingle 2",
+    "Composers": "Stello Doussis",
+    "Converters": "Wibdiwoh",
+    "Category": "events",
+    "Audio": "https://www.youtube.com/watch?v=dK_W54_1xls",
+    "Tags": [
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Tue Jul 08 2025 21:26:37 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Ottifanten Kommando Stoertebeker/Victory Jingle 2.bin",
+    "Duration": 0.9138661249999999
+  },
+  {
+    "Game": "Ottifanten: Kommando Stoertebeker",
+    "Song": "Victory Jingle 1",
+    "Composers": "Stello Doussis",
+    "Converters": "Wibdiwoh",
+    "Category": "events",
+    "Audio": "https://www.youtube.com/watch?v=ze89uomZiE0",
+    "Tags": [
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Tue Jul 08 2025 21:26:38 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Ottifanten Kommando Stoertebeker/Victory Jingle 1.bin",
+    "Duration": 1.8638382916666667
+  },
+  {
+    "Game": "Ottifanten: Kommando Stoertebeker",
+    "Song": "Underground Theme",
+    "Composers": "Stello Doussis",
+    "Converters": "Wibdiwoh",
+    "Category": "bgm",
+    "Audio": "https://www.youtube.com/watch?v=OTW2HfBhM3g",
+    "Tags": [
+      "Interiors",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Tue Jul 08 2025 21:26:38 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Ottifanten Kommando Stoertebeker/Underground Theme.bin",
+    "Duration": 48.95319964583334
+  },
+  {
+    "Game": "Ottifanten: Kommando Stoertebeker",
+    "Song": "Der Zoo",
+    "Composers": "Stello Doussis",
+    "Converters": "The Sound Defense",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors",
+      "Minigames"
+    ],
+    "Verified": true,
+    "Date": "Tue Jul 08 2025 21:26:39 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Ottifanten%20Kommando%20Stoertebeker/Der%20Zoo.mp3",
+    "Binary": "binaries/Ottifanten Kommando Stoertebeker/Der Zoo.bin",
+    "Duration": 56.312928
+  },
+  {
+    "Game": "Ottifanten: Kommando Stoertebeker",
+    "Song": "Der Stadpark",
+    "Composers": "Stello Doussis",
+    "Converters": "SirEnobMort",
+    "Category": "bgm",
+    "Tags": [
+      "Minigames",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Tue Jul 08 2025 21:26:40 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Ottifanten%20Kommando%20Stoertebeker/Der%20Stadpark.mp3",
+    "Binary": "binaries/Ottifanten Kommando Stoertebeker/Der Stadpark.bin",
+    "Duration": 68.71354166666667
+  },
+  {
+    "Game": "Ottifanten: Kommando Stoertebeker",
+    "Song": "Die Vorstadt",
+    "Composers": "Stello Doussis",
+    "Converters": "Wibdiwoh",
+    "Category": "bgm",
+    "Audio": "https://www.youtube.com/watch?v=_tBpM9oVeFc",
+    "Tags": [
+      "Exteriors",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Tue Jul 08 2025 21:26:41 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Ottifanten Kommando Stoertebeker/Die Vorstadt.bin",
+    "Duration": 101.2451171875
+  },
+  {
+    "Game": "Ottifanten: Kommando Stoertebeker",
+    "Song": "Das Haus der Bommels",
+    "Composers": "Stello Doussis",
+    "Converters": "Cash Money",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors"
+    ],
+    "Verified": true,
+    "Date": "Tue Jul 08 2025 21:26:41 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Ottifanten%20Kommando%20Stoertebeker/Das%20Haus%20der%20Bommels.mp3",
+    "Binary": "binaries/Ottifanten Kommando Stoertebeker/Das Haus der Bommels.bin",
+    "Duration": 52.903284
+  },
+  {
+    "Game": "Ottifanten: Kommando Stoertebeker",
+    "Song": "Main Theme",
+    "Composers": "Stello Doussis",
+    "Converters": "iveli_alpaca",
+    "Category": "bgm",
+    "Audio": "https://www.youtube.com/watch?v=yp3U0n4A7N4",
+    "Tags": [
+      "Exteriors",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Tue Jul 08 2025 21:26:42 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Ottifanten Kommando Stoertebeker/Main Theme.bin",
+    "Duration": 39.596875000000004
   }
 ]
