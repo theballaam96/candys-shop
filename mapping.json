@@ -40363,5 +40363,21 @@
     "Date": "Sun Jul 06 2025 23:12:16 GMT+0000 (Coordinated Universal Time)",
     "Binary": "binaries/Ratchet  Clank/Logging Site, Eudora.bin",
     "Duration": 119.04499999999999
+  },
+  {
+    "Game": "Donkey Kong Country 2: Diddy's Kong Quest",
+    "Song": "Krook's March",
+    "Composers": "David Wise",
+    "Converters": "64Calculators",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Tue Jul 08 2025 03:07:38 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Donkey%20Kong%20Country%202%20Diddys%20Kong%20Quest/Krooks%20March.mp3",
+    "Binary": "binaries/Donkey Kong Country 2 Diddys Kong Quest/Krooks March.bin",
+    "Duration": 105.72679999999998
   }
 ]
