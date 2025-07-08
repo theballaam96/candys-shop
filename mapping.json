@@ -40379,5 +40379,69 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Donkey%20Kong%20Country%202%20Diddys%20Kong%20Quest/Krooks%20March.mp3",
     "Binary": "binaries/Donkey Kong Country 2 Diddys Kong Quest/Krooks March.bin",
     "Duration": 105.72679999999998
+  },
+  {
+    "Game": "Mario + Rabbids: Kingdom Battle",
+    "Song": "Before the Battle (Spooky Trails)",
+    "Composers": "Grant Kirkhope",
+    "Converters": "LBFrank",
+    "Category": "bgm",
+    "Tags": [
+      "Lobbies and Shops",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Tue Jul 08 2025 03:09:54 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Mario%20%20Rabbids%20Kingdom%20Battle/Before%20the%20Battle%20(Spooky%20Trails).mp3",
+    "Binary": "binaries/Mario  Rabbids Kingdom Battle/Before the Battle (Spooky Trails).bin",
+    "Duration": 29.419372
+  },
+  {
+    "Game": "Mario Party 3",
+    "Song": "Rules Map",
+    "Composers": "Ichiro Shimakura",
+    "Converters": "Altermentality",
+    "Category": "bgm",
+    "Audio": "https://youtu.be/s-WeFQsbaWY",
+    "Tags": [
+      "Interiors",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Tue Jul 08 2025 03:09:54 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Mario Party 3/Rules Map.bin",
+    "Duration": 26.557752
+  },
+  {
+    "Game": "Quake",
+    "Song": "25 Health Pickup",
+    "Composers": "Trent Reznor",
+    "Converters": "iveli_alpaca",
+    "Category": "minoritems",
+    "Tags": [
+      "Collection",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Tue Jul 08 2025 03:09:55 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Quake/25%20Health%20Pickup.mp3",
+    "Binary": "binaries/Quake/25 Health Pickup.bin",
+    "Duration": 0.5048071875
+  },
+  {
+    "Game": "Goldeneye 007",
+    "Song": "Statue",
+    "Composers": "Grant Kirkhope",
+    "Converters": "LBFrank",
+    "Category": "bgm",
+    "Tags": [
+      "Interiors",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Tue Jul 08 2025 03:09:56 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Goldeneye%20007/Statue.mp3",
+    "Binary": "binaries/Goldeneye 007/Statue.bin",
+    "Duration": 100.399388125
   }
 ]
