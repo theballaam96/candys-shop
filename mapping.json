@@ -40617,5 +40617,21 @@
     "Date": "Tue Jul 08 2025 21:26:42 GMT+0000 (Coordinated Universal Time)",
     "Binary": "binaries/Ottifanten Kommando Stoertebeker/Main Theme.bin",
     "Duration": 39.596875000000004
+  },
+  {
+    "Game": "The Legend of Zelda: A Link to the Past",
+    "Song": "Lost Ancient Ruins",
+    "Composers": "Koji Kondo",
+    "Converters": "64Calculators",
+    "Category": "bgm",
+    "Tags": [
+      "Interiors",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Thu Jul 10 2025 18:37:12 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/The%20Legend%20of%20Zelda%20A%20Link%20to%20the%20Past/Lost%20Ancient%20Ruins.mp3",
+    "Binary": "binaries/The Legend of Zelda A Link to the Past/Lost Ancient Ruins.bin",
+    "Duration": 72.125352
   }
 ]
