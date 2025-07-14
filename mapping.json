@@ -1683,7 +1683,10 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Other/Im%20Loving%20It%20%28McDonalds%29%20by%20UmedMuzl.mp3",
     "Duration": 2.2629687562500003,
     "Tracks": 1,
-    "Verified": true
+    "Verified": true,
+    "Tags": [
+      "grandfathered"
+    ]
   },
   {
     "Game": "Other",
@@ -1695,7 +1698,10 @@
     "Audio": "https://www.youtube.com/watch?v=O7PdvglVTcs",
     "Duration": 6.272720999999997,
     "Tracks": 4,
-    "Verified": true
+    "Verified": true,
+    "Tags": [
+      "grandfathered"
+    ]
   },
   {
     "Game": "Other",
@@ -1745,7 +1751,8 @@
     "Tracks": 8,
     "Tags": [
       "Minigames",
-      "Delisted"
+      "Delisted",
+      "grandfathered"
     ],
     "Verified": true
   },
@@ -1759,7 +1766,10 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Other/Stanley%20Steemer%20Jingle%20by%20UmedMuzl.mp3",
     "Duration": 2.64930290625,
     "Tracks": 1,
-    "Verified": true
+    "Verified": true,
+    "Tags": [
+      "grandfathered"
+    ]
   },
   {
     "Game": "Consoles and BIOS",
