@@ -40662,5 +40662,38 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Deltarune/Bergentrucking.mp3",
     "Binary": "binaries/Deltarune/Bergentrucking.bin",
     "Duration": 2.9973958333333335
+  },
+  {
+    "Game": "Deltarune",
+    "Song": "Ominous (Worse)",
+    "Composers": "Toby Fox",
+    "Converters": "iveli_alpaca",
+    "Category": "events",
+    "Tags": [
+      "Spawning",
+      "Collection",
+      "stream-unsafe"
+    ],
+    "Verified": true,
+    "Date": "Wed Jul 16 2025 08:08:38 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Deltarune/Ominous%20(Worse).mp3",
+    "Binary": "binaries/Deltarune/Ominous (Worse).bin",
+    "Duration": 5.6841159375000005
+  },
+  {
+    "Game": "Illbleed",
+    "Song": "The Park",
+    "Composers": "Yukimori Kikuchi",
+    "Converters": "iveli_alpaca",
+    "Category": "bgm",
+    "Audio": "https://www.youtube.com/watch?v=w4zLhXfXb58",
+    "Tags": [
+      "Lobbies and Shops",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Wed Jul 16 2025 08:08:39 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Illbleed/The Park.bin",
+    "Duration": 43.994791666666664
   }
 ]
