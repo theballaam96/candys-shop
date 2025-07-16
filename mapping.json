@@ -40644,5 +40644,23 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/The%20Legend%20of%20Zelda%20A%20Link%20to%20the%20Past/Lost%20Ancient%20Ruins.mp3",
     "Binary": "binaries/The Legend of Zelda A Link to the Past/Lost Ancient Ruins.bin",
     "Duration": 72.125352
+  },
+  {
+    "Game": "Deltarune",
+    "Song": "Bergentrucking",
+    "Composers": "Toby Fox",
+    "Converters": "iveli_alpaca",
+    "Category": "majoritems",
+    "Additional Notes": "The king's chariot cannot be stopped",
+    "Tags": [
+      "Collection",
+      "Happy",
+      "stream-unsafe"
+    ],
+    "Verified": true,
+    "Date": "Wed Jul 16 2025 08:04:31 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Deltarune/Bergentrucking.mp3",
+    "Binary": "binaries/Deltarune/Bergentrucking.bin",
+    "Duration": 2.9973958333333335
   }
 ]
