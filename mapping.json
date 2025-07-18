@@ -40710,5 +40710,22 @@
     "Date": "Fri Jul 18 2025 23:27:53 GMT+0000 (Coordinated Universal Time)",
     "Binary": "binaries/Super Smash Bros/Yoshis Island.bin",
     "Duration": 58.288920447916674
+  },
+  {
+    "Game": "Undertale",
+    "Song": "snd_mysterygo",
+    "Composers": "Toby Fox",
+    "Converters": "Cash Money",
+    "Category": "majoritems",
+    "Additional Notes": "INTERESTING.",
+    "Tags": [
+      "Collection",
+      "stream-unsafe"
+    ],
+    "Verified": true,
+    "Date": "Fri Jul 18 2025 23:31:56 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Undertale/snd_mysterygo.mp3",
+    "Binary": "binaries/Undertale/snd_mysterygo.bin",
+    "Duration": 2.1666677500000002
   }
 ]
