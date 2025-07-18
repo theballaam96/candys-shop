@@ -1683,7 +1683,10 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Other/Im%20Loving%20It%20%28McDonalds%29%20by%20UmedMuzl.mp3",
     "Duration": 2.2629687562500003,
     "Tracks": 1,
-    "Verified": true
+    "Verified": true,
+    "Tags": [
+      "grandfathered"
+    ]
   },
   {
     "Game": "Other",
@@ -1695,7 +1698,10 @@
     "Audio": "https://www.youtube.com/watch?v=O7PdvglVTcs",
     "Duration": 6.272720999999997,
     "Tracks": 4,
-    "Verified": true
+    "Verified": true,
+    "Tags": [
+      "grandfathered"
+    ]
   },
   {
     "Game": "Other",
@@ -1745,7 +1751,8 @@
     "Tracks": 8,
     "Tags": [
       "Minigames",
-      "Delisted"
+      "Delisted",
+      "grandfathered"
     ],
     "Verified": true
   },
@@ -1759,7 +1766,10 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Other/Stanley%20Steemer%20Jingle%20by%20UmedMuzl.mp3",
     "Duration": 2.64930290625,
     "Tracks": 1,
-    "Verified": true
+    "Verified": true,
+    "Tags": [
+      "grandfathered"
+    ]
   },
   {
     "Game": "Consoles and BIOS",
@@ -7227,7 +7237,8 @@
     "Tracks": 7,
     "Tags": [
       "Happy",
-      "Spawning"
+      "Spawning",
+      "grandfathered"
     ],
     "Update of": 106,
     "Verified": true
@@ -40633,5 +40644,55 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/The%20Legend%20of%20Zelda%20A%20Link%20to%20the%20Past/Lost%20Ancient%20Ruins.mp3",
     "Binary": "binaries/The Legend of Zelda A Link to the Past/Lost Ancient Ruins.bin",
     "Duration": 72.125352
+  },
+  {
+    "Game": "Deltarune",
+    "Song": "Bergentrucking",
+    "Composers": "Toby Fox",
+    "Converters": "iveli_alpaca",
+    "Category": "majoritems",
+    "Additional Notes": "The king's chariot cannot be stopped",
+    "Tags": [
+      "Collection",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Wed Jul 16 2025 08:04:31 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Deltarune/Bergentrucking.mp3",
+    "Binary": "binaries/Deltarune/Bergentrucking.bin",
+    "Duration": 2.9973958333333335
+  },
+  {
+    "Game": "Deltarune",
+    "Song": "Ominous (Worse)",
+    "Composers": "Toby Fox",
+    "Converters": "iveli_alpaca",
+    "Category": "events",
+    "Tags": [
+      "Spawning",
+      "Collection",
+      "stream-unsafe"
+    ],
+    "Verified": true,
+    "Date": "Wed Jul 16 2025 08:08:38 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Deltarune/Ominous%20(Worse).mp3",
+    "Binary": "binaries/Deltarune/Ominous (Worse).bin",
+    "Duration": 5.6841159375000005
+  },
+  {
+    "Game": "Illbleed",
+    "Song": "The Park",
+    "Composers": "Yukimori Kikuchi",
+    "Converters": "iveli_alpaca",
+    "Category": "bgm",
+    "Audio": "https://www.youtube.com/watch?v=w4zLhXfXb58",
+    "Tags": [
+      "Lobbies and Shops",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Wed Jul 16 2025 08:08:39 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Illbleed/The Park.bin",
+    "Duration": 43.994791666666664
   }
 ]
