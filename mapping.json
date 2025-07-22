@@ -40727,5 +40727,20 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Undertale/snd_mysterygo.mp3",
     "Binary": "binaries/Undertale/snd_mysterygo.bin",
     "Duration": 2.1666677500000002
+  },
+  {
+    "Game": "Super Mario Kart",
+    "Song": "Bowser's Castle",
+    "Composers": "Soyo Oka",
+    "Converters": "psych",
+    "Category": "bgm",
+    "Audio": "https://youtu.be/qItfaQbFyCI",
+    "Tags": [
+      "Fights"
+    ],
+    "Verified": true,
+    "Date": "Tue Jul 22 2025 15:04:38 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Super Mario Kart/Bowsers Castle.bin",
+    "Duration": 38.57642414583334
   }
 ]
