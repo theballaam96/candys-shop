@@ -40742,5 +40742,21 @@
     "Date": "Tue Jul 22 2025 15:04:38 GMT+0000 (Coordinated Universal Time)",
     "Binary": "binaries/Super Mario Kart/Bowsers Castle.bin",
     "Duration": 38.57642414583334
+  },
+  {
+    "Game": "Mega Man 6",
+    "Song": "Plant Man Stage",
+    "Composers": "Yuko Takehara",
+    "Converters": "64Calculators",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Thu Jul 24 2025 14:56:50 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Mega%20Man%206/Plant%20Man%20Stage.mp3",
+    "Binary": "binaries/Mega Man 6/Plant Man Stage.bin",
+    "Duration": 47.99995199999999
   }
 ]
