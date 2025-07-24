@@ -40758,5 +40758,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Mega%20Man%206/Plant%20Man%20Stage.mp3",
     "Binary": "binaries/Mega Man 6/Plant Man Stage.bin",
     "Duration": 47.99995199999999
+  },
+  {
+    "Game": "Resident Evil 2 (2019)",
+    "Song": "Looming Dread",
+    "Composers": "Kentaro Nakajima",
+    "Converters": "iveli_alpaca",
+    "Category": "bgm",
+    "Audio": "https://www.youtube.com/watch?v=d0Q4ve6OH7Q",
+    "Tags": [
+      "Minigames",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Thu Jul 24 2025 14:59:29 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Resident Evil 2 (2019)/Looming Dread.bin",
+    "Duration": 101.24609375
   }
 ]
