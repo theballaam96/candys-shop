@@ -40839,5 +40839,20 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Kingdom%20Hearts%20II/Rowdy%20Rumble%20(REV%201).mp3",
     "Binary": "binaries/Kingdom Hearts II/Rowdy Rumble (REV 1).bin",
     "Duration": 78.06816099999999
+  },
+  {
+    "Game": "Kingdom Hearts II",
+    "Song": "Dance of the Daring",
+    "Category": "bgm",
+    "Composers": "Yoko Shimomura",
+    "Converters": "Schwartz Gandhi",
+    "Tags": [
+      "Fights"
+    ],
+    "Verified": true,
+    "Date": "Thu Jul 31 2025 01:51:29 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Kingdom%20Hearts%20II/Dance%20of%20the%20Daring.mp3",
+    "Binary": "binaries/Kingdom Hearts II/Dance of the Daring.bin",
+    "Duration": 50.017401125000006
   }
 ]
