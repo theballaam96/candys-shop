@@ -40774,5 +40774,21 @@
     "Date": "Thu Jul 24 2025 14:59:29 GMT+0000 (Coordinated Universal Time)",
     "Binary": "binaries/Resident Evil 2 (2019)/Looming Dread.bin",
     "Duration": 101.24609375
+  },
+  {
+    "Game": "Banjo-Kazooie",
+    "Song": "Inside Clanker",
+    "Category": "bgm",
+    "Composers": "Grant Kirkhope",
+    "Converters": "Schwartz Gandhi",
+    "Tags": [
+      "Interiors",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Thu Jul 31 2025 01:39:23 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Banjo-Kazooie/Inside%20Clanker.mp3",
+    "Binary": "binaries/Banjo-Kazooie/Inside Clanker.bin",
+    "Duration": 128.7262
   }
 ]
