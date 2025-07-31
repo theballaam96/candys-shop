@@ -40854,5 +40854,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Kingdom%20Hearts%20II/Dance%20of%20the%20Daring.mp3",
     "Binary": "binaries/Kingdom Hearts II/Dance of the Daring.bin",
     "Duration": 50.017401125000006
+  },
+  {
+    "Game": "Super Mario Land 2: 6 Golden Coins",
+    "Song": "Athletic",
+    "Composers": "Kazumi Totaka",
+    "Converters": "OnlySpaghettiCode",
+    "Category": "bgm",
+    "Tags": [
+      "Minigames",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Thu Jul 31 2025 02:00:42 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Super%20Mario%20Land%202%206%20Golden%20Coins/Athletic.mp3",
+    "Binary": "binaries/Super Mario Land 2 6 Golden Coins/Athletic.bin",
+    "Duration": 53.15861463541666
   }
 ]
