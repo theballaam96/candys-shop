@@ -40806,5 +40806,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Banjo-Kazooie/Inside%20the%20Mansion.mp3",
     "Binary": "binaries/Banjo-Kazooie/Inside the Mansion.bin",
     "Duration": 128.71022971354165
+  },
+  {
+    "Game": "Banjo-Kazooie",
+    "Song": "Tumblar's Shed",
+    "Category": "bgm",
+    "Composers": "Grant Kirkhope",
+    "Converters": "Schwartz Gandhi",
+    "Tags": [
+      "Interiors",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Thu Jul 31 2025 01:42:55 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Banjo-Kazooie/Tumblars%20Shed.mp3",
+    "Binary": "binaries/Banjo-Kazooie/Tumblars Shed.bin",
+    "Duration": 106.99910833333333
   }
 ]
