@@ -40870,5 +40870,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Super%20Mario%20Land%202%206%20Golden%20Coins/Athletic.mp3",
     "Binary": "binaries/Super Mario Land 2 6 Golden Coins/Athletic.bin",
     "Duration": 53.15861463541666
+  },
+  {
+    "Game": "Yu-Gi-Oh! The Sacred Cards",
+    "Song": "Yami Marik Duel",
+    "Composers": "Norihiko Hibino, Sotaro Tojima",
+    "Converters": "HavenKnight93",
+    "Category": "bgm",
+    "Tags": [
+      "Fights",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Thu Jul 31 2025 02:30:44 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Yu-Gi-Oh%20The%20Sacred%20Cards/Yami%20Marik%20Duel.mp3",
+    "Binary": "binaries/Yu-Gi-Oh The Sacred Cards/Yami Marik Duel.bin",
+    "Duration": 63.91227375
   }
 ]
