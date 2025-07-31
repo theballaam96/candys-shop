@@ -40790,5 +40790,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Banjo-Kazooie/Inside%20Clanker.mp3",
     "Binary": "binaries/Banjo-Kazooie/Inside Clanker.bin",
     "Duration": 128.7262
+  },
+  {
+    "Game": "Banjo-Kazooie",
+    "Song": "Inside the Mansion",
+    "Category": "bgm",
+    "Composers": "Grant Kirkhope",
+    "Converters": "Schwartz Gandhi",
+    "Tags": [
+      "Interiors",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Thu Jul 31 2025 01:41:02 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Banjo-Kazooie/Inside%20the%20Mansion.mp3",
+    "Binary": "binaries/Banjo-Kazooie/Inside the Mansion.bin",
+    "Duration": 128.71022971354165
   }
 ]
