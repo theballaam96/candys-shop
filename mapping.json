@@ -40902,5 +40902,68 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Mega%20Man%206/Yamato%20Man.mp3",
     "Binary": "binaries/Mega Man 6/Yamato Man.bin",
     "Duration": 53
+  },
+  {
+    "Game": "Donkey Kong Country 3: Dixie Kong's Double Trouble!",
+    "Song": "Nuts and Bolts",
+    "Composers": "Eveline Fischer",
+    "Converters": "Wibdiwoh",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Sat Aug 02 2025 16:52:00 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Donkey%20Kong%20Country%203%20Dixie%20Kongs%20Double%20Trouble/Nuts%20and%20Bolts.mp3",
+    "Binary": "binaries/Donkey Kong Country 3 Dixie Kongs Double Trouble/Nuts and Bolts.bin",
+    "Duration": 73.83932386458332
+  },
+  {
+    "Game": "Donkey Kong Country",
+    "Song": "Treetop Rock",
+    "Composers": "Eveline Fischer",
+    "Converters": "Wibdiwoh",
+    "Category": "bgm",
+    "Tags": [
+      "Interiors"
+    ],
+    "Verified": true,
+    "Date": "Sat Aug 02 2025 16:52:01 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Donkey%20Kong%20Country/Treetop%20Rock.mp3",
+    "Binary": "binaries/Donkey Kong Country/Treetop Rock.bin",
+    "Duration": 89.40559255208335
+  },
+  {
+    "Game": "Donkey Kong Country",
+    "Song": "Ice Cave Chant",
+    "Composers": "Eveline Fischer",
+    "Converters": "Wibdiwoh",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors"
+    ],
+    "Verified": true,
+    "Date": "Sat Aug 02 2025 16:52:02 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Donkey%20Kong%20Country/Ice%20Cave%20Chant.mp3",
+    "Binary": "binaries/Donkey Kong Country/Ice Cave Chant.bin",
+    "Duration": 112.143758875
+  },
+  {
+    "Game": "Mega Man 6",
+    "Song": "Flame Man",
+    "Composers": "Yuko Takehara",
+    "Converters": "64Calculators",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors",
+      "Happy",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Sat Aug 02 2025 16:52:02 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Mega%20Man%206/Flame%20Man.mp3",
+    "Binary": "binaries/Mega Man 6/Flame Man.bin",
+    "Duration": 63.80122599999999
   }
 ]
