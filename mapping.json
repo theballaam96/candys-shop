@@ -40886,5 +40886,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Yu-Gi-Oh%20The%20Sacred%20Cards/Yami%20Marik%20Duel.mp3",
     "Binary": "binaries/Yu-Gi-Oh The Sacred Cards/Yami Marik Duel.bin",
     "Duration": 63.91227375
+  },
+  {
+    "Game": "Mega Man 6",
+    "Song": "Yamato Man",
+    "Composers": "Yuko Takehara",
+    "Converters": "64Calculators",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Sat Aug 02 2025 16:49:30 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Mega%20Man%206/Yamato%20Man.mp3",
+    "Binary": "binaries/Mega Man 6/Yamato Man.bin",
+    "Duration": 53
   }
 ]
