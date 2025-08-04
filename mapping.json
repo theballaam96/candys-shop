@@ -40727,5 +40727,243 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Undertale/snd_mysterygo.mp3",
     "Binary": "binaries/Undertale/snd_mysterygo.bin",
     "Duration": 2.1666677500000002
+  },
+  {
+    "Game": "Super Mario Kart",
+    "Song": "Bowser's Castle",
+    "Composers": "Soyo Oka",
+    "Converters": "psych",
+    "Category": "bgm",
+    "Audio": "https://youtu.be/qItfaQbFyCI",
+    "Tags": [
+      "Fights"
+    ],
+    "Verified": true,
+    "Date": "Tue Jul 22 2025 15:04:38 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Super Mario Kart/Bowsers Castle.bin",
+    "Duration": 38.57642414583334
+  },
+  {
+    "Game": "Mega Man 6",
+    "Song": "Plant Man",
+    "Composers": "Yuko Takehara",
+    "Converters": "64Calculators",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Thu Jul 24 2025 14:56:50 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Mega%20Man%206/Plant%20Man%20Stage.mp3",
+    "Binary": "binaries/Mega Man 6/Plant Man Stage.bin",
+    "Duration": 47.99995199999999
+  },
+  {
+    "Game": "Resident Evil 2 (2019)",
+    "Song": "Looming Dread",
+    "Composers": "Kentaro Nakajima",
+    "Converters": "iveli_alpaca",
+    "Category": "bgm",
+    "Audio": "https://www.youtube.com/watch?v=d0Q4ve6OH7Q",
+    "Tags": [
+      "Minigames",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Thu Jul 24 2025 14:59:29 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Resident Evil 2 (2019)/Looming Dread.bin",
+    "Duration": 101.24609375
+  },
+  {
+    "Game": "Banjo-Kazooie",
+    "Song": "Inside Clanker",
+    "Category": "bgm",
+    "Composers": "Grant Kirkhope",
+    "Converters": "Schwartz Gandhi",
+    "Tags": [
+      "Interiors",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Thu Jul 31 2025 01:39:23 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Banjo-Kazooie/Inside%20Clanker.mp3",
+    "Binary": "binaries/Banjo-Kazooie/Inside Clanker.bin",
+    "Duration": 128.7262
+  },
+  {
+    "Game": "Banjo-Kazooie",
+    "Song": "Inside the Mansion",
+    "Category": "bgm",
+    "Composers": "Grant Kirkhope",
+    "Converters": "Schwartz Gandhi",
+    "Tags": [
+      "Interiors",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Thu Jul 31 2025 01:41:02 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Banjo-Kazooie/Inside%20the%20Mansion.mp3",
+    "Binary": "binaries/Banjo-Kazooie/Inside the Mansion.bin",
+    "Duration": 128.71022971354165
+  },
+  {
+    "Game": "Banjo-Kazooie",
+    "Song": "Tumblar's Shed",
+    "Category": "bgm",
+    "Composers": "Grant Kirkhope",
+    "Converters": "Schwartz Gandhi",
+    "Tags": [
+      "Interiors",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Thu Jul 31 2025 01:42:55 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Banjo-Kazooie/Tumblars%20Shed.mp3",
+    "Binary": "binaries/Banjo-Kazooie/Tumblars Shed.bin",
+    "Duration": 106.99910833333333
+  },
+  {
+    "Game": "Kingdom Hearts II",
+    "Song": "Rowdy Rumble",
+    "Category": "bgm",
+    "Composers": "Yoko Shimomura",
+    "Converters": "Schwartz Gandhi",
+    "Tags": [
+      "Fights",
+      "Minigames"
+    ],
+    "Update Notes": "small stereo fix",
+    "Verified": true,
+    "Date": "Thu Jul 31 2025 01:49:54 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Kingdom%20Hearts%20II/Rowdy%20Rumble%20(REV%201).mp3",
+    "Binary": "binaries/Kingdom Hearts II/Rowdy Rumble (REV 1).bin",
+    "Duration": 78.06816099999999
+  },
+  {
+    "Game": "Kingdom Hearts II",
+    "Song": "Dance of the Daring",
+    "Category": "bgm",
+    "Composers": "Yoko Shimomura",
+    "Converters": "Schwartz Gandhi",
+    "Tags": [
+      "Fights"
+    ],
+    "Verified": true,
+    "Date": "Thu Jul 31 2025 01:51:29 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Kingdom%20Hearts%20II/Dance%20of%20the%20Daring.mp3",
+    "Binary": "binaries/Kingdom Hearts II/Dance of the Daring.bin",
+    "Duration": 50.017401125000006
+  },
+  {
+    "Game": "Super Mario Land 2: 6 Golden Coins",
+    "Song": "Athletic",
+    "Composers": "Kazumi Totaka",
+    "Converters": "OnlySpaghettiCode",
+    "Category": "bgm",
+    "Tags": [
+      "Minigames",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Thu Jul 31 2025 02:00:42 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Super%20Mario%20Land%202%206%20Golden%20Coins/Athletic.mp3",
+    "Binary": "binaries/Super Mario Land 2 6 Golden Coins/Athletic.bin",
+    "Duration": 53.15861463541666
+  },
+  {
+    "Game": "Yu-Gi-Oh! The Sacred Cards",
+    "Song": "Yami Marik Duel",
+    "Composers": "Norihiko Hibino, Sotaro Tojima",
+    "Converters": "HavenKnight93",
+    "Category": "bgm",
+    "Tags": [
+      "Fights",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Thu Jul 31 2025 02:30:44 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Yu-Gi-Oh%20The%20Sacred%20Cards/Yami%20Marik%20Duel.mp3",
+    "Binary": "binaries/Yu-Gi-Oh The Sacred Cards/Yami Marik Duel.bin",
+    "Duration": 63.91227375
+  },
+  {
+    "Game": "Mega Man 6",
+    "Song": "Yamato Man",
+    "Composers": "Yuko Takehara",
+    "Converters": "64Calculators",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Sat Aug 02 2025 16:49:30 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Mega%20Man%206/Yamato%20Man.mp3",
+    "Binary": "binaries/Mega Man 6/Yamato Man.bin",
+    "Duration": 53
+  },
+  {
+    "Game": "Donkey Kong Country 3: Dixie Kong's Double Trouble!",
+    "Song": "Nuts and Bolts",
+    "Composers": "Eveline Fischer",
+    "Converters": "Wibdiwoh",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Sat Aug 02 2025 16:52:00 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://www.youtube.com/watch?v=MBECZa7VZhI",
+    "Binary": "binaries/Donkey Kong Country 3 Dixie Kongs Double Trouble/Nuts and Bolts.bin",
+    "Duration": 73.83932386458332
+  },
+  {
+    "Game": "Donkey Kong Country",
+    "Song": "Treetop Rock",
+    "Composers": "Eveline Fischer",
+    "Converters": "Wibdiwoh",
+    "Category": "bgm",
+    "Tags": [
+      "Interiors"
+    ],
+    "Verified": true,
+    "Date": "Sat Aug 02 2025 16:52:01 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://www.youtube.com/watch?v=AZWL2oIeRZk",
+    "Binary": "binaries/Donkey Kong Country/Treetop Rock.bin",
+    "Duration": 89.40559255208335
+  },
+  {
+    "Game": "Donkey Kong Country",
+    "Song": "Ice Cave Chant",
+    "Composers": "Eveline Fischer",
+    "Converters": "Wibdiwoh",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors"
+    ],
+    "Verified": true,
+    "Date": "Sat Aug 02 2025 16:52:02 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://www.youtube.com/watch?v=a3oYOTUdwQ4",
+    "Binary": "binaries/Donkey Kong Country/Ice Cave Chant.bin",
+    "Duration": 112.143758875
+  },
+  {
+    "Game": "Mega Man 6",
+    "Song": "Flame Man",
+    "Composers": "Yuko Takehara",
+    "Converters": "64Calculators",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors",
+      "Happy",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Sat Aug 02 2025 16:52:02 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Mega%20Man%206/Flame%20Man.mp3",
+    "Binary": "binaries/Mega Man 6/Flame Man.bin",
+    "Duration": 63.80122599999999
   }
 ]
