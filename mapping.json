@@ -40965,5 +40965,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Mega%20Man%206/Flame%20Man.mp3",
     "Binary": "binaries/Mega Man 6/Flame Man.bin",
     "Duration": 63.80122599999999
+  },
+  {
+    "Game": "Super Mario World",
+    "Song": "Star Road",
+    "Composers": "Koji Kondo",
+    "Converters": "psych",
+    "Category": "bgm",
+    "Tags": [
+      "Lobbies and Shops",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Tue Aug 05 2025 00:17:52 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Super%20Mario%20World/Star%20Road.mp3",
+    "Binary": "binaries/Super Mario World/Star Road.bin",
+    "Duration": 11.79648
   }
 ]
