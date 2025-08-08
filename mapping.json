@@ -41014,5 +41014,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Super%20Mario%20World/Vanilla%20Dome.mp3",
     "Binary": "binaries/Super Mario World/Vanilla Dome.bin",
     "Duration": 22.440214875
+  },
+  {
+    "Game": "The Legend of Zelda: Ocarina of Time",
+    "Song": "Title Theme",
+    "Composers": "Koji Kondo",
+    "Converters": "OnlySpaghettiCode",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Fri Aug 08 2025 08:37:48 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/The%20Legend%20of%20Zelda%20Ocarina%20of%20Time/Title%20Theme.mp3",
+    "Binary": "binaries/The Legend of Zelda Ocarina of Time/Title Theme.bin",
+    "Duration": 75.51083794791666
   }
 ]
