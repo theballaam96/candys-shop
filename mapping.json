@@ -41048,5 +41048,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Donkey%20Kong%20Bananza/Kong%20Bananza.mp3",
     "Binary": "binaries/Donkey Kong Bananza/Kong Bananza.bin",
     "Duration": 58.235232
+  },
+  {
+    "Game": "The Legend of Zelda: Majora's Mask",
+    "Song": "Title Theme",
+    "Composers": "Koji Kondo",
+    "Converters": "UmedMuzl",
+    "Category": "bgm",
+    "Tags": [
+      "Interiors",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Sun Aug 10 2025 19:08:10 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/The%20Legend%20of%20Zelda%20Majoras%20Mask/Title%20Theme.mp3",
+    "Binary": "binaries/The Legend of Zelda Majoras Mask/Title Theme.bin",
+    "Duration": 72.3303640625
   }
 ]
