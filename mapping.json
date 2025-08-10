@@ -41031,5 +41031,22 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/The%20Legend%20of%20Zelda%20Ocarina%20of%20Time/Title%20Theme.mp3",
     "Binary": "binaries/The Legend of Zelda Ocarina of Time/Title Theme.bin",
     "Duration": 75.51083794791666
+  },
+  {
+    "Game": "Donkey Kong Bananza",
+    "Song": "Kong Bananza",
+    "Composers": "Naoto Kubo",
+    "Converters": "The Sound Defense",
+    "Category": "bgm",
+    "Tags": [
+      "Fights",
+      "Minigames",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Sun Aug 10 2025 19:05:54 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Donkey%20Kong%20Bananza/Kong%20Bananza.mp3",
+    "Binary": "binaries/Donkey Kong Bananza/Kong Bananza.bin",
+    "Duration": 58.235232
   }
 ]
