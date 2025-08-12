@@ -41080,5 +41080,21 @@
     "Date": "Tue Aug 12 2025 03:53:40 GMT+0000 (Coordinated Universal Time)",
     "Binary": "binaries/Super Mario World/Underground.bin",
     "Duration": 84.26052
+  },
+  {
+    "Game": "Super Mario World",
+    "Song": "Fortress Clear",
+    "Composers": "Koji Kondo",
+    "Converters": "psych",
+    "Category": "events",
+    "Tags": [
+      "Spawning",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Tue Aug 12 2025 03:55:43 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Super%20Mario%20World/Fortress%20Clear.mp3",
+    "Binary": "binaries/Super Mario World/Fortress Clear.bin",
+    "Duration": 7.867740395833335
   }
 ]
