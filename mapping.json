@@ -41096,5 +41096,17 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Super%20Mario%20World/Fortress%20Clear.mp3",
     "Binary": "binaries/Super Mario World/Fortress Clear.bin",
     "Duration": 7.867740395833335
+  },
+  {
+    "Game": "Super Mario World",
+    "Song": "Player Down",
+    "Composers": "Koji Kondo",
+    "Converters": "psych",
+    "Category": "events",
+    "Verified": true,
+    "Date": "Tue Aug 12 2025 04:00:55 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Super%20Mario%20World/Player%20Down.mp3",
+    "Binary": "binaries/Super Mario World/Player Down.bin",
+    "Duration": 3.2984592708333333
   }
 ]
