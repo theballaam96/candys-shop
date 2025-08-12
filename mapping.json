@@ -41064,5 +41064,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/The%20Legend%20of%20Zelda%20Majoras%20Mask/Title%20Theme.mp3",
     "Binary": "binaries/The Legend of Zelda Majoras Mask/Title Theme.bin",
     "Duration": 72.3303640625
+  },
+  {
+    "Game": "Super Mario World",
+    "Song": "Underground",
+    "Composers": "Koji Kondo",
+    "Converters": "psych",
+    "Category": "bgm",
+    "Audio": "https://youtu.be/fuXug1-MZtY",
+    "Tags": [
+      "Interiors",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Tue Aug 12 2025 03:53:40 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Super Mario World/Underground.bin",
+    "Duration": 84.26052
   }
 ]
