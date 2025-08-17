@@ -41108,5 +41108,20 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Super%20Mario%20World/Player%20Down.mp3",
     "Binary": "binaries/Super Mario World/Player Down.bin",
     "Duration": 3.2984592708333333
+  },
+  {
+    "Game": "Valkyrie Profile",
+    "Song": "Negative Roots",
+    "Composers": "Motoi Sakuraba",
+    "Converters": "OnlySpaghettiCode",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors"
+    ],
+    "Verified": true,
+    "Date": "Sun Aug 17 2025 07:03:50 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Valkyrie%20Profile/Negative%20Roots.mp3",
+    "Binary": "binaries/Valkyrie Profile/Negative Roots.bin",
+    "Duration": 88.603515625
   }
 ]
