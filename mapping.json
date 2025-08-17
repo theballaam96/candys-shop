@@ -41123,5 +41123,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Valkyrie%20Profile/Negative%20Roots.mp3",
     "Binary": "binaries/Valkyrie Profile/Negative Roots.bin",
     "Duration": 88.603515625
+  },
+  {
+    "Game": "Valkyrie Profile",
+    "Song": "The Name of His People is Fear",
+    "Composers": "Motoi Sakuraba",
+    "Converters": "OnlySpaghettiCode",
+    "Category": "bgm",
+    "Tags": [
+      "Interiors",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Sun Aug 17 2025 07:08:47 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Valkyrie%20Profile/The%20Name%20of%20His%20People%20is%20Fear.mp3",
+    "Binary": "binaries/Valkyrie Profile/The Name of His People is Fear.bin",
+    "Duration": 93.92664295833332
   }
 ]
