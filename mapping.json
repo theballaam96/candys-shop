@@ -41155,5 +41155,21 @@
     "Date": "Tue Aug 19 2025 00:36:25 GMT+0000 (Coordinated Universal Time)",
     "Binary": "binaries/Advance Wars 2 Black Hole Rising/Senseis Theme.bin",
     "Duration": 63.272780000000004
+  },
+  {
+    "Game": "Castlevania: Symphony of the Night",
+    "Song": "The Lost Portrait",
+    "Category": "bgm",
+    "Composers": "Michiru Yamane",
+    "Converters": "Schwartz Gandhi",
+    "Tags": [
+      "Exteriors",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Tue Aug 19 2025 14:41:25 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Castlevania%20Symphony%20of%20the%20Night/The%20Lost%20Portrait.mp3",
+    "Binary": "binaries/Castlevania Symphony of the Night/The Lost Portrait.bin",
+    "Duration": 97.01013999999999
   }
 ]
