@@ -41139,5 +41139,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Valkyrie%20Profile/The%20Name%20of%20His%20People%20is%20Fear.mp3",
     "Binary": "binaries/Valkyrie Profile/The Name of His People is Fear.bin",
     "Duration": 93.92664295833332
+  },
+  {
+    "Game": "Advance Wars 2: Black Hole Rising",
+    "Song": "Sensei's Theme",
+    "Composers": "Yoshito Hirano",
+    "Converters": "psych",
+    "Category": "bgm",
+    "Audio": "https://youtu.be/3VqYl9TmZ3Y",
+    "Tags": [
+      "Exteriors",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Tue Aug 19 2025 00:36:25 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Advance Wars 2 Black Hole Rising/Senseis Theme.bin",
+    "Duration": 63.272780000000004
   }
 ]
