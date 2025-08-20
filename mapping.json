@@ -41203,5 +41203,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Valkyrie%20Profile/Ray%20of%20Darkness,%20Ray%20of%20Light.mp3",
     "Binary": "binaries/Valkyrie Profile/Ray of Darkness, Ray of Light.bin",
     "Duration": 111.01041666666667
+  },
+  {
+    "Game": "Kingdom Hearts II",
+    "Song": "Sora",
+    "Category": "bgm",
+    "Composers": "Yoko Shimomura",
+    "Converters": "Schwartz Gandhi",
+    "Tags": [
+      "Exteriors",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Wed Aug 20 2025 06:39:08 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Kingdom%20Hearts%20II/Sora.mp3",
+    "Binary": "binaries/Kingdom Hearts II/Sora.bin",
+    "Duration": 72.72720000000001
   }
 ]
