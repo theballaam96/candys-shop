@@ -41188,5 +41188,20 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/ClayFighter%2063%2013/Santas%20Toy%20Factory.mp3",
     "Binary": "binaries/ClayFighter 63 13/Santas Toy Factory.bin",
     "Duration": 67.14312831875
+  },
+  {
+    "Game": "Valkyrie Profile",
+    "Song": "Ray of Darkness, Ray of Light",
+    "Composers": "Motoi Sakuraba",
+    "Converters": "OnlySpaghettiCode",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors"
+    ],
+    "Verified": true,
+    "Date": "Wed Aug 20 2025 06:35:05 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Valkyrie%20Profile/Ray%20of%20Darkness,%20Ray%20of%20Light.mp3",
+    "Binary": "binaries/Valkyrie Profile/Ray of Darkness, Ray of Light.bin",
+    "Duration": 111.01041666666667
   }
 ]
