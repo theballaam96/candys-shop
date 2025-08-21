@@ -41237,5 +41237,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/ClayFighter%2063%2013/Santas%20Toy%20Factory%20(REV%201).mp3",
     "Binary": "binaries/ClayFighter 63 13/Santas Toy Factory (REV 1).bin",
     "Duration": 67.14312831875
+  },
+  {
+    "Game": "Klonoa 2: Lunatea's Veil",
+    "Song": "Moonlight Museum Ver. 1",
+    "Composers": "Hiromi Shibano",
+    "Converters": "iveli_alpaca",
+    "Category": "bgm",
+    "Audio": "https://www.youtube.com/watch?v=5ytHRz59dWs",
+    "Tags": [
+      "Interiors",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Thu Aug 21 2025 01:39:09 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Klonoa 2 Lunateas Veil/Moonlight Museum Ver 1.bin",
+    "Duration": 130.9092
   }
 ]
