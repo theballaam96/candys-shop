@@ -41271,5 +41271,22 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/ClayFighter%2063%2013/Santas%20Toy%20Factory%20(REV%202).mp3",
     "Binary": "binaries/ClayFighter 63 13/Santas Toy Factory (REV 2).bin",
     "Duration": 67.14312831875
+  },
+  {
+    "Game": "Castlevania: Dawn of Sorrow",
+    "Song": "Platinum Moonlight",
+    "Category": "bgm",
+    "Composers": "Masahiko Kimura",
+    "Converters": "Schwartz Gandhi",
+    "Tags": [
+      "Exteriors",
+      "Gloomy",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Wed Aug 27 2025 22:37:42 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Castlevania%20Dawn%20of%20Sorrow/Platinum%20Moonlight.mp3",
+    "Binary": "binaries/Castlevania Dawn of Sorrow/Platinum Moonlight.bin",
+    "Duration": 81.04299027083336
   }
 ]
