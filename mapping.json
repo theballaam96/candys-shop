@@ -41288,5 +41288,17 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Castlevania%20Dawn%20of%20Sorrow/Platinum%20Moonlight.mp3",
     "Binary": "binaries/Castlevania Dawn of Sorrow/Platinum Moonlight.bin",
     "Duration": 81.04299027083336
+  },
+  {
+    "Game": "Mario Kart 64",
+    "Song": "No Trophy Finish",
+    "Composers": "Kenta Nagata",
+    "Converters": "psych",
+    "Category": "events",
+    "Verified": true,
+    "Date": "Wed Aug 27 2025 22:51:31 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Mario%20Kart%2064/No%20Trophy%20Finish.mp3",
+    "Binary": "binaries/Mario Kart 64/No Trophy Finish.bin",
+    "Duration": 8.4787625625
   }
 ]
