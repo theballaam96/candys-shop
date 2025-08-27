@@ -41300,5 +41300,17 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Mario%20Kart%2064/No%20Trophy%20Finish.mp3",
     "Binary": "binaries/Mario Kart 64/No Trophy Finish.bin",
     "Duration": 8.4787625625
+  },
+  {
+    "Game": "Mario Kart 64",
+    "Song": "Finish Line (Lost)",
+    "Composers": "Kenta Nagata",
+    "Converters": "psych",
+    "Category": "events",
+    "Verified": true,
+    "Date": "Wed Aug 27 2025 22:57:16 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Mario%20Kart%2064/Finish%20Line%20(Lost).mp3",
+    "Binary": "binaries/Mario Kart 64/Finish Line (Lost).bin",
+    "Duration": 5.427098916666667
   }
 ]
