@@ -41327,5 +41327,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Castlevania%20Dawn%20of%20Sorrow/Condemned%20Tower.mp3",
     "Binary": "binaries/Castlevania Dawn of Sorrow/Condemned Tower.bin",
     "Duration": 161.095928
+  },
+  {
+    "Game": "The Legend of Zelda: Majora's Mask",
+    "Song": "Mayor's Office",
+    "Category": "bgm",
+    "Composers": "Koji Kondo",
+    "Converters": "Schwartz Gandhi",
+    "Tags": [
+      "Interiors",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Sun Aug 31 2025 18:18:23 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/The%20Legend%20of%20Zelda%20Majoras%20Mask/Mayors%20Office.mp3",
+    "Binary": "binaries/The Legend of Zelda Majoras Mask/Mayors Office.bin",
+    "Duration": 39.90625
   }
 ]
