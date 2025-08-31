@@ -41343,5 +41343,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/The%20Legend%20of%20Zelda%20Majoras%20Mask/Mayors%20Office.mp3",
     "Binary": "binaries/The Legend of Zelda Majoras Mask/Mayors Office.bin",
     "Duration": 39.90625
+  },
+  {
+    "Game": "Castlevania: Symphony of the Night",
+    "Song": "Rainbow's Cemetery",
+    "Category": "bgm",
+    "Composers": "Michiru Yamane",
+    "Converters": "Schwartz Gandhi",
+    "Tags": [
+      "Interiors",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Sun Aug 31 2025 19:58:30 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Castlevania%20Symphony%20of%20the%20Night/Rainbows%20Cemetery.mp3",
+    "Binary": "binaries/Castlevania Symphony of the Night/Rainbows Cemetery.bin",
+    "Duration": 151.68
   }
 ]
