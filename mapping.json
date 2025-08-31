@@ -41312,5 +41312,20 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Mario%20Kart%2064/Finish%20Line%20(Lost).mp3",
     "Binary": "binaries/Mario Kart 64/Finish Line (Lost).bin",
     "Duration": 5.427098916666667
+  },
+  {
+    "Game": "Castlevania: Dawn of Sorrow",
+    "Song": "Condemned Tower",
+    "Category": "bgm",
+    "Composers": "Masahiko Kimura",
+    "Converters": "Schwartz Gandhi",
+    "Tags": [
+      "Exteriors"
+    ],
+    "Verified": true,
+    "Date": "Sun Aug 31 2025 18:16:33 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Castlevania%20Dawn%20of%20Sorrow/Condemned%20Tower.mp3",
+    "Binary": "binaries/Castlevania Dawn of Sorrow/Condemned Tower.bin",
+    "Duration": 161.095928
   }
 ]
