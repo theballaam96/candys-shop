@@ -41377,5 +41377,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Okage%20Shadow%20King/Melody%20From%20The%20Box.mp3",
     "Binary": "binaries/Okage Shadow King/Melody From The Box.bin",
     "Duration": 55.84609799999999
+  },
+  {
+    "Game": "Mario Party 3",
+    "Song": "Jeanie's Theme",
+    "Composers": "Ichiro Shimakura",
+    "Converters": "Altermentality",
+    "Category": "bgm",
+    "Audio": "https://youtu.be/_q2jToulslU",
+    "Tags": [
+      "Lobbies and Shops",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Wed Sep 03 2025 03:19:14 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Mario Party 3/Jeanies Theme.bin",
+    "Duration": 19.972707375
   }
 ]
