@@ -41393,5 +41393,38 @@
     "Date": "Wed Sep 03 2025 03:19:14 GMT+0000 (Coordinated Universal Time)",
     "Binary": "binaries/Mario Party 3/Jeanies Theme.bin",
     "Duration": 19.972707375
+  },
+  {
+    "Game": "La-Mulana",
+    "Song": "Grand History",
+    "Composers": "Takumi Naramura",
+    "Converters": "MiaSchemes",
+    "Category": "bgm",
+    "Tags": [
+      "Lobbies and Shops",
+      "Exteriors",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Thu Sep 04 2025 17:55:22 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/La-Mulana/Grand%20History.mp3",
+    "Binary": "binaries/La-Mulana/Grand History.bin",
+    "Duration": 74.18188
+  },
+  {
+    "Game": "Mario Party 3",
+    "Song": "Genie's Theme",
+    "Composers": "Ichiro Shimakura",
+    "Converters": "Altermentality",
+    "Category": "bgm",
+    "Audio": "https://youtu.be/x0SK6iKxSmU",
+    "Tags": [
+      "Lobbies and Shops",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Fri Sep 05 2025 19:07:36 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Mario Party 3/Genies Theme.bin",
+    "Duration": 21.481782625
   }
 ]
