@@ -41463,5 +41463,22 @@
     "Date": "Sun Sep 07 2025 17:30:11 GMT+0000 (Coordinated Universal Time)",
     "Binary": "binaries/Mario Party 3/Star Lift.bin",
     "Duration": 37.697816662499996
+  },
+  {
+    "Game": "The Legend of Zelda: The Wind Waker",
+    "Song": "Hyrule Castle",
+    "Category": "bgm",
+    "Composers": "Koji Kondo, Tōru Minegishi",
+    "Converters": "Schwartz Gandhi",
+    "Tags": [
+      "Interiors",
+      "Calm",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Wed Sep 10 2025 00:09:47 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/The%20Legend%20of%20Zelda%20The%20Wind%20Waker/Hyrule%20Castle.mp3",
+    "Binary": "binaries/The Legend of Zelda The Wind Waker/Hyrule Castle.bin",
+    "Duration": 124.2308065
   }
 ]
