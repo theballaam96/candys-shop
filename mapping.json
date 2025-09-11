@@ -41512,5 +41512,22 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Mario%20Golf/Toad%20Highlands.mp3",
     "Binary": "binaries/Mario Golf/Toad Highlands.bin",
     "Duration": 131.985979125
+  },
+  {
+    "Game": "Golden Sun",
+    "Song": "The Storm",
+    "Composers": "Motoi Sakuraba",
+    "Converters": "MiaSchemes",
+    "Category": "bgm",
+    "Tags": [
+      "Lobbies and Shops",
+      "Interiors",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Thu Sep 11 2025 21:40:53 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Golden%20Sun/The%20Storm.mp3",
+    "Binary": "binaries/Golden Sun/The Storm.bin",
+    "Duration": 98.29857179166666
   }
 ]
