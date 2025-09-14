@@ -15,6 +15,9 @@
    "Adibou 2":{
       "icon":"https://i.imgur.com/NQ92U8u.png"
    },
+   "Advance Wars 2: Black Hole Rising":{
+      "icon":"https://i.imgur.com/Je48WtD.png"
+   },
    "AeroGauge":{
       "icon":"https://i.imgur.com/Okktib5.png"
    },
@@ -240,6 +243,9 @@
    "Donkey Kong 64":{
       "icon":"https://i.imgur.com/oTs4z32.png"
    },
+   "Donkey Kong Bananza":{
+      "icon":"https://i.imgur.com/1GDhBqk.png"
+   },
    "Donkey Kong Country":{
       "icon":"https://i.imgur.com/WxSj7Jh.png"
    },
@@ -400,6 +406,9 @@
    "Iggy's Reckin' Balls":{
       "icon":"https://i.imgur.com/7r3i457.png"
    },
+   "Illbleed":{
+      "icon":"https://i.imgur.com/9ThKIq8.png"
+   },
    "Impossible Creatures":{
       "icon":"https://i.imgur.com/WDRr1Bg.png"
    },
@@ -422,6 +431,9 @@
    "Keroro RPG: Kishi to Musha to Densetsu no Kaizoku":{
       "icon":"https://i.imgur.com/hqRp0kM.png",
       "short_name": "Keroro RPG"
+   },
+   "Ketsui: Kizuna Jigoku Tachi":{
+      "icon":"https://i.imgur.com/gtP9Hoz.png"
    },
    "Killer Instinct":{
       "icon":"https://i.imgur.com/SbzbJV3.png"
@@ -547,6 +559,9 @@
    "Mario & Luigi: Superstar Saga":{
       "icon":"https://i.imgur.com/ieO06V8.png"
    },
+   "Mario Golf":{
+      "icon":"https://i.imgur.com/oaPV1fV.png"
+   },
    "Mario Hoops 3-on-3":{
       "icon":"https://i.imgur.com/qNAQEnz.png"
    },
@@ -589,6 +604,9 @@
    },
    "Mega Man 2":{
       "icon":"https://i.imgur.com/tXdxxvW.png"
+   },
+   "Mega Man 6":{
+      "icon":"https://i.imgur.com/FhgO3Nr.png"
    },
    "Mega Man 8":{
       "icon":"https://i.imgur.com/jKy6nxd.png"
@@ -690,6 +708,9 @@
    "Monster Hunter":{
       "icon":"https://i.imgur.com/nAfCYx3.png"
    },
+   "Monster Hunter Freedom Unite":{
+      "icon":"https://i.imgur.com/q8nSdp9.png"
+   },
    "Mortal Kombat":{
       "icon":"https://i.imgur.com/EikO2DU.png"
    },
@@ -722,11 +743,20 @@
    "Octopath Traveler":{
       "icon":"https://i.imgur.com/f2qVXTZ.png"
    },
+   "Okage: Shadow King":{
+      "icon":"https://i.imgur.com/OW3sEAI.png"
+   },
    "Omori":{
       "icon":"https://i.imgur.com/8X1MVBj.png"
    },
+   "OneShot":{
+      "icon":"https://i.imgur.com/pRIstH9.png"
+   },
    "Other":{
       "icon":"https://i.imgur.com/p2esyXC.png"
+   },
+   "Ottifanten: Kommando Stoertebeker":{
+      "icon":"https://i.imgur.com/XYFOfBH.png"
    },
    "Outer Wilds":{
       "icon":"https://i.imgur.com/7xj7aZj.png"
@@ -887,6 +917,12 @@
    "Puyo Puyo":{
       "icon":"https://i.imgur.com/x3BCTG5.png"
    },
+   "Quake":{
+      "icon":"https://i.imgur.com/6U8O9X7.png"
+   },
+   "Ratchet & Clank":{
+      "icon":"https://i.imgur.com/jhmfV7q.png"
+   },
    "Rayman":{
       "icon":"https://i.imgur.com/inVx78r.png"
    },
@@ -904,6 +940,9 @@
    },
    "Resident Evil 2 (1998)":{
       "icon":"https://i.imgur.com/sdIxA6b.png"
+   },
+   "Resident Evil 2 (2019)":{
+      "icon":"https://i.imgur.com/I65mOUk.png"
    },
    "Return of the Obra Dinn":{
       "icon":"https://i.imgur.com/hWEqkok.png"
@@ -1063,6 +1102,9 @@
    "Spectrobes":{
       "icon":"https://i.imgur.com/noTHiOv.png"
    },
+   "Splatoon":{
+      "icon":"https://i.imgur.com/Q3Acs3B.png"
+   },
    "Spyro the Dragon":{
       "icon":"https://i.imgur.com/xZcFnUa.png"
    },
@@ -1122,6 +1164,9 @@
    },
    "Super Mario Bros.":{
       "icon":"https://i.imgur.com/J032q4r.png"
+   },
+   "Super Mario Bros. 2":{
+      "icon":"https://i.imgur.com/NmIsvfe.png"
    },
    "Super Mario Bros. 3":{
       "icon":"https://i.imgur.com/2V40ZEk.png"
@@ -1467,6 +1512,9 @@
    },
    "Yu-Gi-Oh! The Sacred Cards":{
       "icon":"https://i.imgur.com/kCYP4WY.png"
+   },
+   "Yume Nikki":{
+      "icon":"https://i.imgur.com/ndd6y4A.png"
    },
    "Zelda II: The Adventure of Link":{
       "icon":"https://i.imgur.com/s1iSdLC.png",
