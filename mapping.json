@@ -41545,5 +41545,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Pok%C3%A9mon%20Ruby,%20Sapphire%20%20Emerald/Route%20113.mp3",
     "Binary": "binaries/Pokémon Ruby, Sapphire  Emerald/Route 113.bin",
     "Duration": 67.734375
+  },
+  {
+    "Game": "Final Fantasy: Mystic Quest",
+    "Song": "Middle Tower",
+    "Composers": "Yasuhiro Kawakami, Ryuji Sasai",
+    "Converters": "MiaSchemes",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Mon Sep 15 2025 21:32:25 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Final%20Fantasy%20Mystic%20Quest/Middle%20Tower.mp3",
+    "Binary": "binaries/Final Fantasy Mystic Quest/Middle Tower.bin",
+    "Duration": 35.001599999999996
   }
 ]
