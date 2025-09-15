@@ -41529,5 +41529,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Golden%20Sun/The%20Storm.mp3",
     "Binary": "binaries/Golden Sun/The Storm.bin",
     "Duration": 98.29857179166666
+  },
+  {
+    "Game": "Pokémon Ruby, Sapphire & Emerald",
+    "Song": "Route 113",
+    "Composers": "Go Ichinose",
+    "Converters": "MiaSchemes",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Mon Sep 15 2025 21:29:36 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Pok%C3%A9mon%20Ruby,%20Sapphire%20%20Emerald/Route%20113.mp3",
+    "Binary": "binaries/Pokémon Ruby, Sapphire  Emerald/Route 113.bin",
+    "Duration": 67.734375
   }
 ]
