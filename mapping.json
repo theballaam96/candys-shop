@@ -41561,5 +41561,20 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Final%20Fantasy%20Mystic%20Quest/Middle%20Tower.mp3",
     "Binary": "binaries/Final Fantasy Mystic Quest/Middle Tower.bin",
     "Duration": 35.001599999999996
+  },
+  {
+    "Game": "Final Fantasy V",
+    "Song": "Battle at the Big Bridge",
+    "Composers": "Nobuo Uematsu",
+    "Converters": "PotentiallyEvil",
+    "Category": "bgm",
+    "Tags": [
+      "Fights"
+    ],
+    "Verified": true,
+    "Date": "Tue Sep 16 2025 04:44:25 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Final%20Fantasy%20V/Battle%20at%20the%20Big%20Bridge.mp3",
+    "Binary": "binaries/Final Fantasy V/Battle at the Big Bridge.bin",
+    "Duration": 83.932671
   }
 ]
