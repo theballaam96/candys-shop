@@ -41576,5 +41576,20 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Final%20Fantasy%20V/Battle%20at%20the%20Big%20Bridge.mp3",
     "Binary": "binaries/Final Fantasy V/Battle at the Big Bridge.bin",
     "Duration": 83.932671
+  },
+  {
+    "Game": "Tales of Symphonia",
+    "Song": "Fatalize",
+    "Composers": "Motoi Sakuraba",
+    "Converters": "2dos",
+    "Category": "bgm",
+    "Audio": "https://www.youtube.com/watch?v=SNEeDgX-XbY",
+    "Tags": [
+      "Fights"
+    ],
+    "Verified": true,
+    "Date": "Wed Sep 17 2025 05:37:33 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Tales of Symphonia/Fatalize.bin",
+    "Duration": 60.375
   }
 ]
