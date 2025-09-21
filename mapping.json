@@ -41660,5 +41660,37 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Sonic%20the%20Hedgehog%203/Hydrocity%20Zone%20Act%202.mp3",
     "Binary": "binaries/Sonic the Hedgehog 3/Hydrocity Zone Act 2.bin",
     "Duration": 52.5
+  },
+  {
+    "Game": "Kingdom Hearts II",
+    "Song": "Old Friends, Old Rivals",
+    "Category": "bgm",
+    "Composers": "Yoko Shimomura",
+    "Converters": "Schwartz Gandhi",
+    "Tags": [
+      "Minigames",
+      "Fights"
+    ],
+    "Verified": true,
+    "Date": "Sun Sep 21 2025 19:15:22 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Kingdom%20Hearts%20II/Old%20Friends,%20Old%20Rivals.mp3",
+    "Binary": "binaries/Kingdom Hearts II/Old Friends, Old Rivals.bin",
+    "Duration": 39.99996
+  },
+  {
+    "Game": "Persona 5",
+    "Song": "Price",
+    "Category": "bgm",
+    "Composers": "Shoji Meguro",
+    "Converters": "Schwartz Gandhi",
+    "Tags": [
+      "Interiors"
+    ],
+    "Update Notes": "reverb and stereo stuf",
+    "Verified": true,
+    "Date": "Sun Sep 21 2025 19:15:23 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Persona%205/Price%20(REV%201).mp3",
+    "Binary": "binaries/Persona 5/Price (REV 1).bin",
+    "Duration": 105.000014
   }
 ]
