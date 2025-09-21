@@ -41608,5 +41608,40 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Kioh%20Gyoku/Lovely%20Mound%20of%20Cherry%20Blossoms%20~%20Flower%20of%20Japan.mp3",
     "Binary": "binaries/Kioh Gyoku/Lovely Mound of Cherry Blossoms ~ Flower of Japan.bin",
     "Duration": 111.70641988333335
+  },
+  {
+    "Game": "Consoles and BIOS",
+    "Song": "Wii Shop Channel",
+    "Category": "bgm",
+    "Composers": "Kazumi Totaka",
+    "Converters": "Schwartz Gandhi",
+    "Tags": [
+      "Lobbies and Shops",
+      "Minigames",
+      "Happy"
+    ],
+    "Update Notes": "now based from the actual console sequence",
+    "Verified": true,
+    "Date": "Sun Sep 21 2025 01:59:58 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Consoles%20and%20BIOS/Wii%20Shop%20Channel%20(REV%201).mp3",
+    "Binary": "binaries/Consoles and BIOS/Wii Shop Channel (REV 1).bin",
+    "Duration": 58.040482499999996
+  },
+  {
+    "Game": "CrossCode",
+    "Song": "Autumn's Rise",
+    "Category": "bgm",
+    "Composers": "Deniz Akbulut",
+    "Converters": "Schwartz Gandhi",
+    "Tags": [
+      "Exteriors",
+      "Calm"
+    ],
+    "Update Notes": "re risen",
+    "Verified": true,
+    "Date": "Sun Sep 21 2025 01:59:59 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/CrossCode/Autumns%20Rise%20(REV%201).mp3",
+    "Binary": "binaries/CrossCode/Autumns Rise (REV 1).bin",
+    "Duration": 150.70961516666665
   }
 ]
