@@ -41643,5 +41643,22 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/CrossCode/Autumns%20Rise%20(REV%201).mp3",
     "Binary": "binaries/CrossCode/Autumns Rise (REV 1).bin",
     "Duration": 150.70961516666665
+  },
+  {
+    "Game": "Sonic the Hedgehog 3",
+    "Song": "Hydrocity Zone Act 2",
+    "Composers": "Masayuki Nagao, Sega Sound Team",
+    "Converters": "The Sound Defense",
+    "Category": "bgm",
+    "Tags": [
+      "Interiors",
+      "Exteriors",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Sun Sep 21 2025 19:11:51 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Sonic%20the%20Hedgehog%203/Hydrocity%20Zone%20Act%202.mp3",
+    "Binary": "binaries/Sonic the Hedgehog 3/Hydrocity Zone Act 2.bin",
+    "Duration": 52.5
   }
 ]
