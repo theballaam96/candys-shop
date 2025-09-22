@@ -41709,5 +41709,39 @@
     "Date": "Mon Sep 22 2025 03:00:47 GMT+0000 (Coordinated Universal Time)",
     "Binary": "binaries/Final Fantasy X/Seymours Ambition.bin",
     "Duration": 112
+  },
+  {
+    "Game": "Sonic the Hedgehog",
+    "Song": "Green Hill Zone",
+    "Composers": "Masato Nakamura",
+    "Converters": "OnlySpaghettiCode",
+    "Category": "bgm",
+    "Additional Notes": "MIDI by Turret3471",
+    "Tags": [
+      "Exteriors",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Mon Sep 22 2025 03:31:20 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Sonic%20the%20Hedgehog/Green%20Hill%20Zone.mp3",
+    "Binary": "binaries/Sonic the Hedgehog/Green Hill Zone.bin",
+    "Duration": 52.80833333333334
+  },
+  {
+    "Game": "Nier",
+    "Song": "Song of the Ancients / Devola",
+    "Composers": "Keiichi Okabe, Emi Evans",
+    "Converters": "2dos",
+    "Category": "bgm",
+    "Audio": "https://www.youtube.com/watch?v=5x7oOTF7tlQ",
+    "Tags": [
+      "Interiors",
+      "Exteriors",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Mon Sep 22 2025 03:31:20 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Nier/Song of the Ancients  Devola.bin",
+    "Duration": 146.666718
   }
 ]
