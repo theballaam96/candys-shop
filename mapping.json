@@ -41692,5 +41692,22 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Persona%205/Price%20(REV%201).mp3",
     "Binary": "binaries/Persona 5/Price (REV 1).bin",
     "Duration": 105.000014
+  },
+  {
+    "Game": "Final Fantasy X",
+    "Song": "Seymour's Ambition",
+    "Composers": "Nobuo Uematsu",
+    "Converters": "2dos",
+    "Category": "bgm",
+    "Audio": "https://www.youtube.com/watch?v=BHB0N8mwq4Q",
+    "Tags": [
+      "Interiors",
+      "Exteriors",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Mon Sep 22 2025 03:00:47 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Final Fantasy X/Seymours Ambition.bin",
+    "Duration": 112
   }
 ]
