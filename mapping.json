@@ -41758,5 +41758,20 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Crash%20Bandicoot/Main%20Theme.mp3",
     "Binary": "binaries/Crash Bandicoot/Main Theme.bin",
     "Duration": 43.9297539375
+  },
+  {
+    "Game": "Super Mario 64",
+    "Song": "Metallic Mario",
+    "Composers": "Koji Kondo",
+    "Converters": "OnlySpaghettiCode",
+    "Category": "bgm",
+    "Tags": [
+      "Minigames"
+    ],
+    "Verified": true,
+    "Date": "Mon Sep 22 2025 19:27:07 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Super%20Mario%2064/Metallic%20Mario.mp3",
+    "Binary": "binaries/Super Mario 64/Metallic Mario.bin",
+    "Duration": 26.947261395833333
   }
 ]
