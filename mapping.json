@@ -41743,5 +41743,20 @@
     "Date": "Mon Sep 22 2025 03:31:20 GMT+0000 (Coordinated Universal Time)",
     "Binary": "binaries/Nier/Song of the Ancients  Devola.bin",
     "Duration": 146.666718
+  },
+  {
+    "Game": "Crash Bandicoot",
+    "Song": "Main Theme",
+    "Composers": "Josh Mancell",
+    "Converters": "OnlySpaghettiCode",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors"
+    ],
+    "Verified": true,
+    "Date": "Mon Sep 22 2025 19:23:56 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Crash%20Bandicoot/Main%20Theme.mp3",
+    "Binary": "binaries/Crash Bandicoot/Main Theme.bin",
+    "Duration": 43.9297539375
   }
 ]
