@@ -41773,5 +41773,22 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Super%20Mario%2064/Metallic%20Mario.mp3",
     "Binary": "binaries/Super Mario 64/Metallic Mario.bin",
     "Duration": 26.947261395833333
+  },
+  {
+    "Game": "Crash Bandicoot: The Wrath of Cortex",
+    "Song": "Atmospheric Pressure",
+    "Composers": "Andy Blythe, Marten Joustra",
+    "Converters": "Ballaam",
+    "Category": "bgm",
+    "Audio": "https://youtu.be/fFFqNaUI_CI",
+    "Tags": [
+      "Fights",
+      "Exteriors",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Tue Sep 23 2025 05:13:48 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Crash Bandicoot The Wrath of Cortex/Atmospheric Pressure.bin",
+    "Duration": 109.08606515625002
   }
 ]
