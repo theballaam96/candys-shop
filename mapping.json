@@ -41790,5 +41790,21 @@
     "Date": "Tue Sep 23 2025 05:13:48 GMT+0000 (Coordinated Universal Time)",
     "Binary": "binaries/Crash Bandicoot The Wrath of Cortex/Atmospheric Pressure.bin",
     "Duration": 109.08606515625002
+  },
+  {
+    "Game": "The Legend of Zelda: Ocarina of Time",
+    "Song": "Kaepora Gaebora's Theme",
+    "Composers": "Koji Kondo",
+    "Converters": "Altermentality",
+    "Category": "bgm",
+    "Audio": "https://youtu.be/yIpaaKshZU8",
+    "Tags": [
+      "Lobbies and Shops",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Tue Sep 23 2025 05:27:00 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/The Legend of Zelda Ocarina of Time/Kaepora Gaeboras Theme.bin",
+    "Duration": 52.515837
   }
 ]
