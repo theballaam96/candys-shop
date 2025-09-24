@@ -41806,5 +41806,20 @@
     "Date": "Tue Sep 23 2025 05:27:00 GMT+0000 (Coordinated Universal Time)",
     "Binary": "binaries/The Legend of Zelda Ocarina of Time/Kaepora Gaeboras Theme.bin",
     "Duration": 52.515837
+  },
+  {
+    "Game": "Super Mario Bros. 3",
+    "Song": "World 1 Map",
+    "Composers": "Koji Kondo",
+    "Converters": "OnlySpaghettiCode",
+    "Category": "bgm",
+    "Tags": [
+      "Lobbies and Shops"
+    ],
+    "Verified": true,
+    "Date": "Wed Sep 24 2025 07:42:04 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Super%20Mario%20Bros%203/World%201%20Map.mp3",
+    "Binary": "binaries/Super Mario Bros 3/World 1 Map.bin",
+    "Duration": 14.366666666666667
   }
 ]
