@@ -41821,5 +41821,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Super%20Mario%20Bros%203/World%201%20Map.mp3",
     "Binary": "binaries/Super Mario Bros 3/World 1 Map.bin",
     "Duration": 14.366666666666667
+  },
+  {
+    "Game": "The Legend of Zelda: Ocarina of Time",
+    "Song": "Hyrule Castle Courtyard",
+    "Composers": "Koji Kondo",
+    "Converters": "Altermentality",
+    "Category": "bgm",
+    "Audio": "https://youtu.be/HE4HH_LgRKU",
+    "Tags": [
+      "Minigames",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Mon Sep 29 2025 13:22:15 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/The Legend of Zelda Ocarina of Time/Hyrule Castle Courtyard.bin",
+    "Duration": 22.89
   }
 ]
