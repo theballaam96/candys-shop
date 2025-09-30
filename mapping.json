@@ -41906,5 +41906,20 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Kingdom%20Hearts%20II/Vim%20and%20Vigor.mp3",
     "Binary": "binaries/Kingdom Hearts II/Vim and Vigor.bin",
     "Duration": 68.20425624609375
+  },
+  {
+    "Game": "Final Fantasy X",
+    "Song": "Challenge",
+    "Composers": "Masashi Hamauzu",
+    "Converters": "2dos",
+    "Category": "bgm",
+    "Audio": "https://www.youtube.com/watch?v=eXYM9wcImqE",
+    "Tags": [
+      "Fights"
+    ],
+    "Verified": true,
+    "Date": "Tue Sep 30 2025 16:34:25 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Final Fantasy X/Challenge.bin",
+    "Duration": 161.927808
   }
 ]
