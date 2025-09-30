@@ -41889,5 +41889,22 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Sonic%20the%20Hedgehog/Scrap%20Brain%20Zone.mp3",
     "Binary": "binaries/Sonic the Hedgehog/Scrap Brain Zone.bin",
     "Duration": 76
+  },
+  {
+    "Game": "Kingdom Hearts II",
+    "Song": "Vim and Vigor",
+    "Composers": "Yoko Shimomura",
+    "Converters": "Nauty",
+    "Category": "bgm",
+    "Tags": [
+      "Fights",
+      "Minigames",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Tue Sep 30 2025 16:31:18 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Kingdom%20Hearts%20II/Vim%20and%20Vigor.mp3",
+    "Binary": "binaries/Kingdom Hearts II/Vim and Vigor.bin",
+    "Duration": 68.20425624609375
   }
 ]
