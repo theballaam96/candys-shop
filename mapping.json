@@ -3393,7 +3393,7 @@
   },
   {
     "Date": "Wed Jun 28 2023 17:59:26 GMT-0500 (Central Daylight Time)",
-    "Game": "Super Mario Bros.",
+    "Game": "",
     "Song": "Coin Collect",
     "Category": "minoritems",
     "Composers": "Koji Kondo",
@@ -13409,7 +13409,7 @@
   },
   {
     "Date": "Sat Dec 09 2023 16:03:47 GMT-0600 (Central Standard Time)",
-    "Game": "Super Mario Bros.",
+    "Game": "",
     "Song": "Course Clear",
     "Category": "events",
     "Composers": "Koji Kondo",
@@ -16385,7 +16385,7 @@
   },
   {
     "Date": "Fri Feb 02 2024 16:41:59 GMT-0600 (Central Standard Time)",
-    "Game": "Super Mario Bros. Wonder",
+    "Game": " Wonder",
     "Song": "Going Up!",
     "Category": "bgm",
     "Composers": "Koji Kondo",
@@ -18812,7 +18812,7 @@
     "Duration": 78.195245375
   },
   {
-    "Game": "Super Mario Bros. Wonder",
+    "Game": " Wonder",
     "Song": "Piranha Plants on Parade",
     "Composers": "Koji Kondo, Shiho Fuji, Sayako Doi, Chisake Shimazu",
     "Converters": "UmedMuzl",
@@ -22392,7 +22392,7 @@
     "Duration": 157.625
   },
   {
-    "Game": "New Super Mario Bros.",
+    "Game": "New ",
     "Song": "The Plains",
     "Composers": "Asuka Hayazaki, Hajime Wakai, Koji Kondo",
     "Converters": "OnlySpaghettiCode",
@@ -29816,7 +29816,7 @@
     "Duration": 48.00299218749999
   },
   {
-    "Game": "New Super Mario Bros.",
+    "Game": "New ",
     "Song": "Ghost House",
     "Composers": "Asuka Hayazaki, Hajime Wakai, Koji Kondo",
     "Converters": "SirEnobMort",
@@ -30631,7 +30631,7 @@
     "Duration": 84.48329445833335
   },
   {
-    "Game": "New Super Mario Bros.",
+    "Game": "New ",
     "Song": "World 5",
     "Composers": "Asuka Hayazaki, Hajime Wakai, Koji Kondo",
     "Converters": "SirEnobMort",
@@ -33607,7 +33607,7 @@
     "Duration": 127.33420489583331
   },
   {
-    "Game": "New Super Mario Bros.",
+    "Game": "New ",
     "Song": "The Snow Plains",
     "Composers": "Asuka Hayazaki, Hajime Wakai, Koji Kondo",
     "Converters": "SirEnobMort",
@@ -35317,12 +35317,12 @@
   },
   {
     "Game": "Super Mario Bros. 3",
-    "Song": "Hammer Bros",
+    "Song": "Hammer Bros.",
     "Composers": "Koji Kondo",
     "Converters": "AquaPhoenix",
     "Category": "bgm",
     "Tags": [
-      "Lobbies and Shops",
+      "Minigames",
       "Happy"
     ],
     "Verified": true,
