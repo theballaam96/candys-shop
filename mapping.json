@@ -41952,5 +41952,22 @@
     "Date": "Sun Oct 05 2025 04:24:47 GMT+0000 (Coordinated Universal Time)",
     "Binary": "binaries/Persona 3/Paulownia Mall.bin",
     "Duration": 24
+  },
+  {
+    "Game": "Kingdom Hearts II",
+    "Song": "Cavern of Remembrance",
+    "Category": "bgm",
+    "Composers": "Yoko Shimomura",
+    "Converters": "Schwartz Gandhi",
+    "Tags": [
+      "Exteriors",
+      "Interiors"
+    ],
+    "Update Notes": "now based off of the original game sequence",
+    "Verified": true,
+    "Date": "Sun Oct 05 2025 15:16:17 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Kingdom%20Hearts%20II/Cavern%20of%20Remembrance%20(REV%201).mp3",
+    "Binary": "binaries/Kingdom Hearts II/Cavern of Remembrance (REV 1).bin",
+    "Duration": 100
   }
 ]
