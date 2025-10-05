@@ -41921,5 +41921,21 @@
     "Date": "Tue Sep 30 2025 16:34:25 GMT+0000 (Coordinated Universal Time)",
     "Binary": "binaries/Final Fantasy X/Challenge.bin",
     "Duration": 161.927808
+  },
+  {
+    "Game": "Chrono Trigger",
+    "Song": "Tyran Castle (No Intro)",
+    "Composers": "Nobuo Uematsu",
+    "Converters": "OnlySpaghettiCode",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Sun Oct 05 2025 04:22:19 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Chrono%20Trigger/Tyran%20Castle%20(No%20Intro).mp3",
+    "Binary": "binaries/Chrono Trigger/Tyran Castle (No Intro).bin",
+    "Duration": 82.7499793125
   }
 ]
