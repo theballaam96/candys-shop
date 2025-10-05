@@ -41937,5 +41937,20 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Chrono%20Trigger/Tyran%20Castle%20(No%20Intro).mp3",
     "Binary": "binaries/Chrono Trigger/Tyran Castle (No Intro).bin",
     "Duration": 82.7499793125
+  },
+  {
+    "Game": "Persona 3",
+    "Song": "Paulownia Mall",
+    "Composers": "Shoji Meguro",
+    "Converters": "2dos",
+    "Category": "bgm",
+    "Audio": "https://www.youtube.com/watch?v=mmqZ6cfrF5E",
+    "Tags": [
+      "Lobbies and Shops"
+    ],
+    "Verified": true,
+    "Date": "Sun Oct 05 2025 04:24:47 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Persona 3/Paulownia Mall.bin",
+    "Duration": 24
   }
 ]
