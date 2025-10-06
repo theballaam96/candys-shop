@@ -41969,5 +41969,20 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Kingdom%20Hearts%20II/Cavern%20of%20Remembrance%20(REV%201).mp3",
     "Binary": "binaries/Kingdom Hearts II/Cavern of Remembrance (REV 1).bin",
     "Duration": 100
+  },
+  {
+    "Game": "Chrono Cross",
+    "Song": "Dancing the Tokage",
+    "Composers": "Yasunori Mitsuda",
+    "Converters": "OnlySpaghettiCode",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors"
+    ],
+    "Verified": true,
+    "Date": "Mon Oct 06 2025 21:23:50 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Chrono%20Cross/Dancing%20the%20Tokage.mp3",
+    "Binary": "binaries/Chrono Cross/Dancing the Tokage.bin",
+    "Duration": 73.05707495833333
   }
 ]
