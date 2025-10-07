@@ -16,6 +16,7 @@ with zipfile.ZipFile('full_pack.zip', 'w') as z:
         if map_data['Song'] in added_songs:
             print("Skipping duplicate song: " + map_data['Song'])
             continue
+        print("Parsing song: ", map_data['Song'], " | ", map_data['Game'])
         category = map_data['Category']
         song = map_data['Song']
         song = song.replace('/', '_')
