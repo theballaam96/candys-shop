@@ -41984,5 +41984,20 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Chrono%20Cross/Dancing%20the%20Tokage.mp3",
     "Binary": "binaries/Chrono Cross/Dancing the Tokage.bin",
     "Duration": 73.05707495833333
+  },
+  {
+    "Game": "Persona 3",
+    "Song": "Paulownia Mall",
+    "Composers": "Shoji Meguro",
+    "Converters": "2dos",
+    "Category": "bgm",
+    "Audio": "https://www.youtube.com/watch?v=w9uMiTHUprQ",
+    "Tags": [
+      "Lobbies and Shops"
+    ],
+    "Verified": true,
+    "Date": "Tue Oct 07 2025 09:18:00 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Persona 3/Paulownia Mall (REV 1).bin",
+    "Duration": 24
   }
 ]
