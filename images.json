@@ -1086,6 +1086,10 @@
    "Sonic the Hedgehog 3":{
       "icon":"https://i.imgur.com/muIG2yP.png"
    },
+   "Sonic the Hedgehog 4: Episode II":{
+      "icon":"https://i.imgur.com/EJON7Qa.png",
+      "short_name": "Sonic 4 Episode II"
+   },
    "Sonic the Hedgehog Spinball":{
       "icon":"https://i.imgur.com/4QfxupD.png",
       "short_name": "Sonic Spinball"
