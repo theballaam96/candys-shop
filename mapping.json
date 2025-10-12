@@ -41999,5 +41999,21 @@
     "Date": "Tue Oct 07 2025 09:18:00 GMT+0000 (Coordinated Universal Time)",
     "Binary": "binaries/Persona 3/Paulownia Mall (REV 1).bin",
     "Duration": 24
+  },
+  {
+    "Game": "Banjo-Tooie",
+    "Song": "Hailfire Peaks (Ice Side)",
+    "Composers": "Grant Kirkhope",
+    "Converters": "UmedMuzl",
+    "Category": "bgm",
+    "Audio": "https://www.youtube.com/watch?v=9Rkx3IHnTdY",
+    "Tags": [
+      "Interiors",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Sun Oct 12 2025 15:45:48 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Banjo-Tooie/Hailfire Peaks (Ice Side) (REV 1).bin",
+    "Duration": 146.17027005208337
   }
 ]
