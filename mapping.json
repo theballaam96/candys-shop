@@ -42015,5 +42015,20 @@
     "Date": "Sun Oct 12 2025 15:45:48 GMT+0000 (Coordinated Universal Time)",
     "Binary": "binaries/Banjo-Tooie/Hailfire Peaks (Ice Side) (REV 1).bin",
     "Duration": 146.17027005208337
+  },
+  {
+    "Game": "Sonic the Hedgehog 4: Episode II",
+    "Song": "Boss : Metal Sonic",
+    "Composers": "Jun Senoue",
+    "Converters": "2dos",
+    "Category": "bgm",
+    "Audio": "https://www.youtube.com/watch?v=Hhxahsj6SQc",
+    "Tags": [
+      "Fights"
+    ],
+    "Verified": true,
+    "Date": "Sun Oct 12 2025 16:15:19 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Sonic the Hedgehog 4 Episode II/Boss  Metal Sonic.bin",
+    "Duration": 36.342842000000005
   }
 ]
