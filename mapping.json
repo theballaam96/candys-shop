@@ -42045,5 +42045,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Super%20Mario%20Sunshine/Pinna%20Beach.mp3",
     "Binary": "binaries/Super Mario Sunshine/Pinna Beach.bin",
     "Duration": 85.64587615625
+  },
+  {
+    "Game": "Persona 5",
+    "Song": "Last Surprise",
+    "Composers": "Shoji Meguro",
+    "Converters": "OnlySpaghettiCode",
+    "Category": "bgm",
+    "Update Notes": "i am once again adding reverb",
+    "Tags": [
+      "Fights"
+    ],
+    "Verified": true,
+    "Date": "Fri Oct 17 2025 00:56:50 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Persona%205/Last%20Surprise%20(REV%202).mp3",
+    "Binary": "binaries/Persona 5/Last Surprise (REV 2).bin",
+    "Duration": 220.6199738541667
   }
 ]
