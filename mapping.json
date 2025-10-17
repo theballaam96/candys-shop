@@ -42061,5 +42061,72 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Persona%205/Last%20Surprise%20(REV%202).mp3",
     "Binary": "binaries/Persona 5/Last Surprise (REV 2).bin",
     "Duration": 220.6199738541667
+  },
+  {
+    "Game": "Chrono Cross",
+    "Song": "Time's Grasslands",
+    "Composers": "Yasunori Mitsuda",
+    "Converters": "OnlySpaghettiCode",
+    "Category": "bgm",
+    "Update Notes": "volume nerf, instrument fixes",
+    "Tags": [
+      "Exteriors",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Fri Oct 17 2025 00:59:43 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Chrono%20Cross/Times%20Grasslands%20(REV%201).mp3",
+    "Binary": "binaries/Chrono Cross/Times Grasslands (REV 1).bin",
+    "Duration": 96.00625
+  },
+  {
+    "Game": "Banjo-Kazooie",
+    "Song": "Gobi's Valley",
+    "Composers": "Grant Kirkhope",
+    "Converters": "OnlySpaghettiCode",
+    "Category": "bgm",
+    "Update Notes": "reverbify and other small touches",
+    "Tags": [
+      "Exteriors"
+    ],
+    "Verified": true,
+    "Date": "Fri Oct 17 2025 00:59:44 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Banjo-Kazooie/Gobis%20Valley%20(REV%201).mp3",
+    "Binary": "binaries/Banjo-Kazooie/Gobis Valley (REV 1).bin",
+    "Duration": 129.240255375
+  },
+  {
+    "Game": "Chrono Trigger",
+    "Song": "Peaceful Days",
+    "Composers": "Yasunori Mitsuda",
+    "Converters": "OnlySpaghettiCode",
+    "Category": "bgm",
+    "Update Notes": "added reverb to make the song more peaceful",
+    "Tags": [
+      "Exteriors",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Fri Oct 17 2025 00:59:45 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Chrono%20Trigger/Peaceful%20Days%20(REV%202).mp3",
+    "Binary": "binaries/Chrono Trigger/Peaceful Days (REV 2).bin",
+    "Duration": 80.00716390625001
+  },
+  {
+    "Game": "A Hat in Time",
+    "Song": "Her Spaceship",
+    "Composers": "Grant Kirkhope",
+    "Converters": "Ballaam",
+    "Category": "bgm",
+    "Audio": "https://youtu.be/-o7pzrxYpwY",
+    "Tags": [
+      "Exteriors",
+      "Happy",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Fri Oct 17 2025 00:59:46 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/A Hat in Time/Her Spaceship.bin",
+    "Duration": 119.99891846249997
   }
 ]
