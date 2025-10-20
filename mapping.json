@@ -42128,5 +42128,21 @@
     "Date": "Fri Oct 17 2025 00:59:46 GMT+0000 (Coordinated Universal Time)",
     "Binary": "binaries/A Hat in Time/Her Spaceship.bin",
     "Duration": 119.99891846249997
+  },
+  {
+    "Game": "Streets of Rage 3",
+    "Song": "Disco",
+    "Composers": "Yuzo Koshiro",
+    "Converters": "2dos",
+    "Category": "bgm",
+    "Audio": "https://www.youtube.com/watch?v=PsIRy2baM04",
+    "Tags": [
+      "Lobbies and Shops",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Mon Oct 20 2025 00:21:15 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Streets of Rage 3/Disco.bin",
+    "Duration": 38.8
   }
 ]
