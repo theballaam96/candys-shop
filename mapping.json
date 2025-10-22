@@ -42178,5 +42178,38 @@
     "Date": "Wed Oct 22 2025 03:12:27 GMT+0000 (Coordinated Universal Time)",
     "Binary": "binaries/Super Castlevania IV/The Cave.bin",
     "Duration": 56.58714425
+  },
+  {
+    "Game": "Super Castlevania IV",
+    "Song": "Vampire Killer",
+    "Composers": "Kinuyo Yamashita, Masanori Adachi, Taro Kudo",
+    "Converters": "Altermentality",
+    "Category": "bgm",
+    "Audio": "https://youtu.be/6lv2AsKqhP8",
+    "Tags": [
+      "Fights",
+      "Minigames",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Wed Oct 22 2025 03:14:49 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Super Castlevania IV/Vampire Killer.bin",
+    "Duration": 30.247392
+  },
+  {
+    "Game": "Crazy Bus",
+    "Song": "Title Screen",
+    "Composers": "Tom Maneiro",
+    "Converters": "2dos",
+    "Category": "bgm",
+    "Audio": "https://www.youtube.com/watch?v=kDB2WVCSQbY",
+    "Additional Notes": "Do not put this in your music pack. This is your final warning.",
+    "Tags": [
+      "Lobbies and Shops"
+    ],
+    "Verified": true,
+    "Date": "Wed Oct 22 2025 03:14:50 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Crazy Bus/Title Screen.bin",
+    "Duration": 263.99904155625
   }
 ]
