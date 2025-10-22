@@ -42161,5 +42161,22 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Disneys%20Aladdin/Escape%20of%20the%20Infidels%20(Capcom)%20(REV%201).mp3",
     "Binary": "binaries/Disneys Aladdin/Escape of the Infidels (Capcom) (REV 1).bin",
     "Duration": 25.779398875000002
+  },
+  {
+    "Game": "Super Castlevania IV",
+    "Song": "The Cave",
+    "Composers": "Masanori Adachi, Taro Kudo",
+    "Converters": "Altermentality",
+    "Category": "bgm",
+    "Audio": "https://www.youtube.com/watch?v=gZrD7PQQy8Q",
+    "Tags": [
+      "Interiors",
+      "Gloomy",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Wed Oct 22 2025 03:12:27 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Super Castlevania IV/The Cave.bin",
+    "Duration": 56.58714425
   }
 ]
