@@ -42211,5 +42211,21 @@
     "Date": "Wed Oct 22 2025 03:14:50 GMT+0000 (Coordinated Universal Time)",
     "Binary": "binaries/Crazy Bus/Title Screen.bin",
     "Duration": 263.99904155625
+  },
+  {
+    "Game": "Mario Golf: Toadstool Tour",
+    "Song": "Club Slots",
+    "Composers": "Motoi Sakuraba",
+    "Converters": "SirEnobMort",
+    "Category": "bgm",
+    "Audio": "https://youtu.be/cOOND9luAp0",
+    "Tags": [
+      "Minigames",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Fri Oct 24 2025 01:08:32 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Mario Golf Toadstool Tour/Club Slots.bin",
+    "Duration": 63.99166666666667
   }
 ]
