@@ -42262,5 +42262,23 @@
     "Date": "Fri Oct 24 2025 01:11:47 GMT+0000 (Coordinated Universal Time)",
     "Binary": "binaries/Super Castlevania IV/Vampire Killer (REV 1).bin",
     "Duration": 30.247392
+  },
+  {
+    "Game": "to a T",
+    "Song": "PerfecT Shape (InsTrumental)",
+    "Composers": "Asuka Sakai, PREP",
+    "Converters": "Cartoonosaurus Rex",
+    "Category": "bgm",
+    "Additional Notes": "please let me know if the volume levels need to be adjusted, if it's too loud or too quiet, I already did so myself after the recording, loop point is 15360",
+    "Tags": [
+      "Interiors",
+      "Minigames",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Fri Oct 24 2025 22:25:35 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/to%20a%20T/PerfecT%20Shape%20(InsTrumental).mp3",
+    "Binary": "binaries/to a T/PerfecT Shape (InsTrumental).bin",
+    "Duration": 198.85694400000003
   }
 ]
