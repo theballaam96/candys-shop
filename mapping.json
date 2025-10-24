@@ -42227,5 +42227,40 @@
     "Date": "Fri Oct 24 2025 01:08:32 GMT+0000 (Coordinated Universal Time)",
     "Binary": "binaries/Mario Golf Toadstool Tour/Club Slots.bin",
     "Duration": 63.99166666666667
+  },
+  {
+    "Game": "Super Castlevania IV",
+    "Song": "Beginning",
+    "Composers": "Hidenori Maezawa, Masanori Hikichi, Taro Kudo",
+    "Converters": "Altermentality",
+    "Category": "bgm",
+    "Audio": "https://youtu.be/Y6MmhgYEtRc",
+    "Tags": [
+      "Exteriors",
+      "Happy",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Fri Oct 24 2025 01:11:46 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Super Castlevania IV/Beginning.bin",
+    "Duration": 52.572158375
+  },
+  {
+    "Game": "Super Castlevania IV",
+    "Song": "Vampire Killer",
+    "Composers": "Kinuyo Yamashita, Masanori Adachi, Taro Kudo",
+    "Converters": "Altermentality",
+    "Category": "bgm",
+    "Audio": "https://youtu.be/QSLskoV7dUs",
+    "Update Notes": "Fixed very small error regarding bassline reverb.",
+    "Tags": [
+      "Fights",
+      "Minigames",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Fri Oct 24 2025 01:11:47 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Super Castlevania IV/Vampire Killer (REV 1).bin",
+    "Duration": 30.247392
   }
 ]
