@@ -68,6 +68,7 @@ def message(json_output, binary_link, preview_file_bytes, is_update, preview_ext
     game_name = json_output.get("Game", "Not Provided")
     composers = json_output.get("Composers", "Not Provided")
     converters = json_output.get("Converters", "Not Provided")
+    add_yt = False
     if has_audio_file:
         if json_output["Category"] == "bgm":
             attempted_link = uploadVideoWrapper(game_name, song_name, converters, composers, preview_file_bytes)
@@ -76,12 +77,14 @@ def message(json_output, binary_link, preview_file_bytes, is_update, preview_ext
                 audio_string = attempted_link
                 if preview_path is not None and os.path.exists(preview_path):
                     os.remove(preview_path)
+                add_yt = True
             else:
                 audio_string = "*(Attached)*"
         else:
             audio_string = "*(Attached)*"
     elif "Audio" in json_output:
         audio_string = json_output["Audio"]
+        add_yt = True
     suggested_type = "Not Provided"
     if "Category" in json_output:
         suggested_type = SHORTHAND_TO_LONGHAND.get(json_output["Category"], json_output["Category"])
@@ -104,20 +107,40 @@ def message(json_output, binary_link, preview_file_bytes, is_update, preview_ext
         "fields": [
             {"name": "Composer(s)", "value": composers, "inline": True},
             {"name": "Converted By", "value": converters, "inline": True},
-            {"name": "", "value": f"Download: {binary_dl_link}"},
-            {"name": "", "value": f"Listen: {audio_string}"},
         ],
         "timestamp": datetime.utcnow().isoformat(),
     }
 
+    components = [
+        {
+            "type": 1,  # Action row
+            "components": [
+                {
+                    "type": 2,  # Button
+                    "style": 5,  # Link button
+                    "label": "Binary File",
+                    "url": binary_dl_link,
+                },
+            ],
+        }
+    ]
+    if add_yt:
+        components[0]["components"].append({
+            "type": 2,
+            "style": 5,
+            "label": "YouTube",
+            "url": audio_string,
+        })
+
     payload = {
         "content": "A new song has been uploaded",
         "embeds": [embed],
+        "components": components,  # Attach the buttons
     }
 
     # Post the embed
     try:
-        whresp = requests.post(webhook_url, json=payload, headers={"Content-Type": "application/json"})
+        whresp = requests.post(f"{webhook_url}?wait=true&with_components=true", json=payload, headers={"Content-Type": "application/json"})
         whresp.raise_for_status()
         print("Message sent successfully:", whresp.text)
     except Exception as e:
