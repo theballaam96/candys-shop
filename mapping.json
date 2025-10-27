@@ -42297,5 +42297,21 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/to%20a%20T/PerfecT%20Shape.mp3",
     "Binary": "binaries/to a T/PerfecT Shape.bin",
     "Duration": 198.85694400000003
+  },
+  {
+    "Game": "The Legend of Zelda: Ocarina of Time",
+    "Song": "Fairy Fountain and File Select",
+    "Composers": "Koji Kondo",
+    "Converters": "psych",
+    "Category": "bgm",
+    "Audio": "https://youtu.be/1ys7ew91FZY",
+    "Tags": [
+      "Interiors",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Mon Oct 27 2025 08:56:31 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/The Legend of Zelda Ocarina of Time/Fairy Fountain and File Select (REV 1).bin",
+    "Duration": 27.5661465
   }
 ]
