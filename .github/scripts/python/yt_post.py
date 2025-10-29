@@ -10,10 +10,10 @@ import json
 import soundfile as sf
 import pyloudnorm as pyln
 import numpy as np
-from pathlib import Path
 from io import BytesIO
 from PIL import Image, ImageFilter, ImageEnhance, ImageDraw, ImageFont
 from moviepy.editor import ImageClip, AudioFileClip
+from donk_lib import getPath
 
 from googleapiclient.discovery import build
 from googleapiclient.errors import HttpError
@@ -174,9 +174,7 @@ headers = {
                   "Chrome/141.0.0.0 Safari/537.36"
 }
 
-SCRIPT_DIR = Path(__file__).resolve().parent
-ROOT_UP_TWO = SCRIPT_DIR.joinpath("../../../").resolve()
-IMAGES_FILE = ROOT_UP_TWO.joinpath("images.json")
+IMAGES_FILE = getPath("images.json")
 UPLOAD_TO_YT = False
 
 def normalize_youtube_audio(file_bytes):

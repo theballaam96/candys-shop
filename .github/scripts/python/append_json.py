@@ -21,7 +21,6 @@ Notes:
 import os
 import sys
 import json
-from pathlib import Path
 from datetime import datetime
 import requests
 from dotenv import load_dotenv
@@ -32,6 +31,8 @@ from donk_lib import (
     getHeaders,
     filter_filename,
     adjust_raw_url,
+    getPath,
+    postAudio,
 )
 from yt_post import uploadVideoWrapper
 
@@ -42,17 +43,15 @@ from yt_post import uploadVideoWrapper
 load_dotenv()
 
 # Paths: match the Node behavior of using __dirname and ../../
-SCRIPT_DIR = Path(__file__).resolve().parent
-ROOT_UP_TWO = SCRIPT_DIR.joinpath("../../../").resolve()
-MAPPING_FILE = ROOT_UP_TWO.joinpath("mapping.json")
+MAPPING_FILE = getPath("mapping.json")
 MOVE_FILES = False
-
 SHORTHAND_TO_LONGHAND = {
     "bgm": "BGM",
     "events": "Event",
     "majoritems": "Major Item",
     "minoritems": "Minor Item",
 }
+
 
 def message(json_output, binary_link, preview_file_bytes, is_update, preview_extension, preview_path):
     # Initial information
@@ -149,37 +148,18 @@ def message(json_output, binary_link, preview_file_bytes, is_update, preview_ext
 
     # If we have audio bytes and it is small enough, post as a multipart file
     if has_audio_file:
-        # Make filename by removing spaces and quotes from song name like Node script
-        bad_song_file_chars = [" ", '"']
-        filtered_song_name = "".join(ch for ch in song_name if ch not in bad_song_file_chars)
-        new_song_name = f"{filtered_song_name}.{preview_extension or 'mp3'}"
-        boundary = b"xxxxxxxx"
-        body = b""
-        body += b"--" + boundary + b"\r\n"
-        body += f'Content-Disposition: form-data; name="file"; filename="{new_song_name}"\r\n'.encode("utf-8")
-        body += b"Content-Type: audio/mpeg\r\n\r\n"
-        body += preview_file_bytes
-        body += b"\r\n--" + boundary + b"--\r\n"
-        headers = {
-            "Content-Type": f"multipart/form-data; boundary={boundary.decode()}"
-        }
-        try:
-            whresp2 = requests.post(webhook_url, data=body, headers=headers)
-            whresp2.raise_for_status()
-            print("Preview posted successfully:", whresp2.text)
-        except Exception as e:
-            print("Error posting preview file:", e)
-            sys.exit(1)
+        postAudio(song_name, preview_extension, preview_file_bytes)
 
-def main():
+def handlePR(pr_number, check_labels = True):
     try:
-        pr_number = os.getenv("PR_NUMBER")
         data = pull_pr_data(pr_number)
+        if not data["is_song"]:
+            return
+        if "batch-merge-ignore" in data["labels"] and check_labels:
+            return
         json_output = data["output"]
 
         # Read existing mapping.json
-        print("Script dir:", SCRIPT_DIR)
-        print("Mapping file path:", MAPPING_FILE)
         if MAPPING_FILE.exists():
             try:
                 with open(MAPPING_FILE, "r", encoding="utf-8") as fh:
@@ -229,15 +209,15 @@ def main():
             k_file, k_ext, k_keep = v
             if not k_file:
                 continue
-            bin_file_path = ROOT_UP_TWO.joinpath(k_file)
+            bin_file_path = getPath(k_file)
             if k_keep:
                 new_bin_file = f"{k}/{sub_file}.{k_ext}"
-                root_dir = ROOT_UP_TWO.joinpath(k)
-                game_dir = ROOT_UP_TWO.joinpath(k, filter_filename(json_output.get("Game") or ""))
+                root_dir = getPath(k)
+                game_dir = getPath(k, filter_filename(json_output.get("Game") or ""))
                 # ensure directories
                 root_dir.mkdir(parents=True, exist_ok=True)
                 game_dir.mkdir(parents=True, exist_ok=True)
-                bin_new_file_path = ROOT_UP_TWO.joinpath(new_bin_file)
+                bin_new_file_path = getPath(new_bin_file)
                 bin_file_data = None
                 if bin_file_path.exists():
                     bin_file_data = bin_file_path.read_bytes()
@@ -298,4 +278,5 @@ def main():
 
 
 if __name__ == "__main__":
-    main()
+    pr_number = os.getenv("PR_NUMBER")
+    handlePR(pr_number)
