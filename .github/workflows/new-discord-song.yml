@@ -1,15 +1,16 @@
-name: Post Discord Song
+name: Post Discord Song (Deprecated)
 
-# on:
-  # workflow_dispatch:
-  #   inputs:
-  #     prnum:
-  #       description: 'PR Number'
-  #       required: true
-  #       default: '0'
+on:
+  workflow_dispatch:
+    inputs:
+      prnum:
+        description: 'PR Number'
+        required: true
+        default: '0'
 
 jobs:
   post_song:
+    if: false
     permissions: write-all
     runs-on: ubuntu-latest
     steps:

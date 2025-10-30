@@ -1,10 +1,11 @@
-name: Fix Repository
+name: Fix Repository (Deprecated)
 
-# on:
-#   workflow_dispatch:
+on:
+  workflow_dispatch:
 
 jobs:
   fix_repository:
+    if: false
     permissions: write-all
     runs-on: ubuntu-latest
     steps:
