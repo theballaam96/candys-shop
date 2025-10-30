@@ -1,4 +1,4 @@
-name: Fix Repository (Deprecated)
+name: (DEPRECATED) Fix Repository
 
 on:
   workflow_dispatch:
