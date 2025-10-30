@@ -42330,5 +42330,21 @@
     "Date": "Thu Oct 30 2025 00:19:14 GMT+0000 (Coordinated Universal Time)",
     "Binary": "binaries/Bomberman 64 The Second Attack/Held Captive.bin",
     "Duration": 81.22672
+  },
+  {
+    "Game": "Xenoblade Chronicles",
+    "Song": "Valak Mountain (Night)",
+    "Composers": "ACE+",
+    "Converters": "2dos",
+    "Category": "bgm",
+    "Audio": "https://www.youtube.com/watch?v=9PN9AyPs1QA",
+    "Tags": [
+      "Exteriors",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Thu Oct 30 2025 00:24:08 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Xenoblade Chronicles/Valak Mountain (Night).bin",
+    "Duration": 178.965559
   }
 ]
