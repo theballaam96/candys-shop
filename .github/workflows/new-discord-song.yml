@@ -1,6 +1,6 @@
 name: Post Discord Song
 
-on:
+# on:
   # workflow_dispatch:
   #   inputs:
   #     prnum:
