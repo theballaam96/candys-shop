@@ -1,4 +1,4 @@
-name: Post Discord Song (Deprecated)
+name: (DEPRECATED) Post Discord Song
 
 on:
   workflow_dispatch:
