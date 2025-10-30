@@ -175,7 +175,7 @@ headers = {
 }
 
 IMAGES_FILE = getPath("images.json")
-UPLOAD_TO_YT = False
+UPLOAD_TO_YT = True
 
 def normalize_youtube_audio(file_bytes):
     # Load audio
@@ -219,7 +219,6 @@ def normalize_youtube_audio(file_bytes):
     return "vid_audio.mp3"
 
 def uploadVideoWrapper(game, song, converters, composers, audio_file_bytes):
-    return "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
     images_json = None
     if IMAGES_FILE.exists():
         try:

@@ -9,10 +9,10 @@ from donk_lib import pull_pr_data, getPath, postAudio, adjust_raw_url
 
 load_dotenv()
 
-POST_COMMENT = False
+POST_COMMENT = True
 
 def message(pr_data):
-    webhook_url = os.getenv("DISCORD_WEBHOOK_PUBLICFILE")
+    webhook_url = os.getenv("DISCORD_WEBHOOK_SUBMISSIONS")
     triggered_action = os.getenv("TRIGGERED_ACTION")
     header_text = {
         "closed": {

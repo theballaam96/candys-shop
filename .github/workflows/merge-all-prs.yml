@@ -1,47 +1,53 @@
-name: Auto Merge PRs
+name: Bulk Merge PRs
 
 on:
   workflow_dispatch:
+    inputs:
+      prnum:
+        description: 'List of PR Numbers, delimited by a comma'
+        required: true
+        default: '0'
 
 jobs:
   auto-merge:
     runs-on: ubuntu-latest
+    permissions: write-all
 
     steps:
     - name: Checkout repository
       uses: actions/checkout@v3
 
-    - name: Fetch pull requests
-      id: fetch_prs
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.x'
+
+    - name: Install Dependencies
+        run: pip install -r requirements.txt
+
+    - name: Run Merge Script
+      run: python .github/scripts/python/append_json_multiple.py
       env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        PR_NUMBER_LIST: "${{ github.event.inputs.prnum }}"
+        GITHUB_REPOSITORY: ${{ github.repository }}
+        PAT_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        DISCORD_WEBHOOK_SUBMISSIONS: ${{ secrets.DISCORD_WEBHOOK_SUBMISSIONS }}
+        DISCORD_WEBHOOK_PUBLICFILE: ${{ secrets.DISCORD_WEBHOOK_PUBLICFILE }}
+        YT_REFRESH_TOKEN: ${{ secrets.YT_REFRESH_TOKEN }}
+        YT_CLIENT_ID: ${{ secrets.YT_CLIENT_ID }}
+        YT_CLIENT_SECRET: ${{ secrets.YT_CLIENT_SECRET }}
+    
+    - name: Create Zip
       run: |
-        gh pr list --state open --json number,labels > pr_list.json
-        cat pr_list.json
+        python3 zip_mapped.py
+        zip -r -q binaries.zip binaries
 
-    - name: Filter and merge pull requests
-      id: filter_and_merge
-      env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+    - name: Commit and push changes
       run: |
-        FORBIDDEN_LABEL="batch-merge-ignore"
-        PRS=$(jq -c '.[]' pr_list.json)
+        git config --global user.email "actions@github.com"
+        git config --global user.name "GitHub Actions"
 
-        echo "$PRS"
-        
-        for PR in $PRS; do
-          PR_NUMBER=$(echo $PR | jq -r '.number')
-
-          echo "$PR_NUMBER"
-          
-          LABELS=$(echo $PR | jq -r '.labels[].name')
-
-          echo "$LABELS"
-
-          if echo "$LABELS" | grep -q "$FORBIDDEN_LABEL"; then
-            echo "Skipping PR #$PR_NUMBER"
-          else
-            echo "Merging PR #$PR_NUMBER"
-          fi
-        done
+        git add .
+        git commit -m "Update JSON file with PR message for #${{ github.event.number }}"
+        git push
 

@@ -1,7 +1,7 @@
 name: Fix Repository
 
-on:
-  workflow_dispatch:
+# on:
+#   workflow_dispatch:
 
 jobs:
   fix_repository:
