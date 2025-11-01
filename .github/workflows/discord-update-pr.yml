@@ -29,7 +29,7 @@ jobs:
       run: pip install -r requirements.txt
 
     - name: Post Discord Message
-      run: node .github/scripts/python/pr_analyzer.py
+      run: python .github/scripts/python/pr_analyzer.py
       env:
         PR_NUMBER: ${{ github.event.number }}
         GITHUB_REPOSITORY: ${{ github.repository }}
