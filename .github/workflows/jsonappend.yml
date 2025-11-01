@@ -23,7 +23,7 @@ jobs:
         run: pip install -r requirements.txt
 
       - name: Append PR message to JSON
-        run: node .github/scripts/append-json.js
+        run: python .github/scripts/append_json.py
         env:
           PR_NUMBER: ${{ github.event.number }}
           PAT_TOKEN: ${{ secrets.GITHUB_TOKEN }}
