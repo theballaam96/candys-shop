@@ -1,4 +1,4 @@
-name: Song Submission Update Discord Webhook
+name: Song Submission Discord Webhook
 
 on:
   workflow_dispatch:
@@ -9,34 +9,27 @@ on:
       - ready_for_review
       - synchronize
       - closed
+      - opened
 
-concurrency:
-  group: edit-pr-discord
-  
 jobs:
   send-webhook:
-    runs-on: ubuntu-latest
     permissions: write-all
+    runs-on: ubuntu-latest
 
     steps:
     - name: Checkout code
       uses: actions/checkout@v2
 
-    - name: Set up Node.js
-      uses: actions/setup-node@v3
+    - name: Set up Python
+      uses: actions/setup-python@v4
       with:
-        node-version: 20
+        python-version: '3.x'
 
-    - name: Install dependencies
-      run: |
-          npm init -y
-          npm install
-          npm install axios
-          npm install midi-file
-          npm install @tonejs/midi
+    - name: Install Dependencies
+      run: pip install -r requirements.txt
 
     - name: Post Discord Message
-      run: node .github/scripts/pr-poster-update.js
+      run: python .github/scripts/python/pr_analyzer.py
       env:
         PR_NUMBER: ${{ github.event.number }}
         GITHUB_REPOSITORY: ${{ github.repository }}

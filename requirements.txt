@@ -1,0 +1,8 @@
+mido
+requests
+moviepy
+pillow
+soundfile
+pyloudnorm
+numpy
+pygithub

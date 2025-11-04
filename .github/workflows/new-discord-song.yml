@@ -1,4 +1,4 @@
-name: Post Discord Song
+name: (DEPRECATED) Post Discord Song
 
 on:
   workflow_dispatch:
@@ -10,6 +10,7 @@ on:
 
 jobs:
   post_song:
+    if: false
     permissions: write-all
     runs-on: ubuntu-latest
     steps:
