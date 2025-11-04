@@ -6,3 +6,4 @@ soundfile
 pyloudnorm
 numpy
 pygithub
+httplib2
