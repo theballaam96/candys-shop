@@ -7,3 +7,4 @@ pyloudnorm
 numpy
 pygithub
 httplib2
+moviepy.editor
