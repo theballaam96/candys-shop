@@ -42395,5 +42395,36 @@
     "Verified": true,
     "Date": "2025-11-04T23:15:23.105912",
     "Binary": "binaries/Sonic Heroes/Casino Park.bin"
+  },
+  {
+    "Game": "Pokémon Ruby, Sapphire & Emerald",
+    "Song": "Battle! (Gym Leader)",
+    "Composers": "Junichi Masuda",
+    "Converters": "2dos",
+    "Category": "bgm",
+    "Audio": "https://www.youtube.com/watch?v=CbeNC7sMvcI",
+    "Tags": [
+      "Fights"
+    ],
+    "Duration": 75.918256,
+    "Verified": true,
+    "Date": "2025-11-04T23:27:22.722849",
+    "Binary": "binaries/Pokémon Ruby, Sapphire  Emerald/Battle (Gym Leader).bin"
+  },
+  {
+    "Game": "Chameleon Twist",
+    "Song": "Character Select",
+    "Composers": "Takashi Sugioka, Takashi Makino, Yuuji Nakao, Nobutoshi Ichimiya, Koki Tochio, Tsutomu Washijima, Hiroshi Takami, Fumihiko Yamada",
+    "Converters": "The Specialize",
+    "Category": "bgm",
+    "Audio": "https://www.youtube.com/watch?v=gHF4tZRtR1s",
+    "Tags": [
+      "Lobbies and Shops",
+      "Happy"
+    ],
+    "Duration": 36.705864,
+    "Verified": true,
+    "Date": "2025-11-04T23:27:24.964002",
+    "Binary": "binaries/Chameleon Twist/Character Select.bin"
   }
 ]
