@@ -1,10 +1,9 @@
 mido
 requests
-moviepy
+moviepy==1.0.3
 pillow
 soundfile
 pyloudnorm
 numpy
 pygithub
 httplib2
-moviepy.editor
