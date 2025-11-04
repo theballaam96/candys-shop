@@ -42379,5 +42379,21 @@
     "Verified": true,
     "Date": "2025-11-04T13:38:11.403184",
     "Binary": "binaries/Bomberman 64 The Second Attack/Planet Select.bin"
+  },
+  {
+    "Game": "Sonic Heroes",
+    "Song": "Casino Park",
+    "Composers": "Jun Senoue",
+    "Converters": "iveli_alpaca",
+    "Category": "bgm",
+    "Audio": "https://youtu.be/HUn46zxCQkE?si=uDM3n7vcEgKaDN0n",
+    "Tags": [
+      "Exteriors",
+      "Happy"
+    ],
+    "Duration": 124.93153599999998,
+    "Verified": true,
+    "Date": "2025-11-04T23:15:23.105912",
+    "Binary": "binaries/Sonic Heroes/Casino Park.bin"
   }
 ]
