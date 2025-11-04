@@ -44,7 +44,7 @@ load_dotenv()
 
 # Paths: match the Node behavior of using __dirname and ../../
 MAPPING_FILE = getPath("mapping.json")
-MOVE_FILES = False
+MOVE_FILES = True
 SHORTHAND_TO_LONGHAND = {
     "bgm": "BGM",
     "events": "Event",
