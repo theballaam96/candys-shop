@@ -42346,5 +42346,38 @@
     "Date": "Thu Oct 30 2025 00:24:08 GMT+0000 (Coordinated Universal Time)",
     "Binary": "binaries/Xenoblade Chronicles/Valak Mountain (Night).bin",
     "Duration": 178.965559
+  },
+  {
+    "Game": "Sonic the Hedgehog",
+    "Song": "Spring Yard Zone (V2)",
+    "Composers": "Masato Nakamura",
+    "Converters": "The Sound Defense",
+    "Category": "bgm",
+    "Audio": "https://youtu.be/_S6foJFAiQ4",
+    "Tags": [
+      "Lobbies and Shops",
+      "Exteriors",
+      "Happy"
+    ],
+    "Duration": 40.7,
+    "Verified": true,
+    "Date": "2025-11-04T13:38:09.721197",
+    "Binary": "binaries/Sonic the Hedgehog/Spring Yard Zone (V2).bin"
+  },
+  {
+    "Game": "Bomberman 64: The Second Attack!",
+    "Song": "Planet Select",
+    "Composers": "Tomohiko Kira, Yasunori Mitsuda, Hidenobu Otsuki, Tomori Kudo, Hiroyo Yamanaka, Yoshitaka Hirota, Kenji Hiramatsu",
+    "Converters": "The Specialize",
+    "Category": "bgm",
+    "Audio": "https://www.youtube.com/watch?v=xG5DE4Y5gHc",
+    "Tags": [
+      "Lobbies and Shops",
+      "Calm"
+    ],
+    "Duration": 36.215575145833334,
+    "Verified": true,
+    "Date": "2025-11-04T13:38:11.403184",
+    "Binary": "binaries/Bomberman 64 The Second Attack/Planet Select.bin"
   }
 ]
