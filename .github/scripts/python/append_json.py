@@ -213,7 +213,11 @@ def handlePR(pr_number, check_labels = True):
             if k_keep:
                 new_bin_file = f"{k}/{sub_file}.{k_ext}"
                 root_dir = getPath(k)
-                game_dir = getPath(k, filter_filename(json_output.get("Game") or ""))
+                safe_game = filter_filename(json_output.get("Game") or "")
+                game_path = f"{k}/{safe_game}"
+                if k[-1] == "/":
+                    game_path = f"{k}{safe_game}"
+                game_dir = getPath(game_path)
                 # ensure directories
                 root_dir.mkdir(parents=True, exist_ok=True)
                 game_dir.mkdir(parents=True, exist_ok=True)
