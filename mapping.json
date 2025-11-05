@@ -42426,5 +42426,21 @@
     "Verified": true,
     "Date": "2025-11-04T23:27:24.964002",
     "Binary": "binaries/Chameleon Twist/Character Select.bin"
+  },
+  {
+    "Game": "Super Castlevania IV",
+    "Song": "The Library/Pillared Corridor",
+    "Composers": "Masanori Adachi, Taro Kudo",
+    "Converters": "Altermentality",
+    "Category": "bgm",
+    "Audio": "https://youtu.be/ZjVZiTFl7Bs",
+    "Tags": [
+      "Interiors",
+      "Calm"
+    ],
+    "Duration": 98.5315315,
+    "Verified": true,
+    "Date": "2025-11-05T00:27:13.112780",
+    "Binary": "binaries/Super Castlevania IV/The LibraryPillared Corridor.bin"
   }
 ]
