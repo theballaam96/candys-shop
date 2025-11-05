@@ -42442,5 +42442,20 @@
     "Verified": true,
     "Date": "2025-11-05T00:27:13.112780",
     "Binary": "binaries/Super Castlevania IV/The LibraryPillared Corridor.bin"
+  },
+  {
+    "Game": "Splatoon",
+    "Song": "Got It!",
+    "Composers": "Toru Minegishi",
+    "Converters": "2dos",
+    "Category": "majoritems",
+    "Audio": "https://www.youtube.com/watch?v=uANDrUmPcx8",
+    "Tags": [
+      "Collection"
+    ],
+    "Duration": 1.47165609375,
+    "Verified": true,
+    "Date": "2025-11-05T02:35:38.947619",
+    "Binary": "binaries/Splatoon/Got It.bin"
   }
 ]
