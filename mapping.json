@@ -42457,5 +42457,22 @@
     "Verified": true,
     "Date": "2025-11-05T02:35:38.947619",
     "Binary": "binaries/Splatoon/Got It.bin"
+  },
+  {
+    "Game": "BUDD",
+    "Song": "Cryo-fracturing",
+    "Composers": "iveli_alpaca",
+    "Converters": "iveli_alpaca",
+    "Category": "bgm",
+    "Audio": "https://youtu.be/02RLNvqQvTA?si=G7zteevBguYcNCh8",
+    "Tags": [
+      "Interiors",
+      "Exteriors",
+      "Gloomy"
+    ],
+    "Duration": 256.7367446145833,
+    "Verified": true,
+    "Date": "2025-11-06T22:41:50.038396",
+    "Binary": "binaries/BUDD/Cryo-fracturing.bin"
   }
 ]
