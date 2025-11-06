@@ -42474,5 +42474,23 @@
     "Verified": true,
     "Date": "2025-11-06T22:41:50.038396",
     "Binary": "binaries/BUDD/Cryo-fracturing.bin"
+  },
+  {
+    "Game": "Touhou Kouryudou ~ Unconnected Marketeers",
+    "Song": "The Perpetual Snow of Komakusa Blossoms",
+    "Category": "bgm",
+    "Composers": "ZUN",
+    "Converters": "Schwartz Gandhi",
+    "Audio": "https://youtu.be/EQnqCGh3G0U",
+    "Tags": [
+      "Exteriors",
+      "Happy",
+      "Calm"
+    ],
+    "Update Notes": "reverb",
+    "Duration": 161.13752849999997,
+    "Verified": true,
+    "Date": "2025-11-06T22:58:22.315672",
+    "Binary": "binaries/Touhou Kouryudou ~ Unconnected Marketeers/The Perpetual Snow of Komakusa Blossoms (REV 1).bin"
   }
 ]
