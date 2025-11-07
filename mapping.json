@@ -1427,7 +1427,7 @@
     "pruned": true
   },
   {
-    "Game": "Goldeneye 007",
+    "Game": "GoldenEye 007",
     "Song": "Bunker 1",
     "Category": "bgm",
     "Composers": "Grant Kirkhope",
@@ -1440,7 +1440,7 @@
     "pruned": true
   },
   {
-    "Game": "Goldeneye 007",
+    "Game": "GoldenEye 007",
     "Song": "Bunker 2",
     "Category": "bgm",
     "Composers": "Grant Kirkhope",
@@ -1453,7 +1453,7 @@
     "pruned": true
   },
   {
-    "Game": "Goldeneye 007",
+    "Game": "GoldenEye 007",
     "Song": "Bunker (DK64 Lobby Style)",
     "Category": "bgm",
     "Composers": "Grant Kirkhope, Bismuth",
@@ -12648,7 +12648,7 @@
   },
   {
     "Date": "Sun Nov 26 2023 19:05:37 GMT-0600 (Central Standard Time)",
-    "Game": "Goldeneye 007",
+    "Game": "GoldenEye 007",
     "Song": "Bunker 2",
     "Category": "bgm",
     "Composers": "Grant Kirkhope",
@@ -12666,7 +12666,7 @@
   },
   {
     "Date": "Sun Nov 26 2023 19:07:02 GMT-0600 (Central Standard Time)",
-    "Game": "Goldeneye 007",
+    "Game": "GoldenEye 007",
     "Song": "Bunker (DK64 Lobby Style)",
     "Category": "bgm",
     "Composers": "Grant Kirkhope, Bismuth",
@@ -12684,7 +12684,7 @@
   },
   {
     "Date": "Sun Nov 26 2023 19:08:28 GMT-0600 (Central Standard Time)",
-    "Game": "Goldeneye 007",
+    "Game": "GoldenEye 007",
     "Song": "Bunker 1",
     "Category": "bgm",
     "Composers": "Grant Kirkhope",
@@ -18240,7 +18240,7 @@
     "Duration": 165.998555
   },
   {
-    "Game": "Goldeneye 007",
+    "Game": "GoldenEye 007",
     "Song": "Aztec",
     "Composers": "Graeme Norgate",
     "Converters": "nerosomething",
@@ -18438,7 +18438,7 @@
     "Duration": 30.53568375
   },
   {
-    "Game": "Goldeneye 007",
+    "Game": "GoldenEye 007",
     "Song": "Watch Menu",
     "Composers": "Monty Norman, Grant Kirkhope",
     "Converters": "Zion Jaymes",
@@ -25305,7 +25305,7 @@
     "Duration": 67.88379908333333
   },
   {
-    "Game": "Goldeneye 007",
+    "Game": "GoldenEye 007",
     "Song": "Byelomorye Dam",
     "Category": "bgm",
     "Composers": "Grant Kirkhope",
@@ -40443,7 +40443,7 @@
     "Duration": 0.5048071875
   },
   {
-    "Game": "Goldeneye 007",
+    "Game": "GoldenEye 007",
     "Song": "Statue",
     "Composers": "Grant Kirkhope",
     "Converters": "LBFrank",
