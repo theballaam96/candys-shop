@@ -1215,7 +1215,7 @@
     "Composers": "Grant Kirkhope",
     "Converters": "Bismuth",
     "Binary": "binaries/Donkey Kong 64/Beta Factory by Bismuth.bin",
-    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Donkey%20Kong%2064/Beta%20Factory%20by%20Bismuth.mp3",
+    "Audio": "https://youtu.be/D43sGoRiR00",
     "Duration": 137.77764000000153,
     "Tracks": 14,
     "Tags": [
@@ -1232,7 +1232,7 @@
     "Composers": "Grant Kirkhope",
     "Converters": "Bismuth",
     "Binary": "binaries/Donkey Kong 64/Candys Music Shop Alternate Edition by Bismuth.bin",
-    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Donkey%20Kong%2064/Candys%20Music%20Shop%20Alternate%20Edition%20by%20Bismuth.mp3",
+    "Audio": "https://youtu.be/v7WO9sllyh4",
     "Duration": 66.93411012499982,
     "Tracks": 8,
     "Tags": [
@@ -1459,7 +1459,7 @@
     "Composers": "Grant Kirkhope, Bismuth",
     "Converters": "Bismuth",
     "Binary": "binaries/Goldeneye 007/Bunker (DK64 Lobby Style) by Bismuth.bin",
-    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Goldeneye%20007/Bunker%20%28DK64%20Lobby%20Style%29%20by%20Bismuth.mp3",
+    "Audio": "https://youtu.be/SzwTIP8Dtao",
     "Duration": 100.56992000000157,
     "Tracks": 7,
     "Verified": true,
@@ -1588,7 +1588,7 @@
     "Composers": "Yasunori Mitsuda",
     "Converters": "Bismuth",
     "Binary": "binaries/Mario Party/Full of Danger by Bismuth.bin",
-    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Mario%20Party/Full%20of%20Danger%20by%20Bismuth.mp3",
+    "Audio": "https://youtu.be/ACLvOTfk7Fk",
     "Duration": 39.00625259375009,
     "Tracks": 15,
     "Verified": true,
@@ -1601,7 +1601,7 @@
     "Composers": "Yasunori Mitsuda",
     "Converters": "Bismuth",
     "Binary": "binaries/Mario Party/Lets Go Lightly by Bismuth.bin",
-    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Mario%20Party/Lets%20Go%20Lightly%20by%20Bismuth.mp3",
+    "Audio": "https://youtu.be/R107pjWX_CU",
     "Duration": 44.04363999999986,
     "Tracks": 15,
     "Verified": true,
@@ -7765,7 +7765,7 @@
     "Composers": "Koji Kondo",
     "Converters": "UmedMuzl",
     "Binary": "binaries/Super Mario 64/Bowsers Road by UmedMuzl.bin",
-    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Super%20Mario%2064/Bowsers%20Road%20by%20UmedMuzl.mp3",
+    "Audio": "https://youtu.be/2FkIBa6_Cz4",
     "Duration": 71.333262,
     "Tracks": 13,
     "Tags": [
@@ -8026,7 +8026,7 @@
     "Composers": "Koji Kondo",
     "Converters": "UmedMuzl",
     "Binary": "binaries/Super Mario 64/Water Theme (Drumless) by UmedMuzl.bin",
-    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Super%20Mario%2064/Water%20Theme%20%28Drumless%29%20by%20UmedMuzl.mp3",
+    "Audio": "https://youtu.be/Eg89OAqy1Tg",
     "Duration": 90.451164,
     "Tracks": 10,
     "Tags": [
@@ -8133,7 +8133,7 @@
     "Composers": "Mahito Yokota",
     "Converters": "UmedMuzl",
     "Binary": "binaries/Super Mario Galaxy/Melty Molten Galaxy by UmedMuzl.bin",
-    "Audio": "https://www.youtube.com/watch?v=s6IBpmWBh6Q",
+    "Audio": "https://youtu.be/81GJ-pPv2oY",
     "Duration": 238.48938749999996,
     "Tracks": 16,
     "Tags": [
@@ -8254,7 +8254,7 @@
     "Composers": "Mahito Yokota",
     "Converters": "UmedMuzl",
     "Binary": "binaries/Super Mario Galaxy/Battlerock Galaxy by UmedMuzl.bin",
-    "Audio": "https://www.youtube.com/watch?v=AaWDgFETUac",
+    "Audio": "https://youtu.be/pAe0LdOCcOg",
     "Duration": 186.87080921875,
     "Tracks": 13,
     "Tags": [
@@ -8358,7 +8358,7 @@
     "Composers": "Koji Kondo",
     "Converters": "UmedMuzl",
     "Binary": "binaries/Super Mario Galaxy/Good Egg Galaxy by UmedMuzl.bin",
-    "Audio": "https://www.youtube.com/watch?v=kXcx4Sq7SHA",
+    "Audio": "https://youtu.be/Kv8Bdjk3nXQ",
     "Duration": 164.2,
     "Tracks": 16,
     "Tags": [
@@ -8493,7 +8493,7 @@
     "Composers": "Yasunori Mitsuda",
     "Converters": "Bismuth",
     "Binary": "binaries/Mario Party/Full of Danger by Bismuth (REV 1).bin",
-    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Mario%20Party/Full%20of%20Danger%20by%20Bismuth%20%28REV%201%29.mp3",
+    "Audio": "https://youtu.be/ACLvOTfk7Fk",
     "Duration": 39.072583249999994,
     "Tracks": 15,
     "Tags": [
@@ -12451,7 +12451,7 @@
     "Composers": "Grant Kirkhope",
     "Converters": "Bismuth",
     "Binary": "binaries/Donkey Kong 64/Candys Music Shop Alternate Edition by Bismuth (REV 1).bin",
-    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Donkey%20Kong%2064/Candys%20Music%20Shop%20Alternate%20Edition%20by%20Bismuth%20%28REV%201%29.mp3",
+    "Audio": "https://youtu.be/v7WO9sllyh4",
     "Duration": 66.93411012499999,
     "Tracks": 8,
     "Tags": [
@@ -12636,7 +12636,7 @@
     "Composers": "Grant Kirkhope",
     "Converters": "Bismuth",
     "Binary": "binaries/Donkey Kong 64/Beta Factory by Bismuth (REV 1).bin",
-    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Donkey%20Kong%2064/Beta%20Factory%20by%20Bismuth%20%28REV%201%29.mp3",
+    "Audio": "https://youtu.be/D43sGoRiR00",
     "Duration": 137.77764000000002,
     "Tracks": 14,
     "Tags": [
@@ -12672,7 +12672,7 @@
     "Composers": "Grant Kirkhope, Bismuth",
     "Converters": "Bismuth",
     "Binary": "binaries/Goldeneye 007/Bunker (DK64 Lobby Style) by Bismuth (REV 1).bin",
-    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Goldeneye%20007/Bunker%20%28DK64%20Lobby%20Style%29%20by%20Bismuth%20%28REV%201%29.mp3",
+    "Audio": "https://youtu.be/SzwTIP8Dtao",
     "Duration": 100.56872954166666,
     "Tracks": 7,
     "Tags": [
@@ -12726,7 +12726,7 @@
     "Composers": "Yasunori Mitsuda",
     "Converters": "Bismuth",
     "Binary": "binaries/Mario Party/Full of Danger by Bismuth (REV 2).bin",
-    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Mario%20Party/Full%20of%20Danger%20by%20Bismuth%20%28REV%202%29.mp3",
+    "Audio": "https://youtu.be/ACLvOTfk7Fk",
     "Duration": 38.83387355,
     "Tracks": 15,
     "Tags": [
@@ -12745,7 +12745,7 @@
     "Composers": "Yasunori Mitsuda",
     "Converters": "Bismuth",
     "Binary": "binaries/Mario Party/Lets Go Lightly by Bismuth (REV 1).bin",
-    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Mario%20Party/Lets%20Go%20Lightly%20by%20Bismuth%20%28REV%201%29.mp3",
+    "Audio": "https://youtu.be/R107pjWX_CU",
     "Duration": 44.03571746875001,
     "Tracks": 15,
     "Tags": [
@@ -12763,7 +12763,7 @@
     "Composers": "Junichi Masuda",
     "Converters": "Bismuth",
     "Binary": "binaries/Pokémon Red, Blue  Yellow/Pokemon Trainer Battle by Bismuth (REV 1).bin",
-    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Pok%C3%A9mon%20Red%2C%20Blue%20%20Yellow/Pokemon%20Trainer%20Battle%20by%20Bismuth%20%28REV%201%29.mp3",
+    "Audio": "https://youtu.be/s1kEP1ubxFI",
     "Duration": 91.99990799999999,
     "Tracks": 7,
     "Tags": [
@@ -24228,7 +24228,7 @@
     ],
     "Verified": true,
     "Date": "Sat Jun 22 2024 21:29:08 GMT+0000 (Coordinated Universal Time)",
-    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Dark%20Cloud/Wise%20Owl%20Forest.mp3",
+    "Audio": "https://youtu.be/HZrLP3v_PWY",
     "Binary": "binaries/Dark Cloud/Wise Owl Forest.bin",
     "Duration": 111.17248800000003
   },
@@ -30608,7 +30608,7 @@
     ],
     "Verified": true,
     "Date": "Sat Nov 23 2024 22:09:53 GMT+0000 (Coordinated Universal Time)",
-    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Super%20Mario%20Galaxy/Flying%20Mario.mp3",
+    "Audio": "https://youtu.be/UxkNfxzTZaE",
     "Binary": "binaries/Super Mario Galaxy/Flying Mario.bin",
     "Duration": 47.2296825
   },
@@ -31652,7 +31652,7 @@
     ],
     "Verified": true,
     "Date": "Sat Dec 14 2024 05:37:33 GMT+0000 (Coordinated Universal Time)",
-    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Super%20Mario%20Galaxy/Star%20Ball%20Rolling%201.mp3",
+    "Audio": "https://youtu.be/fo6h60ckHy4",
     "Binary": "binaries/Super Mario Galaxy/Star Ball Rolling 1.bin",
     "Duration": 48.582068500000005
   },
@@ -32061,7 +32061,7 @@
     ],
     "Verified": true,
     "Date": "Sun Dec 15 2024 08:15:59 GMT+0000 (Coordinated Universal Time)",
-    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Pok%C3%A9mon%20Red,%20Blue%20%20Yellow/Pokemon%20Trainer%20Battle%20(REV%202).mp3",
+    "Audio": "https://youtu.be/s1kEP1ubxFI",
     "Binary": "binaries/Pokémon Red, Blue  Yellow/Pokemon Trainer Battle (REV 2).bin",
     "Duration": 91.99990799999999
   },
@@ -32233,7 +32233,7 @@
     ],
     "Verified": true,
     "Date": "Sun Dec 15 2024 23:25:04 GMT+0000 (Coordinated Universal Time)",
-    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Mario%20Party/Full%20of%20Danger%20(REV%203).mp3",
+    "Audio": "https://youtu.be/ACLvOTfk7Fk",
     "Binary": "binaries/Mario Party/Full of Danger (REV 3).bin",
     "Duration": 39.072583249999994
   },
@@ -32334,7 +32334,7 @@
     ],
     "Verified": true,
     "Date": "Mon Dec 16 2024 06:01:14 GMT+0000 (Coordinated Universal Time)",
-    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Super%20Mario%2064/Water%20Theme%20(Drumless)%20(REV%201).mp3",
+    "Audio": "https://youtu.be/Eg89OAqy1Tg",
     "Binary": "binaries/Super Mario 64/Water Theme (Drumless) (REV 1).bin",
     "Duration": 90.639134
   },
@@ -33502,7 +33502,7 @@
     ],
     "Verified": true,
     "Date": "Wed Dec 18 2024 01:57:06 GMT+0000 (Coordinated Universal Time)",
-    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Super%20Mario%20Galaxy/Melty%20Molten%20Galaxy%20(REV%201).mp3",
+    "Audio": "https://youtu.be/81GJ-pPv2oY",
     "Binary": "binaries/Super Mario Galaxy/Melty Molten Galaxy (REV 1).bin",
     "Duration": 133.9284375
   },
@@ -34209,7 +34209,7 @@
     ],
     "Verified": true,
     "Date": "Sat Dec 28 2024 03:43:07 GMT+0000 (Coordinated Universal Time)",
-    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Super%20Mario%20Galaxy/Good%20Egg%20Galaxy%20(REV%201).mp3",
+    "Audio": "https://youtu.be/Kv8Bdjk3nXQ",
     "Binary": "binaries/Super Mario Galaxy/Good Egg Galaxy (REV 1).bin",
     "Duration": 83.09213849999999
   },
@@ -34322,7 +34322,7 @@
     ],
     "Verified": true,
     "Date": "Tue Dec 31 2024 02:18:51 GMT+0000 (Coordinated Universal Time)",
-    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Super%20Mario%20Galaxy/Battlerock%20Galaxy%20(REV%201).mp3",
+    "Audio": "https://youtu.be/pAe0LdOCcOg",
     "Binary": "binaries/Super Mario Galaxy/Battlerock Galaxy (REV 1).bin",
     "Duration": 100.6250805
   },
@@ -36196,7 +36196,7 @@
     ],
     "Verified": true,
     "Date": "Wed Feb 12 2025 01:37:14 GMT+0000 (Coordinated Universal Time)",
-    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Super%20Mario%2064/Bowsers%20Road%20(REV%201).mp3",
+    "Audio": "https://youtu.be/2FkIBa6_Cz4",
     "Binary": "binaries/Super Mario 64/Bowsers Road (REV 1).bin",
     "Duration": 71.11104
   },
