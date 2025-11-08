@@ -42492,5 +42492,54 @@
     "Verified": true,
     "Date": "2025-11-06T22:58:22.315672",
     "Binary": "binaries/Touhou Kouryudou ~ Unconnected Marketeers/The Perpetual Snow of Komakusa Blossoms (REV 1).bin"
+  },
+  {
+    "Game": "Super Mario RPG: Legend of the Seven Stars",
+    "Song": "Beware the Forests Mushrooms",
+    "Composers": "Yoko Shimomura",
+    "Converters": "OnlySpaghettiCode",
+    "Category": "bgm",
+    "Update Notes": "redo",
+    "Tags": [
+        "Exteriors",
+        "Happy"
+    ],
+    "Verified": true,
+    "Duration": 56.469426187500005
+    "Date": "2025-11-07T18:51:37.441186",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Super%20Mario%20RPG%20Legend%20of%20the%20Seven%20Stars/Beware%20the%20Forests%20Mushrooms%20(REV%202).mp3",
+    "Binary": "binaries/Super Mario RPG Legend of the Seven Stars/Beware the Forests Mushrooms (REV 2).bin",
+  },
+  {
+    "Game": "Super Dodge Ball",
+    "Song": "Title",
+    "Composers": "Kazuo Sawa",
+    "Converters": "SirEnobMort",
+    "Category": "bgm",
+    "Audio": "https://youtu.be/Vn0DcXZApzQ",
+    "Tags": [
+        "Lobbies and Shops",
+        "Gloomy"
+    ],
+    "Duration": 39.4737,
+    "Verified": true,
+    "Date": "2025-11-06T22:04:26.046423",
+    "Binary": "binaries/Super Dodge Ball/Title.bin"
+  },
+  {
+    "Game": "Mario Power Tennis",
+    "Song": "DK Jungle Court - Exhibition",
+    "Composers": "Motoi Sakuraba",
+    "Converters": "SirEnobMort",
+    "Category": "bgm",
+    "Audio": "https://youtu.be/OytEBxgD-z0",
+    "Tags": [
+        "Exteriors",
+        "Happy"
+    ],
+    "Duration": 87.53125,
+    "Verified": true,
+    "Date": "2025-11-07T05:01:46.296716",
+    "Binary": "binaries/Mario Power Tennis/DK Jungle Court - Exhibition.bin"
   }
 ]
