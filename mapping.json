@@ -2730,12 +2730,12 @@
   {
     "Date": "Mon Jun 19 2023 23:57:23 GMT-0500 (Central Daylight Time)",
     "Game": "Super Mario 64",
-    "Song": "Lethal Lava Land  Shifting Sand Land",
+    "Song": "Lethal Lava Land & Shifting Sand Land",
     "Category": "bgm",
     "Composers": "Koji Kondo",
     "Converters": "UmedMuzl",
     "Binary": "binaries/Super Mario 64/Lethal Lava Land  Shifting Sand Land by UmedMuzl.bin",
-    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Super%20Mario%2064/Lethal%20Lava%20Land%20%20Shifting%20Sand%20Land%20by%20UmedMuzl.mp3",
+    "Audio": "https://youtu.be/sx1k56a7MB8",
     "Duration": 78.51730293749996,
     "Tracks": 6,
     "Tags": [
@@ -7590,7 +7590,7 @@
     "Composers": "Koji Kondo",
     "Converters": "UmedMuzl",
     "Binary": "binaries/Super Mario 64/Slider by UmedMuzl.bin",
-    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Super%20Mario%2064/Slider%20by%20UmedMuzl.mp3",
+    "Audio": "https://youtu.be/i0rkIiOPeFc",
     "Duration": 77.32145950000002,
     "Tracks": 13,
     "Tags": [
@@ -7991,7 +7991,7 @@
     "Composers": "Koji Kondo",
     "Converters": "UmedMuzl",
     "Binary": "binaries/Super Mario 64/Hazy Maze Cave  Wet Dry World by UmedMuzl.bin",
-    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Super%20Mario%2064/Hazy%20Maze%20Cave%20%20Wet%20Dry%20World%20by%20UmedMuzl.mp3",
+    "Audio": "https://youtu.be/TaK-OiiRTVY",
     "Duration": 122.93238,
     "Tracks": 15,
     "Tags": [
@@ -28712,7 +28712,7 @@
     ],
     "Verified": true,
     "Date": "Thu Oct 10 2024 04:30:29 GMT+0000 (Coordinated Universal Time)",
-    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Kahoot/Lobby%20Theme.mp3",
+    "Audio": "https://youtu.be/yF2i_7qLW8c",
     "Binary": "binaries/Kahoot/Lobby Theme.bin",
     "Duration": 128.25
   },
@@ -30887,7 +30887,7 @@
     ],
     "Verified": true,
     "Date": "Thu Nov 28 2024 12:11:30 GMT+0000 (Coordinated Universal Time)",
-    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Super%20Mario%2064/Big%20Boos%20Haunt.mp3",
+    "Audio": "https://youtu.be/TfK9i3C62Oo",
     "Binary": "binaries/Super Mario 64/Big Boos Haunt.bin",
     "Duration": 104.40793649999998
   },
