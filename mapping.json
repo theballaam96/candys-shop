@@ -42501,8 +42501,8 @@
     "Category": "bgm",
     "Update Notes": "redo",
     "Tags": [
-        "Exteriors",
-        "Happy"
+      "Exteriors",
+      "Happy"
     ],
     "Verified": true,
     "Duration": 56.469426187500005,
@@ -42518,8 +42518,8 @@
     "Category": "bgm",
     "Audio": "https://youtu.be/Vn0DcXZApzQ",
     "Tags": [
-        "Lobbies and Shops",
-        "Gloomy"
+      "Lobbies and Shops",
+      "Gloomy"
     ],
     "Duration": 39.4737,
     "Verified": true,
@@ -42534,12 +42534,29 @@
     "Category": "bgm",
     "Audio": "https://youtu.be/OytEBxgD-z0",
     "Tags": [
-        "Exteriors",
-        "Happy"
+      "Exteriors",
+      "Happy"
     ],
     "Duration": 87.53125,
     "Verified": true,
     "Date": "2025-11-07T05:01:46.296716",
     "Binary": "binaries/Mario Power Tennis/DK Jungle Court - Exhibition.bin"
+  },
+  {
+    "Game": "Super Mario RPG: Legend of the Seven Stars",
+    "Song": "Beware the Forests Mushrooms",
+    "Composers": "Yoko Shimomura",
+    "Converters": "OnlySpaghettiCode",
+    "Category": "bgm",
+    "Update Notes": "redo",
+    "Tags": [
+      "Exteriors",
+      "Happy"
+    ],
+    "Duration": 56.183521875,
+    "Verified": true,
+    "Date": "2025-11-09T19:45:23.103431",
+    "Audio": "https://youtu.be/brR4Lw9SAYo",
+    "Binary": "binaries/Super Mario RPG Legend of the Seven Stars/Beware the Forests Mushrooms (REV 3).bin"
   }
 ]
