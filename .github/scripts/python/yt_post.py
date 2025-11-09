@@ -272,13 +272,17 @@ def uploadVideoWrapper(game, song, converters, composers, audio_file_bytes):
 
     draw = ImageDraw.Draw(blurred)
     pos_y = 460
+    cwd_dir = os.getcwd().split("/")[-1].split("\\")[-1]
+    offset = ""
+    if cwd_dir != "python":
+        offset = ".github/scripts/python/"
     for index, sub in enumerate(subtitles):
         font_size = 25
         if index == 0:
             font_size = 40
-            font = ImageFont.truetype("Roboto-Bold.ttf", size=font_size)
+            font = ImageFont.truetype(f"{offset}Roboto-Bold.ttf", size=font_size)
         else:
-            font = ImageFont.truetype("Roboto-Medium.ttf", size=font_size)
+            font = ImageFont.truetype(f"{offset}Roboto-Medium.ttf", size=font_size)
         position = (150, pos_y)
         pos_y += (font_size + 5)
         color = (255, 255, 255)
