@@ -148,7 +148,7 @@ def message(json_output, binary_link, preview_file_bytes, is_update, preview_ext
 
     # If we have audio bytes and it is small enough, post as a multipart file
     if has_audio_file:
-        postAudio(song_name, preview_extension, preview_file_bytes)
+        postAudio(song_name, preview_extension, preview_file_bytes, webhook_url)
 
 def handlePR(pr_number, check_labels = True):
     try:

@@ -236,8 +236,7 @@ def string_compare(source: str, comparison: str) -> float:
     b_score = matching_b / len(comparison) if comparison else 0
     return (a_score + b_score) / 2
 
-def postAudio(song_name, preview_extension, preview_file):
-    webhook_url = os.getenv("DISCORD_WEBHOOK_PUBLICFILE")
+def postAudio(song_name, preview_extension, preview_file, webhook_url):
     bad_song_file_chars = [" ", '"']
     filtered_song_name = "".join(ch for ch in song_name if ch not in bad_song_file_chars)
     new_song_name = f"{filtered_song_name}.{preview_extension or 'mp3'}"

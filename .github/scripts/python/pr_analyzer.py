@@ -128,7 +128,7 @@ def message(pr_data):
         sys.exit(1)
     if audio_file is not None:
         json_output = pr_data["output"]
-        postAudio(json_output.get("Song", "Not Provided"), pr_data["preview_ext"], audio_file)
+        postAudio(json_output.get("Song", "Not Provided"), pr_data["preview_ext"], audio_file, webhook_url)
     return
 
 def run():
