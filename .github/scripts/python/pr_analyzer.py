@@ -40,8 +40,16 @@ def message(pr_data):
             "color": 0x03FC0F,
         },
     }
+    action_item = header_text.get(triggered_action, {})
+    if triggered_action == "closed" and os.getenv("PR_MERGED") == "true":
+        action_item = {
+            "text": "A pull request was merged",
+            "color": 0x410080,
+        }
     default_text = f"A pull request action ({triggered_action})"
-    title = f"{header_text.get(triggered_action, {'text': default_text})['text']} from {pr_data['submitter']}"
+    title = f"{action_item.get('text', default_text)} from {pr_data['submitter']}"
+    if triggered_action == "opened" and pr_data.get("new_game", False):
+        title += " (<@83744702129504256> - Logo ping)"
     components = [
         {
             "type": 1,  # Action row
@@ -53,7 +61,7 @@ def message(pr_data):
     audio_file = None
     if pr_data["is_song"]:
         json_output = pr_data["output"]
-        color = header_text.get(triggered_action, {'color': 0x03FC0F})['color']
+        color = action_item.get('color', 0x03FC0F)
         # Set up description
         desc_information = {
             "Game": json_output.get("Game", "Not Provided"),

@@ -36,3 +36,4 @@ jobs:
         PAT_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         DISCORD_WEBHOOK_SUBMISSIONS: ${{ secrets.DISCORD_WEBHOOK_SUBMISSIONS }}
         TRIGGERED_ACTION: ${{ github.event.action }}
+        PR_MERGED: ${{ github.event.pull_request.merged }}

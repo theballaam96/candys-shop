@@ -233,7 +233,7 @@ def handlePR(pr_number, check_labels = True):
                     bin_new_file_path.parent.mkdir(parents=True, exist_ok=True)
                     bin_new_file_path.write_bytes(bin_file_data)
             # Remove original file if exists
-            if bin_file_path.exists() and MOVE_FILES and k != "previews":
+            if bin_file_path.exists() and MOVE_FILES:
                 try:
                     bin_file_path.unlink()
                 except Exception as e:
