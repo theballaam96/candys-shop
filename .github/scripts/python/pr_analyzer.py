@@ -3,7 +3,7 @@ import sys
 import json
 import requests
 from datetime import datetime
-from github import Github
+from github import Github, Auth
 from dotenv import load_dotenv
 from donk_lib import pull_pr_data, getPath, postAudio, adjust_raw_url
 
@@ -183,7 +183,8 @@ def run():
 
         # Comment on PR
         if POST_COMMENT:
-            g = Github(token)
+            auth = Auth.Token(token)
+            g = Github(auth=auth)
             repo = g.get_repo(repo_full)
             issue = repo.get_issue(int(pr_number))
             issue.create_comment(prMessage)
