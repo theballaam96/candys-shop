@@ -42558,5 +42558,37 @@
     "Date": "2025-11-09T19:45:23.103431",
     "Audio": "https://youtu.be/brR4Lw9SAYo",
     "Binary": "binaries/Super Mario RPG Legend of the Seven Stars/Beware the Forests Mushrooms (REV 3).bin"
+  },
+  {
+    "Game": "Mario & Luigi: Partners in Time",
+    "Song": "Another's Requiem",
+    "Composers": "Yoko Shimomura",
+    "Converters": "2dos",
+    "Category": "bgm",
+    "Audio": "https://www.youtube.com/watch?v=H-fp807h-h0",
+    "Tags": [
+      "Fights"
+    ],
+    "Duration": 65.00923991666667,
+    "Verified": true,
+    "Date": "2025-11-09T20:11:15.677820",
+    "Binary": "binaries/Mario  Luigi Partners in Time/Anothers Requiem.bin"
+  },
+  {
+    "Game": "Final Fantasy VI",
+    "Song": "Magitek Research Facility",
+    "Composers": "Nobuo Uematsu",
+    "Converters": "OnlySpaghettiCode",
+    "Category": "bgm",
+    "Update Notes": "reborn from magicite",
+    "Tags": [
+      "Exteriors",
+      "Gloomy"
+    ],
+    "Duration": 73.4190809375,
+    "Verified": true,
+    "Date": "2025-11-09T20:11:17.111458",
+    "Audio": "https://youtu.be/Cah8SCpLXoc",
+    "Binary": "binaries/Final Fantasy VI/Magitek Research Facility (REV 1).bin"
   }
 ]
