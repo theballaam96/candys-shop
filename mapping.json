@@ -42590,5 +42590,23 @@
     "Date": "2025-11-09T20:11:17.111458",
     "Audio": "https://youtu.be/Cah8SCpLXoc",
     "Binary": "binaries/Final Fantasy VI/Magitek Research Facility (REV 1).bin"
+  },
+  {
+    "Game": "Doki Doki Literature Club!",
+    "Song": "Play With Me",
+    "Category": "bgm",
+    "Composers": "Dan Salvato",
+    "Converters": "Schwartz Gandhi",
+    "Audio": "https://youtu.be/j07FQo5tjRw",
+    "Tags": [
+      "Interiors",
+      "Calm",
+      "Happy"
+    ],
+    "Update Notes": "small fixes",
+    "Duration": 86.45461750000001,
+    "Verified": true,
+    "Date": "2025-11-11T05:40:13.637271",
+    "Binary": "binaries/Doki Doki Literature Club/Play With Me (REV 1).bin"
   }
 ]
