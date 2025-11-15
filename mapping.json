@@ -42608,5 +42608,20 @@
     "Verified": true,
     "Date": "2025-11-11T05:40:13.637271",
     "Binary": "binaries/Doki Doki Literature Club/Play With Me (REV 1).bin"
+  },
+  {
+    "Game": "Splatoon",
+    "Song": "Squid Racer Victory Jingle",
+    "Composers": "Toru Minegishi",
+    "Converters": "2dos",
+    "Category": "majoritems",
+    "Audio": "https://www.youtube.com/watch?v=ZzI-uBcdjgw",
+    "Tags": [
+      "Collection"
+    ],
+    "Duration": 1.5,
+    "Verified": true,
+    "Date": "2025-11-15T13:11:11.000985",
+    "Binary": "binaries/Splatoon/Squid Racer Victory Jingle.bin"
   }
 ]
