@@ -42623,5 +42623,21 @@
     "Verified": true,
     "Date": "2025-11-15T13:11:11.000985",
     "Binary": "binaries/Splatoon/Squid Racer Victory Jingle.bin"
+  },
+  {
+    "Game": "Stardew Valley",
+    "Song": "The Stardrop Saloon",
+    "Composers": "Eric Barone (ConcernedApe)",
+    "Converters": "psych",
+    "Category": "bgm",
+    "Audio": "https://youtu.be/dggZBGIhqfE",
+    "Tags": [
+      "Lobbies and Shops",
+      "Happy"
+    ],
+    "Duration": 83.6,
+    "Verified": true,
+    "Date": "2025-11-18T10:15:43.863867",
+    "Binary": "binaries/Stardew Valley/The Stardrop Saloon.bin"
   }
 ]
