@@ -42741,5 +42741,21 @@
     "Verified": true,
     "Date": "2025-11-21T09:13:24.108973",
     "Binary": "binaries/The Legend of Zelda Ocarina of Time/Ganondorf Battle (REV 1).bin"
+  },
+  {
+    "Game": "Golden Sun",
+    "Song": "Desert",
+    "Composers": "Motoi Sakuraba",
+    "Converters": "OnlySpaghettiCode",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors",
+      "Gloomy"
+    ],
+    "Duration": 84.34123589583334,
+    "Verified": true,
+    "Date": "2025-11-21T16:49:01.387890",
+    "Audio": "https://youtu.be/B0TmcQ95I74",
+    "Binary": "binaries/Golden Sun/Desert.bin"
   }
 ]
