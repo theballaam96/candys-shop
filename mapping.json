@@ -42724,5 +42724,22 @@
     "Date": "2025-11-21T05:43:32.815535",
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Donkey%20Kong%2064/Blueprint%20Get%20(Beta).mp3",
     "Binary": "binaries/Donkey Kong 64/Blueprint Get (Beta).bin"
+  },
+  {
+    "Game": "The Legend of Zelda: Ocarina of Time",
+    "Song": "Ganondorf Battle",
+    "Category": "bgm",
+    "Composers": "Koji Kondo",
+    "Converters": "Schwartz Gandhi",
+    "Audio": "https://youtu.be/HR4J3eAvuC8",
+    "Tags": [
+      "Fights",
+      "Gloomy"
+    ],
+    "Update Notes": "volume nerf",
+    "Duration": 65.230121,
+    "Verified": true,
+    "Date": "2025-11-21T09:13:24.108973",
+    "Binary": "binaries/The Legend of Zelda Ocarina of Time/Ganondorf Battle (REV 1).bin"
   }
 ]
