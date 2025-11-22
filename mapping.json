@@ -42648,10 +42648,10 @@
     "Category": "bgm",
     "Audio": "https://youtu.be/FJkUYVZbT7o",
     "Tags": [
-        "Lobbies and Shops",
-        "Exteriors",
-        "Happy",
-        "Calm"
+      "Lobbies and Shops",
+      "Exteriors",
+      "Happy",
+      "Calm"
     ],
     "Duration": 65.45448,
     "Verified": true,
@@ -42666,9 +42666,9 @@
     "Category": "bgm",
     "Audio": "https://youtu.be/ztO9rvA20Qk",
     "Tags": [
-        "Lobbies and Shops",
-        "Interiors",
-        "Gloomy"
+      "Lobbies and Shops",
+      "Interiors",
+      "Gloomy"
     ],
     "Duration": 80.84208000000001,
     "Verified": true,
@@ -42682,8 +42682,8 @@
     "Converters": "Barrels O' Fun",
     "Category": "events",
     "Tags": [
-        "Spawning",
-        "Happy"
+      "Spawning",
+      "Happy"
     ],
     "Duration": 6.0,
     "Verified": true,
@@ -42699,14 +42699,81 @@
     "Converters": "Schwartz Gandhi",
     "Audio": "https://youtu.be/OyR6fTmbzBw",
     "Tags": [
-        "Exteriors",
-        "Calm",
-        "Happy"
+      "Exteriors",
+      "Calm",
+      "Happy"
     ],
     "Update Notes": "fixes",
     "Duration": 65.7675624375,
     "Verified": true,
     "Date": "2025-11-18T10:14:29.197798",
     "Binary": "binaries/Pokémon X  Y/Laverre City (REV 2).bin"
+  },
+  {
+    "Game": "Donkey Kong 64",
+    "Song": "Blueprint Get (Beta)",
+    "Composers": "Grant Kirkhope",
+    "Converters": "Barrels O' Fun",
+    "Category": "majoritems",
+    "Tags": [
+      "Collection",
+      "Happy"
+    ],
+    "Duration": 5.7593749999999995,
+    "Verified": true,
+    "Date": "2025-11-21T05:43:32.815535",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Donkey%20Kong%2064/Blueprint%20Get%20(Beta).mp3",
+    "Binary": "binaries/Donkey Kong 64/Blueprint Get (Beta).bin"
+  },
+  {
+    "Game": "The Legend of Zelda: Ocarina of Time",
+    "Song": "Ganondorf Battle",
+    "Category": "bgm",
+    "Composers": "Koji Kondo",
+    "Converters": "Schwartz Gandhi",
+    "Audio": "https://youtu.be/HR4J3eAvuC8",
+    "Tags": [
+      "Fights",
+      "Gloomy"
+    ],
+    "Update Notes": "volume nerf",
+    "Duration": 65.230121,
+    "Verified": true,
+    "Date": "2025-11-21T09:13:24.108973",
+    "Binary": "binaries/The Legend of Zelda Ocarina of Time/Ganondorf Battle (REV 1).bin"
+  },
+  {
+    "Game": "Golden Sun",
+    "Song": "Desert",
+    "Composers": "Motoi Sakuraba",
+    "Converters": "OnlySpaghettiCode",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors",
+      "Gloomy"
+    ],
+    "Duration": 84.34123589583334,
+    "Verified": true,
+    "Date": "2025-11-21T16:49:01.387890",
+    "Audio": "https://youtu.be/B0TmcQ95I74",
+    "Binary": "binaries/Golden Sun/Desert.bin"
+  },
+  {
+    "Game": "Pokémon Gold, Silver & Crystal",
+    "Song": "Ecruteak City",
+    "Composers": "Go Ichinose",
+    "Converters": "BashPrime",
+    "Category": "bgm",
+    "Audio": "https://www.youtube.com/watch?v=dXzC6kNHfdk",
+    "Additional Notes": "Started as a rip of the GB Sounds arrangement from HGSS. Inspired by the anime and Symphonic Evolutions arrangements.",
+    "Tags": [
+      "Exteriors",
+      "Happy",
+      "Calm"
+    ],
+    "Duration": 69.72443098958333,
+    "Verified": true,
+    "Date": "2025-11-21T19:43:13.739876",
+    "Binary": "binaries/Pokémon Gold, Silver  Crystal/Ecruteak City.bin"
   }
 ]
