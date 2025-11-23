@@ -42792,5 +42792,22 @@
     "Date": "2025-11-23T07:35:33.582697",
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Dr%20Robotniks%20Mean%20Bean%20Machine/Dr%20Robotnik%20Defeated%20(REV%201).mp3",
     "Binary": "binaries/Dr Robotniks Mean Bean Machine/Dr Robotnik Defeated (REV 1).bin"
+  },
+  {
+    "Game": "Okami",
+    "Song": "Old Man Orange's Appearance",
+    "Composers": "Hiroshi Yamaguchi",
+    "Converters": "ValMonstera",
+    "Category": "bgm",
+    "Tags": [
+      "Lobbies and Shops",
+      "Happy",
+      "Calm"
+    ],
+    "Duration": 32.000016,
+    "Verified": true,
+    "Date": "2025-11-23T07:42:24.003331",
+    "Audio": "https://youtu.be/qrRX6FAIJNM",
+    "Binary": "binaries/Okami/Old Man Oranges Appearance.bin"
   }
 ]
