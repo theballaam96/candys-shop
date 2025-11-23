@@ -42809,5 +42809,21 @@
     "Date": "2025-11-23T07:42:24.003331",
     "Audio": "https://youtu.be/qrRX6FAIJNM",
     "Binary": "binaries/Okami/Old Man Oranges Appearance.bin"
+  },
+  {
+    "Game": "Splatoon",
+    "Song": "Wii U Menu Start Up",
+    "Composers": "Toru Minegishi",
+    "Converters": "2dos",
+    "Category": "bgm",
+    "Audio": "https://www.youtube.com/watch?v=co9P0gYpK9Y",
+    "Tags": [
+      "Lobbies and Shops",
+      "Happy"
+    ],
+    "Duration": 20.68968,
+    "Verified": true,
+    "Date": "2025-11-23T15:05:30.383457",
+    "Binary": "binaries/Splatoon/Wii U Menu Start Up.bin"
   }
 ]
