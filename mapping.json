@@ -42775,5 +42775,22 @@
     "Verified": true,
     "Date": "2025-11-21T19:43:13.739876",
     "Binary": "binaries/Pokémon Gold, Silver  Crystal/Ecruteak City.bin"
+  },
+  {
+    "Game": "Dr. Robotnik's Mean Bean Machine",
+    "Song": "Dr. Robotnik Defeated",
+    "Composers": "Masanori Hikichi, Masayuki Nagao, David Javelosa",
+    "Converters": "Barrels O' Fun",
+    "Category": "events",
+    "Update Notes": "Fixes minute long silence after jingle",
+    "Tags": [
+      "Spawning",
+      "Happy"
+    ],
+    "Duration": 5.625,
+    "Verified": true,
+    "Date": "2025-11-23T07:35:33.582697",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Dr%20Robotniks%20Mean%20Bean%20Machine/Dr%20Robotnik%20Defeated%20(REV%201).mp3",
+    "Binary": "binaries/Dr Robotniks Mean Bean Machine/Dr Robotnik Defeated (REV 1).bin"
   }
 ]
