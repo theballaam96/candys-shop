@@ -42842,5 +42842,21 @@
     "Verified": true,
     "Date": "2025-11-26T20:23:55.211317",
     "Binary": "binaries/Sonic the Hedgehog/Star Light Zone.bin"
+  },
+  {
+    "Game": "Journey to Silius",
+    "Song": "Stage 1",
+    "Composers": "Naoki Kodaka",
+    "Converters": "GirambQuamb",
+    "Category": "bgm",
+    "Tags": [
+      "Fights",
+      "Exteriors"
+    ],
+    "Duration": 55.999964999999996,
+    "Verified": true,
+    "Date": "2025-11-26T20:25:29.931144",
+    "Audio": "https://youtu.be/rdos-4we7zI",
+    "Binary": "binaries/Journey to Silius/Stage 1.bin"
   }
 ]
