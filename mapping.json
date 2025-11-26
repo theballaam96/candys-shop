@@ -42825,5 +42825,22 @@
     "Verified": true,
     "Date": "2025-11-23T15:05:30.383457",
     "Binary": "binaries/Splatoon/Wii U Menu Start Up.bin"
+  },
+  {
+    "Game": "Sonic the Hedgehog",
+    "Song": "Star Light Zone",
+    "Composers": "Masato Nakamura",
+    "Converters": "The Sound Defense",
+    "Category": "bgm",
+    "Audio": "https://www.youtube.com/watch?v=OT03B-uZ8tA",
+    "Tags": [
+      "Exteriors",
+      "Happy",
+      "Calm"
+    ],
+    "Duration": 43.68,
+    "Verified": true,
+    "Date": "2025-11-26T20:23:55.211317",
+    "Binary": "binaries/Sonic the Hedgehog/Star Light Zone.bin"
   }
 ]
