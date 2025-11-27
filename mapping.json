@@ -42858,5 +42858,22 @@
     "Date": "2025-11-26T20:25:29.931144",
     "Audio": "https://youtu.be/rdos-4we7zI",
     "Binary": "binaries/Journey to Silius/Stage 1.bin"
+  },
+  {
+    "Game": "Spelunky Classic",
+    "Song": "Cave",
+    "Composers": "George Buzinkai, Jonathan Perry",
+    "Converters": "GirambQuamb",
+    "Category": "bgm",
+    "Tags": [
+      "Interiors",
+      "Exteriors",
+      "Gloomy"
+    ],
+    "Duration": 48.0,
+    "Verified": true,
+    "Date": "2025-11-27T13:32:40.900172",
+    "Audio": "https://youtu.be/qdf3v4hN15E",
+    "Binary": "binaries/Spelunky Classic/Cave.bin"
   }
 ]
