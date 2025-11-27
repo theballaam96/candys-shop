@@ -42875,5 +42875,22 @@
     "Date": "2025-11-27T13:32:40.900172",
     "Audio": "https://youtu.be/qdf3v4hN15E",
     "Binary": "binaries/Spelunky Classic/Cave.bin"
+  },
+  {
+    "Game": "Sonic the Hedgehog 2",
+    "Song": "Metropolis Zone",
+    "Composers": "Masato Nakamura",
+    "Converters": "The Sound Defense",
+    "Category": "bgm",
+    "Audio": "https://www.youtube.com/watch?v=CXUDaM-wVKw",
+    "Additional Notes": "I do not know why the audio in the YouTube video cuts off instead of fading out. This happens every time I import the song into iMovie.",
+    "Tags": [
+      "Exteriors",
+      "Happy"
+    ],
+    "Duration": 49.051072,
+    "Verified": true,
+    "Date": "2025-11-27T13:35:26.446902",
+    "Binary": "binaries/Sonic the Hedgehog 2/Metropolis Zone.bin"
   }
 ]
