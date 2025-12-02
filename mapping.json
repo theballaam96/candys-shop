@@ -42892,5 +42892,86 @@
     "Verified": true,
     "Date": "2025-11-27T13:35:26.446902",
     "Binary": "binaries/Sonic the Hedgehog 2/Metropolis Zone.bin"
+  },
+  {
+    "Game": "The Binding of Isaac",
+    "Song": "Sacrificial",
+    "Composers": "Danny Baranowsky",
+    "Converters": "GirambQuamb",
+    "Category": "bgm",
+    "Tags": [
+      "Interiors",
+      "Exteriors",
+      "Gloomy"
+    ],
+    "Duration": 97.59042,
+    "Verified": true,
+    "Date": "2025-12-02T14:11:45.933116",
+    "Audio": "https://youtu.be/qkXJkB4zGc4",
+    "Binary": "binaries/The Binding of Isaac/Sacrificial.bin"
+  },
+  {
+    "Game": "EarthBound",
+    "Song": "Pokey Means Business!",
+    "Composers": "Keiichi Suzuki, Hirokazu Tanaka",
+    "Converters": "2dos",
+    "Category": "bgm",
+    "Audio": "https://www.youtube.com/watch?v=C7avOWMBjMY",
+    "Tags": [
+      "Fights"
+    ],
+    "Duration": 132.190552,
+    "Verified": true,
+    "Date": "2025-12-02T14:13:25.396005",
+    "Binary": "binaries/EarthBound/Pokey Means Business.bin"
+  },
+  {
+    "Game": "Sonic the Hedgehog 2",
+    "Song": "Emerald Hill Zone",
+    "Composers": "Masato Nakamura",
+    "Converters": "The Sound Defense",
+    "Category": "bgm",
+    "Audio": "https://www.youtube.com/watch?v=Z7OnZ_SFR-g",
+    "Tags": [
+      "Exteriors",
+      "Happy"
+    ],
+    "Duration": 44.89212,
+    "Verified": true,
+    "Date": "2025-12-02T14:13:27.777649",
+    "Binary": "binaries/Sonic the Hedgehog 2/Emerald Hill Zone.bin"
+  },
+  {
+    "Game": "Sonic & Knuckles",
+    "Song": "Hidden Palace Zone",
+    "Composers": "Sega Sound Team",
+    "Converters": "The Sound Defense",
+    "Category": "bgm",
+    "Audio": "https://www.youtube.com/watch?v=tRG2IcfpXew",
+    "Tags": [
+      "Interiors",
+      "Exteriors",
+      "Gloomy",
+      "Calm"
+    ],
+    "Duration": 52.0,
+    "Verified": true,
+    "Date": "2025-12-02T14:13:30.617602",
+    "Binary": "binaries/Sonic  Knuckles/Hidden Palace Zone.bin"
+  },
+  {
+    "Game": "Chrono Trigger",
+    "Song": "World Revolution",
+    "Composers": "Yasunori Mitsuda",
+    "Converters": "The Sound Defense",
+    "Category": "bgm",
+    "Tags": [
+      "Fights"
+    ],
+    "Duration": 117.1875,
+    "Verified": true,
+    "Date": "2025-12-02T14:13:33.428496",
+    "Audio": "https://youtu.be/htRHRbyt8ng",
+    "Binary": "binaries/Chrono Trigger/World Revolution.bin"
   }
 ]
