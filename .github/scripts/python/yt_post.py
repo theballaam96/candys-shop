@@ -341,7 +341,7 @@ def uploadVideoWrapper(game, song, converters, composers, audio_file_bytes):
         desc = f"Composed by: {composers}\nConverted by: {converters}\nStart your music composition journey: https://discord.dk64randomizer.com\nPack Builder: https://theballaam96.github.io/pack_builder.html"
         if len(desc) > 5000:
             desc = desc[:5000]  # We should never ever ever ever run into this, but I'm sure Touhou 50 will when it includes the entire bee movie script in it's title
-        video_id = uploadVideo("output_video.mp4", title, desc, privacyStatus="unlisted")
+        video_id = uploadVideo("output_video.mp4", title, desc, privacyStatus="public")
         if video_id is None:
             raise Exception("Whoops, something went wrong with the upload of the video.")
         components = [
