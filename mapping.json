@@ -42973,5 +42973,37 @@
     "Date": "2025-12-02T14:13:33.428496",
     "Audio": "https://youtu.be/htRHRbyt8ng",
     "Binary": "binaries/Chrono Trigger/World Revolution.bin"
+  },
+  {
+    "Game": "Final Fantasy VI",
+    "Song": "Mog",
+    "Composers": "Nobuo Uematsu",
+    "Converters": "OnlySpaghettiCode",
+    "Category": "bgm",
+    "Tags": [
+      "Lobbies and Shops",
+      "Interiors"
+    ],
+    "Duration": 48.0078125,
+    "Verified": true,
+    "Date": "2025-12-04T00:40:49.962879",
+    "Audio": "https://youtu.be/4Rk-NjSO7Ew",
+    "Binary": "binaries/Final Fantasy VI/Mog.bin"
+  },
+  {
+    "Game": "Final Fantasy V",
+    "Song": "Battle 1",
+    "Composers": "Nobuo Uematsu",
+    "Converters": "OnlySpaghettiCode",
+    "Category": "bgm",
+    "Tags": [
+      "Fights",
+      "Gloomy"
+    ],
+    "Duration": 39.02605670833333,
+    "Verified": true,
+    "Date": "2025-12-04T00:41:44.521286",
+    "Audio": "https://youtu.be/7qiFj8h_ZTk",
+    "Binary": "binaries/Final Fantasy V/Battle 1.bin"
   }
 ]
