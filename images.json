@@ -280,6 +280,10 @@
    "Double Dragon":{
       "icon":"https://i.imgur.com/UFno90d.png"
    },
+   "Dr. Robotnik's Mean Bean Machine":{
+      "icon":"https://i.imgur.com/ONTryeR.png",
+      "short_name": "Mean Bean Machine"
+   },
    "Drakengard":{
       "icon":"https://i.imgur.com/waFqpsT.png"
    },
@@ -354,6 +358,10 @@
       "icon":"https://i.imgur.com/JN6OrSX.png",
       "short_name": "Fire Emblem 7"
    },
+   "Five Nights at Freddy's: Sister Location":{
+      "icon":"https://i.imgur.com/NDvPUvY.png",
+      "short_name": "Sister Location"
+   },
    "Fortnite":{
       "icon":"https://i.imgur.com/Iykz53s.png"
    },
@@ -427,6 +435,9 @@
    },
    "Joe & Mac":{
       "icon":"https://i.imgur.com/s3NN56x.png"
+   },
+   "Journey to Silius":{
+      "icon":"https://i.imgur.com/Gd9g2Ye.png"
    },
    "Kahoot!":{
       "icon":"https://i.imgur.com/IQ0q9rz.png"
@@ -757,6 +768,9 @@
    },
    "Okage: Shadow King":{
       "icon":"https://i.imgur.com/OW3sEAI.png"
+   },
+   "Okami":{
+      "icon":"https://i.imgur.com/AwUeM7I.png"
    },
    "Omori":{
       "icon":"https://i.imgur.com/8X1MVBj.png"
@@ -1118,6 +1132,9 @@
    "Spectrobes":{
       "icon":"https://i.imgur.com/noTHiOv.png"
    },
+   "Spelunky Classic":{
+      "icon":"https://i.imgur.com/Hmzpdzs.png"
+   },
    "Splatoon":{
       "icon":"https://i.imgur.com/Q3Acs3B.png"
    },
@@ -1277,6 +1294,9 @@
       "icon":"https://i.imgur.com/McR6M1d.png",
       "short_name": "The Angry Video Game Nerd II"
    },
+   "The Binding of Isaac":{
+      "icon":"https://i.imgur.com/tgJgzes.png"
+   },
    "The Grinch":{
       "icon":"https://i.imgur.com/lwngM3s.png"
    },
@@ -1356,6 +1376,9 @@
    },
    "Tony Hawk's Pro Skater":{
       "icon":"https://i.imgur.com/yQXCkLz.png"
+   },
+   "Toontown: The Grindworks":{
+      "icon":"https://i.imgur.com/UJYKnf1.png"
    },
    "Touhou Artificial Dream in Arcadia":{
       "icon":"https://i.imgur.com/zxAGNaZ.png",
