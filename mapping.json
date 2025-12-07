@@ -42882,7 +42882,7 @@
     "Composers": "Masato Nakamura",
     "Converters": "The Sound Defense",
     "Category": "bgm",
-    "Audio": "https://www.youtube.com/watch?v=CXUDaM-wVKw",
+    "Audio": "https://www.youtube.com/watch?v=WmKPVt237oc",
     "Additional Notes": "I do not know why the audio in the YouTube video cuts off instead of fading out. This happens every time I import the song into iMovie.",
     "Tags": [
       "Exteriors",
@@ -43005,5 +43005,21 @@
     "Date": "2025-12-04T00:41:44.521286",
     "Audio": "https://youtu.be/7qiFj8h_ZTk",
     "Binary": "binaries/Final Fantasy V/Battle 1.bin"
+  },
+  {
+    "Game": "Five Nights at Freddy's: Sister Location",
+    "Song": "Venta Black",
+    "Composers": "Leon Riskin",
+    "Converters": "Ballaam",
+    "Category": "bgm",
+    "Tags": [
+      "Interiors",
+      "Gloomy"
+    ],
+    "Duration": 340.09791666666666,
+    "Verified": true,
+    "Date": "2025-12-06T16:49:58.384784",
+    "Audio": "https://youtu.be/BzkgKMQFZrA",
+    "Binary": "binaries/Five Nights at Freddys Sister Location/Venta Black.bin"
   }
 ]
