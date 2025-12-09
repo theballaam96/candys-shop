@@ -43055,5 +43055,21 @@
     "Verified": true,
     "Date": "2025-12-09T22:49:54.826704",
     "Binary": "binaries/Castlevania Dawn of Sorrow/Equipment Discussion.bin"
+  },
+  {
+    "Game": "La-Mulana",
+    "Song": "Giant's Cry",
+    "Composers": "Houryu Samejima",
+    "Converters": "MiaSchemes",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors",
+      "Happy"
+    ],
+    "Duration": 117.666549,
+    "Verified": true,
+    "Date": "2025-12-09T22:52:00.975201",
+    "Audio": "https://youtu.be/GWoL48esXvo",
+    "Binary": "binaries/La-Mulana/Giants Cry.bin"
   }
 ]
