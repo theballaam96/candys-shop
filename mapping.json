@@ -43021,5 +43021,39 @@
     "Date": "2025-12-06T16:49:58.384784",
     "Audio": "https://youtu.be/BzkgKMQFZrA",
     "Binary": "binaries/Five Nights at Freddys Sister Location/Venta Black.bin"
+  },
+  {
+    "Game": "Toontown: The Grindworks",
+    "Song": "Tax Return",
+    "Composers": "callmeDJ",
+    "Converters": "Nauty",
+    "Category": "bgm",
+    "Tags": [
+      "Fights",
+      "Interiors",
+      "Happy"
+    ],
+    "Duration": 86.90166359583333,
+    "Verified": true,
+    "Date": "2025-12-09T22:48:27.077590",
+    "Audio": "https://youtu.be/O6z7KTs3DzE",
+    "Binary": "binaries/Toontown The Grindworks/Tax Return.bin"
+  },
+  {
+    "Game": "Castlevania: Dawn of Sorrow",
+    "Song": "Equipment Discussion",
+    "Category": "bgm",
+    "Composers": "Masahiko Kimura",
+    "Converters": "Schwartz Gandhi",
+    "Audio": "https://youtu.be/s6yW51nmwr8",
+    "Tags": [
+      "Lobbies and Shops",
+      "Interiors",
+      "Calm"
+    ],
+    "Duration": 53.78676829166667,
+    "Verified": true,
+    "Date": "2025-12-09T22:49:54.826704",
+    "Binary": "binaries/Castlevania Dawn of Sorrow/Equipment Discussion.bin"
   }
 ]
