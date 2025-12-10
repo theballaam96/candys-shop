@@ -365,6 +365,10 @@
    "Fortnite":{
       "icon":"https://i.imgur.com/Iykz53s.png"
    },
+   "Freddy Fazbear's Pizzeria Simulator":{
+      "icon":"https://i.imgur.com/Zx0Vb6N.png",
+      "short_name": "Pizzeria Simulator"
+   },
    "Friday Night Funkin'":{
       "icon":"https://i.imgur.com/I6crXl4.png"
    },
