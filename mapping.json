@@ -43071,5 +43071,98 @@
     "Date": "2025-12-09T22:52:00.975201",
     "Audio": "https://youtu.be/GWoL48esXvo",
     "Binary": "binaries/La-Mulana/Giants Cry.bin"
+  },
+  {
+    "Game": "Mario Party 3",
+    "Song": "Let's Get A Move On",
+    "Composers": "Ichiro Shimakura",
+    "Converters": "Altermentality",
+    "Category": "bgm",
+    "Audio": "https://youtu.be/NXwJyIJ_V38",
+    "Tags": [
+        "Minigames",
+        "Happy"
+    ],
+    "Duration": 39.7749206,
+    "Verified": true,
+    "Date": "2025-12-10T05:01:13.316037",
+    "Binary": "binaries/Mario Party 3/Let's Get A Move On.bin"
+  },
+  {
+    "Game": "Donkey Kong Land",
+    "Song": "Title Theme",
+    "Composers": "David Wise, Graeme Norgate",
+    "Converters": "Altermentality",
+    "Category": "bgm",
+    "Audio": "https://youtu.be/geUyAzdSFOg",
+    "Tags": [
+        "Lobbies and Shops",
+        "Minigames",
+        "Happy"
+    ],
+    "Duration": 64.70826862499999,
+    "Verified": true,
+    "Date": "2025-12-11T21:17:37.487915",
+    "Binary": "binaries/Donkey Kong Land/Title Theme.bin"
+  },
+  {
+    "Game": "Sonic the Hedgehog 2",
+    "Song": "Robotnik",
+    "Composers": "Masato Nakamura",
+    "Converters": "The Sound Defense",
+    "Category": "bgm",
+    "Audio": "https://www.youtube.com/watch?v=kWpHzyZBlDw",
+    "Tags": [
+        "Fights"
+    ],
+    "Duration": 36.090239999999994,
+    "Verified": true,
+    "Date": "2025-12-11T21:17:48.540577",
+    "Binary": "binaries/Sonic the Hedgehog 2/Robotnik.bin"
+  },
+  {
+    "Game": "Sonic the Hedgehog 3",
+    "Song": "Robotnik",
+    "Composers": "Masanori Hikichi",
+    "Converters": "The Sound Defense",
+    "Category": "bgm",
+    "Audio": "https://www.youtube.com/watch?v=CPjgjo8k0Gg",
+    "Tags": [
+        "Fights"
+    ],
+    "Duration": 33.800000000000004,
+    "Verified": true,
+    "Date": "2025-12-11T21:17:57.987823",
+    "Binary": "binaries/Sonic the Hedgehog 3/Robotnik.bin"
+  },
+  {
+    "Game": "Freddy Fazbear's Pizzeria Simulator",
+    "Song": "Nowhere to Run",
+    "Composers": "Leon Riskin",
+    "Converters": "Ballaam",
+    "Category": "bgm",
+    "Tags": [
+        "Interiors",
+        "Gloomy"
+    ],
+    "Duration": 144.1,
+    "Verified": true,
+    "Date": "2025-12-11T21:18:12.009893",
+    "Binary": "binaries/Freddy Fazbear's Pizzeria Simulator/Nowhere to Run.bin"
+  },
+  {
+    "Game": "Sonic the Hedgehog",
+    "Song": "Robotnik",
+    "Composers": "Masato Nakamura",
+    "Converters": "The Sound Defense",
+    "Category": "bgm",
+    "Audio": "https://www.youtube.com/watch?v=k5nFTvG0TnE",
+    "Tags": [
+        "Fights"
+    ],
+    "Duration": 21.333319999999997,
+    "Verified": true,
+    "Date": "2025-12-11T21:27:36.205954",
+    "Binary": "binaries/Sonic the Hedgehog/Robotnik.bin"
   }
 ]
