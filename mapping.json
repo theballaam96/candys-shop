@@ -43080,8 +43080,8 @@
     "Category": "bgm",
     "Audio": "https://youtu.be/NXwJyIJ_V38",
     "Tags": [
-        "Minigames",
-        "Happy"
+      "Minigames",
+      "Happy"
     ],
     "Duration": 39.7749206,
     "Verified": true,
@@ -43096,9 +43096,9 @@
     "Category": "bgm",
     "Audio": "https://youtu.be/geUyAzdSFOg",
     "Tags": [
-        "Lobbies and Shops",
-        "Minigames",
-        "Happy"
+      "Lobbies and Shops",
+      "Minigames",
+      "Happy"
     ],
     "Duration": 64.70826862499999,
     "Verified": true,
@@ -43113,7 +43113,7 @@
     "Category": "bgm",
     "Audio": "https://www.youtube.com/watch?v=kWpHzyZBlDw",
     "Tags": [
-        "Fights"
+      "Fights"
     ],
     "Duration": 36.090239999999994,
     "Verified": true,
@@ -43128,7 +43128,7 @@
     "Category": "bgm",
     "Audio": "https://www.youtube.com/watch?v=CPjgjo8k0Gg",
     "Tags": [
-        "Fights"
+      "Fights"
     ],
     "Duration": 33.800000000000004,
     "Verified": true,
@@ -43142,8 +43142,8 @@
     "Converters": "Ballaam",
     "Category": "bgm",
     "Tags": [
-        "Interiors",
-        "Gloomy"
+      "Interiors",
+      "Gloomy"
     ],
     "Duration": 144.1,
     "Verified": true,
@@ -43158,11 +43158,45 @@
     "Category": "bgm",
     "Audio": "https://www.youtube.com/watch?v=k5nFTvG0TnE",
     "Tags": [
-        "Fights"
+      "Fights"
     ],
     "Duration": 21.333319999999997,
     "Verified": true,
     "Date": "2025-12-11T21:27:36.205954",
     "Binary": "binaries/Sonic the Hedgehog/Robotnik.bin"
+  },
+  {
+    "Game": "Madou Monogatari 1-2-3",
+    "Song": "Try Out (PC Engine)",
+    "Composers": "Masanobu Tsukamoto, LMS Music",
+    "Converters": "Barrels O' Fun",
+    "Category": "bgm",
+    "Tags": [
+      "Interiors",
+      "Exteriors",
+      "Gloomy"
+    ],
+    "Duration": 126.82903999999999,
+    "Verified": true,
+    "Date": "2025-12-14T05:12:52.267313",
+    "Audio": "https://youtu.be/fIXdmPxMWto",
+    "Binary": "binaries/Madou Monogatari 1-2-3/Try Out (PC Engine).bin"
+  },
+  {
+    "Game": "Donkey Kong Bananza",
+    "Song": "Kong Bananza",
+    "Composers": "Naoto Kubo",
+    "Converters": "The Sound Defense",
+    "Category": "bgm",
+    "Audio": "https://www.youtube.com/watch?v=LyGr1SoLqmY",
+    "Update Notes": "Reworking the intro and making other small changes",
+    "Tags": [
+      "Fights",
+      "Minigames"
+    ],
+    "Duration": 59.11758399999999,
+    "Verified": true,
+    "Date": "2025-12-14T05:14:02.195443",
+    "Binary": "binaries/Donkey Kong Bananza/Kong Bananza (REV 1).bin"
   }
 ]
