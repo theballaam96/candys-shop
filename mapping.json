@@ -43198,5 +43198,38 @@
     "Verified": true,
     "Date": "2025-12-14T05:14:02.195443",
     "Binary": "binaries/Donkey Kong Bananza/Kong Bananza (REV 1).bin"
+  },
+  {
+    "Game": "Castlevania: Aria of Sorrow",
+    "Song": "Heart of Fire",
+    "Category": "bgm",
+    "Composers": "Michiru Yamane",
+    "Converters": "Schwartz Gandhi",
+    "Audio": "https://youtu.be/DyAKjTqMv-4",
+    "Tags": [
+      "Fights",
+      "Gloomy"
+    ],
+    "Duration": 148.3490405,
+    "Verified": true,
+    "Date": "2025-12-16T20:56:50.411712",
+    "Binary": "binaries/Castlevania Aria of Sorrow/Heart of Fire.bin"
+  },
+  {
+    "Game": "Mario + Rabbids: Kingdom Battle",
+    "Song": "The Waterfall Puzzle",
+    "Composers": "Grant Kirkhope",
+    "Converters": "LBFrank",
+    "Category": "bgm",
+    "Audio": "https://youtu.be/s4DLmEGbOV8",
+    "Update Notes": "Reverb and lots of other fixes to make it sound more in line with the original",
+    "Tags": [
+      "Exteriors",
+      "Happy"
+    ],
+    "Duration": 92.42828894140625,
+    "Verified": true,
+    "Date": "2025-12-16T20:56:52.582403",
+    "Binary": "binaries/Mario  Rabbids Kingdom Battle/The Waterfall Puzzle (REV 2).bin"
   }
 ]
