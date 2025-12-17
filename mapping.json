@@ -43231,5 +43231,21 @@
     "Verified": true,
     "Date": "2025-12-16T20:56:52.582403",
     "Binary": "binaries/Mario  Rabbids Kingdom Battle/The Waterfall Puzzle (REV 2).bin"
+  },
+  {
+    "Game": "Castlevania III: Dracula's Curse",
+    "Song": "Mad Forest",
+    "Composers": "Yoshinori Sasaki, Jun Funahashi, Yukie Morimoto, Hidenori Maezawa",
+    "Converters": "OnlySpaghettiCode",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors",
+      "Gloomy"
+    ],
+    "Duration": 44.4883725,
+    "Verified": true,
+    "Date": "2025-12-17T13:58:26.631049",
+    "Audio": "https://youtu.be/DnAeNZm2EB8",
+    "Binary": "binaries/Castlevania III Draculas Curse/Mad Forest.bin"
   }
 ]
