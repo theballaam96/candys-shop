@@ -43264,5 +43264,21 @@
     "Verified": true,
     "Date": "2025-12-20T00:04:39.354688",
     "Binary": "binaries/Castlevania Aria of Sorrow/Demon Castle Top Floor (REV 1).bin"
+  },
+  {
+    "Game": "Castlevania: Aria of Sorrow",
+    "Song": "Game Over",
+    "Category": "events",
+    "Composers": "Takashi Yoshida",
+    "Converters": "Schwartz Gandhi",
+    "Tags": [
+      "Spawning",
+      "Gloomy"
+    ],
+    "Duration": 6.10905225,
+    "Verified": true,
+    "Date": "2025-12-20T05:30:33.099859",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Castlevania%20Aria%20of%20Sorrow/Game%20Over.mp3",
+    "Binary": "binaries/Castlevania Aria of Sorrow/Game Over.bin"
   }
 ]
