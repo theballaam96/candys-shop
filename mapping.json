@@ -43247,5 +43247,22 @@
     "Date": "2025-12-17T13:58:26.631049",
     "Audio": "https://youtu.be/DnAeNZm2EB8",
     "Binary": "binaries/Castlevania III Draculas Curse/Mad Forest.bin"
+  },
+  {
+    "Game": "Castlevania: Aria of Sorrow",
+    "Song": "Demon Castle Top Floor",
+    "Category": "bgm",
+    "Composers": "Michiru Yamane",
+    "Converters": "Schwartz Gandhi",
+    "Audio": "https://youtu.be/6U0TwSv7S-s",
+    "Tags": [
+      "Interiors",
+      "Gloomy"
+    ],
+    "Update Notes": "panning, rebalance, better organ",
+    "Duration": 94.20276666666666,
+    "Verified": true,
+    "Date": "2025-12-20T00:04:39.354688",
+    "Binary": "binaries/Castlevania Aria of Sorrow/Demon Castle Top Floor (REV 1).bin"
   }
 ]
