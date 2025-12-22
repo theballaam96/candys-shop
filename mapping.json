@@ -43280,5 +43280,21 @@
     "Date": "2025-12-20T05:30:33.099859",
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Castlevania%20Aria%20of%20Sorrow/Game%20Over.mp3",
     "Binary": "binaries/Castlevania Aria of Sorrow/Game Over.bin"
+  },
+  {
+    "Game": "Vampire Survivors",
+    "Song": "Forest Night Fever",
+    "Composers": "Filippo Vicarelli",
+    "Converters": "iveli_alpaca",
+    "Category": "bgm",
+    "Audio": "https://youtu.be/9RDM16piReY",
+    "Tags": [
+      "Exteriors",
+      "Happy"
+    ],
+    "Duration": 83.99991599999998,
+    "Verified": true,
+    "Date": "2025-12-22T05:12:15.520360",
+    "Binary": "binaries/Vampire Survivors/Forest Night Fever.bin"
   }
 ]
