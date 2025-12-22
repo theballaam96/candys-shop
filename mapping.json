@@ -43296,5 +43296,21 @@
     "Verified": true,
     "Date": "2025-12-22T05:12:15.520360",
     "Binary": "binaries/Vampire Survivors/Forest Night Fever.bin"
+  },
+  {
+    "Game": "Sonic the Hedgehog 3",
+    "Song": "Launch Base Zone Act 1",
+    "Composers": "Sega Sound Team",
+    "Converters": "2dos",
+    "Category": "bgm",
+    "Audio": "https://www.youtube.com/watch?v=kgSa02hil2s",
+    "Tags": [
+      "Exteriors",
+      "Happy"
+    ],
+    "Duration": 70.5,
+    "Verified": true,
+    "Date": "2025-12-22T05:24:40.367079",
+    "Binary": "binaries/Sonic the Hedgehog 3/Launch Base Zone Act 1.bin"
   }
 ]
