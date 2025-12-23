@@ -43312,5 +43312,38 @@
     "Verified": true,
     "Date": "2025-12-22T05:24:40.367079",
     "Binary": "binaries/Sonic the Hedgehog 3/Launch Base Zone Act 1.bin"
+  },
+  {
+    "Game": "Final Fantasy X",
+    "Song": "Battle",
+    "Composers": "Nobuo Uematsu",
+    "Converters": "OnlySpaghettiCode",
+    "Category": "bgm",
+    "Update Notes": "i felt like redoing it",
+    "Tags": [
+      "Fights"
+    ],
+    "Duration": 101.0590589375,
+    "Verified": true,
+    "Date": "2025-12-23T20:39:38.475789",
+    "Audio": "https://youtu.be/TXrkm835hqY",
+    "Binary": "binaries/Final Fantasy X/Battle (REV 1).bin"
+  },
+  {
+    "Game": "The Legend of Zelda: Twilight Princess",
+    "Song": "Faron Woods",
+    "Composers": "Tōru Minegishi, Asuka Hayazaki, Koji Kondo",
+    "Converters": "OnlySpaghettiCode",
+    "Category": "bgm",
+    "Update Notes": "reverb",
+    "Tags": [
+      "Exteriors",
+      "Calm"
+    ],
+    "Duration": 119.88673222916665,
+    "Verified": true,
+    "Date": "2025-12-23T20:40:47.215166",
+    "Audio": "https://youtu.be/vqQmkHcux-Y",
+    "Binary": "binaries/The Legend of Zelda Twilight Princess/Faron Woods (REV 2).bin"
   }
 ]
