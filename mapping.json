@@ -43345,5 +43345,22 @@
     "Date": "2025-12-23T20:40:47.215166",
     "Audio": "https://youtu.be/vqQmkHcux-Y",
     "Binary": "binaries/The Legend of Zelda Twilight Princess/Faron Woods (REV 2).bin"
+  },
+  {
+    "Game": "La-Mulana",
+    "Song": "Moon Light Dance",
+    "Composers": "Houryu Samejima",
+    "Converters": "MiaSchemes",
+    "Category": "bgm",
+    "Tags": [
+      "Lobbies and Shops",
+      "Exteriors",
+      "Happy"
+    ],
+    "Duration": 134.22779799999998,
+    "Verified": true,
+    "Date": "2025-12-25T00:52:41.354473",
+    "Audio": "https://youtu.be/lGa5dmMmSZU",
+    "Binary": "binaries/La-Mulana/Moon Light Dance.bin"
   }
 ]
