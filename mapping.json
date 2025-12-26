@@ -43362,5 +43362,22 @@
     "Date": "2025-12-25T00:52:41.354473",
     "Audio": "https://youtu.be/lGa5dmMmSZU",
     "Binary": "binaries/La-Mulana/Moon Light Dance.bin"
+  },
+  {
+    "Game": "Mario + Rabbids: Kingdom Battle",
+    "Song": "Sunny Side Up",
+    "Composers": "Grant Kirkhope",
+    "Converters": "LBFrank",
+    "Category": "bgm",
+    "Audio": "https://youtu.be/HUss4f8HcKY",
+    "Update Notes": "Upped reverb and tempo (slightly), amongst other things",
+    "Tags": [
+      "Lobbies and Shops",
+      "Happy"
+    ],
+    "Duration": 63.5605425,
+    "Verified": true,
+    "Date": "2025-12-26T02:04:36.254988",
+    "Binary": "binaries/Mario  Rabbids Kingdom Battle/Sunny Side Up (REV 1).bin"
   }
 ]
