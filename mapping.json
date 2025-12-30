@@ -43381,5 +43381,20 @@
     "Verified": true,
     "Date": "2025-12-26T02:04:36.254988",
     "Binary": "binaries/Mario  Rabbids Kingdom Battle/Sunny Side Up (REV 1).bin"
+  },
+  {
+    "Game": "Donkey Kong Bananza",
+    "Song": "K. Rool, King of Rot",
+    "Composers": "Naoto Kubo",
+    "Converters": "The Sound Defense",
+    "Category": "bgm",
+    "Tags": [
+      "Fights"
+    ],
+    "Duration": 124.72605649999998,
+    "Verified": true,
+    "Date": "2025-12-30T21:42:33.535561",
+    "Audio": "https://youtu.be/qywyXM4KCXg",
+    "Binary": "binaries/Donkey Kong Bananza/K Rool, King of Rot.bin"
   }
 ]
