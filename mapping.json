@@ -43396,5 +43396,21 @@
     "Date": "2025-12-30T21:42:33.535561",
     "Audio": "https://youtu.be/qywyXM4KCXg",
     "Binary": "binaries/Donkey Kong Bananza/K Rool, King of Rot.bin"
+  },
+  {
+    "Game": "Castlevania: Dawn of Sorrow",
+    "Song": "Subterranean Hell",
+    "Category": "bgm",
+    "Composers": "Michiru Yamane",
+    "Converters": "Schwartz Gandhi",
+    "Audio": "https://youtu.be/BsvnMps6j6U",
+    "Tags": [
+      "Exteriors",
+      "Happy"
+    ],
+    "Duration": 153.47229895833334,
+    "Verified": true,
+    "Date": "2026-01-01T14:15:38.631997",
+    "Binary": "binaries/Castlevania Dawn of Sorrow/Subterranean Hell.bin"
   }
 ]
