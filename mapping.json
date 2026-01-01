@@ -43413,5 +43413,22 @@
     "Verified": true,
     "Date": "2026-01-01T14:15:38.631997",
     "Binary": "binaries/Castlevania Dawn of Sorrow/Subterranean Hell.bin"
+  },
+  {
+    "Game": "Mario Golf: Toadstool Tour",
+    "Song": "Training",
+    "Composers": "Motoi Sakuraba",
+    "Converters": "2dos",
+    "Category": "bgm",
+    "Audio": "https://www.youtube.com/watch?v=YCpwVmJkb3k",
+    "Tags": [
+      "Exteriors",
+      "Minigames",
+      "Happy"
+    ],
+    "Duration": 66.31515721875,
+    "Verified": true,
+    "Date": "2026-01-01T14:18:38.468324",
+    "Binary": "binaries/Mario Golf Toadstool Tour/Training.bin"
   }
 ]
