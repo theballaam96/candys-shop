@@ -133,7 +133,8 @@
       "icon":"https://i.imgur.com/wN1vswd.png"
    },
    "Castlevania III: Dracula's Curse":{
-      "icon":"https://i.imgur.com/Xuccpma.png"
+      "icon":"https://i.imgur.com/Xuccpma.png",
+      "short_name": "Castlevania III"
    },
    "Castlevania: Portrait of Ruin":{
       "icon":"https://i.imgur.com/SNAHeAi.png"
