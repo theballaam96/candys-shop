@@ -43430,5 +43430,69 @@
     "Verified": true,
     "Date": "2026-01-01T14:18:38.468324",
     "Binary": "binaries/Mario Golf Toadstool Tour/Training.bin"
+  },
+  {
+    "Game": "Donkey Kong Country",
+    "Song": "Candy's Love Song",
+    "Composers": "Eveline Fischer",
+    "Converters": "OnlySpaghettiCode",
+    "Category": "bgm",
+    "Tags": [
+      "Lobbies and Shops",
+      "Interiors"
+    ],
+    "Duration": 62.511624083333324,
+    "Verified": true,
+    "Date": "2026-01-04T03:43:26.951754",
+    "Audio": "https://youtu.be/YR6u_MyHAG0",
+    "Binary": "binaries/Donkey Kong Country/Candys Love Song.bin"
+  },
+  {
+    "Game": "Final Fantasy IV",
+    "Song": "Enter Fat Chocobo!",
+    "Composers": "Nobuo Uematsu",
+    "Converters": "Altermentality",
+    "Category": "bgm",
+    "Audio": "https://youtu.be/TV052uUS1Jw",
+    "Tags": [
+      "Lobbies and Shops",
+      "Happy"
+    ],
+    "Duration": 13.028075083333333,
+    "Verified": true,
+    "Date": "2026-01-04T03:44:14.462534",
+    "Binary": "binaries/Final Fantasy IV/Enter Fat Chocobo.bin"
+  },
+  {
+    "Game": "Final Fantasy IV",
+    "Song": "Mystic Mysidia",
+    "Composers": "Nobuo Uematsu",
+    "Converters": "Altermentality",
+    "Category": "bgm",
+    "Audio": "https://youtu.be/mJwaJRMsuN4",
+    "Tags": [
+      "Exteriors",
+      "Happy"
+    ],
+    "Duration": 44.8,
+    "Verified": true,
+    "Date": "2026-01-04T03:44:16.503161",
+    "Binary": "binaries/Final Fantasy IV/Mystic Mysidia.bin"
+  },
+  {
+    "Game": "Final Fantasy",
+    "Song": "Battle (Origins)",
+    "Composers": "Nobuo Uematsu",
+    "Converters": "OnlySpaghettiCode",
+    "Category": "bgm",
+    "Tags": [
+      "Fights",
+      "Gloomy"
+    ],
+    "Duration": 42.6171875,
+    "Verified": true,
+    "Date": "2026-01-04T03:44:18.758191",
+    "Audio": "https://youtu.be/xsN5pUgoIQ8",
+    "Binary": "binaries/Final Fantasy/Battle (Origins).bin"
   }
 ]
