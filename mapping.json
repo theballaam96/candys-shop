@@ -43494,5 +43494,21 @@
     "Date": "2026-01-04T03:44:18.758191",
     "Audio": "https://youtu.be/xsN5pUgoIQ8",
     "Binary": "binaries/Final Fantasy/Battle (Origins).bin"
+  },
+  {
+    "Game": "EarthBound",
+    "Song": "Item Pickup",
+    "Composers": "Hirokazu Tanaka",
+    "Converters": "iveli_alpaca",
+    "Category": "minoritems",
+    "Tags": [
+      "Collection",
+      "Happy"
+    ],
+    "Duration": 0.23885375000000003,
+    "Verified": true,
+    "Date": "2026-01-06T14:11:54.555995",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/EarthBound/Item%20Pickup.mp3",
+    "Binary": "binaries/EarthBound/Item Pickup.bin"
   }
 ]
