@@ -43510,5 +43510,23 @@
     "Date": "2026-01-06T14:11:54.555995",
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/EarthBound/Item%20Pickup.mp3",
     "Binary": "binaries/EarthBound/Item Pickup.bin"
+  },
+  {
+    "Game": "Duke Nukem 3D",
+    "Song": "Grabbag",
+    "Composers": "Lee Jackson",
+    "Converters": "iveli_alpaca",
+    "Category": "bgm",
+    "Audio": "https://www.youtube.com/watch?v=l-7Su115BLE",
+    "Additional Notes": "(Mandatory legal stuff) Grabbag (Duke Nukem Theme) - composed by Lee Jackson Copyright © 1995 Lee Jackson. All rights reserved. Duke Nukem is © 1999-2011--- Gearbox Software, LLC. All rights reserved. Duke Nukem, the Duke Nukem nuclear symbol, Duke Nukem Forever, Gearbox Software and the Gearbox logo are registered trademarks of Gearbox Software, LLC in the U.S. and/or other countries and used here under license.",
+    "Tags": [
+      "Fights",
+      "Minigames",
+      "Happy"
+    ],
+    "Duration": 122.79062400000001,
+    "Verified": true,
+    "Date": "2026-01-08T03:49:20.958699",
+    "Binary": "binaries/Duke Nukem 3D/Grabbag.bin"
   }
 ]
