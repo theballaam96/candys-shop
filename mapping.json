@@ -43528,5 +43528,22 @@
     "Verified": true,
     "Date": "2026-01-08T03:49:20.958699",
     "Binary": "binaries/Duke Nukem 3D/Grabbag.bin"
+  },
+  {
+    "Game": "Mario Golf: Toadstool Tour",
+    "Song": "Congo Canopy",
+    "Composers": "Motoi Sakuraba",
+    "Converters": "SirEnobMort",
+    "Category": "bgm",
+    "Audio": "https://youtu.be/0xYPcRi9HkA",
+    "Tags": [
+      "Exteriors",
+      "Happy",
+      "Calm"
+    ],
+    "Duration": 143.37768824999998,
+    "Verified": true,
+    "Date": "2026-01-09T18:55:11.195710",
+    "Binary": "binaries/Mario Golf Toadstool Tour/Congo Canopy.bin"
   }
 ]
