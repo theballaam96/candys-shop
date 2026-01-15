@@ -43545,5 +43545,21 @@
     "Verified": true,
     "Date": "2026-01-09T18:55:11.195710",
     "Binary": "binaries/Mario Golf Toadstool Tour/Congo Canopy.bin"
+  },
+  {
+    "Game": "Mario Party",
+    "Song": "Chance Time",
+    "Composers": "Yasunori Mitsuda",
+    "Converters": "iveli_alpaca",
+    "Category": "bgm",
+    "Tags": [
+      "Lobbies and Shops",
+      "Happy"
+    ],
+    "Duration": 20.91833666666667,
+    "Verified": true,
+    "Date": "2026-01-15T22:12:52.108852",
+    "Audio": "https://youtu.be/G-or0wvEDZ8",
+    "Binary": "binaries/Mario Party/Chance Time.bin"
   }
 ]
