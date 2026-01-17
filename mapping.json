@@ -43561,5 +43561,22 @@
     "Date": "2026-01-15T22:12:52.108852",
     "Audio": "https://youtu.be/G-or0wvEDZ8",
     "Binary": "binaries/Mario Party/Chance Time.bin"
+  },
+  {
+    "Game": "Tetris DS",
+    "Song": "Ancient Tetris",
+    "Composers": "Minako Hamano, Akira Fujiwara",
+    "Converters": "SirEnobMort",
+    "Category": "bgm",
+    "Audio": "https://youtu.be/daHN8CAW1Qw",
+    "Tags": [
+      "Minigames",
+      "Happy",
+      "Gloomy"
+    ],
+    "Duration": 30.315744,
+    "Verified": true,
+    "Date": "2026-01-17T03:06:03.877326",
+    "Binary": "binaries/Tetris DS/Ancient Tetris.bin"
   }
 ]
