@@ -43578,5 +43578,22 @@
     "Verified": true,
     "Date": "2026-01-17T03:06:03.877326",
     "Binary": "binaries/Tetris DS/Ancient Tetris.bin"
+  },
+  {
+    "Game": "Castlevania: Dawn of Sorrow",
+    "Song": "Cursed Clock Tower",
+    "Category": "bgm",
+    "Composers": "Michiru Yamane",
+    "Converters": "Schwartz Gandhi",
+    "Audio": "https://youtu.be/eeoIhAL1-m8",
+    "Tags": [
+      "Exteriors",
+      "Happy"
+    ],
+    "Additional Notes": "Did most of the work in the car on the way to GDQ, finialised at the hotel.",
+    "Duration": 138.06804375,
+    "Verified": true,
+    "Date": "2026-01-18T08:19:40.701836",
+    "Binary": "binaries/Castlevania Dawn of Sorrow/Cursed Clock Tower.bin"
   }
 ]
