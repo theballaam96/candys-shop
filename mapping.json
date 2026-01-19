@@ -43595,5 +43595,22 @@
     "Verified": true,
     "Date": "2026-01-18T08:19:40.701836",
     "Binary": "binaries/Castlevania Dawn of Sorrow/Cursed Clock Tower.bin"
+  },
+  {
+    "Game": "Spider-Man (Acclaim)",
+    "Song": "The Fun House",
+    "Composers": "Fletcher Beasley",
+    "Converters": "2dos",
+    "Category": "bgm",
+    "Audio": "https://www.youtube.com/watch?v=Zka6Yq7dsTk",
+    "Tags": [
+      "Interiors",
+      "Exteriors",
+      "Spooky"
+    ],
+    "Duration": 115.44583333333333,
+    "Verified": true,
+    "Date": "2026-01-19T00:15:12.884388",
+    "Binary": "binaries/Spider-Man (Acclaim)/The Fun House.bin"
   }
 ]
