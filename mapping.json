@@ -9071,7 +9071,7 @@
   {
     "Date": "Sat Sep 23 2023 16:11:31 GMT-0500 (Central Daylight Time)",
     "Game": "The Angry Video Game Nerd II: ASSimilation",
-    "Song": "Shitty Security Breach",
+    "Song": "Sh*tty Security Breach",
     "Category": "bgm",
     "Composers": "Sam Beddoes",
     "Converters": "GlitchGlider",
@@ -43494,5 +43494,123 @@
     "Date": "2026-01-04T03:44:18.758191",
     "Audio": "https://youtu.be/xsN5pUgoIQ8",
     "Binary": "binaries/Final Fantasy/Battle (Origins).bin"
+  },
+  {
+    "Game": "EarthBound",
+    "Song": "Item Pickup",
+    "Composers": "Hirokazu Tanaka",
+    "Converters": "iveli_alpaca",
+    "Category": "minoritems",
+    "Tags": [
+      "Collection",
+      "Happy"
+    ],
+    "Duration": 0.23885375000000003,
+    "Verified": true,
+    "Date": "2026-01-06T14:11:54.555995",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/EarthBound/Item%20Pickup.mp3",
+    "Binary": "binaries/EarthBound/Item Pickup.bin"
+  },
+  {
+    "Game": "Duke Nukem 3D",
+    "Song": "Grabbag",
+    "Composers": "Lee Jackson",
+    "Converters": "iveli_alpaca",
+    "Category": "bgm",
+    "Audio": "https://www.youtube.com/watch?v=l-7Su115BLE",
+    "Additional Notes": "(Mandatory legal stuff) Grabbag (Duke Nukem Theme) - composed by Lee Jackson Copyright © 1995 Lee Jackson. All rights reserved. Duke Nukem is © 1999-2011--- Gearbox Software, LLC. All rights reserved. Duke Nukem, the Duke Nukem nuclear symbol, Duke Nukem Forever, Gearbox Software and the Gearbox logo are registered trademarks of Gearbox Software, LLC in the U.S. and/or other countries and used here under license.",
+    "Tags": [
+      "Fights",
+      "Minigames",
+      "Happy"
+    ],
+    "Duration": 122.79062400000001,
+    "Verified": true,
+    "Date": "2026-01-08T03:49:20.958699",
+    "Binary": "binaries/Duke Nukem 3D/Grabbag.bin"
+  },
+  {
+    "Game": "Mario Golf: Toadstool Tour",
+    "Song": "Congo Canopy",
+    "Composers": "Motoi Sakuraba",
+    "Converters": "SirEnobMort",
+    "Category": "bgm",
+    "Audio": "https://youtu.be/0xYPcRi9HkA",
+    "Tags": [
+      "Exteriors",
+      "Happy",
+      "Calm"
+    ],
+    "Duration": 143.37768824999998,
+    "Verified": true,
+    "Date": "2026-01-09T18:55:11.195710",
+    "Binary": "binaries/Mario Golf Toadstool Tour/Congo Canopy.bin"
+  },
+  {
+    "Game": "Mario Party",
+    "Song": "Chance Time",
+    "Composers": "Yasunori Mitsuda",
+    "Converters": "iveli_alpaca",
+    "Category": "bgm",
+    "Tags": [
+      "Lobbies and Shops",
+      "Happy"
+    ],
+    "Duration": 20.91833666666667,
+    "Verified": true,
+    "Date": "2026-01-15T22:12:52.108852",
+    "Audio": "https://youtu.be/G-or0wvEDZ8",
+    "Binary": "binaries/Mario Party/Chance Time.bin"
+  },
+  {
+    "Game": "Tetris DS",
+    "Song": "Ancient Tetris",
+    "Composers": "Minako Hamano, Akira Fujiwara",
+    "Converters": "SirEnobMort",
+    "Category": "bgm",
+    "Audio": "https://youtu.be/daHN8CAW1Qw",
+    "Tags": [
+      "Minigames",
+      "Happy",
+      "Gloomy"
+    ],
+    "Duration": 30.315744,
+    "Verified": true,
+    "Date": "2026-01-17T03:06:03.877326",
+    "Binary": "binaries/Tetris DS/Ancient Tetris.bin"
+  },
+  {
+    "Game": "Castlevania: Dawn of Sorrow",
+    "Song": "Cursed Clock Tower",
+    "Category": "bgm",
+    "Composers": "Michiru Yamane",
+    "Converters": "Schwartz Gandhi",
+    "Audio": "https://youtu.be/eeoIhAL1-m8",
+    "Tags": [
+      "Exteriors",
+      "Happy"
+    ],
+    "Additional Notes": "Did most of the work in the car on the way to GDQ, finialised at the hotel.",
+    "Duration": 138.06804375,
+    "Verified": true,
+    "Date": "2026-01-18T08:19:40.701836",
+    "Binary": "binaries/Castlevania Dawn of Sorrow/Cursed Clock Tower.bin"
+  },
+  {
+    "Game": "Spider-Man (Acclaim)",
+    "Song": "The Fun House",
+    "Composers": "Fletcher Beasley",
+    "Converters": "2dos",
+    "Category": "bgm",
+    "Audio": "https://www.youtube.com/watch?v=Zka6Yq7dsTk",
+    "Tags": [
+      "Interiors",
+      "Exteriors",
+      "Spooky"
+    ],
+    "Duration": 115.44583333333333,
+    "Verified": true,
+    "Date": "2026-01-19T00:15:12.884388",
+    "Binary": "binaries/Spider-Man (Acclaim)/The Fun House.bin"
   }
 ]
