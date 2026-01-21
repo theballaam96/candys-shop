@@ -43612,5 +43612,70 @@
     "Verified": true,
     "Date": "2026-01-19T00:15:12.884388",
     "Binary": "binaries/Spider-Man (Acclaim)/The Fun House.bin"
+  },
+  {
+    "Game": "Mario Tennis: Power Tour",
+    "Song": "Training Match",
+    "Composers": "Motoi Sakuraba",
+    "Converters": "ck vyx",
+    "Category": "bgm",
+    "Tags": [
+      "Minigames",
+      "Happy"
+    ],
+    "Duration": 59.081671687500005,
+    "Verified": true,
+    "Date": "2026-01-21T13:50:19.128806",
+    "Audio": "https://youtu.be/ZP3JD6HHJ6Q",
+    "Binary": "binaries/Mario Tennis Power Tour/Training Match.bin"
+  },
+  {
+    "Game": "Super Smash Bros.",
+    "Song": "Captain Falcon Wins!",
+    "Composers": "Hirokazu Ando",
+    "Converters": "SirEnobMort",
+    "Category": "events",
+    "Update Notes": "Lowered amount of Events and Updates, adjusted volumes, and added some guitar fuzz🤘",
+    "Tags": [
+      "Happy"
+    ],
+    "Duration": 5.396336822916666,
+    "Verified": true,
+    "Date": "2026-01-21T13:51:05.724638",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Super%20Smash%20Bros/Captain%20Falcon%20Wins%20(REV%201).mp3",
+    "Binary": "binaries/Super Smash Bros/Captain Falcon Wins (REV 1).bin"
+  },
+  {
+    "Game": "Super Smash Bros.",
+    "Song": "Samus Wins!",
+    "Composers": "Hirokazu Ando",
+    "Converters": "SirEnobMort",
+    "Category": "events",
+    "Update Notes": "Lowered number of voices and made volume adjustments",
+    "Tags": [
+      "Happy"
+    ],
+    "Duration": 5.802083333333333,
+    "Verified": true,
+    "Date": "2026-01-21T13:51:07.968287",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Super%20Smash%20Bros/Samus%20Wins%20(REV%201).mp3",
+    "Binary": "binaries/Super Smash Bros/Samus Wins (REV 1).bin"
+  },
+  {
+    "Game": "Splatoon 3",
+    "Song": "Now or Never!",
+    "Composers": "Toru Minegishi, C-Side",
+    "Converters": "iveli_alpaca",
+    "Category": "bgm",
+    "Audio": "https://youtu.be/Hc96aiZSP-c",
+    "Tags": [
+      "Fights",
+      "Minigames",
+      "Happy"
+    ],
+    "Duration": 62.305116427083334,
+    "Verified": true,
+    "Date": "2026-01-21T13:51:10.815548",
+    "Binary": "binaries/Splatoon 3/Now or Never.bin"
   }
 ]
