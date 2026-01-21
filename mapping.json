@@ -43677,5 +43677,21 @@
     "Verified": true,
     "Date": "2026-01-21T13:51:10.815548",
     "Binary": "binaries/Splatoon 3/Now or Never.bin"
+  },
+  {
+    "Game": "Umamusume: Pretty Derby",
+    "Song": "Bakushin Bakushin Bakushinshin",
+    "Composers": "Misaki Asada",
+    "Converters": "JackTHerbert",
+    "Category": "bgm",
+    "Tags": [
+      "Lobbies and Shops",
+      "Happy"
+    ],
+    "Duration": 51.20833333333333,
+    "Verified": true,
+    "Date": "2026-01-21T15:26:23.089937",
+    "Audio": "https://youtu.be/aKVEbZc8G2g",
+    "Binary": "binaries/Umamusume Pretty Derby/Bakushin Bakushin Bakushinshin.bin"
   }
 ]
