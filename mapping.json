@@ -43693,5 +43693,22 @@
     "Date": "2026-01-21T15:26:23.089937",
     "Audio": "https://youtu.be/aKVEbZc8G2g",
     "Binary": "binaries/Umamusume Pretty Derby/Bakushin Bakushin Bakushinshin.bin"
+  },
+  {
+    "Game": "Thunder Force IV",
+    "Song": "Metal Squad",
+    "Composers": "Toshiharu Yamanishi, SSH",
+    "Converters": "iveli_alpaca",
+    "Category": "bgm",
+    "Audio": "https://youtu.be/y-xKcYQOzMI",
+    "Tags": [
+      "Fights",
+      "Minigames",
+      "Happy"
+    ],
+    "Duration": 240.00006,
+    "Verified": true,
+    "Date": "2026-01-22T04:54:29.127578",
+    "Binary": "binaries/Thunder Force IV/Metal Squad.bin"
   }
 ]
