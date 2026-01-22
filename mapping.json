@@ -43726,5 +43726,36 @@
     "Verified": true,
     "Date": "2026-01-22T05:01:50.221271",
     "Binary": "binaries/Super Mario Sunshine/Vs Boss.bin"
+  },
+  {
+    "Game": "Final Fantasy IX",
+    "Song": "Jesters of the Moon",
+    "Composers": "Nobuo Uematsu",
+    "Converters": "OnlySpaghettiCode",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors"
+    ],
+    "Duration": 90.67365644791667,
+    "Verified": true,
+    "Date": "2026-01-22T10:02:10.767578",
+    "Audio": "https://youtu.be/sLZXmavxReI",
+    "Binary": "binaries/Final Fantasy IX/Jesters of the Moon.bin"
+  },
+  {
+    "Game": "Mario Party",
+    "Song": "Move to the Mambo!",
+    "Composers": "Yasunori Mitsuda",
+    "Converters": "OnlySpaghettiCode",
+    "Category": "bgm",
+    "Tags": [
+      "Minigames",
+      "Happy"
+    ],
+    "Duration": 52.61131364583333,
+    "Verified": true,
+    "Date": "2026-01-22T10:03:16.208243",
+    "Audio": "https://youtu.be/6diTd72Vyjw",
+    "Binary": "binaries/Mario Party/Move to the Mambo.bin"
   }
 ]
