@@ -43710,5 +43710,21 @@
     "Verified": true,
     "Date": "2026-01-22T04:54:29.127578",
     "Binary": "binaries/Thunder Force IV/Metal Squad.bin"
+  },
+  {
+    "Game": "Super Mario Sunshine",
+    "Song": "Vs. Boss",
+    "Composers": "Koji Kondo, Shinobu Tanaka",
+    "Converters": "iveli_alpaca",
+    "Category": "bgm",
+    "Audio": "https://youtu.be/wKClIhoNPR4",
+    "Tags": [
+      "Fights",
+      "Happy"
+    ],
+    "Duration": 98.93676855208334,
+    "Verified": true,
+    "Date": "2026-01-22T05:01:50.221271",
+    "Binary": "binaries/Super Mario Sunshine/Vs Boss.bin"
   }
 ]
