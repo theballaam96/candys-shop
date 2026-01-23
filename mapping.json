@@ -43757,5 +43757,20 @@
     "Date": "2026-01-22T10:03:16.208243",
     "Audio": "https://youtu.be/6diTd72Vyjw",
     "Binary": "binaries/Mario Party/Move to the Mambo.bin"
+  },
+  {
+    "Game": "PAYDAY 2",
+    "Song": "Hot Pursuit",
+    "Composers": "Simon Viklund",
+    "Converters": "JackTHerbert",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors"
+    ],
+    "Duration": 125.868117375,
+    "Verified": true,
+    "Date": "2026-01-23T15:08:20.469067",
+    "Audio": "https://youtu.be/Yws7PKax2FU",
+    "Binary": "binaries/PAYDAY 2/Hot Pursuit.bin"
   }
 ]
