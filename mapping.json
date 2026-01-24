@@ -43788,5 +43788,21 @@
     "Date": "2026-01-24T00:24:57.770920",
     "Audio": "https://youtu.be/IoFc5yKLNgY",
     "Binary": "binaries/Chrono Cross/Home Village Arni.bin"
+  },
+  {
+    "Game": "Paper Mario",
+    "Song": "Shy Guy Riot",
+    "Composers": "Yuka Tsujiyoko",
+    "Converters": "Altermentality",
+    "Category": "bgm",
+    "Audio": "https://youtu.be/BAo3reZPQiQ",
+    "Tags": [
+      "Exteriors",
+      "Happy"
+    ],
+    "Duration": 66.66656,
+    "Verified": true,
+    "Date": "2026-01-24T08:06:45.262274",
+    "Binary": "binaries/Paper Mario/Shy Guy Riot.bin"
   }
 ]
