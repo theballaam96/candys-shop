@@ -43772,5 +43772,21 @@
     "Date": "2026-01-23T15:08:20.469067",
     "Audio": "https://youtu.be/Yws7PKax2FU",
     "Binary": "binaries/PAYDAY 2/Hot Pursuit.bin"
+  },
+  {
+    "Game": "Chrono Cross",
+    "Song": "Home Village Arni",
+    "Composers": "Yasunori Mitsuda",
+    "Converters": "OnlySpaghettiCode",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors",
+      "Calm"
+    ],
+    "Duration": 94.92310194791666,
+    "Verified": true,
+    "Date": "2026-01-24T00:24:57.770920",
+    "Audio": "https://youtu.be/IoFc5yKLNgY",
+    "Binary": "binaries/Chrono Cross/Home Village Arni.bin"
   }
 ]
