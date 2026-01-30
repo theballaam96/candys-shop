@@ -43820,5 +43820,22 @@
     "Verified": true,
     "Date": "2026-01-30T14:22:38.635810",
     "Binary": "binaries/Persona 2 Innocent Sin/Battle.bin"
+  },
+  {
+    "Game": "Paper Mario",
+    "Song": "Hang in There, Peach!",
+    "Composers": "Yuka Tsujiyoko",
+    "Converters": "Altermentality",
+    "Category": "bgm",
+    "Audio": "https://youtu.be/zg29Y_EASk8",
+    "Tags": [
+      "Lobbies and Shops",
+      "Interiors",
+      "Calm"
+    ],
+    "Duration": 76.72070249999999,
+    "Verified": true,
+    "Date": "2026-01-30T14:26:13.879053",
+    "Binary": "binaries/Paper Mario/Hang in There, Peach.bin"
   }
 ]
