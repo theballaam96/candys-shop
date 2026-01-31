@@ -43837,5 +43837,21 @@
     "Verified": true,
     "Date": "2026-01-30T14:26:13.879053",
     "Binary": "binaries/Paper Mario/Hang in There, Peach.bin"
+  },
+  {
+    "Game": "La-Mulana",
+    "Song": "Death Game",
+    "Composers": "Houryu Samejima",
+    "Converters": "MiaSchemes",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors",
+      "Minigames"
+    ],
+    "Duration": 93.03801499999999,
+    "Verified": true,
+    "Date": "2026-01-31T03:02:06.071363",
+    "Audio": "https://youtu.be/oC-_JQKTQ2w",
+    "Binary": "binaries/La-Mulana/Death Game.bin"
   }
 ]
