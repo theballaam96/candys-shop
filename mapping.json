@@ -43853,5 +43853,22 @@
     "Date": "2026-01-31T03:02:06.071363",
     "Audio": "https://youtu.be/oC-_JQKTQ2w",
     "Binary": "binaries/La-Mulana/Death Game.bin"
+  },
+  {
+    "Game": "Pokémon Trading Card Game",
+    "Song": "Pause Menu",
+    "Composers": "Ichiro Shimakura",
+    "Converters": "MiaSchemes",
+    "Category": "bgm",
+    "Tags": [
+      "Lobbies and Shops",
+      "Minigames",
+      "Calm"
+    ],
+    "Duration": 30.5952075,
+    "Verified": true,
+    "Date": "2026-02-01T21:42:21.587068",
+    "Audio": "https://youtu.be/KNyvYZVLUGY",
+    "Binary": "binaries/Pokémon Trading Card Game/Pause Menu.bin"
   }
 ]
