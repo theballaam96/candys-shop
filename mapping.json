@@ -43870,5 +43870,22 @@
     "Date": "2026-02-01T21:42:21.587068",
     "Audio": "https://youtu.be/KNyvYZVLUGY",
     "Binary": "binaries/Pokémon Trading Card Game/Pause Menu.bin"
+  },
+  {
+    "Game": "La-Mulana",
+    "Song": "Wise men who halts",
+    "Composers": "Takumi Naramura",
+    "Converters": "MiaSchemes",
+    "Category": "bgm",
+    "Tags": [
+      "Lobbies and Shops",
+      "Interiors",
+      "Gloomy"
+    ],
+    "Duration": 107.999892,
+    "Verified": true,
+    "Date": "2026-02-02T22:53:46.937451",
+    "Audio": "https://youtu.be/Hwwrh8vrTpQ",
+    "Binary": "binaries/La-Mulana/Wise men who halts.bin"
   }
 ]
