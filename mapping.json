@@ -43904,5 +43904,21 @@
     "Date": "2026-02-02T22:53:46.937451",
     "Audio": "https://youtu.be/VCs",
     "Binary": "binaries/Persona 5/Layer Cake.bin"
+  },
+  {
+    "Game": "Angry Birds Epic",
+    "Song": "Battle of Birds and Pigs",
+    "Composers": "Henri Sorvali",
+    "Converters": "SirEnobMort",
+    "Category": "bgm",
+    "Audio": "https://youtu.be/EUVVnxq_Tpk",
+    "Tags": [
+      "Minigames",
+      "Happy"
+    ],
+    "Duration": 42.857099999999996,
+    "Verified": true,
+    "Date": "2026-02-03T02:14:17.751789",
+    "Binary": "binaries/Angry Birds Epic/Battle of Birds and Pigs.bin"
   }
 ]
