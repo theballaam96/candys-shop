@@ -43887,5 +43887,22 @@
     "Date": "2026-02-02T22:53:46.937451",
     "Audio": "https://youtu.be/Hwwrh8vrTpQ",
     "Binary": "binaries/La-Mulana/Wise men who halts.bin"
+  },
+  {
+    "Game": "Persona 5",
+    "Song": "Layer Cake",
+    "Composers": "Shoji Meguro",
+    "Converters": "JTaddles",
+    "Category": "bgm",
+    "Tags": [
+      "Interiors",
+      "Exteriors",
+      "Calm"
+    ],
+    "Duration": 135.0,
+    "Verified": true,
+    "Date": "2026-02-02T22:53:46.937451",
+    "Audio": "https://youtu.be/VCs",
+    "Binary": "binaries/Persona 5/Layer Cake.bin"
   }
 ]
