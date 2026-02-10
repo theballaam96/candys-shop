@@ -43971,5 +43971,86 @@
     "Date": "2026-02-10T00:42:21.361715",
     "Audio": "https://youtu.be/AA3fCUJ9DsY",
     "Binary": "binaries/Phoenix Wright Ace Attorney/Courtroom Lobby ~ Beginning Overture.bin"
+  },
+  {
+    "Game": "Consoles and BIOS",
+    "Song": "Streetpass Mii Plaza Main Theme 1",
+    "Category": "bgm",
+    "Composers": "Kenji Yamamoto",
+    "Converters": "Schwartz Gandhi",
+    "Tags": [
+      "Lobbies and Shops",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "2026-02-10T02:42:21.361715",
+    "Audio": "https://www.youtube.com/watch?v=r99E1zPwRj4",
+    "Binary": "binaries/Consoles and BIOS/Streetpass Mii Plaza Main Theme 1 (REV 1).bin",
+    "Duration": 85.99895833333333
+  },
+  {
+    "Game": "Donkey Kong Country",
+    "Song": "Bonus Lose",
+    "Category": "events",
+    "Composers": "David Wise",
+    "Converters": "Schwartz Gandhi",
+    "Tags": [
+      "Spawning",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "2026-02-10T02:42:21.361715",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Donkey%20Kong%20Country/Bonus%20Lose%20by%20Schwartz%20Gandhi.mp3",
+    "Binary": "binaries/Donkey Kong Country/Bonus Lose (REV 1).bin",
+    "Duration": 5.539788625
+  },
+  {
+    "Game": "Phoenix Wright: Ace Attorney",
+    "Song": "Suspense",
+    "Category": "bgm",
+    "Composers": "Masakazu Sugimoru, Naoto Tanaka",
+    "Converters": "MiaSchemes",
+    "Tags": [
+      "Lobbies and Shops",
+      "Minigames",
+      "Spooky"
+    ],
+    "Verified": true,
+    "Date": "2026-02-10T02:42:21.361715",
+    "Audio": "https://www.youtube.com/watch?v=kEjiIbTxSrI&feature=youtu.be",
+    "Binary": "binaries/Phoenix Wright Ace Attorney/Suspense.bin",
+    "Duration": 34.4999654
+  },
+  {
+    "Game": "Pokémon Gold, Silver & Crystal",
+    "Song": "Pokémon Center Heal (HGSS)",
+    "Category": "majoritems",
+    "Composers": "Go Ichinose",
+    "Converters": "MiaSchemes",
+    "Tags": [
+      "Spawning",
+      "Collection"
+    ],
+    "Verified": true,
+    "Date": "2026-02-10T02:42:21.361715",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Pok%C3%A9mon%20Gold%2C%20Silver%20%20Crystal/Pok%C3%A9mon%20Center%2C%20Heal%20%28HGSS%29.mp3",
+    "Binary": "binaries/Pokémon Gold, Silver  Crystal/Pokémon Center Heal (HGSS).bin",
+    "Duration": 2.215906875
+  },
+  {
+    "Game": "Pokémon Gold, Silver & Crystal",
+    "Song": "New Pokémon Get",
+    "Category": "events",
+    "Composers": "Go Ichinose",
+    "Converters": "MiaSchemes",
+    "Tags": [
+      "Spawning",
+      "Collection"
+    ],
+    "Verified": true,
+    "Date": "2026-02-10T02:42:21.361715",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Pok%C3%A9mon%20Gold%2C%20Silver%20%20Crystal/New%20Pok%C3%A9mon%20Get.mp3",
+    "Binary": "binaries/Pokémon Gold, Silver  Crystal/New Pokémon Get.bin",
+    "Duration": 4.135798
   }
 ]
