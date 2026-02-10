@@ -43920,5 +43920,56 @@
     "Verified": true,
     "Date": "2026-02-03T02:14:17.751789",
     "Binary": "binaries/Angry Birds Epic/Battle of Birds and Pigs.bin"
+  },
+  {
+    "Game": "Pokémon Gold, Silver & Crystal",
+    "Song": "Goldenrod Game Corner",
+    "Composers": "Go Ichinose",
+    "Converters": "MiaSchemes",
+    "Category": "bgm",
+    "Tags": [
+      "Lobbies and Shops",
+      "Minigames",
+      "Happy"
+    ],
+    "Duration": 60.230709000000004,
+    "Verified": true,
+    "Date": "2026-02-10T00:41:37.001436",
+    "Audio": "https://youtu.be/Pp3bKcbRDKA",
+    "Binary": "binaries/Pokémon Gold, Silver  Crystal/Goldenrod Game Corner.bin"
+  },
+  {
+    "Game": "Sonic the Hedgehog 2",
+    "Song": "Mystic Cave Zone (2P)",
+    "Composers": "Masato Nakamura",
+    "Converters": "The Sound Defense",
+    "Category": "bgm",
+    "Audio": "https://www.youtube.com/watch?v=eKt5JCh2rFE",
+    "Tags": [
+      "Exteriors",
+      "Minigames",
+      "Happy"
+    ],
+    "Duration": 52.418772999999995,
+    "Verified": true,
+    "Date": "2026-02-10T00:42:19.700967",
+    "Binary": "binaries/Sonic the Hedgehog 2/Mystic Cave Zone (2P).bin"
+  },
+  {
+    "Game": "Phoenix Wright: Ace Attorney",
+    "Song": "Courtroom Lobby ~ Beginning Overture",
+    "Composers": "Masakazu Sugimori, Naoto Tanaka",
+    "Converters": "MiaSchemes",
+    "Category": "bgm",
+    "Tags": [
+      "Lobbies and Shops",
+      "Exteriors",
+      "Calm"
+    ],
+    "Duration": 38.4,
+    "Verified": true,
+    "Date": "2026-02-10T00:42:21.361715",
+    "Audio": "https://youtu.be/AA3fCUJ9DsY",
+    "Binary": "binaries/Phoenix Wright Ace Attorney/Courtroom Lobby ~ Beginning Overture.bin"
   }
 ]
