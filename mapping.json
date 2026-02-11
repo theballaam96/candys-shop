@@ -10656,7 +10656,6 @@
     "Duration": 45.326127750000005,
     "Tracks": 10,
     "Tags": [
-      "Fights",
       "Lobbies and Shops",
       "Minigames",
       "Happy"
@@ -11350,7 +11349,8 @@
     "Tags": [
       "Interiors",
       "Exteriors",
-      "Gloomy"
+      "Gloomy",
+      "Spooky"
     ],
     "Verified": true,
     "Additional Notes": "A little late, but Happy Halloween!"
@@ -11667,7 +11667,7 @@
     "Composers": "Yasunori Mitsuda",
     "Converters": "SirEnobMort",
     "Binary": "binaries/Mario Party/In the Mushroom Forest by SirEnobMort.bin",
-    "Audio": "https://youtu.be/3oiwt9yuZ2o?si=0jF0PLbYXNvz9eZC",
+    "Audio": "https://youtu.be/3oiwt9yuZ2o",
     "Duration": 46.50769404166667,
     "Tracks": 17,
     "Tags": [
@@ -11846,9 +11846,9 @@
     "Duration": 124.76716120833335,
     "Tracks": 16,
     "Tags": [
+      "Exteriors",
       "Happy",
-      "Calm",
-      "Exteriors"
+      "Calm"
     ],
     "Verified": true
   },
@@ -11917,9 +11917,9 @@
     "Tracks": 15,
     "Tags": [
       "Fights",
+      "Minigames",
       "Happy",
-      "Gloomy",
-      "Minigames"
+      "Gloomy"
     ],
     "Verified": true
   },
@@ -14478,7 +14478,8 @@
     "Tags": [
       "Minigames",
       "Happy",
-      "Calm"
+      "Calm",
+      "Winter"
     ],
     "Verified": true,
     "Additional Notes": "Happy Holidays! 🎅"
@@ -17059,7 +17060,7 @@
     ],
     "Verified": true,
     "Date": "Sat Feb 17 2024 02:30:16 GMT+0000 (Coordinated Universal Time)",
-    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Mario%20Party/Mushroom%20Bank%20Theme.mp3",
+    "Audio": "https://youtu.be/dshkJszOFNg",
     "Binary": "binaries/Mario Party/Mushroom Bank Theme.bin",
     "Duration": 15.41665125
   },
@@ -17075,7 +17076,7 @@
     ],
     "Verified": true,
     "Date": "Sat Feb 17 2024 02:54:46 GMT+0000 (Coordinated Universal Time)",
-    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Mario%20Party/Mushroom%20Shop%20Theme.mp3",
+    "Audio": "https://youtu.be/S8SVslWU_ws",
     "Binary": "binaries/Mario Party/Mushroom Shop Theme.bin",
     "Duration": 19.917462125
   },
@@ -17441,7 +17442,7 @@
     ],
     "Verified": true,
     "Date": "Sat Feb 24 2024 09:20:16 GMT+0000 (Coordinated Universal Time)",
-    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Mario%20%20Luigi%20Superstar%20Saga/Fawful%20and%20Cackletta.mp3",
+    "Audio": "https://youtu.be/79hD6SvI97E",
     "Binary": "binaries/Mario  Luigi Superstar Saga/Fawful and Cackletta.bin",
     "Duration": 48.79260062499999
   },
@@ -17458,7 +17459,7 @@
     ],
     "Verified": true,
     "Date": "Sat Feb 24 2024 09:23:40 GMT+0000 (Coordinated Universal Time)",
-    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Mario%20Party/Luigis%20Engine%20Room.mp3",
+    "Audio": "https://youtu.be/yhMXhmAeec8",
     "Binary": "binaries/Mario Party/Luigis Engine Room.bin",
     "Duration": 39.8974609375,
     "pruned": true
@@ -17886,7 +17887,7 @@
     ],
     "Verified": true,
     "Date": "Sat Mar 09 2024 16:48:05 GMT+0000 (Coordinated Universal Time)",
-    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Mario%20Party/Faster%20Than%20All.mp3",
+    "Audio": "https://youtu.be/dTr7WkqlYG4",
     "Binary": "binaries/Mario Party/Faster Than All.bin",
     "Duration": 27.389252374999998
   },
@@ -17902,7 +17903,7 @@
     ],
     "Verified": true,
     "Date": "Sat Mar 09 2024 16:49:05 GMT+0000 (Coordinated Universal Time)",
-    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Mario%20Party/Warios%20Battle%20Canyon.mp3",
+    "Audio": "https://youtu.be/9T34ya4W6ro",
     "Binary": "binaries/Mario Party/Warios Battle Canyon.bin",
     "Duration": 48.65055520833333
   },
@@ -18102,7 +18103,7 @@
     ],
     "Verified": true,
     "Date": "Sun Mar 10 2024 06:07:28 GMT+0000 (Coordinated Universal Time)",
-    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Mario%20Party/Luigis%20Engine%20Room%20(REV%201).mp3",
+    "Audio": "https://youtu.be/yhMXhmAeec8",
     "Binary": "binaries/Mario Party/Luigis Engine Room (REV 1).bin",
     "Duration": 39.8974609375
   },
@@ -20219,7 +20220,7 @@
     ],
     "Verified": true,
     "Date": "Wed May 01 2024 10:14:33 GMT+0000 (Coordinated Universal Time)",
-    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Diddy%20Kong%20Racing/Space%20Port%20Alpha.mp3",
+    "Audio": "https://youtu.be/oAss1hxEJkE",
     "Binary": "binaries/Diddy Kong Racing/Space Port Alpha.bin",
     "Duration": 76.50822103125
   },
@@ -27143,7 +27144,7 @@
     ],
     "Verified": true,
     "Date": "Wed Aug 21 2024 08:40:11 GMT+0000 (Coordinated Universal Time)",
-    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Pok%C3%A9mon%20Stadium%202/Egg%20Emergency%20(REV%201).mp3",
+    "Audio": "https://youtu.be/WqOlcXhRE8Y",
     "Binary": "binaries/Pokémon Stadium 2/Egg Emergency (REV 1).bin",
     "Duration": 23.596298104166664
   },
@@ -29250,8 +29251,8 @@
     "Category": "bgm",
     "Tags": [
       "Minigames",
-      "Happy",
-      "Gloomy"
+      "Gloomy",
+      "Spooky"
     ],
     "Verified": true,
     "Date": "Thu Oct 24 2024 15:27:50 GMT+0000 (Coordinated Universal Time)",
@@ -29348,11 +29349,12 @@
     "Tags": [
       "Lobbies and Shops",
       "Interiors",
-      "Gloomy"
+      "Gloomy",
+      "Spooky"
     ],
     "Verified": true,
     "Date": "Mon Oct 28 2024 15:35:21 GMT+0000 (Coordinated Universal Time)",
-    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Kirby%20Mass%20Attack/The%20Skull%20Gang.mp3",
+    "Audio": "https://youtu.be/WMFqfkEqi0U",
     "Binary": "binaries/Kirby Mass Attack/The Skull Gang.bin",
     "Duration": 35.12196
   },
@@ -29822,11 +29824,12 @@
     "Category": "bgm",
     "Tags": [
       "Interiors",
-      "Gloomy"
+      "Gloomy",
+      "Spooky"
     ],
     "Verified": true,
     "Date": "Tue Nov 05 2024 01:14:00 GMT+0000 (Coordinated Universal Time)",
-    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/New%20Super%20Mario%20Bros/Ghost%20House.mp3",
+    "Audio": "https://youtu.be/2jVTH1Fq1Bs",
     "Binary": "binaries/New Super Mario Bros/Ghost House.bin",
     "Duration": 48.90774416666666
   },
@@ -30442,11 +30445,12 @@
     "Category": "bgm",
     "Tags": [
       "Minigames",
-      "Happy"
+      "Happy",
+      "Winter"
     ],
     "Verified": true,
     "Date": "Tue Nov 19 2024 15:18:12 GMT+0000 (Coordinated Universal Time)",
-    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Tetris%20DS/Tetris%20Climber.mp3",
+    "Audio": "https://youtu.be/xJX85MEWKeE",
     "Binary": "binaries/Tetris DS/Tetris Climber.bin",
     "Duration": 28.799999999999997
   },
@@ -30478,7 +30482,7 @@
     ],
     "Verified": true,
     "Date": "Wed Nov 20 2024 09:12:30 GMT+0000 (Coordinated Universal Time)",
-    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Diddy%20Kong%20Racing/Boulder%20Canyon.mp3",
+    "Audio": "https://youtu.be/naTCcs5fTHw",
     "Binary": "binaries/Diddy Kong Racing/Boulder Canyon.bin",
     "Duration": 91.83644662499998
   },
@@ -30621,11 +30625,12 @@
     "Tags": [
       "Exteriors",
       "Minigames",
-      "Happy"
+      "Happy",
+      "Winter"
     ],
     "Verified": true,
     "Date": "Sat Nov 23 2024 22:15:41 GMT+0000 (Coordinated Universal Time)",
-    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Diddy%20Kong%20Racing/Walrus%20Cove.mp3",
+    "Audio": "https://youtu.be/0XjPb4RSedA",
     "Binary": "binaries/Diddy Kong Racing/Walrus Cove.bin",
     "Duration": 84.48329445833335
   },
@@ -30637,11 +30642,12 @@
     "Category": "bgm",
     "Tags": [
       "Lobbies and Shops",
-      "Happy"
+      "Happy",
+      "Winter"
     ],
     "Verified": true,
     "Date": "Sun Nov 24 2024 19:59:16 GMT+0000 (Coordinated Universal Time)",
-    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/New%20Super%20Mario%20Bros/World%205.mp3",
+    "Audio": "https://youtu.be/E7jbs_gnaR8",
     "Binary": "binaries/New Super Mario Bros/World 5.bin",
     "Duration": 19.2
   },
@@ -30801,11 +30807,12 @@
     "Tags": [
       "Exteriors",
       "Minigames",
-      "Happy"
+      "Happy",
+      "Winter"
     ],
     "Verified": true,
     "Date": "Wed Nov 27 2024 18:44:01 GMT+0000 (Coordinated Universal Time)",
-    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Diddy%20Kong%20Racing/Everfrost%20Peak.mp3",
+    "Audio": "https://youtu.be/OJ27jZ9DkP4",
     "Binary": "binaries/Diddy Kong Racing/Everfrost Peak.bin",
     "Duration": 99.99573971875
   },
@@ -30835,11 +30842,12 @@
     "Tags": [
       "Exteriors",
       "Minigames",
-      "Happy"
+      "Happy",
+      "Winter"
     ],
     "Verified": true,
     "Date": "Wed Nov 27 2024 18:44:03 GMT+0000 (Coordinated Universal Time)",
-    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Diddy%20Kong%20Racing/Frosty%20Village.mp3",
+    "Audio": "https://youtu.be/9wpIdVv93kU",
     "Binary": "binaries/Diddy Kong Racing/Frosty Village.bin",
     "Duration": 107.23406400000002
   },
@@ -30932,11 +30940,12 @@
     "Tags": [
       "Interiors",
       "Exteriors",
-      "Gloomy"
+      "Gloomy",
+      "Winter"
     ],
     "Verified": true,
     "Date": "Sat Nov 30 2024 04:51:45 GMT+0000 (Coordinated Universal Time)",
-    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Mario%20%20Luigi%20Partners%20in%20Time/Holli%20Jolli%20Village.mp3",
+    "Audio": "https://youtu.be/j8eU9POB4dE",
     "Binary": "binaries/Mario  Luigi Partners in Time/Holli Jolli Village.bin",
     "Duration": 86.66673600000001
   },
@@ -33614,7 +33623,8 @@
     "Tags": [
       "Exteriors",
       "Minigames",
-      "Happy"
+      "Happy",
+      "Winter"
     ],
     "Verified": true,
     "Date": "Wed Dec 18 2024 05:47:30 GMT+0000 (Coordinated Universal Time)",
@@ -34303,11 +34313,12 @@
     "Tags": [
       "Exteriors",
       "Minigames",
-      "Happy"
+      "Happy",
+      "Winter"
     ],
     "Verified": true,
     "Date": "Tue Dec 31 2024 02:17:03 GMT+0000 (Coordinated Universal Time)",
-    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Kirby%20Air%20Ride/Frozen%20Hillside.mp3",
+    "Audio": "https://youtu.be/7CwRIhbyefE",
     "Binary": "binaries/Kirby Air Ride/Frozen Hillside.bin",
     "Duration": 81.47368395833334
   },
@@ -36650,7 +36661,7 @@
     ],
     "Verified": true,
     "Date": "Mon Feb 17 2025 12:34:17 GMT+0000 (Coordinated Universal Time)",
-    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Yoshis%20Story/Ending%20Story.mp3",
+    "Audio": "https://youtu.be/FCp7IiV33Ao",
     "Binary": "binaries/Yoshis Story/Ending Story.bin",
     "Duration": 214.2262749166666
   },
