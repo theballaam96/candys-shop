@@ -44052,5 +44052,20 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Pok%C3%A9mon%20Gold%2C%20Silver%20%20Crystal/New%20Pok%C3%A9mon%20Get.mp3",
     "Binary": "binaries/Pokémon Gold, Silver  Crystal/New Pokémon Get.bin",
     "Duration": 4.135798
+  },
+  {
+    "Game": "Pokémon Gold, Silver & Crystal",
+    "Song": "Low HP",
+    "Category": "minoritems",
+    "Composers": "Go Ichinose",
+    "Converters": "MiaSchemes",
+    "Tags": [
+      "Collection"
+    ],
+    "Verified": true,
+    "Date": "2026-02-10T02:42:21.361715",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Pok%C3%A9mon%20Gold%2C%20Silver%20%20Crystal/Low%20HP.mp3",
+    "Binary": "binaries/Pokémon Gold, Silver  Crystal/Low HP.bin",
+    "Duration": 4.135798
   }
 ]
