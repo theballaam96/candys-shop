@@ -44078,5 +44078,22 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Pok%C3%A9mon%20Gold%2C%20Silver%20%20Crystal/Low%20HP.mp3",
     "Binary": "binaries/Pokémon Gold, Silver  Crystal/Low HP.bin",
     "Duration": 4.135798
+  },
+  {
+    "Game": "Phoenix Wright: Ace Attorney",
+    "Song": "Pressing Pursuit ~ Cornered (Variation)",
+    "Composers": "Masakazu Sugimoru, Naoto Tanaka",
+    "Converters": "MiaSchemes",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors",
+      "Minigames",
+      "Happy"
+    ],
+    "Duration": 39.38333333333333,
+    "Verified": true,
+    "Date": "2026-02-12T22:36:04.863158",
+    "Audio": "https://youtu.be/FlstG_PGLTE",
+    "Binary": "binaries/Phoenix Wright Ace Attorney/Pressing Pursuit ~ Cornered (Variation).bin"
   }
 ]
