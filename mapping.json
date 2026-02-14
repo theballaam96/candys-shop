@@ -44095,5 +44095,183 @@
     "Date": "2026-02-12T22:36:04.863158",
     "Audio": "https://youtu.be/FlstG_PGLTE",
     "Binary": "binaries/Phoenix Wright Ace Attorney/Pressing Pursuit ~ Cornered (Variation).bin"
+  },
+  {
+    "Game": "The Legend of Zelda: Oracle of Seasons and Ages",
+    "Song": "Samasa Desert",
+    "Category": "bgm",
+    "Composers": "Kyopi, Minako Adachi",
+    "Converters": "Schwartz Gandhi",
+    "Audio": "https://youtu.be/piyQAsR6JCw",
+    "Tags": [
+      "Exteriors"
+    ],
+    "Additional Notes": "mmmmm locrian",
+    "Update Notes": "reverb and a fixed preview",
+    "Duration": 38.421068000000005,
+    "Verified": true,
+    "Date": "2026-02-14T19:09:03.458374",
+    "Binary": "binaries/The Legend of Zelda Oracle of Seasons and Ages/Samasa Desert (REV 1).bin"
+  },
+  {
+    "Game": "Touhou Artificial Dream in Arcadia",
+    "Song": "Palace of the Earth Spirits",
+    "Category": "bgm",
+    "Composers": "Mille Oculos",
+    "Converters": "Schwartz Gandhi",
+    "Audio": "https://youtu.be/1FFeW6iI0v8",
+    "Tags": [
+      "Interiors",
+      "Gloomy",
+      "Calm"
+    ],
+    "Update Notes": "small fixes to the bass",
+    "Duration": 64.25,
+    "Verified": true,
+    "Date": "2026-02-14T19:09:05.571041",
+    "Binary": "binaries/Touhou Artificial Dream in Arcadia/Palace of the Earth Spirits (REV 1).bin"
+  },
+  {
+    "Game": "Tomodachi Life",
+    "Song": "Reaction (Neutral)",
+    "Category": "majoritems",
+    "Composers": "Daisuke Matsuoka, Asuka Ito",
+    "Converters": "Schwartz Gandhi",
+    "Tags": [
+      "Collection"
+    ],
+    "Duration": 1.297296,
+    "Verified": true,
+    "Date": "2026-02-14T19:09:07.721799",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Tomodachi%20Life/Reaction%20(Neutral).mp3",
+    "Binary": "binaries/Tomodachi Life/Reaction (Neutral).bin"
+  },
+  {
+    "Game": "Tomodachi Life",
+    "Song": "Reaction (Good)",
+    "Category": "majoritems",
+    "Composers": "Daisuke Matsuoka, Asuka Ito",
+    "Converters": "Schwartz Gandhi",
+    "Tags": [
+      "Collection",
+      "Happy"
+    ],
+    "Duration": 1.6551719999999999,
+    "Verified": true,
+    "Date": "2026-02-14T19:09:10.178506",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Tomodachi%20Life/Reaction%20(Good).mp3",
+    "Binary": "binaries/Tomodachi Life/Reaction (Good).bin"
+  },
+  {
+    "Game": "Tomodachi Life",
+    "Song": "Reaction (Very Good)",
+    "Category": "majoritems",
+    "Composers": "Daisuke Matsuoka, Asuka Ito",
+    "Converters": "Schwartz Gandhi",
+    "Tags": [
+      "Collection",
+      "Happy"
+    ],
+    "Duration": 1.9989583333333334,
+    "Verified": true,
+    "Date": "2026-02-14T19:09:12.595946",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Tomodachi%20Life/Reaction%20(Very%20Good).mp3",
+    "Binary": "binaries/Tomodachi Life/Reaction (Very Good).bin"
+  },
+  {
+    "Game": "Tomodachi Life",
+    "Song": "Reaction (Bad)",
+    "Category": "majoritems",
+    "Composers": "Daisuke Matsuoka, Asuka Ito",
+    "Converters": "Schwartz Gandhi",
+    "Tags": [
+      "Collection",
+      "Gloomy"
+    ],
+    "Duration": 1.1854166666666666,
+    "Verified": true,
+    "Date": "2026-02-14T19:09:15.290007",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Tomodachi%20Life/Reaction%20(Bad).mp3",
+    "Binary": "binaries/Tomodachi Life/Reaction (Bad).bin"
+  },
+  {
+    "Game": "Tomodachi Life",
+    "Song": "Reaction (Very Bad)",
+    "Category": "majoritems",
+    "Composers": "Daisuke Matsuoka, Asuka Ito",
+    "Converters": "Schwartz Gandhi",
+    "Tags": [
+      "Collection",
+      "Gloomy"
+    ],
+    "Duration": 2.39875,
+    "Verified": true,
+    "Date": "2026-02-14T19:09:17.864986",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Tomodachi%20Life/Reaction%20(Very%20Bad).mp3",
+    "Binary": "binaries/Tomodachi Life/Reaction (Very Bad).bin"
+  },
+  {
+    "Game": "Tomodachi Life",
+    "Song": "Made a Friend",
+    "Category": "majoritems",
+    "Composers": "Daisuke Matsuoka, Asuka Ito",
+    "Converters": "Schwartz Gandhi",
+    "Tags": [
+      "Collection",
+      "Happy"
+    ],
+    "Duration": 2.1,
+    "Verified": true,
+    "Date": "2026-02-14T19:09:20.523235",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Tomodachi%20Life/Made%20a%20Friend.mp3",
+    "Binary": "binaries/Tomodachi Life/Made a Friend.bin"
+  },
+  {
+    "Game": "Consoles and BIOS",
+    "Song": "Microsoft Teams Notification Sound",
+    "Category": "minoritems",
+    "Composers": "Matthew Bennett",
+    "Converters": "Schwartz Gandhi",
+    "Tags": [
+      "Spawning",
+      "Collection"
+    ],
+    "Duration": 1.7307675,
+    "Verified": true,
+    "Date": "2026-02-14T19:09:22.878471",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Consoles%20and%20BIOS/Microsoft%20Teams%20Notification%20Sound.mp3",
+    "Binary": "binaries/Consoles and BIOS/Microsoft Teams Notification Sound.bin"
+  },
+  {
+    "Game": "Pokémon Gold, Silver & Crystal",
+    "Song": "Indigo Plateau (HGSS)",
+    "Composers": "Go Ichinose, Shota Kageyama",
+    "Converters": "MiaSchemes",
+    "Category": "bgm",
+    "Tags": [
+      "Lobbies and Shops",
+      "Interiors"
+    ],
+    "Duration": 49.482093375,
+    "Verified": true,
+    "Date": "2026-02-14T19:09:25.349985",
+    "Audio": "https://youtu.be/-ihHIsdE6xI",
+    "Binary": "binaries/Pokémon Gold, Silver  Crystal/Indigo Plateau (HGSS).bin"
+  },
+  {
+    "Game": "Pokémon Gold, Silver & Crystal",
+    "Song": "Berry Get (HGSS)",
+    "Composers": "Go Ichinose, Shota Kageyama",
+    "Converters": "MiaSchemes",
+    "Category": "minoritems",
+    "Tags": [
+      "Collection",
+      "Happy"
+    ],
+    "Duration": 1.3928557499999998,
+    "Verified": true,
+    "Date": "2026-02-14T19:09:57.152407",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Pok%C3%A9mon%20Gold,%20Silver%20%20Crystal/Berry%20Get%20(HGSS).mp3",
+    "Binary": "binaries/Pokémon Gold, Silver  Crystal/Berry Get (HGSS).bin"
   }
 ]
