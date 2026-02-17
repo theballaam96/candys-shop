@@ -44273,5 +44273,68 @@
     "Date": "2026-02-14T19:09:57.152407",
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Pok%C3%A9mon%20Gold,%20Silver%20%20Crystal/Berry%20Get%20(HGSS).mp3",
     "Binary": "binaries/Pokémon Gold, Silver  Crystal/Berry Get (HGSS).bin"
+  },
+  {
+    "Game": "Mario + Rabbids Sparks of Hope",
+    "Song": "Metagalactic Marauders",
+    "Composers": "Gareth Coker",
+    "Converters": "LBFrank",
+    "Category": "bgm",
+    "Audio": "https://youtu.be/ewmcX5vinNM",
+    "Tags": [
+      "Fights"
+    ],
+    "Duration": 95.25,
+    "Verified": true,
+    "Date": "2026-02-17T23:36:41.554022",
+    "Binary": "binaries/Mario  Rabbids Sparks of Hope/Metagalactic Marauders.bin"
+  },
+  {
+    "Game": "Pokémon Gold, Silver & Crystal",
+    "Song": "Gym",
+    "Composers": "Go Ichinose",
+    "Converters": "MiaSchemes",
+    "Category": "bgm",
+    "Tags": [
+      "Lobbies and Shops",
+      "Interiors",
+      "Calm"
+    ],
+    "Duration": 35.88112720833333,
+    "Verified": true,
+    "Date": "2026-02-17T23:36:43.876372",
+    "Audio": "https://youtu.be/ZuzKeTBsJIk",
+    "Binary": "binaries/Pokémon Gold, Silver  Crystal/Gym.bin"
+  },
+  {
+    "Game": "Duke Nukem 3D",
+    "Song": "Duke-O",
+    "Composers": "Jenna Ramsey",
+    "Converters": "Mr_Rippe",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors",
+      "Happy"
+    ],
+    "Duration": 185.80656000000002,
+    "Verified": true,
+    "Date": "2026-02-17T23:37:12.685807",
+    "Audio": "https://youtu.be/CevKa5ULDc4",
+    "Binary": "binaries/Duke Nukem 3D/Duke-O.bin"
+  },
+  {
+    "Game": "Final Fantasy III",
+    "Song": "Crystal Tower",
+    "Composers": "Nobuo Uematsu",
+    "Converters": "MiaSchemes",
+    "Category": "bgm",
+    "Tags": [
+      "Interiors"
+    ],
+    "Duration": 34.0931491875,
+    "Verified": true,
+    "Date": "2026-02-17T23:38:20.154898",
+    "Audio": "https://youtu.be/r3aTiRGfLUU",
+    "Binary": "binaries/Final Fantasy III/Crystal Tower.bin"
   }
 ]
