@@ -44336,5 +44336,89 @@
     "Date": "2026-02-17T23:38:20.154898",
     "Audio": "https://youtu.be/r3aTiRGfLUU",
     "Binary": "binaries/Final Fantasy III/Crystal Tower.bin"
+  },
+  {
+    "Game": "Super Mario Land",
+    "Song": "Chai Kingdom",
+    "Composers": "Hirokazu Ando",
+    "Converters": "SirEnobMort",
+    "Category": "bgm",
+    "Audio": "https://youtu.be/pcTc2BJ-eoU",
+    "Update Notes": "🏮🐎",
+    "Tags": [
+      "Exteriors",
+      "Happy"
+    ],
+    "Duration": 51.0,
+    "Verified": true,
+    "Date": "2026-02-23T00:47:56.763807",
+    "Binary": "binaries/Super Mario Land/Chai Kingdom.bin"
+  },
+  {
+    "Game": "Pokémon Red, Blue & Yellow",
+    "Song": "Gym Leader Battle (8-bit)",
+    "Composers": "Junichi Masuda",
+    "Converters": "MiaSchemes",
+    "Category": "bgm",
+    "Tags": [
+      "Fights",
+      "Minigames",
+      "Happy"
+    ],
+    "Duration": 56.781114,
+    "Verified": true,
+    "Date": "2026-02-23T00:47:58.433953",
+    "Audio": "https://youtu.be/owNk5WpqX8I",
+    "Binary": "binaries/Pokémon Red, Blue  Yellow/Gym Leader Battle (8-bit).bin"
+  },
+  {
+    "Game": "Pokémon Red, Blue & Yellow",
+    "Song": "Gym Leader Battle (Reimagined)",
+    "Composers": "Junichi Masuda",
+    "Converters": "MiaSchemes",
+    "Category": "bgm",
+    "Tags": [
+      "Fights",
+      "Exteriors",
+      "Happy"
+    ],
+    "Duration": 56.781114,
+    "Verified": true,
+    "Date": "2026-02-23T00:48:35.199242",
+    "Audio": "https://youtu.be/9CF8d1-FwtU",
+    "Binary": "binaries/Pokémon Red, Blue  Yellow/Gym Leader Battle (Reimagined).bin"
+  },
+  {
+    "Game": "Duke Nukem 3D",
+    "Song": "Irie Party Time",
+    "Composers": "Jenna Ramsey",
+    "Converters": "Mr_Rippe",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors",
+      "Happy"
+    ],
+    "Duration": 208.0,
+    "Verified": true,
+    "Date": "2026-02-23T00:49:12.413196",
+    "Audio": "https://youtu.be/xeRo5WLtFP0",
+    "Binary": "binaries/Duke Nukem 3D/Irie Party Time.bin"
+  },
+  {
+    "Game": "Duke Nukem 3D",
+    "Song": "Doomsday's Comin'",
+    "Composers": "Jenna Ramsey",
+    "Converters": "Mr_Rippe",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors",
+      "Gloomy",
+      "Spooky"
+    ],
+    "Duration": 172.0,
+    "Verified": true,
+    "Date": "2026-02-23T00:50:25.613568",
+    "Audio": "https://youtu.be/pzY36lL5B5U",
+    "Binary": "binaries/Duke Nukem 3D/Doomsdays Comin.bin"
   }
 ]
