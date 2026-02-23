@@ -44420,5 +44420,20 @@
     "Date": "2026-02-23T00:50:25.613568",
     "Audio": "https://youtu.be/pzY36lL5B5U",
     "Binary": "binaries/Duke Nukem 3D/Doomsdays Comin.bin"
+  },
+  {
+    "Game": "The Legend of Zelda: Skyward Sword",
+    "Song": "A Strong Foe",
+    "Composers": "Hajime Wakai",
+    "Converters": "2dos",
+    "Category": "bgm",
+    "Audio": "https://www.youtube.com/watch?v=sTbW9ZcM-tE",
+    "Tags": [
+      "Fights"
+    ],
+    "Duration": 84.52171799999999,
+    "Verified": true,
+    "Date": "2026-02-23T05:37:09.164484",
+    "Binary": "binaries/The Legend of Zelda Skyward Sword/A Strong Foe.bin"
   }
 ]
