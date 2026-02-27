@@ -44435,5 +44435,55 @@
     "Verified": true,
     "Date": "2026-02-23T05:37:09.164484",
     "Binary": "binaries/The Legend of Zelda Skyward Sword/A Strong Foe.bin"
+  },
+  {
+    "Game": "Duke Nukem 3D",
+    "Song": "Doomsday's Comin'",
+    "Composers": "Jenna Ramsey",
+    "Converters": "Mr_Rippe",
+    "Category": "bgm",
+    "Update Notes": "Fixed loop point",
+    "Tags": [
+      "Exteriors",
+      "Gloomy",
+      "Spooky"
+    ],
+    "Duration": 172.0,
+    "Verified": true,
+    "Date": "2026-02-27T14:08:38.308180",
+    "Audio": "https://youtu.be/f55uDs_L9UE",
+    "Binary": "binaries/Duke Nukem 3D/Doomsdays Comin (REV 1).bin"
+  },
+  {
+    "Game": "Peglin",
+    "Song": "Castle (Battle)",
+    "Composers": "Adam \"Crashtroid\" Caflisch",
+    "Converters": "MiaSchemes",
+    "Category": "bgm",
+    "Tags": [
+      "Interiors",
+      "Gloomy"
+    ],
+    "Duration": 87.5455275,
+    "Verified": true,
+    "Date": "2026-02-27T14:09:41.379299",
+    "Audio": "https://youtu.be/iPnUMBsHU7o",
+    "Binary": "binaries/Peglin/Castle (Battle).bin"
+  },
+  {
+    "Game": "Jak 3",
+    "Song": "Subterranean",
+    "Composers": "Josh Mancell",
+    "Converters": "iveli_alpaca",
+    "Category": "bgm",
+    "Audio": "https://youtu.be/Jpckj9ezJ9s",
+    "Tags": [
+      "Interiors",
+      "Gloomy"
+    ],
+    "Duration": 121.1721,
+    "Verified": true,
+    "Date": "2026-02-27T14:10:41.992128",
+    "Binary": "binaries/Jak 3/Subterranean.bin"
   }
 ]
