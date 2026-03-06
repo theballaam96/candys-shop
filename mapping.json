@@ -44486,5 +44486,21 @@
     "Verified": true,
     "Date": "2026-02-27T14:10:41.992128",
     "Binary": "binaries/Jak 3/Subterranean.bin"
+  },
+  {
+    "Game": "La-Mulana",
+    "Song": "Primitive Dance",
+    "Composers": "Takumi Naramura",
+    "Converters": "MiaSchemes",
+    "Category": "bgm",
+    "Tags": [
+      "Interiors",
+      "Happy"
+    ],
+    "Duration": 184.56,
+    "Verified": true,
+    "Date": "2026-03-06T09:39:46.424955",
+    "Audio": "https://youtu.be/X0wsyumi0FM",
+    "Binary": "binaries/La-Mulana/Primitive Dance.bin"
   }
 ]
