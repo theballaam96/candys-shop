@@ -44502,5 +44502,22 @@
     "Date": "2026-03-06T09:39:46.424955",
     "Audio": "https://youtu.be/X0wsyumi0FM",
     "Binary": "binaries/La-Mulana/Primitive Dance.bin"
+  },
+  {
+    "Game": "Mario Pinball Land",
+    "Song": "Under the Ice",
+    "Composers": "Nimrod Productions",
+    "Converters": "MiaSchemes",
+    "Category": "bgm",
+    "Additional Notes": "Oddly enough, even during the in-game credits, the music is simply attributed to \"Nimrod Productions\" and never names any specific individuals.",
+    "Tags": [
+      "Interiors",
+      "Minigames"
+    ],
+    "Duration": 76.8,
+    "Verified": true,
+    "Date": "2026-03-06T09:44:14.135422",
+    "Audio": "https://youtu.be/_9Vb6xep_2A",
+    "Binary": "binaries/Mario Pinball Land/Under the Ice.bin"
   }
 ]
