@@ -44519,5 +44519,22 @@
     "Date": "2026-03-06T09:44:14.135422",
     "Audio": "https://youtu.be/_9Vb6xep_2A",
     "Binary": "binaries/Mario Pinball Land/Under the Ice.bin"
+  },
+  {
+    "Game": "Tetris DS",
+    "Song": "Mario Tetris 3",
+    "Composers": "Minako Hamano, Akira Fujiwara",
+    "Converters": "SirEnobMort",
+    "Category": "bgm",
+    "Audio": "https://youtu.be/I9ZDRbfRhwg",
+    "Tags": [
+      "Lobbies and Shops",
+      "Minigames",
+      "Happy"
+    ],
+    "Duration": 38.70972,
+    "Verified": true,
+    "Date": "2026-03-07T06:37:32.575061",
+    "Binary": "binaries/Tetris DS/Mario Tetris 3.bin"
   }
 ]
