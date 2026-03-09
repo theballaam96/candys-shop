@@ -44536,5 +44536,21 @@
     "Verified": true,
     "Date": "2026-03-07T06:37:32.575061",
     "Binary": "binaries/Tetris DS/Mario Tetris 3.bin"
+  },
+  {
+    "Game": "La-Mulana",
+    "Song": "G-U-I-L-D",
+    "Composers": "Takumi Naramura",
+    "Converters": "MiaSchemes",
+    "Category": "bgm",
+    "Tags": [
+      "Lobbies and Shops",
+      "Happy"
+    ],
+    "Duration": 39.599999999999994,
+    "Verified": true,
+    "Date": "2026-03-09T01:41:10.624339",
+    "Audio": "https://youtu.be/WGIBqfLsIdI",
+    "Binary": "binaries/La-Mulana/G-U-I-L-D.bin"
   }
 ]
