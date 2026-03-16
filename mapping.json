@@ -44568,5 +44568,22 @@
     "Date": "2026-03-16T05:16:03.589581",
     "Audio": "https://youtu.be/qf0MekFApyg",
     "Binary": "binaries/The Legend of Zelda Links Awakening/Tal Tal Heights.bin"
+  },
+  {
+    "Game": "Pokémon Stadium 2",
+    "Song": "Gym Leader Castle: Lance Battle",
+    "Composers": "Hajime Wakai",
+    "Converters": "ADameAs",
+    "Category": "bgm",
+    "Tags": [
+      "Fights",
+      "Gloomy",
+      "Spooky"
+    ],
+    "Duration": 66.38299199999999,
+    "Verified": true,
+    "Date": "2026-03-16T22:14:59.351096",
+    "Audio": "https://youtu.be/efgL9maelCU",
+    "Binary": "binaries/Pokémon Stadium 2/Gym Leader Castle Lance Battle.bin"
   }
 ]
