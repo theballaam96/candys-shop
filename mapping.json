@@ -44552,5 +44552,21 @@
     "Date": "2026-03-09T01:41:10.624339",
     "Audio": "https://youtu.be/WGIBqfLsIdI",
     "Binary": "binaries/La-Mulana/G-U-I-L-D.bin"
+  },
+  {
+    "Game": "The Legend of Zelda: Link's Awakening",
+    "Song": "Tal Tal Heights",
+    "Composers": "Kazumi Totaka, Minako Hamano, Kozue Ishikawa",
+    "Converters": "MiaSchemes",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors",
+      "Happy"
+    ],
+    "Duration": 173.544448,
+    "Verified": true,
+    "Date": "2026-03-16T05:16:03.589581",
+    "Audio": "https://youtu.be/qf0MekFApyg",
+    "Binary": "binaries/The Legend of Zelda Links Awakening/Tal Tal Heights.bin"
   }
 ]
