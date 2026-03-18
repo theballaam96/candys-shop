@@ -44585,5 +44585,21 @@
     "Date": "2026-03-16T22:14:59.351096",
     "Audio": "https://youtu.be/efgL9maelCU",
     "Binary": "binaries/Pokémon Stadium 2/Gym Leader Castle Lance Battle.bin"
+  },
+  {
+    "Game": "Super Mario Land",
+    "Song": "Birabuto Kingdom",
+    "Composers": "Hirokazu Tanaka",
+    "Converters": "OnlySpaghettiCode",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors",
+      "Happy"
+    ],
+    "Duration": 26.0078125,
+    "Verified": true,
+    "Date": "2026-03-18T03:47:22.056551",
+    "Audio": "https://youtu.be/84VusGmNKTw",
+    "Binary": "binaries/Super Mario Land/Birabuto Kingdom.bin"
   }
 ]
