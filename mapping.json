@@ -44617,5 +44617,21 @@
     "Date": "2026-03-22T03:12:25.828350",
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Paper%20Mario/Title%20Fanfare.mp3",
     "Binary": "binaries/Paper Mario/Title Fanfare.bin"
+  },
+  {
+    "Game": "Paper Mario",
+    "Song": "Nice To Meet You (US)",
+    "Composers": "Yuka Tsujiyoko",
+    "Converters": "Altermentality",
+    "Category": "bgm",
+    "Audio": "https://youtu.be/eSlIkQ4R_y4",
+    "Tags": [
+      "Lobbies and Shops",
+      "Happy"
+    ],
+    "Duration": 21.540664999999997,
+    "Verified": true,
+    "Date": "2026-03-22T03:17:41.315849",
+    "Binary": "binaries/Paper Mario/Nice To Meet You (US).bin"
   }
 ]
