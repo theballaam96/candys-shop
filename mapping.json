@@ -44601,5 +44601,21 @@
     "Date": "2026-03-18T03:47:22.056551",
     "Audio": "https://youtu.be/84VusGmNKTw",
     "Binary": "binaries/Super Mario Land/Birabuto Kingdom.bin"
+  },
+  {
+    "Game": "Paper Mario",
+    "Song": "Title Fanfare",
+    "Composers": "Yuka Tsujiyoko",
+    "Converters": "Altermentality",
+    "Category": "events",
+    "Tags": [
+      "Happy",
+      "Calm"
+    ],
+    "Duration": 19.384608,
+    "Verified": true,
+    "Date": "2026-03-22T03:12:25.828350",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Paper%20Mario/Title%20Fanfare.mp3",
+    "Binary": "binaries/Paper Mario/Title Fanfare.bin"
   }
 ]
