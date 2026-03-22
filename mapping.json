@@ -44633,5 +44633,20 @@
     "Verified": true,
     "Date": "2026-03-22T03:17:41.315849",
     "Binary": "binaries/Paper Mario/Nice To Meet You (US).bin"
+  },
+  {
+    "Game": "Tales of Symphonia",
+    "Song": "Last Battle ~Decision~",
+    "Composers": "Shinji Tamura, Motoi Sakuraba",
+    "Converters": "2dos",
+    "Category": "bgm",
+    "Audio": "https://www.youtube.com/watch?v=XjCUO97-EpI",
+    "Tags": [
+      "Exteriors"
+    ],
+    "Duration": 99.1662469875,
+    "Verified": true,
+    "Date": "2026-03-22T06:47:47.762868",
+    "Binary": "binaries/Tales of Symphonia/Last Battle ~Decision~.bin"
   }
 ]
