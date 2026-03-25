@@ -44648,5 +44648,21 @@
     "Verified": true,
     "Date": "2026-03-22T06:47:47.762868",
     "Binary": "binaries/Tales of Symphonia/Last Battle ~Decision~.bin"
+  },
+  {
+    "Game": "Paper Mario",
+    "Song": "Main Menu",
+    "Composers": "Yuka Tsujiyoko",
+    "Converters": "Altermentality",
+    "Category": "bgm",
+    "Audio": "https://youtu.be/fsy5iT3KVnE",
+    "Tags": [
+      "Lobbies and Shops",
+      "Happy"
+    ],
+    "Duration": 42.512116083333325,
+    "Verified": true,
+    "Date": "2026-03-25T08:50:29.193814",
+    "Binary": "binaries/Paper Mario/Main Menu.bin"
   }
 ]
