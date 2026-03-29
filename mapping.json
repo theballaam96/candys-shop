@@ -44681,5 +44681,22 @@
     "Verified": true,
     "Date": "2026-03-29T10:17:19.577449",
     "Binary": "binaries/The Legend of Zelda Oracle of Seasons and Ages/Skull Dungeon (REV 2).bin"
+  },
+  {
+    "Game": "The Legend of Zelda: Oracle of Seasons and Ages",
+    "Song": "Tarm Ruins",
+    "Category": "bgm",
+    "Composers": "Kyopi, Minako Adachi",
+    "Converters": "Schwartz Gandhi",
+    "Audio": "https://youtu.be/0bb6hexWdDM",
+    "Tags": [
+      "Exteriors",
+      "Calm"
+    ],
+    "Update Notes": "reverb",
+    "Duration": 38.4667814625,
+    "Verified": true,
+    "Date": "2026-03-29T10:19:56.127142",
+    "Binary": "binaries/The Legend of Zelda Oracle of Seasons and Ages/Tarm Ruins (REV 1).bin"
   }
 ]
