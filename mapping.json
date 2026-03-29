@@ -44698,5 +44698,21 @@
     "Verified": true,
     "Date": "2026-03-29T10:19:56.127142",
     "Binary": "binaries/The Legend of Zelda Oracle of Seasons and Ages/Tarm Ruins (REV 1).bin"
+  },
+  {
+    "Game": "Yousei Daisensou ~ Touhou Sangestusei",
+    "Song": "Magus Night",
+    "Category": "bgm",
+    "Composers": "ZUN",
+    "Converters": "Schwartz Gandhi",
+    "Audio": "https://youtu.be/weqZYwfZNNI",
+    "Tags": [
+      "Fights"
+    ],
+    "Additional Notes": "23840 bytes, 43 of 44 max voices",
+    "Duration": 126.73637274999999,
+    "Verified": true,
+    "Date": "2026-03-29T10:22:17.095280",
+    "Binary": "binaries/Yousei Daisensou ~ Touhou Sangestusei/Magus Night.bin"
   }
 ]
