@@ -44714,5 +44714,21 @@
     "Verified": true,
     "Date": "2026-03-29T10:22:17.095280",
     "Binary": "binaries/Yousei Daisensou ~ Touhou Sangestusei/Magus Night.bin"
+  },
+  {
+    "Game": "Diddy Kong Racing",
+    "Song": "Darkmoon Caverns",
+    "Composers": "David Wise",
+    "Converters": "OnlySpaghettiCode",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors",
+      "Happy"
+    ],
+    "Duration": 90.92320453125,
+    "Verified": true,
+    "Date": "2026-03-31T18:38:41.674964",
+    "Audio": "https://youtu.be/ad5HBBsbgwc",
+    "Binary": "binaries/Diddy Kong Racing/Darkmoon Caverns.bin"
   }
 ]
