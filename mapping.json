@@ -44747,5 +44747,22 @@
     "Date": "2026-04-01T15:11:28.181224",
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Super%20Mario%20Bros%203/Stage%20Clear.mp3",
     "Binary": "binaries/Super Mario Bros 3/Stage Clear.bin"
+  },
+  {
+    "Game": "Kirby Mass Attack",
+    "Song": "Action Heaven",
+    "Composers": "Shogo Sakai",
+    "Converters": "SirEnobMort",
+    "Category": "bgm",
+    "Audio": "https://youtu.be/1_-p0b79Eq8",
+    "Update Notes": "April Fools! 🤣",
+    "Tags": [
+      "Minigames",
+      "Happy"
+    ],
+    "Duration": 23.333351999999998,
+    "Verified": true,
+    "Date": "2026-04-01T15:13:27.410666",
+    "Binary": "binaries/Kirby Mass Attack/Action Heaven.bin"
   }
 ]
