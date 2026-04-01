@@ -44730,5 +44730,22 @@
     "Date": "2026-03-31T18:38:41.674964",
     "Audio": "https://youtu.be/ad5HBBsbgwc",
     "Binary": "binaries/Diddy Kong Racing/Darkmoon Caverns.bin"
+  },
+  {
+    "Game": "Super Mario Bros. 3",
+    "Song": "Stage Clear",
+    "Composers": "Koji Kondo",
+    "Converters": "BloodShockMP3",
+    "Category": "majoritems",
+    "Additional Notes": "There's extra DK stank on it!",
+    "Tags": [
+      "Collection",
+      "Happy"
+    ],
+    "Duration": 3.07692,
+    "Verified": true,
+    "Date": "2026-04-01T15:11:28.181224",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Super%20Mario%20Bros%203/Stage%20Clear.mp3",
+    "Binary": "binaries/Super Mario Bros 3/Stage Clear.bin"
   }
 ]
