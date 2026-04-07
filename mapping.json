@@ -44764,5 +44764,22 @@
     "Verified": true,
     "Date": "2026-04-01T15:13:27.410666",
     "Binary": "binaries/Kirby Mass Attack/Action Heaven.bin"
+  },
+  {
+    "Game": "The Legend of Zelda: Oracle of Seasons and Ages",
+    "Song": "Skull Dungeon",
+    "Category": "bgm",
+    "Composers": "Kyopi, Minako Adachi",
+    "Converters": "Schwartz Gandhi",
+    "Audio": "https://www.youtube.com/watch?v=x52Jg2F-Uvo",
+    "Tags": [
+      "Interiors",
+      "Gloomy"
+    ],
+    "Update Notes": "reverbalance",
+    "Duration": 36.21914847916666,
+    "Verified": true,
+    "Date": "2026-04-07T04:33:31.520917",
+    "Binary": "binaries/The Legend of Zelda Oracle of Seasons and Ages/Skull Dungeon (REV 3).bin"
   }
 ]
