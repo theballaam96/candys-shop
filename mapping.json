@@ -44798,5 +44798,20 @@
     "Verified": true,
     "Date": "2026-04-07T04:57:39.874376",
     "Binary": "binaries/The Legend of Zelda Oracle of Seasons and Ages/Tarm Ruins (REV 2).bin"
+  },
+  {
+    "Game": "Tales of Symphonia",
+    "Song": "Like a Glint of Light",
+    "Composers": "Motoi Sakuraba",
+    "Converters": "OnlySpaghettiCode",
+    "Category": "bgm",
+    "Tags": [
+      "Fights"
+    ],
+    "Duration": 89.54427083333334,
+    "Verified": true,
+    "Date": "2026-04-12T21:59:23.507897",
+    "Audio": "https://youtu.be/s_q0ZuN9Yhk",
+    "Binary": "binaries/Tales of Symphonia/Like a Glint of Light.bin"
   }
 ]
