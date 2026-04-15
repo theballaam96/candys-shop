@@ -44813,5 +44813,21 @@
     "Date": "2026-04-12T21:59:23.507897",
     "Audio": "https://youtu.be/s_q0ZuN9Yhk",
     "Binary": "binaries/Tales of Symphonia/Like a Glint of Light.bin"
+  },
+  {
+    "Game": "The Legend of Zelda: Link's Awakening",
+    "Song": "Song of Awakening",
+    "Composers": "Kazumi Totaka, Minako Hamano, Kozue Ishikawa",
+    "Converters": "MiaSchemes",
+    "Category": "bgm",
+    "Additional Notes": "This track is too long to have not loop and be an event, so hopefully this loop isn't awkward and it fits nicely as a shop track!",
+    "Tags": [
+      "Lobbies and Shops"
+    ],
+    "Duration": 36.438336,
+    "Verified": true,
+    "Date": "2026-04-15T03:19:58.264773",
+    "Audio": "https://youtu.be/AHNRp5QsuMg",
+    "Binary": "binaries/The Legend of Zelda Links Awakening/Song of Awakening.bin"
   }
 ]
