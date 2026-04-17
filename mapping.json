@@ -44829,5 +44829,69 @@
     "Date": "2026-04-15T03:19:58.264773",
     "Audio": "https://youtu.be/AHNRp5QsuMg",
     "Binary": "binaries/The Legend of Zelda Links Awakening/Song of Awakening.bin"
+  },
+  {
+    "Game": "Ace Attorney Investigations 2: Prosecutor's Gambit",
+    "Song": "Mind Chess",
+    "Composers": "Noriyuki Iwadare",
+    "Converters": "MiaSchemes",
+    "Category": "bgm",
+    "Tags": [
+      "Interiors",
+      "Minigames",
+      "Calm"
+    ],
+    "Duration": 100.58918512499999,
+    "Verified": true,
+    "Date": "2026-04-17T08:40:52.487976",
+    "Audio": "https://youtu.be/JGYrK1pC9jQ",
+    "Binary": "binaries/Ace Attorney Investigations 2 Prosecutors Gambit/Mind Chess.bin"
+  },
+  {
+    "Game": "Phoenix Wright: Ace Attorney",
+    "Song": "Logic and Trick",
+    "Composers": "Masakazu Sugimori, Naoto Tanaka",
+    "Converters": "MiaSchemes",
+    "Category": "bgm",
+    "Tags": [
+      "Interiors",
+      "Minigames"
+    ],
+    "Duration": 72.13642375,
+    "Verified": true,
+    "Date": "2026-04-17T08:42:02.952505",
+    "Audio": "https://youtu.be/7pbOImW0Bfk",
+    "Binary": "binaries/Phoenix Wright Ace Attorney/Logic and Trick.bin"
+  },
+  {
+    "Game": "Phoenix Wright: Ace Attorney",
+    "Song": "The Steel Samurai",
+    "Composers": "Masakazu Sugimoru, Naoto Tanaka",
+    "Converters": "MiaSchemes",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors",
+      "Happy"
+    ],
+    "Duration": 56.357086499999994,
+    "Verified": true,
+    "Date": "2026-04-17T08:42:53.649167",
+    "Audio": "https://youtu.be/4BPrH93ZT5g",
+    "Binary": "binaries/Phoenix Wright Ace Attorney/The Steel Samurai.bin"
+  },
+  {
+    "Game": "Phoenix Wright: Ace Attorney",
+    "Song": "The Blue Badger",
+    "Composers": "Masakazu Sugimori, Naoto Tanaka",
+    "Converters": "MiaSchemes",
+    "Category": "events",
+    "Tags": [
+      "Spawning"
+    ],
+    "Duration": 18.599999999999998,
+    "Verified": true,
+    "Date": "2026-04-17T08:43:33.002230",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Phoenix%20Wright%20Ace%20Attorney/The%20Blue%20Badger.mp3",
+    "Binary": "binaries/Phoenix Wright Ace Attorney/The Blue Badger.bin"
   }
 ]
