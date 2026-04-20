@@ -44893,5 +44893,37 @@
     "Date": "2026-04-17T08:43:33.002230",
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Phoenix%20Wright%20Ace%20Attorney/The%20Blue%20Badger.mp3",
     "Binary": "binaries/Phoenix Wright Ace Attorney/The Blue Badger.bin"
+  },
+  {
+    "Game": "Phoenix Wright: Ace Attorney",
+    "Song": "The Blue Badger",
+    "Composers": "Masakazu Sugimori, Naoto Tanaka",
+    "Converters": "MiaSchemes",
+    "Category": "bgm",
+    "Update Notes": "Fixing the amount of voices",
+    "Tags": [
+      "Spawning"
+    ],
+    "Duration": 18.599999999999998,
+    "Verified": true,
+    "Date": "2026-04-20T14:53:48.639923",
+    "Audio": "https://youtu.be/Abhnn1j1dFY",
+    "Binary": "binaries/Phoenix Wright Ace Attorney/The Blue Badger (REV 1).bin"
+  },
+  {
+    "Game": "Kingdom Hearts 358/2 Days",
+    "Song": "Critical Drive",
+    "Composers": "Yoko Shimomura",
+    "Converters": "MiaSchemes",
+    "Category": "bgm",
+    "Tags": [
+      "Fights",
+      "Interiors"
+    ],
+    "Duration": 94.62801404166666,
+    "Verified": true,
+    "Date": "2026-04-20T14:53:59.181653",
+    "Audio": "https://youtu.be/3Gi9E7WyzSk",
+    "Binary": "binaries/Kingdom Hearts 3582 Days/Critical Drive.bin"
   }
 ]
