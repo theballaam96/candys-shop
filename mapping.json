@@ -44925,5 +44925,21 @@
     "Date": "2026-04-20T14:53:59.181653",
     "Audio": "https://youtu.be/3Gi9E7WyzSk",
     "Binary": "binaries/Kingdom Hearts 3582 Days/Critical Drive.bin"
+  },
+  {
+    "Game": "Pokémon Stadium 2",
+    "Song": "Poké Cup Battle / Free Battle",
+    "Composers": "Hajime Wakai",
+    "Converters": "LBFrank",
+    "Category": "bgm",
+    "Audio": "https://youtu.be/YruLdLHTizM",
+    "Tags": [
+      "Exteriors",
+      "Happy"
+    ],
+    "Duration": 68.869548,
+    "Verified": true,
+    "Date": "2026-04-27T03:25:44.619409",
+    "Binary": "binaries/Pokémon Stadium 2/Poké Cup Battle  Free Battle.bin"
   }
 ]
