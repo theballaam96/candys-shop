@@ -44941,5 +44941,53 @@
     "Verified": true,
     "Date": "2026-04-27T03:25:44.619409",
     "Binary": "binaries/Pokémon Stadium 2/Poké Cup Battle  Free Battle.bin"
+  },
+  {
+    "Game": "Kirby's Adventure",
+    "Song": "Well Done!",
+    "Composers": "Hirokazu Ando",
+    "Converters": "TheLupineOne",
+    "Category": "majoritems",
+    "Tags": [
+      "Spawning",
+      "Collection",
+      "Happy"
+    ],
+    "Duration": 2.65510825,
+    "Verified": true,
+    "Date": "2026-05-16T20:27:17.076400",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Kirbys%20Adventure/Well%20Done.mp3",
+    "Binary": "binaries/Kirbys Adventure/Well Done.bin"
+  },
+  {
+    "Game": "Kirby & The Amazing Mirror",
+    "Song": "Olive Ocean",
+    "Composers": "Hironobu Inagaki, Atsuyoshi Isemura",
+    "Converters": "MiaSchemes",
+    "Category": "bgm",
+    "Tags": [
+      "Interiors"
+    ],
+    "Duration": 41.02268625,
+    "Verified": true,
+    "Date": "2026-05-16T20:27:19.962037",
+    "Audio": "https://youtu.be/odNmAQugHj8",
+    "Binary": "binaries/Kirby  The Amazing Mirror/Olive Ocean.bin"
+  },
+  {
+    "Game": "Rhythm Heaven Fever",
+    "Song": "Hole in One",
+    "Composers": "Tsunku♂",
+    "Converters": "samracc",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors",
+      "Happy"
+    ],
+    "Duration": 102.26084399999999,
+    "Verified": true,
+    "Date": "2026-05-16T20:27:52.387523",
+    "Audio": "https://youtu.be/DYUIuqLgkGM",
+    "Binary": "binaries/Rhythm Heaven Fever/Hole in One.bin"
   }
 ]
