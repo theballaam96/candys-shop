@@ -44989,5 +44989,20 @@
     "Date": "2026-05-16T20:27:52.387523",
     "Audio": "https://youtu.be/DYUIuqLgkGM",
     "Binary": "binaries/Rhythm Heaven Fever/Hole in One.bin"
+  },
+  {
+    "Game": "Mario Kart DS",
+    "Song": "Airship Fortress",
+    "Composers": "Shinobu Tanaka",
+    "Converters": "Kilvereis",
+    "Category": "bgm",
+    "Audio": "https://youtu.be/X4TmYzILGGs",
+    "Tags": [
+      "Exteriors"
+    ],
+    "Duration": 76.36728224999999,
+    "Verified": true,
+    "Date": "2026-05-17T20:29:12.198777",
+    "Binary": "binaries/Mario Kart DS/Airship Fortress.bin"
   }
 ]
