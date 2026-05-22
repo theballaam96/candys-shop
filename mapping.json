@@ -45019,5 +45019,20 @@
     "Date": "2026-05-22T18:04:30.497020",
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Kirbys%20Adventure/Too%20Bad.mp3",
     "Binary": "binaries/Kirbys Adventure/Too Bad.bin"
+  },
+  {
+    "Game": "Kirby's Dream Land",
+    "Song": "Defeat",
+    "Composers": "Jun Ishikawa",
+    "Converters": "TheLupineOne",
+    "Category": "events",
+    "Tags": [
+      "Gloomy"
+    ],
+    "Duration": 2.30555325,
+    "Verified": true,
+    "Date": "2026-05-22T18:06:40.784951",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Kirbys%20Dream%20Land/Defeat.mp3",
+    "Binary": "binaries/Kirbys Dream Land/Defeat.bin"
   }
 ]
