@@ -45034,5 +45034,72 @@
     "Date": "2026-05-22T18:06:40.784951",
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Kirbys%20Dream%20Land/Defeat.mp3",
     "Binary": "binaries/Kirbys Dream Land/Defeat.bin"
+  },
+  {
+    "Game": "Kirby's Adventure",
+    "Song": "Congratulations!",
+    "Composers": "Hirokazu Ando",
+    "Converters": "TheLupineOne",
+    "Category": "events",
+    "Tags": [
+      "Happy"
+    ],
+    "Duration": 3.8603540833333336,
+    "Verified": true,
+    "Date": "2026-06-03T06:35:53.738300",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Kirbys%20Adventure/Congratulations.mp3",
+    "Binary": "binaries/Kirbys Adventure/Congratulations.bin"
+  },
+  {
+    "Game": "Brain Age: Train Your Brain in Minutes a Day!",
+    "Song": "Complete",
+    "Composers": "Minako Hamano, Akito Nakatsuka",
+    "Converters": "TheLupineOne",
+    "Category": "events",
+    "Tags": [
+      "Spawning",
+      "Collection",
+      "Happy"
+    ],
+    "Duration": 1.31720575,
+    "Verified": true,
+    "Date": "2026-06-03T06:35:55.660095",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Brain%20Age%20Train%20Your%20Brain%20in%20Minutes%20a%20Day/Complete.mp3",
+    "Binary": "binaries/Brain Age Train Your Brain in Minutes a Day/Complete.bin"
+  },
+  {
+    "Game": "ClayFighter 63 1/3",
+    "Song": "Main Menu / Happy Harry's Hut",
+    "Composers": "Richard Band, Rick Jackson",
+    "Converters": "LBFrank",
+    "Category": "bgm",
+    "Audio": "https://youtu.be/KlMFJ8hbQs0",
+    "Update Notes": "Updated volume mixing",
+    "Tags": [
+      "Lobbies and Shops",
+      "Interiors",
+      "Gloomy",
+      "Calm"
+    ],
+    "Duration": 88.48020833333334,
+    "Verified": true,
+    "Date": "2026-06-03T06:35:57.275033",
+    "Binary": "binaries/ClayFighter 63 13/Main Menu  Happy Harrys Hut (REV 1).bin"
+  },
+  {
+    "Game": "Kirby: Canvas Curse",
+    "Song": "Boss Game Select",
+    "Composers": "Jun Ishikawa, Tadashi Ikegami",
+    "Converters": "TheLupineOne",
+    "Category": "bgm",
+    "Tags": [
+      "Lobbies and Shops",
+      "Happy"
+    ],
+    "Duration": 13.732649874999998,
+    "Verified": true,
+    "Date": "2026-06-03T06:35:58.958308",
+    "Audio": "https://youtu.be/UBl8YAOyaBs",
+    "Binary": "binaries/Kirby Canvas Curse/Boss Game Select.bin"
   }
 ]
