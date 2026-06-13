@@ -45101,5 +45101,23 @@
     "Date": "2026-06-03T06:35:58.958308",
     "Audio": "https://youtu.be/UBl8YAOyaBs",
     "Binary": "binaries/Kirby Canvas Curse/Boss Game Select.bin"
+  },
+  {
+    "Game": "Mario + Rabbids: Kingdom Battle",
+    "Song": "Through the Lawns",
+    "Composers": "Grant Kirkhope",
+    "Converters": "LBFrank",
+    "Category": "bgm",
+    "Audio": "https://youtu.be/XLpTqLh_X_Q",
+    "Update Notes": "Reverb, mostly",
+    "Tags": [
+      "Lobbies and Shops",
+      "Happy",
+      "Calm"
+    ],
+    "Duration": 38.125,
+    "Verified": true,
+    "Date": "2026-06-07T21:39:30.941012",
+    "Binary": "binaries/Mario  Rabbids Kingdom Battle/Through the Lawns (REV 3).bin"
   }
 ]
