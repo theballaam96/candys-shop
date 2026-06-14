@@ -45119,5 +45119,22 @@
     "Verified": true,
     "Date": "2026-06-07T21:39:30.941012",
     "Binary": "binaries/Mario  Rabbids Kingdom Battle/Through the Lawns (REV 3).bin"
+  },
+  {
+    "Game": "Splatoon",
+    "Song": "Metalopod",
+    "Composers": "Toru Minegishi",
+    "Converters": "2dos, Zion Jaymes, ck vyx, The Sound Defense",
+    "Category": "bgm",
+    "Audio": "https://www.youtube.com/watch?v=yTuZGLGncgE",
+    "Tags": [
+      "Fights",
+      "Exteriors",
+      "Minigames"
+    ],
+    "Duration": 70.54273248749999,
+    "Verified": true,
+    "Date": "2026-06-14T20:10:46.606585",
+    "Binary": "binaries/Splatoon/Metalopod.bin"
   }
 ]
