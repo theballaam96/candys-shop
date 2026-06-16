@@ -45136,5 +45136,24 @@
     "Verified": true,
     "Date": "2026-06-14T20:10:46.606585",
     "Binary": "binaries/Splatoon/Metalopod.bin"
+  },
+  {
+    "Game": "Full Tilt! Pinball 2",
+    "Song": "Mad Scientist - Main Table",
+    "Composers": "Matt Ridgeway",
+    "Converters": "Purveyor of the Arcade",
+    "Category": "bgm",
+    "Additional Notes": "MIDI taken from the game itself, with modifications.",
+    "Tags": [
+      "Lobbies and Shops",
+      "Interiors",
+      "Gloomy",
+      "Spooky"
+    ],
+    "Duration": 25.599999999999998,
+    "Verified": true,
+    "Date": "2026-06-16T15:59:19.131664",
+    "Audio": "https://youtu.be/YYIN6HjWNto",
+    "Binary": "binaries/Full Tilt Pinball 2/Mad Scientist - Main Table.bin"
   }
 ]
