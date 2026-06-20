@@ -45181,7 +45181,8 @@
     "Category": "bgm",
     "Tags": [
       "Fights",
-      "Spooky"
+      "Spooky",
+      "stream-unsafe"
     ],
     "Duration": 121.411704,
     "Verified": true,
