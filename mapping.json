@@ -45155,5 +45155,22 @@
     "Date": "2026-06-16T15:59:19.131664",
     "Audio": "https://youtu.be/YYIN6HjWNto",
     "Binary": "binaries/Full Tilt Pinball 2/Mad Scientist - Main Table.bin"
+  },
+  {
+    "Game": "Dig Dug Arrangement",
+    "Song": "Historic Ruins",
+    "Composers": "Yoshie Arakawa, Takayuki Ishikawa, Yuri Misumi, Keiichi Okabe, Nobuyuki Ohnogi, Toshio Kai, Yuriko Keino",
+    "Converters": "Purveyor of the Arcade",
+    "Category": "bgm",
+    "Additional Notes": "Of the composers, Nobuyuki Ohnogi, Toshio Kai, and Yuriko Keino were listed in the VGMdb listing of the Namco Classic Collection Vol. 2 soundtrack, but they were not listed in game.",
+    "Tags": [
+      "Interiors",
+      "Gloomy"
+    ],
+    "Duration": 34.90912,
+    "Verified": true,
+    "Date": "2026-06-20T22:03:38.137808",
+    "Audio": "https://youtu.be/kjFPUc4l4T4",
+    "Binary": "binaries/Dig Dug Arrangement/Historic Ruins.bin"
   }
 ]
