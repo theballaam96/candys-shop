@@ -45172,5 +45172,21 @@
     "Date": "2026-06-20T22:03:38.137808",
     "Audio": "https://youtu.be/kjFPUc4l4T4",
     "Binary": "binaries/Dig Dug Arrangement/Historic Ruins.bin"
+  },
+  {
+    "Game": "Deltarune",
+    "Song": "A DARK ZONE (DK64 Boss Remix)",
+    "Composers": "Toby Fox",
+    "Converters": "ForsakenSounds555",
+    "Category": "bgm",
+    "Tags": [
+      "Fights",
+      "Spooky"
+    ],
+    "Duration": 121.411704,
+    "Verified": true,
+    "Date": "2026-06-20T22:41:33.936039",
+    "Audio": "https://youtu.be/4iR_GWHpL-c",
+    "Binary": "binaries/Deltarune/A DARK ZONE (DK64 Boss Remix).bin"
   }
 ]
