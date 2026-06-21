@@ -44989,5 +44989,205 @@
     "Date": "2026-05-16T20:27:52.387523",
     "Audio": "https://youtu.be/DYUIuqLgkGM",
     "Binary": "binaries/Rhythm Heaven Fever/Hole in One.bin"
+  },
+  {
+    "Game": "Mario Kart DS",
+    "Song": "Airship Fortress",
+    "Composers": "Shinobu Tanaka",
+    "Converters": "Kilvereis",
+    "Category": "bgm",
+    "Audio": "https://youtu.be/X4TmYzILGGs",
+    "Tags": [
+      "Exteriors"
+    ],
+    "Duration": 76.36728224999999,
+    "Verified": true,
+    "Date": "2026-05-17T20:29:12.198777",
+    "Binary": "binaries/Mario Kart DS/Airship Fortress.bin"
+  },
+  {
+    "Game": "Kirby's Adventure",
+    "Song": "Too Bad...",
+    "Composers": "Hirokazu Ando",
+    "Converters": "TheLupineOne",
+    "Category": "events",
+    "Tags": [
+      "Gloomy"
+    ],
+    "Duration": 2.764422708333333,
+    "Verified": true,
+    "Date": "2026-05-22T18:04:30.497020",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Kirbys%20Adventure/Too%20Bad.mp3",
+    "Binary": "binaries/Kirbys Adventure/Too Bad.bin"
+  },
+  {
+    "Game": "Kirby's Dream Land",
+    "Song": "Defeat",
+    "Composers": "Jun Ishikawa",
+    "Converters": "TheLupineOne",
+    "Category": "events",
+    "Tags": [
+      "Gloomy"
+    ],
+    "Duration": 2.30555325,
+    "Verified": true,
+    "Date": "2026-05-22T18:06:40.784951",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Kirbys%20Dream%20Land/Defeat.mp3",
+    "Binary": "binaries/Kirbys Dream Land/Defeat.bin"
+  },
+  {
+    "Game": "Kirby's Adventure",
+    "Song": "Congratulations!",
+    "Composers": "Hirokazu Ando",
+    "Converters": "TheLupineOne",
+    "Category": "events",
+    "Tags": [
+      "Happy"
+    ],
+    "Duration": 3.8603540833333336,
+    "Verified": true,
+    "Date": "2026-06-03T06:35:53.738300",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Kirbys%20Adventure/Congratulations.mp3",
+    "Binary": "binaries/Kirbys Adventure/Congratulations.bin"
+  },
+  {
+    "Game": "Brain Age: Train Your Brain in Minutes a Day!",
+    "Song": "Complete",
+    "Composers": "Minako Hamano, Akito Nakatsuka",
+    "Converters": "TheLupineOne",
+    "Category": "events",
+    "Tags": [
+      "Spawning",
+      "Collection",
+      "Happy"
+    ],
+    "Duration": 1.31720575,
+    "Verified": true,
+    "Date": "2026-06-03T06:35:55.660095",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Brain%20Age%20Train%20Your%20Brain%20in%20Minutes%20a%20Day/Complete.mp3",
+    "Binary": "binaries/Brain Age Train Your Brain in Minutes a Day/Complete.bin"
+  },
+  {
+    "Game": "ClayFighter 63 1/3",
+    "Song": "Main Menu / Happy Harry's Hut",
+    "Composers": "Richard Band, Rick Jackson",
+    "Converters": "LBFrank",
+    "Category": "bgm",
+    "Audio": "https://youtu.be/KlMFJ8hbQs0",
+    "Update Notes": "Updated volume mixing",
+    "Tags": [
+      "Lobbies and Shops",
+      "Interiors",
+      "Gloomy",
+      "Calm"
+    ],
+    "Duration": 88.48020833333334,
+    "Verified": true,
+    "Date": "2026-06-03T06:35:57.275033",
+    "Binary": "binaries/ClayFighter 63 13/Main Menu  Happy Harrys Hut (REV 1).bin"
+  },
+  {
+    "Game": "Kirby: Canvas Curse",
+    "Song": "Boss Game Select",
+    "Composers": "Jun Ishikawa, Tadashi Ikegami",
+    "Converters": "TheLupineOne",
+    "Category": "bgm",
+    "Tags": [
+      "Lobbies and Shops",
+      "Happy"
+    ],
+    "Duration": 13.732649874999998,
+    "Verified": true,
+    "Date": "2026-06-03T06:35:58.958308",
+    "Audio": "https://youtu.be/UBl8YAOyaBs",
+    "Binary": "binaries/Kirby Canvas Curse/Boss Game Select.bin"
+  },
+  {
+    "Game": "Mario + Rabbids: Kingdom Battle",
+    "Song": "Through the Lawns",
+    "Composers": "Grant Kirkhope",
+    "Converters": "LBFrank",
+    "Category": "bgm",
+    "Audio": "https://youtu.be/XLpTqLh_X_Q",
+    "Update Notes": "Reverb, mostly",
+    "Tags": [
+      "Lobbies and Shops",
+      "Happy",
+      "Calm"
+    ],
+    "Duration": 38.125,
+    "Verified": true,
+    "Date": "2026-06-07T21:39:30.941012",
+    "Binary": "binaries/Mario  Rabbids Kingdom Battle/Through the Lawns (REV 3).bin"
+  },
+  {
+    "Game": "Splatoon",
+    "Song": "Metalopod",
+    "Composers": "Toru Minegishi",
+    "Converters": "2dos, Zion Jaymes, ck vyx, The Sound Defense",
+    "Category": "bgm",
+    "Audio": "https://www.youtube.com/watch?v=yTuZGLGncgE",
+    "Tags": [
+      "Fights",
+      "Exteriors",
+      "Minigames"
+    ],
+    "Duration": 70.54273248749999,
+    "Verified": true,
+    "Date": "2026-06-14T20:10:46.606585",
+    "Binary": "binaries/Splatoon/Metalopod.bin"
+  },
+  {
+    "Game": "Full Tilt! Pinball 2",
+    "Song": "Mad Scientist - Main Table",
+    "Composers": "Matt Ridgeway",
+    "Converters": "Purveyor of the Arcade",
+    "Category": "bgm",
+    "Additional Notes": "MIDI taken from the game itself, with modifications.",
+    "Tags": [
+      "Lobbies and Shops",
+      "Interiors",
+      "Gloomy",
+      "Spooky"
+    ],
+    "Duration": 25.599999999999998,
+    "Verified": true,
+    "Date": "2026-06-16T15:59:19.131664",
+    "Audio": "https://youtu.be/YYIN6HjWNto",
+    "Binary": "binaries/Full Tilt Pinball 2/Mad Scientist - Main Table.bin"
+  },
+  {
+    "Game": "Dig Dug Arrangement",
+    "Song": "Historic Ruins",
+    "Composers": "Yoshie Arakawa, Takayuki Ishikawa, Yuri Misumi, Keiichi Okabe, Nobuyuki Ohnogi, Toshio Kai, Yuriko Keino",
+    "Converters": "Purveyor of the Arcade",
+    "Category": "bgm",
+    "Additional Notes": "Of the composers, Nobuyuki Ohnogi, Toshio Kai, and Yuriko Keino were listed in the VGMdb listing of the Namco Classic Collection Vol. 2 soundtrack, but they were not listed in game.",
+    "Tags": [
+      "Interiors",
+      "Gloomy"
+    ],
+    "Duration": 34.90912,
+    "Verified": true,
+    "Date": "2026-06-20T22:03:38.137808",
+    "Audio": "https://youtu.be/kjFPUc4l4T4",
+    "Binary": "binaries/Dig Dug Arrangement/Historic Ruins.bin"
+  },
+  {
+    "Game": "Deltarune",
+    "Song": "A DARK ZONE (DK64 Boss Remix)",
+    "Composers": "Toby Fox",
+    "Converters": "ForsakenSounds555",
+    "Category": "bgm",
+    "Tags": [
+      "Fights",
+      "Spooky",
+      "stream-unsafe"
+    ],
+    "Duration": 121.411704,
+    "Verified": true,
+    "Date": "2026-06-20T22:41:33.936039",
+    "Audio": "https://youtu.be/4iR_GWHpL-c",
+    "Binary": "binaries/Deltarune/A DARK ZONE (DK64 Boss Remix).bin"
   }
 ]
