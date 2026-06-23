@@ -45189,5 +45189,22 @@
     "Date": "2026-06-20T22:41:33.936039",
     "Audio": "https://youtu.be/4iR_GWHpL-c",
     "Binary": "binaries/Deltarune/A DARK ZONE (DK64 Boss Remix).bin"
+  },
+  {
+    "Game": "Sly Cooper and the Thievius Raccoonus",
+    "Song": "Police HQ (Sneaking) / The Hideout",
+    "Composers": "Ashif Hakik",
+    "Converters": "Kilvereis",
+    "Category": "bgm",
+    "Tags": [
+      "Lobbies and Shops",
+      "Interiors",
+      "Gloomy"
+    ],
+    "Duration": 52.39249289583333,
+    "Verified": true,
+    "Date": "2026-06-23T23:27:27.580905",
+    "Audio": "https://youtu.be/684v__jfQa0",
+    "Binary": "binaries/Sly Cooper and the Thievius Raccoonus/Police HQ (Sneaking)  The Hideout.bin"
   }
 ]
