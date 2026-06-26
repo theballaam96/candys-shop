@@ -45206,5 +45206,23 @@
     "Date": "2026-06-23T23:27:27.580905",
     "Audio": "https://youtu.be/684v__jfQa0",
     "Binary": "binaries/Sly Cooper and the Thievius Raccoonus/Police HQ (Sneaking)  The Hideout.bin"
+  },
+  {
+    "Game": "Plants vs. Zombies",
+    "Song": "Brainiac Maniac",
+    "Composers": "Laura Shigihara",
+    "Converters": "SirEnobMort",
+    "Category": "bgm",
+    "Audio": "https://youtu.be/xdQDxu6FZIE",
+    "Additional Notes": "This conversion is based on the versions found in the Plants vs. Zombies soundtrack, original game, and the Nintendo DS port.",
+    "Tags": [
+      "Fights",
+      "Happy",
+      "Calm"
+    ],
+    "Duration": 100.0,
+    "Verified": true,
+    "Date": "2026-06-26T18:22:14.623620",
+    "Binary": "binaries/Plants vs Zombies/Brainiac Maniac.bin"
   }
 ]
