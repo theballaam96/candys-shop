@@ -45240,5 +45240,21 @@
     "Verified": true,
     "Date": "2026-06-26T18:23:56.777087",
     "Binary": "binaries/Pokémon Mystery Dungeon Explorers of Sky/Amp Plains.bin"
+  },
+  {
+    "Game": "Mario Party 3",
+    "Song": "Bowser Event",
+    "Composers": "Ichiro Shimakura",
+    "Converters": "Altermentality",
+    "Category": "bgm",
+    "Audio": "https://youtu.be/_6-YkwVoWEU",
+    "Tags": [
+      "Lobbies and Shops",
+      "Gloomy"
+    ],
+    "Duration": 35.284152875,
+    "Verified": true,
+    "Date": "2026-07-02T19:54:53.139913",
+    "Binary": "binaries/Mario Party 3/Bowser Event.bin"
   }
 ]
