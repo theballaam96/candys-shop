@@ -45256,5 +45256,22 @@
     "Verified": true,
     "Date": "2026-07-02T19:54:53.139913",
     "Binary": "binaries/Mario Party 3/Bowser Event.bin"
+  },
+  {
+    "Game": "Mario + Rabbids: Kingdom Battle",
+    "Song": "The Lava Forge",
+    "Composers": "Grant Kirkhope",
+    "Converters": "LBFrank",
+    "Category": "bgm",
+    "Audio": "https://youtu.be/U5Nz3ythCDs",
+    "Tags": [
+      "Fights",
+      "Exteriors",
+      "Gloomy"
+    ],
+    "Duration": 173.419456,
+    "Verified": true,
+    "Date": "2026-07-02T19:58:12.223809",
+    "Binary": "binaries/Mario  Rabbids Kingdom Battle/The Lava Forge.bin"
   }
 ]
