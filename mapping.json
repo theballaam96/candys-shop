@@ -1685,7 +1685,8 @@
     "Tracks": 1,
     "Verified": true,
     "Tags": [
-      "grandfathered"
+      "grandfathered",
+      "Delisted"
     ]
   },
   {
@@ -1700,7 +1701,8 @@
     "Tracks": 4,
     "Verified": true,
     "Tags": [
-      "grandfathered"
+      "grandfathered",
+      "Delisted"
     ]
   },
   {
@@ -1768,7 +1770,8 @@
     "Tracks": 1,
     "Verified": true,
     "Tags": [
-      "grandfathered"
+      "grandfathered",
+      "Delisted"
     ]
   },
   {
@@ -3062,7 +3065,8 @@
     "Tags": [
       "Exteriors",
       "Lobbies and Shops",
-      "grandfathered"
+      "grandfathered",
+      "Delisted"
     ],
     "Verified": true
   },
@@ -3340,7 +3344,8 @@
     "Tags": [
       "Fights",
       "Exteriors",
-      "grandfathered"
+      "grandfathered",
+      "Delisted"
     ],
     "Verified": true
   },
@@ -7240,7 +7245,8 @@
     "Tags": [
       "Happy",
       "Spawning",
-      "grandfathered"
+      "grandfathered",
+      "Delisted"
     ],
     "Update of": 106,
     "Verified": true
@@ -32850,7 +32856,8 @@
     "Tags": [
       "Fights",
       "Exteriors",
-      "grandfathered"
+      "grandfathered",
+      "Delisted"
     ],
     "Verified": true,
     "Date": "Mon Dec 16 2024 20:21:15 GMT+0000 (Coordinated Universal Time)",
