@@ -1304,7 +1304,8 @@
     "Tracks": 6,
     "Tags": [
       "Minigames",
-      "Exteriors"
+      "Exteriors",
+      "Delisted"
     ],
     "Verified": true
   },
@@ -2760,7 +2761,8 @@
     "Tracks": 6,
     "Tags": [
       "Exteriors",
-      "Happy"
+      "Happy",
+      "Delisted"
     ],
     "Verified": true
   },
@@ -3134,7 +3136,8 @@
     "Tracks": 9,
     "Tags": [
       "Fights",
-      "Exteriors"
+      "Exteriors",
+      "Delisted"
     ],
     "Verified": true
   },
@@ -3307,7 +3310,8 @@
     "Tags": [
       "Lobbies and Shops",
       "Minigames",
-      "Interiors"
+      "Interiors",
+      "Delisted"
     ],
     "Verified": true
   },
@@ -7444,7 +7448,8 @@
     "Tracks": 13,
     "Tags": [
       "Exteriors",
-      "Happy"
+      "Happy",
+      "Delisted"
     ],
     "Update of": 180,
     "Verified": true
@@ -22644,7 +22649,8 @@
     "Update Notes": "Volume balanced...",
     "Tags": [
       "Exteriors",
-      "Happy"
+      "Happy",
+      "Delisted"
     ],
     "Verified": true,
     "Date": "Wed May 29 2024 11:55:07 GMT+0000 (Coordinated Universal Time)",
@@ -32838,7 +32844,8 @@
     "Update Notes": "Rebalanced volume",
     "Tags": [
       "Fights",
-      "Exteriors"
+      "Exteriors",
+      "Delisted"
     ],
     "Verified": true,
     "Date": "Mon Dec 16 2024 20:21:15 GMT+0000 (Coordinated Universal Time)",
