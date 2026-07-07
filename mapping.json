@@ -45307,5 +45307,23 @@
     "Date": "2026-07-07T13:46:21.228275",
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Space%20Station%20Silicon%20Valley/Level%20Clear.mp3",
     "Binary": "binaries/Space Station Silicon Valley/Level Clear.bin"
+  },
+  {
+    "Game": "Mario + Rabbids: Kingdom Battle",
+    "Song": "The Lava Forge",
+    "Composers": "Grant Kirkhope",
+    "Converters": "LBFrank",
+    "Category": "bgm",
+    "Audio": "https://youtu.be/seIt-7PD3Co",
+    "Update Notes": "Some panning and volume adjustments",
+    "Tags": [
+      "Fights",
+      "Exteriors",
+      "Gloomy"
+    ],
+    "Duration": 173.419456,
+    "Verified": true,
+    "Date": "2026-07-07T13:49:21.765539",
+    "Binary": "binaries/Mario  Rabbids Kingdom Battle/The Lava Forge (REV 1).bin"
   }
 ]
