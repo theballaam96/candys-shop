@@ -45325,5 +45325,22 @@
     "Verified": true,
     "Date": "2026-07-07T13:49:21.765539",
     "Binary": "binaries/Mario  Rabbids Kingdom Battle/The Lava Forge (REV 1).bin"
+  },
+  {
+    "Game": "Super Mario Bros.",
+    "Song": "Underwater BGM",
+    "Composers": "Koji Kondo",
+    "Converters": "Kilvereis",
+    "Category": "bgm",
+    "Tags": [
+      "Interiors",
+      "Happy",
+      "Calm"
+    ],
+    "Duration": 26.394477437499997,
+    "Verified": true,
+    "Date": "2026-07-07T14:35:49.239470",
+    "Audio": "https://youtu.be/HPJm9TMVOTY",
+    "Binary": "binaries/Super Mario Bros/Underwater BGM.bin"
   }
 ]
