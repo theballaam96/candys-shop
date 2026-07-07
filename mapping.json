@@ -45291,5 +45291,21 @@
     "Verified": true,
     "Date": "2026-07-02T19:58:12.223809",
     "Binary": "binaries/Mario  Rabbids Kingdom Battle/The Lava Forge.bin"
+  },
+  {
+    "Game": "Space Station Silicon Valley",
+    "Song": "Level Clear",
+    "Composers": "Stuart Ross",
+    "Converters": "TheLupineOne",
+    "Category": "events",
+    "Tags": [
+      "Spawning",
+      "Happy"
+    ],
+    "Duration": 9.585416666666667,
+    "Verified": true,
+    "Date": "2026-07-07T13:46:21.228275",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Space%20Station%20Silicon%20Valley/Level%20Clear.mp3",
+    "Binary": "binaries/Space Station Silicon Valley/Level Clear.bin"
   }
 ]
