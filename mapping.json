@@ -45342,5 +45342,20 @@
     "Date": "2026-07-07T14:35:49.239470",
     "Audio": "https://youtu.be/HPJm9TMVOTY",
     "Binary": "binaries/Super Mario Bros/Underwater BGM.bin"
+  },
+  {
+    "Game": "Chrono Cross",
+    "Song": "Fossil Valley",
+    "Composers": "Yasunori Mitsuda",
+    "Converters": "OnlySpaghettiCode",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors"
+    ],
+    "Duration": 58.596725458333324,
+    "Verified": true,
+    "Date": "2026-07-08T00:06:49.353923",
+    "Audio": "https://youtu.be/FzBaqQ6DKFE",
+    "Binary": "binaries/Chrono Cross/Fossil Valley.bin"
   }
 ]
