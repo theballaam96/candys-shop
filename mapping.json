@@ -45342,5 +45342,36 @@
     "Date": "2026-07-07T14:35:49.239470",
     "Audio": "https://youtu.be/HPJm9TMVOTY",
     "Binary": "binaries/Super Mario Bros/Underwater BGM.bin"
+  },
+  {
+    "Game": "Chrono Cross",
+    "Song": "Fossil Valley",
+    "Composers": "Yasunori Mitsuda",
+    "Converters": "OnlySpaghettiCode",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors"
+    ],
+    "Duration": 58.596725458333324,
+    "Verified": true,
+    "Date": "2026-07-08T00:06:49.353923",
+    "Audio": "https://youtu.be/FzBaqQ6DKFE",
+    "Binary": "binaries/Chrono Cross/Fossil Valley.bin"
+  },
+  {
+    "Game": "Kirby Mass Attack",
+    "Song": "Fun Castle",
+    "Composers": "Shogo Sakai",
+    "Converters": "SirEnobMort",
+    "Category": "bgm",
+    "Audio": "https://youtu.be/LH8RV5hjh5w",
+    "Tags": [
+      "Lobbies and Shops",
+      "Happy"
+    ],
+    "Duration": 31.666691999999998,
+    "Verified": true,
+    "Date": "2026-07-08T00:22:17.480743",
+    "Binary": "binaries/Kirby Mass Attack/Fun Castle.bin"
   }
 ]
