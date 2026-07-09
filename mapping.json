@@ -45373,5 +45373,88 @@
     "Verified": true,
     "Date": "2026-07-08T00:22:17.480743",
     "Binary": "binaries/Kirby Mass Attack/Fun Castle.bin"
+  },
+  {
+    "Game": "Pokémon Black & White",
+    "Song": "A Tight Spot During Battle!",
+    "Composers": "Shota Kageyama",
+    "Converters": "doicm",
+    "Category": "bgm",
+    "Tags": [
+      "Minigames",
+      "Happy"
+    ],
+    "Duration": 33.071227520833325,
+    "Verified": true,
+    "Date": "2026-07-09T19:54:38.569075",
+    "Audio": "https://youtu.be/VFY4cxzTHAk",
+    "Binary": "binaries/Pokémon Black  White/A Tight Spot During Battle.bin"
+  },
+  {
+    "Game": "Pokémon Ruby, Sapphire & Emerald",
+    "Song": "Trainers' Eyes Meet (Psychic)",
+    "Composers": "Go Ichinose",
+    "Converters": "MiaSchemes",
+    "Category": "events",
+    "Tags": [
+      "Spawning",
+      "Collection"
+    ],
+    "Duration": 14.142842999999997,
+    "Verified": true,
+    "Date": "2026-07-09T19:55:03.773266",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Pok%C3%A9mon%20Ruby,%20Sapphire%20%20Emerald/Trainers%20Eyes%20Meet%20(Psychic).mp3",
+    "Binary": "binaries/Pokémon Ruby, Sapphire  Emerald/Trainers Eyes Meet (Psychic).bin"
+  },
+  {
+    "Game": "Friday Night Monster of Monsters",
+    "Song": "Amoeba",
+    "Category": "bgm",
+    "Composers": "Hyporious",
+    "Converters": "mus_gezora",
+    "Audio": "https://youtu.be/lKaYJjMACHs",
+    "Tags": [
+      "Fights",
+      "Minigames",
+      "Happy",
+      "Gloomy"
+    ],
+    "Duration": 90.98892,
+    "Verified": true,
+    "Date": "2026-07-09T19:55:05.790300",
+    "Binary": "binaries/Friday Night Monster of Monsters/Amoeba.bin"
+  },
+  {
+    "Game": "Pokémon Ruby, Sapphire & Emerald",
+    "Song": "Heavy Rain (ORAS)",
+    "Composers": "Go Ichinose",
+    "Converters": "MiaSchemes",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors",
+      "Minigames",
+      "Gloomy"
+    ],
+    "Duration": 60.46875,
+    "Verified": true,
+    "Date": "2026-07-09T19:56:14.686906",
+    "Audio": "https://youtu.be/6yt9stxLfLo",
+    "Binary": "binaries/Pokémon Ruby, Sapphire  Emerald/Heavy Rain (ORAS).bin"
+  },
+  {
+    "Game": "What a Mario World",
+    "Song": "Map 1",
+    "Composers": "RRThiel",
+    "Converters": "mus_gezora",
+    "Category": "bgm",
+    "Tags": [
+      "Lobbies and Shops",
+      "Happy"
+    ],
+    "Duration": 42.666624,
+    "Verified": true,
+    "Date": "2026-07-09T19:56:38.251524",
+    "Audio": "https://youtu.be/0TnFULDz7OM",
+    "Binary": "binaries/What a Mario World/Map 1.bin"
   }
 ]
