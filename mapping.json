@@ -45456,5 +45456,21 @@
     "Date": "2026-07-09T19:56:38.251524",
     "Audio": "https://youtu.be/AG-NHzp9IfY",
     "Binary": "binaries/What a Mario World/Map 1.bin"
+  },
+  {
+    "Game": "Pokémon Gold, Silver & Crystal",
+    "Song": "Pallet Town (HGSS)",
+    "Composers": "Go Ichinose, Shota Kageyama",
+    "Converters": "MiaSchemes",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors",
+      "Happy"
+    ],
+    "Duration": 50.331894,
+    "Verified": true,
+    "Date": "2026-07-11T17:16:20.179824",
+    "Audio": "https://youtu.be/V166QXM84c8",
+    "Binary": "binaries/Pokémon Gold, Silver  Crystal/Pallet Town (HGSS).bin"
   }
 ]
