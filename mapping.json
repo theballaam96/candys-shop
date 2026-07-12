@@ -45488,5 +45488,21 @@
     "Date": "2026-07-12T00:39:44.008882",
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Pok%C3%A9mon%20Gold,%20Silver%20%20Crystal/Pok%C3%A9gear%20Registration.mp3",
     "Binary": "binaries/Pokémon Gold, Silver  Crystal/Pokégear Registration.bin"
+  },
+  {
+    "Game": "Pokémon Gold, Silver & Crystal",
+    "Song": "Item Pickup (HGSS)",
+    "Composers": "Go Ichinose, Shota Kageyama",
+    "Converters": "MiaSchemes",
+    "Category": "majoritems",
+    "Tags": [
+      "Collection",
+      "Happy"
+    ],
+    "Duration": 2.5657856249999997,
+    "Verified": true,
+    "Date": "2026-07-12T14:19:08.116231",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Pok%C3%A9mon%20Gold,%20Silver%20%20Crystal/Item%20Pickup%20(HGSS).mp3",
+    "Binary": "binaries/Pokémon Gold, Silver  Crystal/Item Pickup (HGSS).bin"
   }
 ]
