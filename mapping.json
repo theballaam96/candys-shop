@@ -45504,5 +45504,53 @@
     "Date": "2026-07-12T14:19:08.116231",
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Pok%C3%A9mon%20Gold,%20Silver%20%20Crystal/Item%20Pickup%20(HGSS).mp3",
     "Binary": "binaries/Pokémon Gold, Silver  Crystal/Item Pickup (HGSS).bin"
+  },
+  {
+    "Game": "Pokémon Gold, Silver & Crystal",
+    "Song": "Badge Get (HGSS)",
+    "Composers": "Go Ichinose, Shota Kageyama",
+    "Converters": "MiaSchemes",
+    "Category": "majoritems",
+    "Tags": [
+      "Spawning",
+      "Collection"
+    ],
+    "Duration": 5.3723415,
+    "Verified": true,
+    "Date": "2026-07-12T23:29:39.420733",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Pok%C3%A9mon%20Gold,%20Silver%20%20Crystal/Badge%20Get%20(HGSS).mp3",
+    "Binary": "binaries/Pokémon Gold, Silver  Crystal/Badge Get (HGSS).bin"
+  },
+  {
+    "Game": "Pokémon Gold, Silver & Crystal",
+    "Song": "TM Get (HGSS)",
+    "Composers": "Go Ichinose, Shota Kageyama",
+    "Converters": "MiaSchemes",
+    "Category": "majoritems",
+    "Tags": [
+      "Spawning",
+      "Collection"
+    ],
+    "Duration": 3.8619386249999996,
+    "Verified": true,
+    "Date": "2026-07-12T23:29:41.111330",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Pok%C3%A9mon%20Gold,%20Silver%20%20Crystal/TM%20Get%20(HGSS).mp3",
+    "Binary": "binaries/Pokémon Gold, Silver  Crystal/TM Get (HGSS).bin"
+  },
+  {
+    "Game": "Pokémon Gold, Silver & Crystal",
+    "Song": "Key Item (HGSS)",
+    "Composers": "Go Ichinose, Shota Kageyama",
+    "Converters": "MiaSchemes",
+    "Category": "majoritems",
+    "Tags": [
+      "Spawning",
+      "Collection"
+    ],
+    "Duration": 2.5294105,
+    "Verified": true,
+    "Date": "2026-07-12T23:29:42.755592",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Pok%C3%A9mon%20Gold,%20Silver%20%20Crystal/Key%20Item%20(HGSS).mp3",
+    "Binary": "binaries/Pokémon Gold, Silver  Crystal/Key Item (HGSS).bin"
   }
 ]
