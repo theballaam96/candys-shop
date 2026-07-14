@@ -45552,5 +45552,21 @@
     "Date": "2026-07-12T23:29:42.755592",
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Pok%C3%A9mon%20Gold,%20Silver%20%20Crystal/Key%20Item%20(HGSS).mp3",
     "Binary": "binaries/Pokémon Gold, Silver  Crystal/Key Item (HGSS).bin"
+  },
+  {
+    "Game": "Baldi's Basics Classic Remastered",
+    "Song": "Schoolhouse Trouble",
+    "Composers": "Anthony Hampton",
+    "Converters": "mus_gezora",
+    "Category": "bgm",
+    "Audio": "https://youtu.be/r6BlotA8u_0?si=hm32BiVAGK4Goh6S",
+    "Tags": [
+      "Fights",
+      "Gloomy"
+    ],
+    "Duration": 150.24394,
+    "Verified": true,
+    "Date": "2026-07-14T01:40:51.527359",
+    "Binary": "binaries/Baldis Basics Classic Remastered/Schoolhouse Trouble.bin"
   }
 ]
