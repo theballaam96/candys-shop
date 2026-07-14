@@ -60,6 +60,10 @@
    "B3313":{
       "icon":"https://i.imgur.com/0NvdZ7b.png"
    },
+   "Baldi's Basics Classic Remastered":{
+      "icon":"https://i.imgur.com/dGsmxJp.png",
+      "short_name": "Baldi's Basics CR"
+   },
    "Baldi's Basics in Education and Learning":{
       "icon":"https://i.imgur.com/JMEArml.png",
       "short_name": "Baldi's Basics"
@@ -388,6 +392,9 @@
    },
    "Friday Night Funkin'":{
       "icon":"https://i.imgur.com/I6crXl4.png"
+   },
+   "Friday Night Monster of Monsters":{
+      "icon":"https://i.imgur.com/mzq8ULd.png"
    },
    "Full Tilt! Pinball 2":{
       "icon":"https://i.imgur.com/tlPLRc9.png"
@@ -1587,11 +1594,14 @@
    "Wave Race 64":{
       "icon":"https://i.imgur.com/ljvsi5r.png"
    },
-   "Wolfenstein 3D":{
-      "icon":"https://i.imgur.com/pU0BvBC.png"
+   "What a Mario World":{
+      "icon":"https://i.imgur.com/zBJlWLX.png"
    },
    "Wii Sports":{
       "icon":"https://i.imgur.com/UsPJrwz.png"
+   },
+   "Wolfenstein 3D":{
+      "icon":"https://i.imgur.com/pU0BvBC.png"
    },
    "X-COM: UFO Defense":{
       "icon":"https://i.imgur.com/1HtjoSp.png"

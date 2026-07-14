@@ -45325,5 +45325,248 @@
     "Verified": true,
     "Date": "2026-07-07T13:49:21.765539",
     "Binary": "binaries/Mario  Rabbids Kingdom Battle/The Lava Forge (REV 1).bin"
+  },
+  {
+    "Game": "Super Mario Bros.",
+    "Song": "Underwater BGM",
+    "Composers": "Koji Kondo",
+    "Converters": "Kilvereis",
+    "Category": "bgm",
+    "Tags": [
+      "Interiors",
+      "Happy",
+      "Calm"
+    ],
+    "Duration": 26.394477437499997,
+    "Verified": true,
+    "Date": "2026-07-07T14:35:49.239470",
+    "Audio": "https://youtu.be/HPJm9TMVOTY",
+    "Binary": "binaries/Super Mario Bros/Underwater BGM.bin"
+  },
+  {
+    "Game": "Chrono Cross",
+    "Song": "Fossil Valley",
+    "Composers": "Yasunori Mitsuda",
+    "Converters": "OnlySpaghettiCode",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors"
+    ],
+    "Duration": 58.596725458333324,
+    "Verified": true,
+    "Date": "2026-07-08T00:06:49.353923",
+    "Audio": "https://youtu.be/FzBaqQ6DKFE",
+    "Binary": "binaries/Chrono Cross/Fossil Valley.bin"
+  },
+  {
+    "Game": "Kirby Mass Attack",
+    "Song": "Fun Castle",
+    "Composers": "Shogo Sakai",
+    "Converters": "SirEnobMort",
+    "Category": "bgm",
+    "Audio": "https://youtu.be/LH8RV5hjh5w",
+    "Tags": [
+      "Lobbies and Shops",
+      "Happy"
+    ],
+    "Duration": 31.666691999999998,
+    "Verified": true,
+    "Date": "2026-07-08T00:22:17.480743",
+    "Binary": "binaries/Kirby Mass Attack/Fun Castle.bin"
+  },
+  {
+    "Game": "Pokémon Black & White",
+    "Song": "A Tight Spot During Battle!",
+    "Composers": "Shota Kageyama",
+    "Converters": "doicm",
+    "Category": "bgm",
+    "Tags": [
+      "Minigames",
+      "Happy"
+    ],
+    "Duration": 33.071227520833325,
+    "Verified": true,
+    "Date": "2026-07-09T19:54:38.569075",
+    "Audio": "https://youtu.be/VFY4cxzTHAk",
+    "Binary": "binaries/Pokémon Black  White/A Tight Spot During Battle.bin"
+  },
+  {
+    "Game": "Pokémon Ruby, Sapphire & Emerald",
+    "Song": "Trainers' Eyes Meet (Psychic)",
+    "Composers": "Go Ichinose",
+    "Converters": "MiaSchemes",
+    "Category": "events",
+    "Tags": [
+      "Spawning",
+      "Collection"
+    ],
+    "Duration": 14.142842999999997,
+    "Verified": true,
+    "Date": "2026-07-09T19:55:03.773266",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Pok%C3%A9mon%20Ruby,%20Sapphire%20%20Emerald/Trainers%20Eyes%20Meet%20(Psychic).mp3",
+    "Binary": "binaries/Pokémon Ruby, Sapphire  Emerald/Trainers Eyes Meet (Psychic).bin"
+  },
+  {
+    "Game": "Friday Night Monster of Monsters",
+    "Song": "Amoeba",
+    "Category": "bgm",
+    "Composers": "Hyporious",
+    "Converters": "mus_gezora",
+    "Audio": "https://youtu.be/QfoCxt767dk?si=EhalduTOwkuskhLw",
+    "Tags": [
+      "Fights",
+      "Minigames",
+      "Happy",
+      "Gloomy"
+    ],
+    "Duration": 90.98892,
+    "Verified": true,
+    "Date": "2026-07-09T19:55:05.790300",
+    "Binary": "binaries/Friday Night Monster of Monsters/Amoeba.bin"
+  },
+  {
+    "Game": "Pokémon Ruby, Sapphire & Emerald",
+    "Song": "Heavy Rain (ORAS)",
+    "Composers": "Go Ichinose",
+    "Converters": "MiaSchemes",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors",
+      "Minigames",
+      "Gloomy"
+    ],
+    "Duration": 60.46875,
+    "Verified": true,
+    "Date": "2026-07-09T19:56:14.686906",
+    "Audio": "https://youtu.be/6yt9stxLfLo",
+    "Binary": "binaries/Pokémon Ruby, Sapphire  Emerald/Heavy Rain (ORAS).bin"
+  },
+  {
+    "Game": "What a Mario World",
+    "Song": "Map 1",
+    "Composers": "RRThiel",
+    "Converters": "mus_gezora",
+    "Category": "bgm",
+    "Tags": [
+      "Lobbies and Shops",
+      "Happy"
+    ],
+    "Duration": 42.666624,
+    "Verified": true,
+    "Date": "2026-07-09T19:56:38.251524",
+    "Audio": "https://youtu.be/AG-NHzp9IfY",
+    "Binary": "binaries/What a Mario World/Map 1.bin"
+  },
+  {
+    "Game": "Pokémon Gold, Silver & Crystal",
+    "Song": "Pallet Town (HGSS)",
+    "Composers": "Go Ichinose, Shota Kageyama",
+    "Converters": "MiaSchemes",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors",
+      "Happy"
+    ],
+    "Duration": 50.331894,
+    "Verified": true,
+    "Date": "2026-07-11T17:16:20.179824",
+    "Audio": "https://youtu.be/V166QXM84c8",
+    "Binary": "binaries/Pokémon Gold, Silver  Crystal/Pallet Town (HGSS).bin"
+  },
+  {
+    "Game": "Pokémon Gold, Silver & Crystal",
+    "Song": "Pokégear Registration (HGSS)",
+    "Composers": "Go Ichinose, Shota Kageyama",
+    "Converters": "MiaSchemes",
+    "Category": "events",
+    "Tags": [
+      "Spawning",
+      "Happy"
+    ],
+    "Duration": 2.615132625,
+    "Verified": true,
+    "Date": "2026-07-12T00:39:44.008882",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Pok%C3%A9mon%20Gold,%20Silver%20%20Crystal/Pok%C3%A9gear%20Registration.mp3",
+    "Binary": "binaries/Pokémon Gold, Silver  Crystal/Pokégear Registration.bin"
+  },
+  {
+    "Game": "Pokémon Gold, Silver & Crystal",
+    "Song": "Item Pickup (HGSS)",
+    "Composers": "Go Ichinose, Shota Kageyama",
+    "Converters": "MiaSchemes",
+    "Category": "majoritems",
+    "Tags": [
+      "Collection",
+      "Happy"
+    ],
+    "Duration": 2.5657856249999997,
+    "Verified": true,
+    "Date": "2026-07-12T14:19:08.116231",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Pok%C3%A9mon%20Gold,%20Silver%20%20Crystal/Item%20Pickup%20(HGSS).mp3",
+    "Binary": "binaries/Pokémon Gold, Silver  Crystal/Item Pickup (HGSS).bin"
+  },
+  {
+    "Game": "Pokémon Gold, Silver & Crystal",
+    "Song": "Badge Get (HGSS)",
+    "Composers": "Go Ichinose, Shota Kageyama",
+    "Converters": "MiaSchemes",
+    "Category": "majoritems",
+    "Tags": [
+      "Spawning",
+      "Collection"
+    ],
+    "Duration": 5.3723415,
+    "Verified": true,
+    "Date": "2026-07-12T23:29:39.420733",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Pok%C3%A9mon%20Gold,%20Silver%20%20Crystal/Badge%20Get%20(HGSS).mp3",
+    "Binary": "binaries/Pokémon Gold, Silver  Crystal/Badge Get (HGSS).bin"
+  },
+  {
+    "Game": "Pokémon Gold, Silver & Crystal",
+    "Song": "TM Get (HGSS)",
+    "Composers": "Go Ichinose, Shota Kageyama",
+    "Converters": "MiaSchemes",
+    "Category": "majoritems",
+    "Tags": [
+      "Spawning",
+      "Collection"
+    ],
+    "Duration": 3.8619386249999996,
+    "Verified": true,
+    "Date": "2026-07-12T23:29:41.111330",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Pok%C3%A9mon%20Gold,%20Silver%20%20Crystal/TM%20Get%20(HGSS).mp3",
+    "Binary": "binaries/Pokémon Gold, Silver  Crystal/TM Get (HGSS).bin"
+  },
+  {
+    "Game": "Pokémon Gold, Silver & Crystal",
+    "Song": "Key Item (HGSS)",
+    "Composers": "Go Ichinose, Shota Kageyama",
+    "Converters": "MiaSchemes",
+    "Category": "majoritems",
+    "Tags": [
+      "Spawning",
+      "Collection"
+    ],
+    "Duration": 2.5294105,
+    "Verified": true,
+    "Date": "2026-07-12T23:29:42.755592",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Pok%C3%A9mon%20Gold,%20Silver%20%20Crystal/Key%20Item%20(HGSS).mp3",
+    "Binary": "binaries/Pokémon Gold, Silver  Crystal/Key Item (HGSS).bin"
+  },
+  {
+    "Game": "Baldi's Basics Classic Remastered",
+    "Song": "Schoolhouse Trouble",
+    "Composers": "Anthony Hampton",
+    "Converters": "mus_gezora",
+    "Category": "bgm",
+    "Audio": "https://youtu.be/r6BlotA8u_0?si=hm32BiVAGK4Goh6S",
+    "Tags": [
+      "Fights",
+      "Gloomy"
+    ],
+    "Duration": 150.24394,
+    "Verified": true,
+    "Date": "2026-07-14T01:40:51.527359",
+    "Binary": "binaries/Baldis Basics Classic Remastered/Schoolhouse Trouble.bin"
   }
 ]
