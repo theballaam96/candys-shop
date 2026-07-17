@@ -45570,5 +45570,53 @@
     "Verified": true,
     "Date": "2026-07-14T01:40:51.527359",
     "Binary": "binaries/Baldis Basics Classic Remastered/Schoolhouse Trouble.bin"
+  },
+  {
+    "Game": "Chrono Cross",
+    "Song": "Guldove (Another World)",
+    "Composers": "Yasunori Mitsuda",
+    "Converters": "OnlySpaghettiCode",
+    "Category": "bgm",
+    "Audio": "https://youtu.be/RL35MB8zPqs",
+    "Tags": [
+      "Exteriors",
+      "Calm"
+    ],
+    "Duration": 100.70490052083333,
+    "Verified": true,
+    "Date": "2026-07-17T01:40:51.527359",
+    "Binary": "binaries/Chrono Sross/Guldove (Another World).bin"
+  },
+  {
+    "Game": "Baldi's Basics Plus",
+    "Song": "Camping Minigame",
+    "Composers": "Micah \"mystman12\" McGonigal",
+    "Converters": "mus_gezora",
+    "Category": "bgm",
+    "Audio": "https://youtu.be/YkEKSMxo5N4",
+    "Tags": [
+      "Minigames",
+      "Happy"
+    ],
+    "Additional Notes": "The base composition for this song came from Microsoft Music Producer's default library, from a song called \"Bluegrass\". The base composition does not have a human author, but instead was algorithmically generated.",
+    "Duration": 45.217431999999995,
+    "Verified": true,
+    "Date": "2026-07-17T01:40:51.527359",
+    "Binary": "binaries/Baldis Basics Plus/Camping Minigame.bin"
+  },
+  {
+    "Game": "Chrono Cross",
+    "Song": "Sailing (Home World)",
+    "Composers": "Yasunori Mitsuda",
+    "Converters": "OnlySpaghettiCode",
+    "Category": "bgm",
+    "Audio": "https://youtu.be/1AOnJW0CAMA",
+    "Tags": [
+      "Exteriors"
+    ],
+    "Duration": 98.57695635416667,
+    "Verified": true,
+    "Date": "2026-07-17T01:40:51.527359",
+    "Binary": "binaries/Chrono Cross/Sailing (Home World).bin"
   }
 ]
