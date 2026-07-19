@@ -45618,5 +45618,37 @@
     "Verified": true,
     "Date": "2026-07-17T01:40:51.527359",
     "Binary": "binaries/Chrono Cross/Sailing (Home World).bin"
+  },
+  {
+    "Game": "Castlevania: Rondo of Blood",
+    "Song": "Divine Bloodlines",
+    "Composers": "Akira Souji",
+    "Converters": "doicm",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors"
+    ],
+    "Duration": 93.93572018749998,
+    "Verified": true,
+    "Date": "2026-07-19T01:27:15.631905",
+    "Audio": "https://youtu.be/zNZAZrfiEis",
+    "Binary": "binaries/Castlevania Rondo of Blood/Divine Bloodlines.bin"
+  },
+  {
+    "Game": "Ace Attorney Investigations 2: Prosecutor's Gambit",
+    "Song": "Reminiscences ~ The Girl with No Memories",
+    "Composers": "Noriyuki Iwadare",
+    "Converters": "Kilvereis",
+    "Category": "bgm",
+    "Tags": [
+      "Lobbies and Shops",
+      "Interiors",
+      "Calm"
+    ],
+    "Duration": 85.92951295833333,
+    "Verified": true,
+    "Date": "2026-07-19T01:28:21.233584",
+    "Audio": "https://youtu.be/XDHp9WoSco4",
+    "Binary": "binaries/Ace Attorney Investigations 2 Prosecutors Gambit/Reminiscences ~ The Girl with No Memories.bin"
   }
 ]
