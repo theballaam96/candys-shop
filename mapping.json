@@ -45650,5 +45650,21 @@
     "Date": "2026-07-19T01:28:21.233584",
     "Audio": "https://youtu.be/XDHp9WoSco4",
     "Binary": "binaries/Ace Attorney Investigations 2 Prosecutors Gambit/Reminiscences ~ The Girl with No Memories.bin"
+  },
+  {
+    "Game": "Mystical Ninja Starring Goemon",
+    "Song": "Easy Victory - Get a Way",
+    "Composers": "Shigeru Araki, Yusuke Kato, Saiko Miki, Yasumasa Kitagawa",
+    "Converters": "doicm",
+    "Category": "majoritems",
+    "Tags": [
+      "Collection",
+      "Happy"
+    ],
+    "Duration": 5.199999999999999,
+    "Verified": true,
+    "Date": "2026-07-20T10:17:35.564585",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Mystical%20Ninja%20Starring%20Goemon/Easy%20Victory%20-%20Get%20a%20Way.mp3",
+    "Binary": "binaries/Mystical Ninja Starring Goemon/Easy Victory - Get a Way.bin"
   }
 ]
