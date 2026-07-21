@@ -45731,5 +45731,20 @@
     "Date": "2026-07-21T22:49:53.678718",
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Diddy%20Kong%20Racing/First.mp3",
     "Binary": "binaries/Diddy Kong Racing/First.bin"
+  },
+  {
+    "Game": "Mega Man 8",
+    "Song": "Astro Man",
+    "Composers": "Shusaku Uchiyama",
+    "Converters": "OnlySpaghettiCode",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors"
+    ],
+    "Duration": 85.97944035416666,
+    "Verified": true,
+    "Date": "2026-07-21T23:39:40.307297",
+    "Audio": "https://youtu.be/i7WGvk0Dqts",
+    "Binary": "binaries/Mega Man 8/Astro Man.bin"
   }
 ]
