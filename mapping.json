@@ -45684,5 +45684,52 @@
     "Date": "2026-07-21T00:07:15.352506",
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Toy%20Story/Level%20Complete.mp3",
     "Binary": "binaries/Toy Story/Level Complete.bin"
+  },
+  {
+    "Game": "Pokémon Black & White",
+    "Song": "Battle! (Legendary Pokémon)",
+    "Composers": "Junichi Masuda, Go Ichinose",
+    "Converters": "doicm",
+    "Category": "bgm",
+    "Tags": [
+      "Fights",
+      "Happy"
+    ],
+    "Duration": 102.50817860833332,
+    "Verified": true,
+    "Date": "2026-07-21T22:48:44.414397",
+    "Audio": "https://youtu.be/Mdo9k3pmWRM",
+    "Binary": "binaries/Pokémon Black  White/Battle (Legendary Pokémon).bin"
+  },
+  {
+    "Game": "Baldi's Basics Plus",
+    "Song": "Elevator",
+    "Composers": "Micah \"mystman12\" McGonigal",
+    "Converters": "mus_gezora",
+    "Category": "bgm",
+    "Audio": "https://youtu.be/S9ZM1nuIPOo",
+    "Tags": [
+      "Lobbies and Shops",
+      "Calm"
+    ],
+    "Duration": 40.0,
+    "Verified": true,
+    "Date": "2026-07-21T22:49:52.191053",
+    "Binary": "binaries/Baldis Basics Plus/Elevator.bin"
+  },
+  {
+    "Game": "Diddy Kong Racing",
+    "Song": "First!",
+    "Composers": "David Wise",
+    "Converters": "TheLupineOne",
+    "Category": "events",
+    "Tags": [
+      "Happy"
+    ],
+    "Duration": 3.7499999999999996,
+    "Verified": true,
+    "Date": "2026-07-21T22:49:53.678718",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Diddy%20Kong%20Racing/First.mp3",
+    "Binary": "binaries/Diddy Kong Racing/First.bin"
   }
 ]
