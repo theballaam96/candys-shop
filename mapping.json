@@ -45666,5 +45666,23 @@
     "Date": "2026-07-20T10:17:35.564585",
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Mystical%20Ninja%20Starring%20Goemon/Easy%20Victory%20-%20Get%20a%20Way.mp3",
     "Binary": "binaries/Mystical Ninja Starring Goemon/Easy Victory - Get a Way.bin"
+  },
+  {
+    "Game": "Toy Story",
+    "Song": "Level Complete",
+    "Composers": "Andy Blythe, Marten Joustra, Patrick J. Collins",
+    "Converters": "Purveyor of the Arcade",
+    "Category": "events",
+    "Additional Notes": "Used Sega Genesis version as a base, with minor elements from PC version.",
+    "Tags": [
+      "Spawning",
+      "Collection",
+      "Happy"
+    ],
+    "Duration": 5.1923025,
+    "Verified": true,
+    "Date": "2026-07-21T00:07:15.352506",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Toy%20Story/Level%20Complete.mp3",
+    "Binary": "binaries/Toy Story/Level Complete.bin"
   }
 ]
