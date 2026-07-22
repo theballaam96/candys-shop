@@ -45746,5 +45746,22 @@
     "Date": "2026-07-21T23:39:40.307297",
     "Audio": "https://youtu.be/i7WGvk0Dqts",
     "Binary": "binaries/Mega Man 8/Astro Man.bin"
+  },
+  {
+    "Game": "One Piece (GBA)",
+    "Song": "Mini-Boss Battle",
+    "Composers": "Atsuyoshi Isemura, Kenji Arai",
+    "Converters": "SirEnobMort",
+    "Category": "bgm",
+    "Audio": "https://youtu.be/2HpCGS3BTZs",
+    "Tags": [
+      "Fights",
+      "Happy"
+    ],
+    "Additional Notes": "The game title is simply \"One Piece\", though it is often referred to as \"One Piece (GBA)\" in order to differentiate this title from the title of the manga/anime.",
+    "Duration": 53.4,
+    "Verified": true,
+    "Date": "2026-07-22T00:12:03.434991",
+    "Binary": "binaries/One Piece (GBA)/Mini-Boss Battle.bin"
   }
 ]
