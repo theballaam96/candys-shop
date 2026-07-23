@@ -45763,5 +45763,21 @@
     "Verified": true,
     "Date": "2026-07-22T00:12:03.434991",
     "Binary": "binaries/One Piece (GBA)/Mini-Boss Battle.bin"
+  },
+  {
+    "Game": "Lufia II: Rise of the Sinistrals",
+    "Song": "Battle 2",
+    "Composers": "Yasunori Shiono",
+    "Converters": "doicm",
+    "Category": "bgm",
+    "Tags": [
+      "Fights",
+      "Happy"
+    ],
+    "Duration": 71.123728,
+    "Verified": true,
+    "Date": "2026-07-23T05:42:46.175120",
+    "Audio": "https://youtu.be/vMmVfYcH4YI",
+    "Binary": "binaries/Lufia II Rise of the Sinistrals/Battle 2.bin"
   }
 ]
