@@ -45779,5 +45779,56 @@
     "Date": "2026-07-23T05:42:46.175120",
     "Audio": "https://youtu.be/vMmVfYcH4YI",
     "Binary": "binaries/Lufia II Rise of the Sinistrals/Battle 2.bin"
+  },
+  {
+    "Game": "Pokémon Snap",
+    "Song": "Title",
+    "Composers": "Ikuko Mimori",
+    "Converters": "OnlySpaghettiCode",
+    "Category": "bgm",
+    "Tags": [
+      "Lobbies and Shops",
+      "Happy"
+    ],
+    "Duration": 19.294623562499996,
+    "Verified": true,
+    "Date": "2026-07-25T07:21:34.127445",
+    "Audio": "https://youtu.be/9mj53zDFovo",
+    "Binary": "binaries/Pokémon Snap/Title.bin"
+  },
+  {
+    "Game": "Trials of Mana",
+    "Song": "Powell",
+    "Composers": "Hiroki Kikuta",
+    "Converters": "doicm",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors",
+      "Calm"
+    ],
+    "Duration": 123.11999999999998,
+    "Verified": true,
+    "Date": "2026-07-25T07:21:54.437352",
+    "Audio": "https://youtu.be/O_GJScB2w1c",
+    "Binary": "binaries/Trials of Mana/Powell.bin"
+  },
+  {
+    "Game": "Space Station Silicon Valley",
+    "Song": "Penguin Playpen",
+    "Composers": "Stuart Ross",
+    "Converters": "TheLupineOne",
+    "Category": "bgm",
+    "Tags": [
+      "Interiors",
+      "Exteriors",
+      "Happy",
+      "Gloomy",
+      "Winter"
+    ],
+    "Duration": 164.33405379166666,
+    "Verified": true,
+    "Date": "2026-07-25T07:23:02.537385",
+    "Audio": "https://youtu.be/26OXEGYACOs",
+    "Binary": "binaries/Space Station Silicon Valley/Penguin Playpen.bin"
   }
 ]
