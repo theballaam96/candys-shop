@@ -45830,5 +45830,22 @@
     "Date": "2026-07-25T07:23:02.537385",
     "Audio": "https://youtu.be/26OXEGYACOs",
     "Binary": "binaries/Space Station Silicon Valley/Penguin Playpen.bin"
+  },
+  {
+    "Game": "Super Smash Bros.",
+    "Song": "Stage Clear",
+    "Composers": "Hirokazu Ando",
+    "Converters": "SirEnobMort",
+    "Category": "majoritems",
+    "Update Notes": "Lowered max number of voices to prevent audio issues during gameplay.",
+    "Tags": [
+      "Collection",
+      "Happy"
+    ],
+    "Duration": 3.6227560312500002,
+    "Verified": true,
+    "Date": "2026-07-26T11:16:25.376681",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Super%20Smash%20Bros/Stage%20Clear%20(REV%201).mp3",
+    "Binary": "binaries/Super Smash Bros/Stage Clear (REV 1).bin"
   }
 ]
