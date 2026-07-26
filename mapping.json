@@ -45847,5 +45847,22 @@
     "Date": "2026-07-26T11:16:25.376681",
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Super%20Smash%20Bros/Stage%20Clear%20(REV%201).mp3",
     "Binary": "binaries/Super Smash Bros/Stage Clear (REV 1).bin"
+  },
+  {
+    "Game": "Hades",
+    "Song": "Good Riddance (Eurydice Solo)",
+    "Composers": "Darren Korb",
+    "Converters": "2dos",
+    "Category": "bgm",
+    "Audio": "https://www.youtube.com/watch?v=CLHoKST66YQ",
+    "Tags": [
+      "Interiors",
+      "Exteriors",
+      "Calm"
+    ],
+    "Duration": 124.736892,
+    "Verified": true,
+    "Date": "2026-07-26T11:19:44.441070",
+    "Binary": "binaries/Hades/Good Riddance (Eurydice Solo).bin"
   }
 ]
