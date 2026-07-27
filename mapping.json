@@ -45864,5 +45864,23 @@
     "Verified": true,
     "Date": "2026-07-26T11:19:44.441070",
     "Binary": "binaries/Hades/Good Riddance (Eurydice Solo).bin"
+  },
+  {
+    "Game": "Trials of Mana",
+    "Song": "Another Winter",
+    "Composers": "Hiroki Kikuta",
+    "Converters": "doicm",
+    "Category": "bgm",
+    "Tags": [
+      "Interiors",
+      "Exteriors",
+      "Calm",
+      "Winter"
+    ],
+    "Duration": 136.224,
+    "Verified": true,
+    "Date": "2026-07-27T05:22:16.777309",
+    "Audio": "https://youtu.be/RQnaum3WkQ4",
+    "Binary": "binaries/Trials of Mana/Another Winter.bin"
   }
 ]
