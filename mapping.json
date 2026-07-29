@@ -45882,5 +45882,55 @@
     "Date": "2026-07-27T05:22:16.777309",
     "Audio": "https://youtu.be/RQnaum3WkQ4",
     "Binary": "binaries/Trials of Mana/Another Winter.bin"
+  },
+  {
+    "Game": "Club Penguin: Elite Penguin Force",
+    "Song": "Gadget Room",
+    "Composers": "Bart Roijmans",
+    "Converters": "gloomy",
+    "Category": "bgm",
+    "Audio": "https://youtu.be/rY_gCYMHi5I",
+    "Tags": [
+      "Lobbies and Shops",
+      "Interiors",
+      "Calm"
+    ],
+    "Duration": 40.0,
+    "Verified": true,
+    "Date": "2026-07-29T07:21:44.109354",
+    "Binary": "binaries/Club Penguin Elite Penguin Force/Gadget Room.bin"
+  },
+  {
+    "Game": "Mega Man ZX Advent",
+    "Song": "Wonder Panorama",
+    "Composers": "Ippo Yamada, Masaki Suzuki, Ryo Kawakami",
+    "Converters": "Mamgar",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors",
+      "Happy",
+      "Winter"
+    ],
+    "Duration": 94.48,
+    "Verified": true,
+    "Date": "2026-07-29T07:22:20.948380",
+    "Audio": "https://youtu.be/mHdmqQyLjBY",
+    "Binary": "binaries/Mega Man ZX Advent/Wonder Panorama.bin"
+  },
+  {
+    "Game": "Xenoblade Chronicles",
+    "Song": "Frontier Village",
+    "Composers": "Manami Kiyota",
+    "Converters": "Kilvereis",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors",
+      "Calm"
+    ],
+    "Duration": 164.347596,
+    "Verified": true,
+    "Date": "2026-07-29T07:23:27.153089",
+    "Audio": "https://youtu.be/t5xqXk74yVs",
+    "Binary": "binaries/Xenoblade Chronicles/Frontier Village.bin"
   }
 ]
