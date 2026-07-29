@@ -45932,5 +45932,21 @@
     "Date": "2026-07-29T07:23:27.153089",
     "Audio": "https://youtu.be/t5xqXk74yVs",
     "Binary": "binaries/Xenoblade Chronicles/Frontier Village.bin"
+  },
+  {
+    "Game": "Final Fantasy",
+    "Song": "Overworld (Origins)",
+    "Category": "bgm",
+    "Composers": "Nobuo Uematsu",
+    "Converters": "Happy Heart",
+    "Tags": [
+      "Exteriors",
+      "Happy"
+    ],
+    "Duration": 71.64175999999999,
+    "Verified": true,
+    "Date": "2026-07-29T07:59:33.231211",
+    "Audio": "https://youtu.be/Mql31o5eJBs",
+    "Binary": "binaries/Final Fantasy/Overworld (Origins).bin"
   }
 ]
