@@ -140,6 +140,9 @@
    "Castlevania: Dawn of Sorrow":{
       "icon":"https://i.imgur.com/8nplboG.png"
    },
+   "Castlevania: Order of Ecclesia":{
+      "icon":"https://i.imgur.com/DnafyFL.png"
+   },
    "Castlevania: Rondo of Blood":{
       "icon":"https://i.imgur.com/zUFxmMf.png"
    },
@@ -392,6 +395,10 @@
    "Five Nights at Freddy's: Sister Location":{
       "icon":"https://i.imgur.com/NDvPUvY.png",
       "short_name": "Sister Location"
+   },
+   "Flashback: The Quest for Identity":{
+      "icon":"https://i.imgur.com/Bvt2wxL.png",
+      "short_name": "Flashback"
    },
    "Fortnite":{
       "icon":"https://i.imgur.com/Iykz53s.png"
