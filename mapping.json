@@ -45948,5 +45948,124 @@
     "Date": "2026-07-29T07:59:33.231211",
     "Audio": "https://youtu.be/Mql31o5eJBs",
     "Binary": "binaries/Final Fantasy/Overworld (Origins).bin"
+  },
+  {
+    "Game": "The Legend of Zelda: The Wind Waker",
+    "Song": "Enemy Battle",
+    "Composers": "Kenta Nagata, Hajime Wakai, Toru Minegishi, Koji Kondo",
+    "Converters": "Happy Heart",
+    "Category": "bgm",
+    "Tags": [
+      "Fights"
+    ],
+    "Duration": 76.78333333333333,
+    "Verified": true,
+    "Date": "2026-08-03T02:35:47.089974",
+    "Audio": "https://youtu.be/BJCSvC1vbj8",
+    "Binary": "binaries/The Legend of Zelda The Wind Waker/Enemy Battle.bin"
+  },
+  {
+    "Game": "Suikoden",
+    "Song": "Confrontation with Monsters",
+    "Composers": "Miki Higashino",
+    "Converters": "Happy Heart",
+    "Category": "bgm",
+    "Tags": [
+      "Fights",
+      "Happy"
+    ],
+    "Duration": 60.512906,
+    "Verified": true,
+    "Date": "2026-08-03T02:36:44.674518",
+    "Audio": "https://youtu.be/ALvDG4wKdXg",
+    "Binary": "binaries/Suikoden/Confrontation with Monsters.bin"
+  },
+  {
+    "Game": "Castlevania: Order of Ecclesia",
+    "Song": "An Empty Tome",
+    "Composers": "Michiru Yamane",
+    "Converters": "doicm",
+    "Category": "bgm",
+    "Tags": [
+      "Interiors",
+      "Exteriors",
+      "Happy",
+      "Spooky"
+    ],
+    "Duration": 105.6,
+    "Verified": true,
+    "Date": "2026-08-03T02:37:34.087508",
+    "Audio": "https://youtu.be/6NPa3HovTtM",
+    "Binary": "binaries/Castlevania Order of Ecclesia/An Empty Tome.bin"
+  },
+  {
+    "Game": "Flashback: The Quest for Identity",
+    "Song": "Diary",
+    "Composers": "Jean Baudlot, Fabrice Visserot",
+    "Converters": "Purveyor of the Arcade",
+    "Category": "bgm",
+    "Additional Notes": "MIDI sourced from 2018 Unity rerelease with modifications by me. The file is \"journal.mid\" but \"Diary\" seems to be the accepted title.",
+    "Tags": [
+      "Lobbies and Shops",
+      "Interiors",
+      "Gloomy"
+    ],
+    "Duration": 90.352896,
+    "Verified": true,
+    "Date": "2026-08-03T02:38:44.649408",
+    "Audio": "https://youtu.be/y-Cr1xZwcRo",
+    "Binary": "binaries/Flashback The Quest for Identity/Diary.bin"
+  },
+  {
+    "Game": "Flashback: The Quest for Identity",
+    "Song": "Item Fanfare",
+    "Composers": "Jean Baudlot, Fabrice Visserot",
+    "Converters": "Purveyor of the Arcade",
+    "Category": "majoritems",
+    "Additional Notes": "MIDI sourced from 2018 Unity remake with adjustments by me.",
+    "Tags": [
+      "Spawning",
+      "Collection",
+      "Happy"
+    ],
+    "Duration": 2.2232120624999996,
+    "Verified": true,
+    "Date": "2026-08-03T02:39:51.505635",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Flashback%20The%20Quest%20for%20Identity/Item%20Fanfare.mp3",
+    "Binary": "binaries/Flashback The Quest for Identity/Item Fanfare.bin"
+  },
+  {
+    "Game": "Kirby's Adventure",
+    "Song": "Rainbow Resort",
+    "Composers": "Hirokazu Ando",
+    "Converters": "Kilvereis",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors",
+      "Calm",
+      "Winter"
+    ],
+    "Duration": 80.1219165,
+    "Verified": true,
+    "Date": "2026-08-03T02:39:53.437151",
+    "Audio": "https://youtu.be/yWz9biJ_wHk",
+    "Binary": "binaries/Kirbys Adventure/Rainbow Resort.bin"
+  },
+  {
+    "Game": "Mega Man Zero 3",
+    "Song": "Trail on Powdery Snow",
+    "Composers": "Ippo Yamada",
+    "Converters": "doicm",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors",
+      "Happy",
+      "Winter"
+    ],
+    "Duration": 102.8672,
+    "Verified": true,
+    "Date": "2026-08-03T02:40:28.714028",
+    "Audio": "https://youtu.be/Evpi-iwRMzg",
+    "Binary": "binaries/Mega Man Zero 3/Trail on Powdery Snow.bin"
   }
 ]
