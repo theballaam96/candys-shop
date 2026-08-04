@@ -46113,5 +46113,21 @@
     "Date": "2026-08-04T04:07:22.626189",
     "Audio": "https://youtu.be/3b3efDs78HE",
     "Binary": "binaries/Octopath Traveler II/Partitio the Merchant.bin"
+  },
+  {
+    "Game": "Final Fantasy VIII",
+    "Song": "Ride On",
+    "Composers": "Nobuo Uematsu",
+    "Converters": "OnlySpaghettiCode",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors",
+      "Happy"
+    ],
+    "Duration": 90.86598056249998,
+    "Verified": true,
+    "Date": "2026-08-04T13:24:55.486177",
+    "Audio": "https://youtu.be/bQROGQCw2Bk",
+    "Binary": "binaries/Final Fantasy VIII/Ride On.bin"
   }
 ]
