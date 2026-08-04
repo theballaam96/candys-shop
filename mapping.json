@@ -46097,5 +46097,21 @@
     "Date": "2026-08-04T04:00:23.623978",
     "Audio": "https://youtu.be/_q4jaicGUjw",
     "Binary": "binaries/Mario  Luigi Partners in Time/Koopaseum.bin"
+  },
+  {
+    "Game": "Octopath Traveler II",
+    "Song": "Partitio the Merchant",
+    "Composers": "Yasunori Nishiki",
+    "Converters": "cdh90",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors",
+      "Happy"
+    ],
+    "Duration": 102.86090423958333,
+    "Verified": true,
+    "Date": "2026-08-04T04:07:22.626189",
+    "Audio": "https://youtu.be/3b3efDs78HE",
+    "Binary": "binaries/Octopath Traveler II/Partitio the Merchant.bin"
   }
 ]
