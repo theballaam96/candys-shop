@@ -46146,5 +46146,22 @@
     "Date": "2026-08-04T13:28:07.980260",
     "Audio": "https://youtu.be/G5LkIMkgKas",
     "Binary": "binaries/Kingdom Hearts II/What Lies Beneath.bin"
+  },
+  {
+    "Game": "SaGa Frontier",
+    "Song": "T260G's Last Battle",
+    "Composers": "Kenji Ito",
+    "Converters": "doicm",
+    "Category": "bgm",
+    "Additional Notes": "Shortened version, since the full version is too big for DK64.",
+    "Tags": [
+      "Fights",
+      "Gloomy"
+    ],
+    "Duration": 96.08598400000001,
+    "Verified": true,
+    "Date": "2026-08-04T17:43:30.689342",
+    "Audio": "https://youtu.be/FmhQHyrFpf0",
+    "Binary": "binaries/SaGa Frontier/T260Gs Last Battle.bin"
   }
 ]
