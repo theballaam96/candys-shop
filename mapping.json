@@ -46082,5 +46082,20 @@
     "Date": "2026-08-04T03:58:39.447231",
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Mega%20Man%20X/Stage%20Clear.mp3",
     "Binary": "binaries/Mega Man X/Stage Clear.bin"
+  },
+  {
+    "Game": "Mario & Luigi: Partners in Time",
+    "Song": "Koopaseum",
+    "Composers": "Yoko Shimomura",
+    "Converters": "Kilvereis",
+    "Category": "bgm",
+    "Tags": [
+      "Interiors"
+    ],
+    "Duration": 49.503918750000004,
+    "Verified": true,
+    "Date": "2026-08-04T04:00:23.623978",
+    "Audio": "https://youtu.be/_q4jaicGUjw",
+    "Binary": "binaries/Mario  Luigi Partners in Time/Koopaseum.bin"
   }
 ]
