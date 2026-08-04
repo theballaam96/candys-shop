@@ -46129,5 +46129,22 @@
     "Date": "2026-08-04T13:24:55.486177",
     "Audio": "https://youtu.be/bQROGQCw2Bk",
     "Binary": "binaries/Final Fantasy VIII/Ride On.bin"
+  },
+  {
+    "Game": "Kingdom Hearts II",
+    "Song": "What Lies Beneath",
+    "Composers": "Yoko Shimomura",
+    "Converters": "OnlySpaghettiCode",
+    "Category": "bgm",
+    "Tags": [
+      "Interiors",
+      "Minigames",
+      "Gloomy"
+    ],
+    "Duration": 75.0078125,
+    "Verified": true,
+    "Date": "2026-08-04T13:28:07.980260",
+    "Audio": "https://youtu.be/G5LkIMkgKas",
+    "Binary": "binaries/Kingdom Hearts II/What Lies Beneath.bin"
   }
 ]
