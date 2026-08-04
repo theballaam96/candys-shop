@@ -46067,5 +46067,20 @@
     "Date": "2026-08-03T02:40:28.714028",
     "Audio": "https://youtu.be/Evpi-iwRMzg",
     "Binary": "binaries/Mega Man Zero 3/Trail on Powdery Snow.bin"
+  },
+  {
+    "Game": "Mega Man X",
+    "Song": "Stage Clear",
+    "Composers": "Setsuo Yamamoto",
+    "Converters": "cdh90",
+    "Category": "events",
+    "Tags": [
+      "Happy"
+    ],
+    "Duration": 7.204163666666667,
+    "Verified": true,
+    "Date": "2026-08-04T03:58:39.447231",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Mega%20Man%20X/Stage%20Clear.mp3",
+    "Binary": "binaries/Mega Man X/Stage Clear.bin"
   }
 ]
