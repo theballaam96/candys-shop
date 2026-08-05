@@ -46215,5 +46215,22 @@
     "Verified": true,
     "Date": "2026-08-05T12:01:03.877400",
     "Binary": "binaries/Pokémon Stadium 2/Egg Emergency (REV 2).bin"
+  },
+  {
+    "Game": "Professor Layton and the Curious Village",
+    "Song": "Puzzles",
+    "Composers": "Tomohito Nishiura",
+    "Converters": "Kilvereis",
+    "Category": "bgm",
+    "Tags": [
+      "Interiors",
+      "Gloomy",
+      "Calm"
+    ],
+    "Duration": 49.0,
+    "Verified": true,
+    "Date": "2026-08-05T12:03:15.256747",
+    "Audio": "https://youtu.be/0-knpfzpkWU",
+    "Binary": "binaries/Professor Layton and the Curious Village/Puzzles.bin"
   }
 ]
