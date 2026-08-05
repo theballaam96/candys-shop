@@ -46232,5 +46232,21 @@
     "Date": "2026-08-05T12:03:15.256747",
     "Audio": "https://youtu.be/0-knpfzpkWU",
     "Binary": "binaries/Professor Layton and the Curious Village/Puzzles.bin"
+  },
+  {
+    "Game": "Professor Layton and the Curious Village",
+    "Song": "The Veil of Night",
+    "Composers": "Tomohito Nishiura",
+    "Converters": "Kilvereis",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors",
+      "Calm"
+    ],
+    "Duration": 207.15269491666666,
+    "Verified": true,
+    "Date": "2026-08-05T12:14:58.622459",
+    "Audio": "https://youtu.be/CtdOyjfKd04",
+    "Binary": "binaries/Professor Layton and the Curious Village/The Veil of Night.bin"
   }
 ]
