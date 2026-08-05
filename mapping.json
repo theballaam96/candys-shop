@@ -46163,5 +46163,22 @@
     "Date": "2026-08-04T17:43:30.689342",
     "Audio": "https://youtu.be/FmhQHyrFpf0",
     "Binary": "binaries/SaGa Frontier/T260Gs Last Battle.bin"
+  },
+  {
+    "Game": "Yoshi's Story",
+    "Song": "Yoshi's Story",
+    "Composers": "Kazumi Totaka",
+    "Converters": "SirEnobMort",
+    "Category": "bgm",
+    "Audio": "https://youtu.be/pRn3jkRYHi8",
+    "Update Notes": "Added new instruments to better match original song, gave monkeys vocal lessons, created YouTube video.",
+    "Tags": [
+      "Lobbies and Shops",
+      "Happy"
+    ],
+    "Duration": 37.07318,
+    "Verified": true,
+    "Date": "2026-08-05T11:55:58.872704",
+    "Binary": "binaries/Yoshis Story/Yoshis Story (REV 1).bin"
   }
 ]
