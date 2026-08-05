@@ -46180,5 +46180,23 @@
     "Verified": true,
     "Date": "2026-08-05T11:55:58.872704",
     "Binary": "binaries/Yoshis Story/Yoshis Story (REV 1).bin"
+  },
+  {
+    "Game": "Mario Party",
+    "Song": "Option House Theme",
+    "Composers": "Yasunori Mitsuda",
+    "Converters": "SirEnobMort",
+    "Category": "bgm",
+    "Audio": "https://youtu.be/byuVK2pg8xY",
+    "Update Notes": "Removed extraneous events, added new \"sax\", new YouTube video, Banana Fairy laughs at you again🧚",
+    "Tags": [
+      "Lobbies and Shops",
+      "Gloomy",
+      "Calm"
+    ],
+    "Duration": 26.652791104166667,
+    "Verified": true,
+    "Date": "2026-08-05T11:58:47.116918",
+    "Binary": "binaries/Mario Party/Option House Theme (REV 2).bin"
   }
 ]
