@@ -46198,5 +46198,22 @@
     "Verified": true,
     "Date": "2026-08-05T11:58:47.116918",
     "Binary": "binaries/Mario Party/Option House Theme (REV 2).bin"
+  },
+  {
+    "Game": "Pokémon Stadium 2",
+    "Song": "Egg Emergency",
+    "Composers": "Hajime Wakai",
+    "Converters": "SirEnobMort",
+    "Category": "bgm",
+    "Audio": "https://youtu.be/KoKuteVjG7M",
+    "Update Notes": "Added some reverb, adjusted volume and panning, new YT video",
+    "Tags": [
+      "Minigames",
+      "Happy"
+    ],
+    "Duration": 23.606544,
+    "Verified": true,
+    "Date": "2026-08-05T12:01:03.877400",
+    "Binary": "binaries/Pokémon Stadium 2/Egg Emergency (REV 2).bin"
   }
 ]
