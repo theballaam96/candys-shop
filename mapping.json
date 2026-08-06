@@ -46248,5 +46248,21 @@
     "Date": "2026-08-05T12:14:58.622459",
     "Audio": "https://youtu.be/CtdOyjfKd04",
     "Binary": "binaries/Professor Layton and the Curious Village/The Veil of Night.bin"
+  },
+  {
+    "Game": "Kingdom Hearts",
+    "Song": "Shrouding Dark Cloud",
+    "Composers": "Yoko Shimomura",
+    "Converters": "OnlySpaghettiCode",
+    "Category": "bgm",
+    "Tags": [
+      "Fights",
+      "Gloomy"
+    ],
+    "Duration": 64.96334193749999,
+    "Verified": true,
+    "Date": "2026-08-06T17:12:18.643444",
+    "Audio": "https://youtu.be/pNUOiF-yyBQ",
+    "Binary": "binaries/Kingdom Hearts/Shrouding Dark Cloud.bin"
   }
 ]
