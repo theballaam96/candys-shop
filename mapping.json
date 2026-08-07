@@ -46264,5 +46264,21 @@
     "Date": "2026-08-06T17:12:18.643444",
     "Audio": "https://youtu.be/pNUOiF-yyBQ",
     "Binary": "binaries/Kingdom Hearts/Shrouding Dark Cloud.bin"
+  },
+  {
+    "Game": "Mario Party 7",
+    "Song": "Park It",
+    "Composers": "Hironobu Yahata, Shinya Outouge",
+    "Converters": "LBFrank",
+    "Category": "bgm",
+    "Audio": "https://youtu.be/OFogePO23KE",
+    "Tags": [
+      "Exteriors",
+      "Happy"
+    ],
+    "Duration": 44.605281,
+    "Verified": true,
+    "Date": "2026-08-07T11:27:22.609531",
+    "Binary": "binaries/Mario Party 7/Park It.bin"
   }
 ]
