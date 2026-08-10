@@ -46296,5 +46296,23 @@
     "Date": "2026-08-10T15:32:03.000857",
     "Audio": "https://youtu.be/qU1lmp0ihyE",
     "Binary": "binaries/Metroid Prime Pinball/Phendrana Drifts.bin"
+  },
+  {
+    "Game": "Undertale",
+    "Song": "CORE",
+    "Composers": "Toby Fox",
+    "Converters": "Barrels O' Fun",
+    "Category": "bgm",
+    "Tags": [
+      "Interiors",
+      "Exteriors",
+      "Happy",
+      "stream-unsafe"
+    ],
+    "Duration": 174.856968,
+    "Verified": true,
+    "Date": "2026-08-10T15:52:58.275493",
+    "Audio": "https://youtu.be/Ae0TLyxCSwc",
+    "Binary": "binaries/Undertale/CORE.bin"
   }
 ]
