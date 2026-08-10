@@ -46280,5 +46280,21 @@
     "Verified": true,
     "Date": "2026-08-07T11:27:22.609531",
     "Binary": "binaries/Mario Party 7/Park It.bin"
+  },
+  {
+    "Game": "Metroid Prime Pinball",
+    "Song": "Phendrana Drifts",
+    "Composers": "Kenji Yamamoto, Masaru Tajima",
+    "Converters": "Kilvereis",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors",
+      "Calm"
+    ],
+    "Duration": 65.60416666666666,
+    "Verified": true,
+    "Date": "2026-08-10T15:32:03.000857",
+    "Audio": "https://youtu.be/qU1lmp0ihyE",
+    "Binary": "binaries/Metroid Prime Pinball/Phendrana Drifts.bin"
   }
 ]
