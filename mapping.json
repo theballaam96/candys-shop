@@ -46330,5 +46330,21 @@
     "Date": "2026-08-12T10:20:14.906249",
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Other/Capcom%20Logo%20Startup%20(early%2090s).mp3",
     "Binary": "binaries/Other/Capcom Logo Startup (early 90s).bin"
+  },
+  {
+    "Game": "Pokémon Legends: Z-A",
+    "Song": "Hotel Z",
+    "Composers": "Shota Kageyama",
+    "Converters": "doicm",
+    "Category": "bgm",
+    "Tags": [
+      "Lobbies and Shops",
+      "Calm"
+    ],
+    "Duration": 83.65398,
+    "Verified": true,
+    "Date": "2026-08-12T10:23:00.318445",
+    "Audio": "https://youtu.be/ngDbDU0k7ok",
+    "Binary": "binaries/Pokémon Legends Z-A/Hotel Z.bin"
   }
 ]
