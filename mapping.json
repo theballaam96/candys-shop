@@ -46314,5 +46314,21 @@
     "Date": "2026-08-10T15:52:58.275493",
     "Audio": "https://youtu.be/Ae0TLyxCSwc",
     "Binary": "binaries/Undertale/CORE.bin"
+  },
+  {
+    "Game": "Other",
+    "Song": "Capcom Logo Startup (early 90's)",
+    "Composers": "Yasuaki Fujita",
+    "Converters": "TheLupineOne",
+    "Category": "events",
+    "Tags": [
+      "Spawning",
+      "Calm"
+    ],
+    "Duration": 4.361071833333334,
+    "Verified": true,
+    "Date": "2026-08-12T10:20:14.906249",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Other/Capcom%20Logo%20Startup%20(early%2090s).mp3",
+    "Binary": "binaries/Other/Capcom Logo Startup (early 90s).bin"
   }
 ]
