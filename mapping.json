@@ -46346,5 +46346,21 @@
     "Date": "2026-08-12T10:23:00.318445",
     "Audio": "https://youtu.be/ngDbDU0k7ok",
     "Binary": "binaries/Pokémon Legends Z-A/Hotel Z.bin"
+  },
+  {
+    "Game": "Tetris Attack",
+    "Song": "Glacial Stage",
+    "Composers": "Masaya Kuzume",
+    "Converters": "doicm",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors",
+      "Winter"
+    ],
+    "Duration": 80.047494,
+    "Verified": true,
+    "Date": "2026-08-13T19:20:21.295336",
+    "Audio": "https://youtu.be/wC7rExHsLww",
+    "Binary": "binaries/Tetris Attack/Glacial Stage.bin"
   }
 ]
