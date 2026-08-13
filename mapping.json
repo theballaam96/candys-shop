@@ -46362,5 +46362,21 @@
     "Date": "2026-08-13T19:20:21.295336",
     "Audio": "https://youtu.be/wC7rExHsLww",
     "Binary": "binaries/Tetris Attack/Glacial Stage.bin"
+  },
+  {
+    "Game": "Drone Tactics",
+    "Song": "Intense Battle in a Mechanized Land",
+    "Composers": "Motoi Sakuraba",
+    "Converters": "Mamgar",
+    "Category": "bgm",
+    "Tags": [
+      "Fights",
+      "Minigames"
+    ],
+    "Duration": 94.08333333333333,
+    "Verified": true,
+    "Date": "2026-08-13T22:30:06.198370",
+    "Audio": "https://youtu.be/lWyzhqzw-DY",
+    "Binary": "binaries/Drone Tactics/Intense Battle in a Mechanized Land.bin"
   }
 ]
