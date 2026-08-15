@@ -46378,5 +46378,21 @@
     "Date": "2026-08-13T22:30:06.198370",
     "Audio": "https://youtu.be/lWyzhqzw-DY",
     "Binary": "binaries/Drone Tactics/Intense Battle in a Mechanized Land.bin"
+  },
+  {
+    "Game": "Rune Factory 2: A Fantasy Harvest Moon",
+    "Song": "Padova Mountain",
+    "Composers": "Tomoko Morita",
+    "Converters": "doicm",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors",
+      "Calm"
+    ],
+    "Duration": 97.64036399999999,
+    "Verified": true,
+    "Date": "2026-08-15T16:36:44.454095",
+    "Audio": "https://youtu.be/guaeQLF37Y4",
+    "Binary": "binaries/Rune Factory 2 A Fantasy Harvest Moon/Padova Mountain.bin"
   }
 ]
