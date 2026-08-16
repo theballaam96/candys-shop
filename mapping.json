@@ -46427,5 +46427,21 @@
     "Verified": true,
     "Date": "2026-08-16T12:02:33.538325",
     "Binary": "binaries/GoldenEye 007/Statue (REV 1).bin"
+  },
+  {
+    "Game": "Balatro",
+    "Song": "Main Theme",
+    "Composers": "Luis Clemente",
+    "Converters": "Kilvereis",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors",
+      "Calm"
+    ],
+    "Duration": 241.38908199999997,
+    "Verified": true,
+    "Date": "2026-08-16T12:04:39.410451",
+    "Audio": "https://youtu.be/Nn2CEF5jRIE",
+    "Binary": "binaries/Balatro/Main Theme.bin"
   }
 ]
