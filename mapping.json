@@ -46410,5 +46410,22 @@
     "Date": "2026-08-16T11:57:49.922441",
     "Audio": "https://youtu.be/_Nq8qjsagKc",
     "Binary": "binaries/Tetris Attack/Blaze Stage (Critical).bin"
+  },
+  {
+    "Game": "GoldenEye 007",
+    "Song": "Statue",
+    "Composers": "Grant Kirkhope",
+    "Converters": "LBFrank",
+    "Category": "bgm",
+    "Audio": "https://youtu.be/GS_iUO3Gvbg",
+    "Update Notes": "Updated orchestra hit, more marimba, and other adjustments to make it sound more similar to the original",
+    "Tags": [
+      "Interiors",
+      "Gloomy"
+    ],
+    "Duration": 102.84037625,
+    "Verified": true,
+    "Date": "2026-08-16T12:02:33.538325",
+    "Binary": "binaries/GoldenEye 007/Statue (REV 1).bin"
   }
 ]
