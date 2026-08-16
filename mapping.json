@@ -46394,5 +46394,21 @@
     "Date": "2026-08-15T16:36:44.454095",
     "Audio": "https://youtu.be/guaeQLF37Y4",
     "Binary": "binaries/Rune Factory 2 A Fantasy Harvest Moon/Padova Mountain.bin"
+  },
+  {
+    "Game": "Tetris Attack",
+    "Song": "Blaze Stage (Critical)",
+    "Composers": "Masaya Kuzume",
+    "Converters": "doicm",
+    "Category": "bgm",
+    "Tags": [
+      "Minigames",
+      "Happy"
+    ],
+    "Duration": 40.32985599999999,
+    "Verified": true,
+    "Date": "2026-08-16T11:57:49.922441",
+    "Audio": "https://youtu.be/_Nq8qjsagKc",
+    "Binary": "binaries/Tetris Attack/Blaze Stage (Critical).bin"
   }
 ]
