@@ -46443,5 +46443,21 @@
     "Date": "2026-08-16T12:04:39.410451",
     "Audio": "https://youtu.be/Nn2CEF5jRIE",
     "Binary": "binaries/Balatro/Main Theme.bin"
+  },
+  {
+    "Game": "Club Penguin: Elite Penguin Force",
+    "Song": "Snow Trekker",
+    "Composers": "Bart Roijmans",
+    "Converters": "gloomy",
+    "Category": "bgm",
+    "Audio": "https://www.youtube.com/watch?v=LiCl0uk8TfA",
+    "Tags": [
+      "Minigames",
+      "Happy"
+    ],
+    "Duration": 34.666632,
+    "Verified": true,
+    "Date": "2026-08-16T17:19:00.465803",
+    "Binary": "binaries/Club Penguin Elite Penguin Force/Snow Trekker.bin"
   }
 ]
