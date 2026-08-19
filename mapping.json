@@ -46475,5 +46475,21 @@
     "Date": "2026-08-18T18:25:27.134192",
     "Audio": "https://youtu.be/697aYxAMeOg",
     "Binary": "binaries/Kirbys Dream Land 3/Sand Canyon 1.bin"
+  },
+  {
+    "Game": "Mario Party 3",
+    "Song": "Nice and Easy",
+    "Composers": "Ichiro Shimakura",
+    "Converters": "Altermentality",
+    "Category": "bgm",
+    "Audio": "https://youtu.be/AZtJ8P7y_1w",
+    "Tags": [
+      "Minigames",
+      "Happy"
+    ],
+    "Duration": 43.576713281249994,
+    "Verified": true,
+    "Date": "2026-08-19T20:40:07.410444",
+    "Binary": "binaries/Mario Party 3/Nice and Easy.bin"
   }
 ]
