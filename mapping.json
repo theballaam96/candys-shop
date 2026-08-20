@@ -46491,5 +46491,20 @@
     "Verified": true,
     "Date": "2026-08-19T20:40:07.410444",
     "Binary": "binaries/Mario Party 3/Nice and Easy.bin"
+  },
+  {
+    "Game": "Mother 3",
+    "Song": "Open Sesame!",
+    "Composers": "Shogo Sakai",
+    "Converters": "doicm",
+    "Category": "events",
+    "Tags": [
+      "Happy"
+    ],
+    "Duration": 12.792557916666667,
+    "Verified": true,
+    "Date": "2026-08-20T22:08:02.320069",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Mother%203/Open%20Sesame.mp3",
+    "Binary": "binaries/Mother 3/Open Sesame.bin"
   }
 ]
