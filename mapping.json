@@ -46521,5 +46521,21 @@
     "Date": "2026-08-22T10:12:49.792984",
     "Audio": "https://youtu.be/Hll9lvDKMZs",
     "Binary": "binaries/Knights of the Round/Expedition.bin"
+  },
+  {
+    "Game": "Bubble Bobble",
+    "Song": "Main Theme (No Intro)",
+    "Composers": "Tadashi Kimijima",
+    "Converters": "Kilvereis",
+    "Category": "bgm",
+    "Tags": [
+      "Minigames",
+      "Happy"
+    ],
+    "Duration": 44.538417,
+    "Verified": true,
+    "Date": "2026-08-22T10:17:36.455463",
+    "Audio": "https://youtu.be/4f8m3-_KLVk",
+    "Binary": "binaries/Bubble Bobble/Main Theme (No Intro).bin"
   }
 ]
