@@ -46506,5 +46506,20 @@
     "Date": "2026-08-20T22:08:02.320069",
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Mother%203/Open%20Sesame.mp3",
     "Binary": "binaries/Mother 3/Open Sesame.bin"
+  },
+  {
+    "Game": "Knights of the Round",
+    "Song": "Expedition",
+    "Composers": "Isao Abe",
+    "Converters": "Happy Heart",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors"
+    ],
+    "Duration": 53.0432,
+    "Verified": true,
+    "Date": "2026-08-22T10:12:49.792984",
+    "Audio": "https://youtu.be/Hll9lvDKMZs",
+    "Binary": "binaries/Knights of the Round/Expedition.bin"
   }
 ]
