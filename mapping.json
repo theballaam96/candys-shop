@@ -46569,5 +46569,22 @@
     "Date": "2026-08-26T02:34:42.588716",
     "Audio": "https://youtu.be/aaPJHqAcKwg",
     "Binary": "binaries/Hollow Knight Silksong/Lost Verdania.bin"
+  },
+  {
+    "Game": "The Legend of Zelda: Oracle of Seasons and Ages",
+    "Song": "Ancient Tomb",
+    "Composers": "Kyopi, Minako Adachi",
+    "Converters": "Kilvereis",
+    "Category": "bgm",
+    "Tags": [
+      "Interiors",
+      "Gloomy",
+      "Spooky"
+    ],
+    "Duration": 25.5,
+    "Verified": true,
+    "Date": "2026-08-26T11:16:17.733486",
+    "Audio": "https://youtu.be/FbZJTzx6Ebs",
+    "Binary": "binaries/The Legend of Zelda Oracle of Seasons and Ages/Ancient Tomb.bin"
   }
 ]
