@@ -46537,5 +46537,21 @@
     "Date": "2026-08-22T10:17:36.455463",
     "Audio": "https://youtu.be/4f8m3-_KLVk",
     "Binary": "binaries/Bubble Bobble/Main Theme (No Intro).bin"
+  },
+  {
+    "Game": "Kirby: Squeak Squad",
+    "Song": "Squeak Squad Theme",
+    "Composers": "Jun Ishikawa",
+    "Converters": "doicm",
+    "Category": "bgm",
+    "Tags": [
+      "Minigames",
+      "Happy"
+    ],
+    "Duration": 87.03287999999999,
+    "Verified": true,
+    "Date": "2026-08-26T02:28:56.901110",
+    "Audio": "https://youtu.be/mBKcg94Grrs",
+    "Binary": "binaries/Kirby Squeak Squad/Squeak Squad Theme.bin"
   }
 ]
