@@ -46553,5 +46553,21 @@
     "Date": "2026-08-26T02:28:56.901110",
     "Audio": "https://youtu.be/mBKcg94Grrs",
     "Binary": "binaries/Kirby Squeak Squad/Squeak Squad Theme.bin"
+  },
+  {
+    "Game": "Hollow Knight: Silksong",
+    "Song": "Lost Verdania",
+    "Composers": "Christopher Larkin",
+    "Converters": "Kilvereis",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors",
+      "Calm"
+    ],
+    "Duration": 182.72157568229164,
+    "Verified": true,
+    "Date": "2026-08-26T02:34:42.588716",
+    "Audio": "https://youtu.be/aaPJHqAcKwg",
+    "Binary": "binaries/Hollow Knight Silksong/Lost Verdania.bin"
   }
 ]
