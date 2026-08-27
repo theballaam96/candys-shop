@@ -46604,5 +46604,22 @@
     "Date": "2026-08-27T05:28:24.396490",
     "Audio": "https://youtu.be/8ZLw4NkSNLc",
     "Binary": "binaries/Fire Emblem Genealogy of the Holy War/Chapter 2 (Uprising in Agustria).bin"
+  },
+  {
+    "Game": "Fire Emblem: Thracia 776",
+    "Song": "Leif ~ Leif's Army Seeking Victory",
+    "Composers": "Yuka Tsujiyoko",
+    "Converters": "doicm",
+    "Category": "bgm",
+    "Tags": [
+      "Interiors",
+      "Exteriors",
+      "Calm"
+    ],
+    "Duration": 67.13344,
+    "Verified": true,
+    "Date": "2026-08-27T05:34:52.895335",
+    "Audio": "https://youtu.be/0Hvz5Kcs8IM",
+    "Binary": "binaries/Fire Emblem Thracia 776/Leif ~ Leifs Army Seeking Victory.bin"
   }
 ]
