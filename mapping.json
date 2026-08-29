@@ -46621,5 +46621,21 @@
     "Date": "2026-08-27T05:34:52.895335",
     "Audio": "https://youtu.be/0Hvz5Kcs8IM",
     "Binary": "binaries/Fire Emblem Thracia 776/Leif ~ Leifs Army Seeking Victory.bin"
+  },
+  {
+    "Game": "Fire Emblem: The Sacred Stones",
+    "Song": "Truth, Despair and Hope",
+    "Composers": "Yoshihiko Kitamura",
+    "Converters": "doicm",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors",
+      "Calm"
+    ],
+    "Duration": 95.67259999999999,
+    "Verified": true,
+    "Date": "2026-08-29T23:43:52.015787",
+    "Audio": "https://youtu.be/ytUWvhVPhLE",
+    "Binary": "binaries/Fire Emblem The Sacred Stones/Truth, Despair and Hope.bin"
   }
 ]
