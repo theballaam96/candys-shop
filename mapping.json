@@ -46569,5 +46569,57 @@
     "Date": "2026-08-26T02:34:42.588716",
     "Audio": "https://youtu.be/aaPJHqAcKwg",
     "Binary": "binaries/Hollow Knight Silksong/Lost Verdania.bin"
+  },
+  {
+    "Game": "The Legend of Zelda: Oracle of Seasons and Ages",
+    "Song": "Ancient Tomb",
+    "Composers": "Kyopi, Minako Adachi",
+    "Converters": "Kilvereis",
+    "Category": "bgm",
+    "Tags": [
+      "Interiors",
+      "Gloomy",
+      "Spooky"
+    ],
+    "Duration": 25.5,
+    "Verified": true,
+    "Date": "2026-08-26T11:16:17.733486",
+    "Audio": "https://youtu.be/FbZJTzx6Ebs",
+    "Binary": "binaries/The Legend of Zelda Oracle of Seasons and Ages/Ancient Tomb.bin"
+  },
+  {
+    "Game": "Fire Emblem: Genealogy of the Holy War",
+    "Song": "Chapter 2 (Uprising in Agustria)",
+    "Composers": "Yuka Tsujiyoko",
+    "Converters": "doicm",
+    "Category": "bgm",
+    "Tags": [
+      "Interiors",
+      "Exteriors",
+      "Gloomy",
+      "Calm"
+    ],
+    "Duration": 59.70124799999999,
+    "Verified": true,
+    "Date": "2026-08-27T05:28:24.396490",
+    "Audio": "https://youtu.be/8ZLw4NkSNLc",
+    "Binary": "binaries/Fire Emblem Genealogy of the Holy War/Chapter 2 (Uprising in Agustria).bin"
+  },
+  {
+    "Game": "Fire Emblem: Thracia 776",
+    "Song": "Leif ~ Leif's Army Seeking Victory",
+    "Composers": "Yuka Tsujiyoko",
+    "Converters": "doicm",
+    "Category": "bgm",
+    "Tags": [
+      "Interiors",
+      "Exteriors",
+      "Calm"
+    ],
+    "Duration": 67.13344,
+    "Verified": true,
+    "Date": "2026-08-27T05:34:52.895335",
+    "Audio": "https://youtu.be/0Hvz5Kcs8IM",
+    "Binary": "binaries/Fire Emblem Thracia 776/Leif ~ Leifs Army Seeking Victory.bin"
   }
 ]
