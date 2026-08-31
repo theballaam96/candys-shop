@@ -46637,5 +46637,22 @@
     "Date": "2026-08-29T23:43:52.015787",
     "Audio": "https://youtu.be/ytUWvhVPhLE",
     "Binary": "binaries/Fire Emblem The Sacred Stones/Truth, Despair and Hope.bin"
+  },
+  {
+    "Game": "GoldenEye 007",
+    "Song": "Statue",
+    "Composers": "Grant Kirkhope",
+    "Converters": "LBFrank",
+    "Category": "bgm",
+    "Audio": "https://youtu.be/VHOXxqEtq3Y",
+    "Update Notes": "Updated orchestra hits (with Rambi scream tech)",
+    "Tags": [
+      "Interiors",
+      "Gloomy"
+    ],
+    "Duration": 102.84037625,
+    "Verified": true,
+    "Date": "2026-08-31T07:15:18.123294",
+    "Binary": "binaries/GoldenEye 007/Statue (REV 2).bin"
   }
 ]
