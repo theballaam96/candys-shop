@@ -393,6 +393,10 @@
    "Final Fantasy: Mystic Quest":{
       "icon":"https://i.imgur.com/htwi974.png"
    },
+   "Fire Emblem Gaiden":{
+      "icon":"https://i.imgur.com/vVfdk5h.png",
+      "short_name": "Fire Emblem 2"
+   },
    "Fire Emblem: Genealogy of the Holy War":{
       "icon":"https://i.imgur.com/1T8bRpy.png",
       "short_name": "Fire Emblem 4"
@@ -1140,6 +1144,9 @@
    "San Francisco Rush 2049":{
       "icon":"https://i.imgur.com/as1JxD5.png"
    },
+   "Scoop Kick!":{
+      "icon":"https://i.imgur.com/5YCERXi.png"
+   },
    "Secret of Mana":{
       "icon":"https://i.imgur.com/MDV7JLi.png"
    },
@@ -1498,6 +1505,9 @@
       "icon":"https://i.imgur.com/NMC30gq.png",
       "short_name": "Magical Quest 1"
    },
+   "The Maverick Hunter Chronicles":{
+      "icon":"https://i.imgur.com/vve5RfN.png"
+   },
    "The Room Tribute":{
       "icon":"https://i.imgur.com/rPPQg5V.png"
    },
@@ -1731,6 +1741,9 @@
    "Zelda II: The Adventure of Link":{
       "icon":"https://i.imgur.com/s1iSdLC.png",
       "short_name": "Zelda II"
+   },
+   "ZeroRanger":{
+      "icon":"https://i.imgur.com/d2TUDUt.png"
    },
    "Zillion":{
       "icon":"https://i.imgur.com/cVZZUCX.png"
