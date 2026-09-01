@@ -46654,5 +46654,71 @@
     "Verified": true,
     "Date": "2026-08-31T07:15:18.123294",
     "Binary": "binaries/GoldenEye 007/Statue (REV 2).bin"
+  },
+  {
+    "Game": "The Maverick Hunter Chronicles",
+    "Song": "Stage X",
+    "Composers": "Diltarts",
+    "Converters": "Happy Heart",
+    "Category": "bgm",
+    "Additional Notes": "This music actually comes from a Doom total conversion mod heavily inspired by the Mega Man X series, but the track is an original composition by the earlier stated composer.",
+    "Tags": [
+      "Exteriors"
+    ],
+    "Duration": 118.94939999999998,
+    "Verified": true,
+    "Date": "2026-09-01T22:36:05.227148",
+    "Audio": "https://youtu.be/k61YmEcBYtg",
+    "Binary": "binaries/The Maverick Hunter Chronicles/Stage X.bin"
+  },
+  {
+    "Game": "Fire Emblem Gaiden",
+    "Song": "Battle Map 3 - Celica 1",
+    "Composers": "Yuka Tsujiyoko",
+    "Converters": "doicm",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors",
+      "Calm"
+    ],
+    "Duration": 61.756175,
+    "Verified": true,
+    "Date": "2026-09-01T22:37:32.804398",
+    "Audio": "https://youtu.be/z5Tzy0jGJmE",
+    "Binary": "binaries/Fire Emblem Gaiden/Battle Map 3 - Celica 1.bin"
+  },
+  {
+    "Game": "Scoop Kick!",
+    "Song": "Dewberry Diner",
+    "Composers": "Ryemanni",
+    "Converters": "Purveyor of the Arcade",
+    "Category": "bgm",
+    "Additional Notes": "Per suggestions from the Discord, I did not attempt to simulate the original track's harmonics.",
+    "Tags": [
+      "Minigames",
+      "Happy"
+    ],
+    "Duration": 109.714176,
+    "Verified": true,
+    "Date": "2026-09-01T22:38:22.445095",
+    "Audio": "https://youtu.be/NN1ImJ2QjmU",
+    "Binary": "binaries/Scoop Kick/Dewberry Diner.bin"
+  },
+  {
+    "Game": "ZeroRanger",
+    "Song": "The Sea Has Returned",
+    "Composers": "eebrozgi",
+    "Converters": "doicm",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors",
+      "Happy",
+      "Calm"
+    ],
+    "Duration": 209.806574,
+    "Verified": true,
+    "Date": "2026-09-01T22:39:49.579287",
+    "Audio": "https://youtu.be/eAJgX4Du1dU",
+    "Binary": "binaries/ZeroRanger/The Sea Has Returned.bin"
   }
 ]
