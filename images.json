@@ -137,6 +137,9 @@
    "Capcom vs. SNK 2":{
       "icon":"https://i.imgur.com/L0FanPh.png"
    },
+   "Castlevania":{
+      "icon":"https://i.imgur.com/i96PXN6.png"
+   },
    "Castlevania: Aria of Sorrow":{
       "icon":"https://i.imgur.com/0ZhiGbI.png"
    },
@@ -820,6 +823,10 @@
    "Mighty Morphin Power Rangers: The Fighting Edition":{
       "icon":"https://i.imgur.com/7Pc4Nf6.png",
       "short_name": "MMPR Fighting Edition"
+   },
+   "Mighty Morphin Power Rangers: The Movie":{
+      "icon":"https://i.imgur.com/3mHDveU.png",
+      "short_name": "MMPR The Movie"
    },
    "Mike Tyson's Punch-Out!!":{
       "icon":"https://i.imgur.com/zH5b0xc.png"
