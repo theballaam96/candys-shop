@@ -46720,5 +46720,37 @@
     "Date": "2026-09-01T22:39:49.579287",
     "Audio": "https://youtu.be/eAJgX4Du1dU",
     "Binary": "binaries/ZeroRanger/The Sea Has Returned.bin"
+  },
+  {
+    "Game": "Castlevania",
+    "Song": "Wicked Child",
+    "Composers": "Kinuyo Yamashita, Terashima Satoe",
+    "Converters": "doicm",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors",
+      "Spooky"
+    ],
+    "Duration": 68.45833333333333,
+    "Verified": true,
+    "Date": "2026-09-04T13:59:13.266550",
+    "Audio": "https://youtu.be/IaQThjkU0sM",
+    "Binary": "binaries/Castlevania/Wicked Child.bin"
+  },
+  {
+    "Game": "Pokémon X & Y",
+    "Song": "Boutique",
+    "Composers": "Shota Kageyama",
+    "Converters": "doicm",
+    "Category": "bgm",
+    "Tags": [
+      "Lobbies and Shops",
+      "Calm"
+    ],
+    "Duration": 53.45459,
+    "Verified": true,
+    "Date": "2026-09-04T13:59:54.916054",
+    "Audio": "https://youtu.be/RYCoByabxTo",
+    "Binary": "binaries/Pokémon X  Y/Boutique.bin"
   }
 ]
