@@ -46784,5 +46784,21 @@
     "Verified": true,
     "Date": "2026-09-06T15:02:11.627423",
     "Binary": "binaries/Quest 64/Battle.bin"
+  },
+  {
+    "Game": "Diddy Kong Racing",
+    "Song": "You Can't Beat Me",
+    "Composers": "David Wise",
+    "Converters": "LBFrank",
+    "Category": "events",
+    "Audio": "https://youtu.be/B-JOr48dokw",
+    "Tags": [
+      "Spawning",
+      "Gloomy"
+    ],
+    "Duration": 20.0,
+    "Verified": true,
+    "Date": "2026-09-06T23:22:08.098768",
+    "Binary": "binaries/Diddy Kong Racing/You Cant Beat Me.bin"
   }
 ]
