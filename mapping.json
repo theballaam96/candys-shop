@@ -46768,5 +46768,21 @@
     "Date": "2026-09-06T14:57:26.568087",
     "Audio": "https://youtu.be/6aFRh9q4xTc",
     "Binary": "binaries/Final Fantasy Mystic Quest/Doom Castle.bin"
+  },
+  {
+    "Game": "Quest 64",
+    "Song": "Battle",
+    "Composers": "Masamichi Amano",
+    "Converters": "Altermentality",
+    "Category": "bgm",
+    "Audio": "https://youtu.be/BNM8s-ZJsEI",
+    "Tags": [
+      "Fights",
+      "Gloomy"
+    ],
+    "Duration": 60.511403358333325,
+    "Verified": true,
+    "Date": "2026-09-06T15:02:11.627423",
+    "Binary": "binaries/Quest 64/Battle.bin"
   }
 ]
