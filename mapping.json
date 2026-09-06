@@ -46752,5 +46752,21 @@
     "Date": "2026-09-04T13:59:54.916054",
     "Audio": "https://youtu.be/RYCoByabxTo",
     "Binary": "binaries/Pokémon X  Y/Boutique.bin"
+  },
+  {
+    "Game": "Final Fantasy: Mystic Quest",
+    "Song": "Doom Castle",
+    "Composers": "Ryuji Sasai",
+    "Converters": "doicm",
+    "Category": "bgm",
+    "Tags": [
+      "Interiors",
+      "Gloomy"
+    ],
+    "Duration": 83.65256615625,
+    "Verified": true,
+    "Date": "2026-09-06T14:57:26.568087",
+    "Audio": "https://youtu.be/6aFRh9q4xTc",
+    "Binary": "binaries/Final Fantasy Mystic Quest/Doom Castle.bin"
   }
 ]
