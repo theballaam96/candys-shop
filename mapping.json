@@ -46346,5 +46346,459 @@
     "Date": "2026-08-12T10:23:00.318445",
     "Audio": "https://youtu.be/ngDbDU0k7ok",
     "Binary": "binaries/Pokémon Legends Z-A/Hotel Z.bin"
+  },
+  {
+    "Game": "Tetris Attack",
+    "Song": "Glacial Stage",
+    "Composers": "Masaya Kuzume",
+    "Converters": "doicm",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors",
+      "Winter"
+    ],
+    "Duration": 80.047494,
+    "Verified": true,
+    "Date": "2026-08-13T19:20:21.295336",
+    "Audio": "https://youtu.be/wC7rExHsLww",
+    "Binary": "binaries/Tetris Attack/Glacial Stage.bin"
+  },
+  {
+    "Game": "Drone Tactics",
+    "Song": "Intense Battle in a Mechanized Land",
+    "Composers": "Motoi Sakuraba",
+    "Converters": "Mamgar",
+    "Category": "bgm",
+    "Tags": [
+      "Fights",
+      "Minigames"
+    ],
+    "Duration": 94.08333333333333,
+    "Verified": true,
+    "Date": "2026-08-13T22:30:06.198370",
+    "Audio": "https://youtu.be/lWyzhqzw-DY",
+    "Binary": "binaries/Drone Tactics/Intense Battle in a Mechanized Land.bin"
+  },
+  {
+    "Game": "Rune Factory 2: A Fantasy Harvest Moon",
+    "Song": "Padova Mountain",
+    "Composers": "Tomoko Morita",
+    "Converters": "doicm",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors",
+      "Calm"
+    ],
+    "Duration": 97.64036399999999,
+    "Verified": true,
+    "Date": "2026-08-15T16:36:44.454095",
+    "Audio": "https://youtu.be/guaeQLF37Y4",
+    "Binary": "binaries/Rune Factory 2 A Fantasy Harvest Moon/Padova Mountain.bin"
+  },
+  {
+    "Game": "Tetris Attack",
+    "Song": "Blaze Stage (Critical)",
+    "Composers": "Masaya Kuzume",
+    "Converters": "doicm",
+    "Category": "bgm",
+    "Tags": [
+      "Minigames",
+      "Happy"
+    ],
+    "Duration": 40.32985599999999,
+    "Verified": true,
+    "Date": "2026-08-16T11:57:49.922441",
+    "Audio": "https://youtu.be/_Nq8qjsagKc",
+    "Binary": "binaries/Tetris Attack/Blaze Stage (Critical).bin"
+  },
+  {
+    "Game": "GoldenEye 007",
+    "Song": "Statue",
+    "Composers": "Grant Kirkhope",
+    "Converters": "LBFrank",
+    "Category": "bgm",
+    "Audio": "https://youtu.be/GS_iUO3Gvbg",
+    "Update Notes": "Updated orchestra hit, more marimba, and other adjustments to make it sound more similar to the original",
+    "Tags": [
+      "Interiors",
+      "Gloomy"
+    ],
+    "Duration": 102.84037625,
+    "Verified": true,
+    "Date": "2026-08-16T12:02:33.538325",
+    "Binary": "binaries/GoldenEye 007/Statue (REV 1).bin"
+  },
+  {
+    "Game": "Balatro",
+    "Song": "Main Theme",
+    "Composers": "Luis Clemente",
+    "Converters": "Kilvereis",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors",
+      "Calm"
+    ],
+    "Duration": 241.38908199999997,
+    "Verified": true,
+    "Date": "2026-08-16T12:04:39.410451",
+    "Audio": "https://youtu.be/Nn2CEF5jRIE",
+    "Binary": "binaries/Balatro/Main Theme.bin"
+  },
+  {
+    "Game": "Club Penguin: Elite Penguin Force",
+    "Song": "Snow Trekker",
+    "Composers": "Bart Roijmans",
+    "Converters": "gloomy",
+    "Category": "bgm",
+    "Audio": "https://www.youtube.com/watch?v=LiCl0uk8TfA",
+    "Tags": [
+      "Minigames",
+      "Happy"
+    ],
+    "Duration": 34.666632,
+    "Verified": true,
+    "Date": "2026-08-16T17:19:00.465803",
+    "Binary": "binaries/Club Penguin Elite Penguin Force/Snow Trekker.bin"
+  },
+  {
+    "Game": "Kirby's Dream Land 3",
+    "Song": "Sand Canyon 1",
+    "Composers": "Jun Ishikawa",
+    "Converters": "doicm",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors",
+      "Happy"
+    ],
+    "Duration": 72.659496,
+    "Verified": true,
+    "Date": "2026-08-18T18:25:27.134192",
+    "Audio": "https://youtu.be/697aYxAMeOg",
+    "Binary": "binaries/Kirbys Dream Land 3/Sand Canyon 1.bin"
+  },
+  {
+    "Game": "Mario Party 3",
+    "Song": "Nice and Easy",
+    "Composers": "Ichiro Shimakura",
+    "Converters": "Altermentality",
+    "Category": "bgm",
+    "Audio": "https://youtu.be/AZtJ8P7y_1w",
+    "Tags": [
+      "Minigames",
+      "Happy"
+    ],
+    "Duration": 43.576713281249994,
+    "Verified": true,
+    "Date": "2026-08-19T20:40:07.410444",
+    "Binary": "binaries/Mario Party 3/Nice and Easy.bin"
+  },
+  {
+    "Game": "Mother 3",
+    "Song": "Open Sesame!",
+    "Composers": "Shogo Sakai",
+    "Converters": "doicm",
+    "Category": "events",
+    "Tags": [
+      "Happy"
+    ],
+    "Duration": 12.792557916666667,
+    "Verified": true,
+    "Date": "2026-08-20T22:08:02.320069",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Mother%203/Open%20Sesame.mp3",
+    "Binary": "binaries/Mother 3/Open Sesame.bin"
+  },
+  {
+    "Game": "Knights of the Round",
+    "Song": "Expedition",
+    "Composers": "Isao Abe",
+    "Converters": "Happy Heart",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors"
+    ],
+    "Duration": 53.0432,
+    "Verified": true,
+    "Date": "2026-08-22T10:12:49.792984",
+    "Audio": "https://youtu.be/Hll9lvDKMZs",
+    "Binary": "binaries/Knights of the Round/Expedition.bin"
+  },
+  {
+    "Game": "Bubble Bobble",
+    "Song": "Main Theme (No Intro)",
+    "Composers": "Tadashi Kimijima",
+    "Converters": "Kilvereis",
+    "Category": "bgm",
+    "Tags": [
+      "Minigames",
+      "Happy"
+    ],
+    "Duration": 44.538417,
+    "Verified": true,
+    "Date": "2026-08-22T10:17:36.455463",
+    "Audio": "https://youtu.be/4f8m3-_KLVk",
+    "Binary": "binaries/Bubble Bobble/Main Theme (No Intro).bin"
+  },
+  {
+    "Game": "Kirby: Squeak Squad",
+    "Song": "Squeak Squad Theme",
+    "Composers": "Jun Ishikawa",
+    "Converters": "doicm",
+    "Category": "bgm",
+    "Tags": [
+      "Minigames",
+      "Happy"
+    ],
+    "Duration": 87.03287999999999,
+    "Verified": true,
+    "Date": "2026-08-26T02:28:56.901110",
+    "Audio": "https://youtu.be/mBKcg94Grrs",
+    "Binary": "binaries/Kirby Squeak Squad/Squeak Squad Theme.bin"
+  },
+  {
+    "Game": "Hollow Knight: Silksong",
+    "Song": "Lost Verdania",
+    "Composers": "Christopher Larkin",
+    "Converters": "Kilvereis",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors",
+      "Calm"
+    ],
+    "Duration": 182.72157568229164,
+    "Verified": true,
+    "Date": "2026-08-26T02:34:42.588716",
+    "Audio": "https://youtu.be/aaPJHqAcKwg",
+    "Binary": "binaries/Hollow Knight Silksong/Lost Verdania.bin"
+  },
+  {
+    "Game": "The Legend of Zelda: Oracle of Seasons and Ages",
+    "Song": "Ancient Tomb",
+    "Composers": "Kyopi, Minako Adachi",
+    "Converters": "Kilvereis",
+    "Category": "bgm",
+    "Tags": [
+      "Interiors",
+      "Gloomy",
+      "Spooky"
+    ],
+    "Duration": 25.5,
+    "Verified": true,
+    "Date": "2026-08-26T11:16:17.733486",
+    "Audio": "https://youtu.be/FbZJTzx6Ebs",
+    "Binary": "binaries/The Legend of Zelda Oracle of Seasons and Ages/Ancient Tomb.bin"
+  },
+  {
+    "Game": "Fire Emblem: Genealogy of the Holy War",
+    "Song": "Chapter 2 (Uprising in Agustria)",
+    "Composers": "Yuka Tsujiyoko",
+    "Converters": "doicm",
+    "Category": "bgm",
+    "Tags": [
+      "Interiors",
+      "Exteriors",
+      "Gloomy",
+      "Calm"
+    ],
+    "Duration": 59.70124799999999,
+    "Verified": true,
+    "Date": "2026-08-27T05:28:24.396490",
+    "Audio": "https://youtu.be/8ZLw4NkSNLc",
+    "Binary": "binaries/Fire Emblem Genealogy of the Holy War/Chapter 2 (Uprising in Agustria).bin"
+  },
+  {
+    "Game": "Fire Emblem: Thracia 776",
+    "Song": "Leif ~ Leif's Army Seeking Victory",
+    "Composers": "Yuka Tsujiyoko",
+    "Converters": "doicm",
+    "Category": "bgm",
+    "Tags": [
+      "Interiors",
+      "Exteriors",
+      "Calm"
+    ],
+    "Duration": 67.13344,
+    "Verified": true,
+    "Date": "2026-08-27T05:34:52.895335",
+    "Audio": "https://youtu.be/0Hvz5Kcs8IM",
+    "Binary": "binaries/Fire Emblem Thracia 776/Leif ~ Leifs Army Seeking Victory.bin"
+  },
+  {
+    "Game": "Fire Emblem: The Sacred Stones",
+    "Song": "Truth, Despair and Hope",
+    "Composers": "Yoshihiko Kitamura",
+    "Converters": "doicm",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors",
+      "Calm"
+    ],
+    "Duration": 95.67259999999999,
+    "Verified": true,
+    "Date": "2026-08-29T23:43:52.015787",
+    "Audio": "https://youtu.be/ytUWvhVPhLE",
+    "Binary": "binaries/Fire Emblem The Sacred Stones/Truth, Despair and Hope.bin"
+  },
+  {
+    "Game": "GoldenEye 007",
+    "Song": "Statue",
+    "Composers": "Grant Kirkhope",
+    "Converters": "LBFrank",
+    "Category": "bgm",
+    "Audio": "https://youtu.be/VHOXxqEtq3Y",
+    "Update Notes": "Updated orchestra hits (with Rambi scream tech)",
+    "Tags": [
+      "Interiors",
+      "Gloomy"
+    ],
+    "Duration": 102.84037625,
+    "Verified": true,
+    "Date": "2026-08-31T07:15:18.123294",
+    "Binary": "binaries/GoldenEye 007/Statue (REV 2).bin"
+  },
+  {
+    "Game": "Mighty Morphin Power Rangers: The Movie",
+    "Song": "Energy Generator Lab",
+    "Composers": "Hiroyuki Iwatsuki, Haruo Ohashi",
+    "Converters": "Happy Heart",
+    "Category": "bgm",
+    "Additional Notes": "",
+    "Tags": [
+      "Exteriors"
+    ],
+    "Duration": 118.94939999999998,
+    "Verified": true,
+    "Date": "2026-09-01T22:36:05.227148",
+    "Audio": "https://youtu.be/k61YmEcBYtg",
+    "Binary": "binaries/The Maverick Hunter Chronicles/Stage X.bin"
+  },
+  {
+    "Game": "Fire Emblem Gaiden",
+    "Song": "Battle Map 3 - Celica 1",
+    "Composers": "Yuka Tsujiyoko",
+    "Converters": "doicm",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors",
+      "Calm"
+    ],
+    "Duration": 61.756175,
+    "Verified": true,
+    "Date": "2026-09-01T22:37:32.804398",
+    "Audio": "https://youtu.be/z5Tzy0jGJmE",
+    "Binary": "binaries/Fire Emblem Gaiden/Battle Map 3 - Celica 1.bin"
+  },
+  {
+    "Game": "Scoop Kick!",
+    "Song": "Dewberry Diner",
+    "Composers": "Ryemanni",
+    "Converters": "Purveyor of the Arcade",
+    "Category": "bgm",
+    "Additional Notes": "Per suggestions from the Discord, I did not attempt to simulate the original track's harmonics.",
+    "Tags": [
+      "Minigames",
+      "Happy"
+    ],
+    "Duration": 109.714176,
+    "Verified": true,
+    "Date": "2026-09-01T22:38:22.445095",
+    "Audio": "https://youtu.be/NN1ImJ2QjmU",
+    "Binary": "binaries/Scoop Kick/Dewberry Diner.bin"
+  },
+  {
+    "Game": "ZeroRanger",
+    "Song": "The Sea Has Returned",
+    "Composers": "eebrozgi",
+    "Converters": "doicm",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors",
+      "Happy",
+      "Calm"
+    ],
+    "Duration": 209.806574,
+    "Verified": true,
+    "Date": "2026-09-01T22:39:49.579287",
+    "Audio": "https://youtu.be/eAJgX4Du1dU",
+    "Binary": "binaries/ZeroRanger/The Sea Has Returned.bin"
+  },
+  {
+    "Game": "Castlevania",
+    "Song": "Wicked Child",
+    "Composers": "Kinuyo Yamashita, Terashima Satoe",
+    "Converters": "doicm",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors",
+      "Spooky"
+    ],
+    "Duration": 68.45833333333333,
+    "Verified": true,
+    "Date": "2026-09-04T13:59:13.266550",
+    "Audio": "https://youtu.be/IaQThjkU0sM",
+    "Binary": "binaries/Castlevania/Wicked Child.bin"
+  },
+  {
+    "Game": "Pokémon X & Y",
+    "Song": "Boutique",
+    "Composers": "Shota Kageyama",
+    "Converters": "doicm",
+    "Category": "bgm",
+    "Tags": [
+      "Lobbies and Shops",
+      "Calm"
+    ],
+    "Duration": 53.45459,
+    "Verified": true,
+    "Date": "2026-09-04T13:59:54.916054",
+    "Audio": "https://youtu.be/RYCoByabxTo",
+    "Binary": "binaries/Pokémon X  Y/Boutique.bin"
+  },
+  {
+    "Game": "Final Fantasy: Mystic Quest",
+    "Song": "Doom Castle",
+    "Composers": "Ryuji Sasai",
+    "Converters": "doicm",
+    "Category": "bgm",
+    "Tags": [
+      "Interiors",
+      "Gloomy"
+    ],
+    "Duration": 83.65256615625,
+    "Verified": true,
+    "Date": "2026-09-06T14:57:26.568087",
+    "Audio": "https://youtu.be/6aFRh9q4xTc",
+    "Binary": "binaries/Final Fantasy Mystic Quest/Doom Castle.bin"
+  },
+  {
+    "Game": "Quest 64",
+    "Song": "Battle",
+    "Composers": "Masamichi Amano",
+    "Converters": "Altermentality",
+    "Category": "bgm",
+    "Audio": "https://youtu.be/BNM8s-ZJsEI",
+    "Tags": [
+      "Fights",
+      "Gloomy"
+    ],
+    "Duration": 60.511403358333325,
+    "Verified": true,
+    "Date": "2026-09-06T15:02:11.627423",
+    "Binary": "binaries/Quest 64/Battle.bin"
+  },
+  {
+    "Game": "Diddy Kong Racing",
+    "Song": "You Can't Beat Me",
+    "Composers": "David Wise",
+    "Converters": "LBFrank",
+    "Category": "events",
+    "Audio": "https://youtu.be/B-JOr48dokw",
+    "Tags": [
+      "Spawning",
+      "Gloomy"
+    ],
+    "Duration": 20.0,
+    "Verified": true,
+    "Date": "2026-09-06T23:22:08.098768",
+    "Binary": "binaries/Diddy Kong Racing/You Cant Beat Me.bin"
   }
 ]
