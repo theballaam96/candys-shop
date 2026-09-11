@@ -46800,5 +46800,38 @@
     "Verified": true,
     "Date": "2026-09-06T23:22:08.098768",
     "Binary": "binaries/Diddy Kong Racing/You Cant Beat Me.bin"
+  },
+  {
+    "Game": "Mario Party",
+    "Song": "Yoshi's Tropical Island",
+    "Composers": "Yasunori Mitsuda",
+    "Converters": "Altermentality",
+    "Category": "bgm",
+    "Audio": "https://www.youtube.com/watch?v=CKKdrqPQwTo",
+    "Update Notes": "Fixed overlapping notes. Slight overall volume nerf to fit with new standards.",
+    "Tags": [
+      "Exteriors",
+      "Happy"
+    ],
+    "Duration": 60.568749999999994,
+    "Verified": true,
+    "Date": "2026-09-10T22:01:35.511416",
+    "Binary": "binaries/Mario Party/Yoshis Tropical Island (REV 1).bin"
+  },
+  {
+    "Game": "Castlevania: Dawn of Sorrow",
+    "Song": "Into the Dark Night",
+    "Composers": "Masahiko Kimura",
+    "Converters": "doicm",
+    "Category": "bgm",
+    "Tags": [
+      "Fights",
+      "Spooky"
+    ],
+    "Duration": 102.39999999999999,
+    "Verified": true,
+    "Date": "2026-09-11T03:02:45.459651",
+    "Audio": "https://youtu.be/88V3TjU2j1Q",
+    "Binary": "binaries/Castlevania Dawn of Sorrow/Into the Dark Night.bin"
   }
 ]
