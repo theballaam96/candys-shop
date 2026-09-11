@@ -46817,5 +46817,21 @@
     "Verified": true,
     "Date": "2026-09-10T22:01:35.511416",
     "Binary": "binaries/Mario Party/Yoshis Tropical Island (REV 1).bin"
+  },
+  {
+    "Game": "Castlevania: Dawn of Sorrow",
+    "Song": "Into the Dark Night",
+    "Composers": "Masahiko Kimura",
+    "Converters": "doicm",
+    "Category": "bgm",
+    "Tags": [
+      "Fights",
+      "Spooky"
+    ],
+    "Duration": 102.39999999999999,
+    "Verified": true,
+    "Date": "2026-09-11T03:02:45.459651",
+    "Audio": "https://youtu.be/88V3TjU2j1Q",
+    "Binary": "binaries/Castlevania Dawn of Sorrow/Into the Dark Night.bin"
   }
 ]
