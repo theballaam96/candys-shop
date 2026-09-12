@@ -46833,5 +46833,21 @@
     "Date": "2026-09-11T03:02:45.459651",
     "Audio": "https://youtu.be/88V3TjU2j1Q",
     "Binary": "binaries/Castlevania Dawn of Sorrow/Into the Dark Night.bin"
+  },
+  {
+    "Game": "Mario Kart 64",
+    "Song": "Moo Moo Farm - Yoshi Valley",
+    "Composers": "Kenta Nagata",
+    "Converters": "Altermentality",
+    "Category": "bgm",
+    "Audio": "https://youtu.be/9GtwAJ3FHak",
+    "Tags": [
+      "Minigames",
+      "Happy"
+    ],
+    "Duration": 61.413098749999996,
+    "Verified": true,
+    "Date": "2026-09-12T02:38:36.464204",
+    "Binary": "binaries/Mario Kart 64/Moo Moo Farm - Yoshi Valley.bin"
   }
 ]
