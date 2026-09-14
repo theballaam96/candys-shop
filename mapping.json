@@ -46866,5 +46866,21 @@
     "Date": "2026-09-14T07:29:35.258379",
     "Audio": "https://youtu.be/JpKbT3A_60M",
     "Binary": "binaries/Rivals of Aether/Oceanic Breeze.bin"
+  },
+  {
+    "Game": "Final Fantasy V",
+    "Song": "To the North Mountain",
+    "Composers": "Nobuo Uematsu",
+    "Converters": "doicm",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors",
+      "Happy"
+    ],
+    "Duration": 51.04247999999999,
+    "Verified": true,
+    "Date": "2026-09-14T18:54:38.793905",
+    "Audio": "https://youtu.be/ZrOP-hypdgE",
+    "Binary": "binaries/Final Fantasy V/To the North Mountain.bin"
   }
 ]
