@@ -46849,5 +46849,22 @@
     "Verified": true,
     "Date": "2026-09-12T02:38:36.464204",
     "Binary": "binaries/Mario Kart 64/Moo Moo Farm - Yoshi Valley.bin"
+  },
+  {
+    "Game": "Rivals of Aether",
+    "Song": "Oceanic Breeze",
+    "Composers": "flashygoodness",
+    "Converters": "DrewBoss",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors",
+      "Minigames",
+      "Happy"
+    ],
+    "Duration": 92.596335975,
+    "Verified": true,
+    "Date": "2026-09-14T07:29:35.258379",
+    "Audio": "https://youtu.be/JpKbT3A_60M",
+    "Binary": "binaries/Rivals of Aether/Oceanic Breeze.bin"
   }
 ]
