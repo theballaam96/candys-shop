@@ -46882,5 +46882,21 @@
     "Date": "2026-09-14T18:54:38.793905",
     "Audio": "https://youtu.be/ZrOP-hypdgE",
     "Binary": "binaries/Final Fantasy V/To the North Mountain.bin"
+  },
+  {
+    "Game": "Kirby Mass Attack",
+    "Song": "Daroach Reunion",
+    "Composers": "Shogo Sakai, Jun Ishikawa",
+    "Converters": "TheLupineOne",
+    "Category": "bgm",
+    "Tags": [
+      "Lobbies and Shops",
+      "Calm"
+    ],
+    "Duration": 36.33618025,
+    "Verified": true,
+    "Date": "2026-09-17T20:22:20.590589",
+    "Audio": "https://youtu.be/BDx10YK9oVM",
+    "Binary": "binaries/Kirby Mass Attack/Daroach Reunion.bin"
   }
 ]
