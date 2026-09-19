@@ -46898,5 +46898,56 @@
     "Date": "2026-09-17T20:22:20.590589",
     "Audio": "https://youtu.be/BDx10YK9oVM",
     "Binary": "binaries/Kirby Mass Attack/Daroach Reunion.bin"
+  },
+  {
+    "Game": "Goof Troop",
+    "Song": "Illusion",
+    "Composers": "Yuki Iwai",
+    "Converters": "doicm",
+    "Category": "bgm",
+    "Tags": [
+      "Interiors",
+      "Spooky"
+    ],
+    "Duration": 32.512,
+    "Verified": true,
+    "Date": "2026-09-19T05:21:04.768448",
+    "Audio": "https://youtu.be/Aa5kYyWlfDk",
+    "Binary": "binaries/Goof Troop/Illusion.bin"
+  },
+  {
+    "Game": "Rhythm Heaven Groove",
+    "Song": "Space Sentry",
+    "Composers": "Tsunku♂, TNX",
+    "Converters": "SirEnobMort",
+    "Category": "bgm",
+    "Audio": "https://www.youtube.com/watch?v=Hhhfk6fFtVQ&t=92",
+    "Additional Notes": "TNX is the production company and music agency that Tsunku♂ operates, which co-developed Rhythm Heaven Groove and helped create the music for the game.",
+    "Tags": [
+      "Minigames",
+      "Happy"
+    ],
+    "Duration": 90.90899999999999,
+    "Verified": true,
+    "Date": "2026-09-19T05:21:32.184784",
+    "Binary": "binaries/Rhythm Heaven Groove/Space Sentry.bin"
+  },
+  {
+    "Game": "Rhythm Heaven Groove",
+    "Song": "Space Sentry (with Chants)",
+    "Composers": "Tsunku♂, TNX",
+    "Converters": "SirEnobMort",
+    "Category": "bgm",
+    "Audio": "https://youtu.be/Hhhfk6fFtVQ",
+    "Additional Notes": "TNX is the production company and music agency that Tsunku♂ operates, which co-developed Rhythm Heaven Groove and helped create the music for the game.",
+    "Tags": [
+      "Fights",
+      "Minigames",
+      "Happy"
+    ],
+    "Duration": 90.90899999999999,
+    "Verified": true,
+    "Date": "2026-09-19T05:21:34.082048",
+    "Binary": "binaries/Rhythm Heaven Groove/Space Sentry (with Chants).bin"
   }
 ]
