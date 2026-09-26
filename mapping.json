@@ -46949,5 +46949,87 @@
     "Verified": true,
     "Date": "2026-09-19T05:21:34.082048",
     "Binary": "binaries/Rhythm Heaven Groove/Space Sentry (with Chants).bin"
+  },
+  {
+    "Game": "Secret of Mana",
+    "Song": "Danger",
+    "Composers": "Hiroki Kikuta",
+    "Converters": "doicm",
+    "Category": "bgm",
+    "Tags": [
+      "Fights",
+      "Minigames",
+      "Happy"
+    ],
+    "Duration": 121.12462399999998,
+    "Verified": true,
+    "Date": "2026-09-26T22:39:52.085918",
+    "Audio": "https://youtu.be/DEUbBhXvcwA",
+    "Binary": "binaries/Secret of Mana/Danger.bin"
+  },
+  {
+    "Game": "Ghost Trick: Phantom Detective",
+    "Song": "Ghost Trick",
+    "Composers": "Masakazu Sugimori, Yasumasa Kitagawa",
+    "Converters": "MiaSchemes",
+    "Category": "bgm",
+    "Additional Notes": "First you ghost, then you trick",
+    "Tags": [
+      "Lobbies and Shops",
+      "Exteriors",
+      "Happy"
+    ],
+    "Duration": 76.59083249999999,
+    "Verified": true,
+    "Date": "2026-09-26T22:41:21.663814",
+    "Audio": "https://youtu.be/zP-flSovXQA",
+    "Binary": "binaries/Ghost Trick Phantom Detective/Ghost Trick.bin"
+  },
+  {
+    "Game": "Kirby Mass Attack",
+    "Song": "Cleared at Last",
+    "Composers": "Shogo Sakai",
+    "Converters": "TheLupineOne",
+    "Category": "events",
+    "Tags": [
+      "Happy"
+    ],
+    "Duration": 5.935256249999999,
+    "Verified": true,
+    "Date": "2026-09-26T22:42:14.613884",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Kirby%20Mass%20Attack/Cleared%20at%20Last.mp3",
+    "Binary": "binaries/Kirby Mass Attack/Cleared at Last.bin"
+  },
+  {
+    "Game": "Final Fantasy XIII",
+    "Song": "March of the Dreadnoughts",
+    "Composers": "Masashi Hamauzu",
+    "Converters": "doicm",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors",
+      "Happy"
+    ],
+    "Duration": 134.11750399999997,
+    "Verified": true,
+    "Date": "2026-09-26T22:42:16.859414",
+    "Audio": "https://youtu.be/4KyeKGpJSBE",
+    "Binary": "binaries/Final Fantasy XIII/March of the Dreadnoughts.bin"
+  },
+  {
+    "Game": "Final Fantasy XII",
+    "Song": "Battle with an Esper",
+    "Composers": "Hitoshi Sakimoto",
+    "Converters": "doicm",
+    "Category": "bgm",
+    "Tags": [
+      "Fights",
+      "Gloomy"
+    ],
+    "Duration": 96.0,
+    "Verified": true,
+    "Date": "2026-09-26T22:43:52.388902",
+    "Audio": "https://youtu.be/-iDtfcbKW2c",
+    "Binary": "binaries/Final Fantasy XII/Battle with an Esper.bin"
   }
 ]
