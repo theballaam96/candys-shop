@@ -47031,5 +47031,22 @@
     "Date": "2026-09-26T22:43:52.388902",
     "Audio": "https://youtu.be/-iDtfcbKW2c",
     "Binary": "binaries/Final Fantasy XII/Battle with an Esper.bin"
+  },
+  {
+    "Game": "Final Fantasy VIII",
+    "Song": "Find Your Way",
+    "Composers": "Nobuo Uematsu",
+    "Converters": "doicm",
+    "Category": "bgm",
+    "Tags": [
+      "Interiors",
+      "Exteriors",
+      "Calm"
+    ],
+    "Duration": 108.8,
+    "Verified": true,
+    "Date": "2026-09-29T16:05:45.396019",
+    "Audio": "https://youtu.be/YbYvlM8G2P8",
+    "Binary": "binaries/Final Fantasy VIII/Find Your Way.bin"
   }
 ]
