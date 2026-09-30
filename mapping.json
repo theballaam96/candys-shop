@@ -47048,5 +47048,53 @@
     "Date": "2026-09-29T16:05:45.396019",
     "Audio": "https://youtu.be/YbYvlM8G2P8",
     "Binary": "binaries/Final Fantasy VIII/Find Your Way.bin"
+  },
+  {
+    "Game": "Fire Emblem: The Blazing Blade",
+    "Song": "Level Up",
+    "Composers": "Yuka Tsujiyoko",
+    "Converters": "doicm",
+    "Category": "majoritems",
+    "Tags": [
+      "Collection",
+      "Happy"
+    ],
+    "Duration": 1.3278705,
+    "Verified": true,
+    "Date": "2026-09-30T18:28:28.425954",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Fire%20Emblem%20The%20Blazing%20Blade/Level%20Up.mp3",
+    "Binary": "binaries/Fire Emblem The Blazing Blade/Level Up.bin"
+  },
+  {
+    "Game": "Fire Emblem: The Blazing Blade",
+    "Song": "Get Item",
+    "Composers": "Yuka Tsujiyoko",
+    "Converters": "doicm",
+    "Category": "majoritems",
+    "Tags": [
+      "Collection",
+      "Happy"
+    ],
+    "Duration": 1.3394166666666665,
+    "Verified": true,
+    "Date": "2026-09-30T18:28:31.018843",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Fire%20Emblem%20The%20Blazing%20Blade/Get%20Item.mp3",
+    "Binary": "binaries/Fire Emblem The Blazing Blade/Get Item.bin"
+  },
+  {
+    "Game": "Golden Sun",
+    "Song": "Saturos Battle",
+    "Composers": "Motoi Sakuraba",
+    "Converters": "doicm",
+    "Category": "bgm",
+    "Tags": [
+      "Fights",
+      "Gloomy"
+    ],
+    "Duration": 87.1457535,
+    "Verified": true,
+    "Date": "2026-09-30T18:28:33.462435",
+    "Audio": "https://youtu.be/b6UDx_cZSYg",
+    "Binary": "binaries/Golden Sun/Saturos Battle.bin"
   }
 ]
