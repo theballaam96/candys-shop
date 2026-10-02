@@ -46949,5 +46949,152 @@
     "Verified": true,
     "Date": "2026-09-19T05:21:34.082048",
     "Binary": "binaries/Rhythm Heaven Groove/Space Sentry (with Chants).bin"
+  },
+  {
+    "Game": "Secret of Mana",
+    "Song": "Danger",
+    "Composers": "Hiroki Kikuta",
+    "Converters": "doicm",
+    "Category": "bgm",
+    "Tags": [
+      "Fights",
+      "Minigames",
+      "Happy"
+    ],
+    "Duration": 121.12462399999998,
+    "Verified": true,
+    "Date": "2026-09-26T22:39:52.085918",
+    "Audio": "https://youtu.be/DEUbBhXvcwA",
+    "Binary": "binaries/Secret of Mana/Danger.bin"
+  },
+  {
+    "Game": "Ghost Trick: Phantom Detective",
+    "Song": "Ghost Trick",
+    "Composers": "Masakazu Sugimori, Yasumasa Kitagawa",
+    "Converters": "MiaSchemes",
+    "Category": "bgm",
+    "Additional Notes": "First you ghost, then you trick",
+    "Tags": [
+      "Lobbies and Shops",
+      "Exteriors",
+      "Happy"
+    ],
+    "Duration": 76.59083249999999,
+    "Verified": true,
+    "Date": "2026-09-26T22:41:21.663814",
+    "Audio": "https://youtu.be/zP-flSovXQA",
+    "Binary": "binaries/Ghost Trick Phantom Detective/Ghost Trick.bin"
+  },
+  {
+    "Game": "Kirby Mass Attack",
+    "Song": "Cleared at Last",
+    "Composers": "Shogo Sakai",
+    "Converters": "TheLupineOne",
+    "Category": "events",
+    "Tags": [
+      "Happy"
+    ],
+    "Duration": 5.935256249999999,
+    "Verified": true,
+    "Date": "2026-09-26T22:42:14.613884",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Kirby%20Mass%20Attack/Cleared%20at%20Last.mp3",
+    "Binary": "binaries/Kirby Mass Attack/Cleared at Last.bin"
+  },
+  {
+    "Game": "Final Fantasy XIII",
+    "Song": "March of the Dreadnoughts",
+    "Composers": "Masashi Hamauzu",
+    "Converters": "doicm",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors",
+      "Happy"
+    ],
+    "Duration": 134.11750399999997,
+    "Verified": true,
+    "Date": "2026-09-26T22:42:16.859414",
+    "Audio": "https://youtu.be/4KyeKGpJSBE",
+    "Binary": "binaries/Final Fantasy XIII/March of the Dreadnoughts.bin"
+  },
+  {
+    "Game": "Final Fantasy XII",
+    "Song": "Battle with an Esper",
+    "Composers": "Hitoshi Sakimoto",
+    "Converters": "doicm",
+    "Category": "bgm",
+    "Tags": [
+      "Fights",
+      "Gloomy"
+    ],
+    "Duration": 96.0,
+    "Verified": true,
+    "Date": "2026-09-26T22:43:52.388902",
+    "Audio": "https://youtu.be/-iDtfcbKW2c",
+    "Binary": "binaries/Final Fantasy XII/Battle with an Esper.bin"
+  },
+  {
+    "Game": "Final Fantasy VIII",
+    "Song": "Find Your Way",
+    "Composers": "Nobuo Uematsu",
+    "Converters": "doicm",
+    "Category": "bgm",
+    "Tags": [
+      "Interiors",
+      "Exteriors",
+      "Calm"
+    ],
+    "Duration": 108.8,
+    "Verified": true,
+    "Date": "2026-09-29T16:05:45.396019",
+    "Audio": "https://youtu.be/YbYvlM8G2P8",
+    "Binary": "binaries/Final Fantasy VIII/Find Your Way.bin"
+  },
+  {
+    "Game": "Fire Emblem: The Blazing Blade",
+    "Song": "Level Up",
+    "Composers": "Yuka Tsujiyoko",
+    "Converters": "doicm",
+    "Category": "majoritems",
+    "Tags": [
+      "Collection",
+      "Happy"
+    ],
+    "Duration": 1.3278705,
+    "Verified": true,
+    "Date": "2026-09-30T18:28:28.425954",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Fire%20Emblem%20The%20Blazing%20Blade/Level%20Up.mp3",
+    "Binary": "binaries/Fire Emblem The Blazing Blade/Level Up.bin"
+  },
+  {
+    "Game": "Fire Emblem: The Blazing Blade",
+    "Song": "Get Item",
+    "Composers": "Yuka Tsujiyoko",
+    "Converters": "doicm",
+    "Category": "majoritems",
+    "Tags": [
+      "Collection",
+      "Happy"
+    ],
+    "Duration": 1.3394166666666665,
+    "Verified": true,
+    "Date": "2026-09-30T18:28:31.018843",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Fire%20Emblem%20The%20Blazing%20Blade/Get%20Item.mp3",
+    "Binary": "binaries/Fire Emblem The Blazing Blade/Get Item.bin"
+  },
+  {
+    "Game": "Golden Sun",
+    "Song": "Saturos Battle",
+    "Composers": "Motoi Sakuraba",
+    "Converters": "doicm",
+    "Category": "bgm",
+    "Tags": [
+      "Fights",
+      "Gloomy"
+    ],
+    "Duration": 87.1457535,
+    "Verified": true,
+    "Date": "2026-09-30T18:28:33.462435",
+    "Audio": "https://youtu.be/b6UDx_cZSYg",
+    "Binary": "binaries/Golden Sun/Saturos Battle.bin"
   }
 ]
