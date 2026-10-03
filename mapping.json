@@ -47144,5 +47144,23 @@
     "Date": "2026-10-03T01:18:54.012810",
     "Audio": "https://youtu.be/89OYBL6omvU",
     "Binary": "binaries/Octopath Traveler/The Riverlands.bin"
+  },
+  {
+    "Game": "Mario + Rabbids Kingdom Battle",
+    "Song": "Spooky Village",
+    "Composers": "Grant Kirkhope",
+    "Converters": "LBFrank",
+    "Category": "bgm",
+    "Audio": "https://youtu.be/62a1Hqv-38s",
+    "Tags": [
+      "Interiors",
+      "Gloomy",
+      "Calm",
+      "Spooky"
+    ],
+    "Duration": 98.00520833333333,
+    "Verified": true,
+    "Date": "2026-10-03T18:47:57.229915",
+    "Binary": "binaries/Mario  Rabbids Kingdom Battle/Spooky Village.bin"
   }
 ]
