@@ -47096,5 +47096,53 @@
     "Date": "2026-09-30T18:28:33.462435",
     "Audio": "https://youtu.be/b6UDx_cZSYg",
     "Binary": "binaries/Golden Sun/Saturos Battle.bin"
+  },
+  {
+    "Game": "Pokémon Ranger: Shadows of Almia",
+    "Song": "Cargo Ship",
+    "Composers": "Kinta Sato, Takuto Kitsuta, Shinobu Amayake",
+    "Converters": "DrewBoss",
+    "Category": "bgm",
+    "Tags": [
+      "Interiors",
+      "Gloomy"
+    ],
+    "Duration": 171.0921875,
+    "Verified": true,
+    "Date": "2026-10-03T01:17:23.157293",
+    "Audio": "https://youtu.be/p4mCIAjrDO0",
+    "Binary": "binaries/Pokémon Ranger Shadows of Almia/Cargo Ship.bin"
+  },
+  {
+    "Game": "Mario Party DS",
+    "Song": "Another Crazy Match",
+    "Composers": "Hironobu Yahata, Shinya Outouge",
+    "Converters": "DrewBoss",
+    "Category": "bgm",
+    "Tags": [
+      "Minigames",
+      "Happy"
+    ],
+    "Duration": 55.8734375,
+    "Verified": true,
+    "Date": "2026-10-03T01:18:27.931647",
+    "Audio": "https://youtu.be/zAsUgM8h7lY",
+    "Binary": "binaries/Mario Party DS/Another Crazy Match.bin"
+  },
+  {
+    "Game": "Octopath Traveler",
+    "Song": "The Riverlands",
+    "Composers": "Yasunori Nishiki",
+    "Converters": "Kilvereis",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors",
+      "Calm"
+    ],
+    "Duration": 138.98721899999998,
+    "Verified": true,
+    "Date": "2026-10-03T01:18:54.012810",
+    "Audio": "https://youtu.be/89OYBL6omvU",
+    "Binary": "binaries/Octopath Traveler/The Riverlands.bin"
   }
 ]
