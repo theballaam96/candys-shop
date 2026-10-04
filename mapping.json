@@ -47162,5 +47162,21 @@
     "Verified": true,
     "Date": "2026-10-03T18:47:57.229915",
     "Binary": "binaries/Mario  Rabbids Kingdom Battle/Spooky Village.bin"
+  },
+  {
+    "Game": "Pokémon Black & White",
+    "Song": "Champion Alder",
+    "Composers": "Shota Kageyama",
+    "Converters": "Kilvereis",
+    "Category": "bgm",
+    "Tags": [
+      "Lobbies and Shops",
+      "Happy"
+    ],
+    "Duration": 29.368705958333333,
+    "Verified": true,
+    "Date": "2026-10-04T00:41:02.936830",
+    "Audio": "https://youtu.be/fz_uCkdAu_A",
+    "Binary": "binaries/Pokémon Black  White/Champion Alder.bin"
   }
 ]
