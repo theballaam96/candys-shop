@@ -47178,5 +47178,22 @@
     "Date": "2026-10-04T00:41:02.936830",
     "Audio": "https://youtu.be/fz_uCkdAu_A",
     "Binary": "binaries/Pokémon Black  White/Champion Alder.bin"
+  },
+  {
+    "Game": "PsiloSybil",
+    "Song": "Intro to Hell",
+    "Composers": "bad_vertex",
+    "Converters": "MiaSchemes",
+    "Category": "events",
+    "Tags": [
+      "Spawning",
+      "Gloomy",
+      "Spooky"
+    ],
+    "Duration": 4.51704425,
+    "Verified": true,
+    "Date": "2026-10-06T02:54:52.873173",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/PsiloSybil/Intro%20to%20Hell.mp3",
+    "Binary": "binaries/PsiloSybil/Intro to Hell.bin"
   }
 ]
