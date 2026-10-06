@@ -47195,5 +47195,20 @@
     "Date": "2026-10-06T02:54:52.873173",
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/PsiloSybil/Intro%20to%20Hell.mp3",
     "Binary": "binaries/PsiloSybil/Intro to Hell.bin"
+  },
+  {
+    "Game": "La-Mulana",
+    "Song": "Xelpud Mailer",
+    "Composers": "Takumi Naramura",
+    "Converters": "MiaSchemes",
+    "Category": "minoritems",
+    "Tags": [
+      "Collection"
+    ],
+    "Duration": 0.7211531250000001,
+    "Verified": true,
+    "Date": "2026-10-06T02:57:03.073799",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/La-Mulana/Xelpud%20Mailer.mp3",
+    "Binary": "binaries/La-Mulana/Xelpud Mailer.bin"
   }
 ]
