@@ -47225,5 +47225,21 @@
     "Date": "2026-10-07T01:04:23.264732",
     "Audio": "https://youtu.be/bVaIjkgtJp4",
     "Binary": "binaries/Skies of Arcadia/Battle 1.bin"
+  },
+  {
+    "Game": "Pokémon Gold, Silver & Crystal",
+    "Song": "Route 11 (HGSS)",
+    "Composers": "Go Ichinose, Shota Kageyama",
+    "Converters": "MiaSchemes",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors",
+      "Happy"
+    ],
+    "Duration": 39.853425666666666,
+    "Verified": true,
+    "Date": "2026-10-07T17:50:22.359467",
+    "Audio": "https://youtu.be/PL64SssekOc",
+    "Binary": "binaries/Pokémon Gold, Silver  Crystal/Route 11 (HGSS).bin"
   }
 ]
