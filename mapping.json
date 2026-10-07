@@ -47210,5 +47210,20 @@
     "Date": "2026-10-06T02:57:03.073799",
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/La-Mulana/Xelpud%20Mailer.mp3",
     "Binary": "binaries/La-Mulana/Xelpud Mailer.bin"
+  },
+  {
+    "Game": "Skies of Arcadia",
+    "Song": "Battle 1",
+    "Composers": "Yukata Minobe, Tatsuyuki Maeda",
+    "Converters": "OnlySpaghettiCode",
+    "Category": "bgm",
+    "Tags": [
+      "Fights"
+    ],
+    "Duration": 129.457288625,
+    "Verified": true,
+    "Date": "2026-10-07T01:04:23.264732",
+    "Audio": "https://youtu.be/bVaIjkgtJp4",
+    "Binary": "binaries/Skies of Arcadia/Battle 1.bin"
   }
 ]
