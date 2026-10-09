@@ -47307,5 +47307,21 @@
     "Date": "2026-10-09T20:13:32.173056",
     "Audio": "https://youtu.be/wxL5_Rv_rQg",
     "Binary": "binaries/Final Fantasy III/Doga and Unei (DS).bin"
+  },
+  {
+    "Game": "Pokémon Black & White",
+    "Song": "Icirrus City",
+    "Composers": "Shota Kageyama",
+    "Converters": "Kilvereis",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors",
+      "Happy"
+    ],
+    "Duration": 52.74639420833333,
+    "Verified": true,
+    "Date": "2026-10-09T21:58:31.889560",
+    "Audio": "https://youtu.be/FV6Y6QHLvhw",
+    "Binary": "binaries/Pokémon Black  White/Icirrus City.bin"
   }
 ]
