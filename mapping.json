@@ -47241,5 +47241,71 @@
     "Date": "2026-10-07T17:50:22.359467",
     "Audio": "https://youtu.be/PL64SssekOc",
     "Binary": "binaries/Pokémon Gold, Silver  Crystal/Route 11 (HGSS).bin"
+  },
+  {
+    "Game": "Pokémon Gold, Silver & Crystal",
+    "Song": "VS Rocket (HGSS)",
+    "Composers": "Go Ichinose, Shota Kageyama",
+    "Converters": "MiaSchemes",
+    "Category": "bgm",
+    "Tags": [
+      "Fights",
+      "Minigames"
+    ],
+    "Duration": 68.65016299999999,
+    "Verified": true,
+    "Date": "2026-10-09T20:11:42.659095",
+    "Audio": "https://youtu.be/SVG-n-qSkP4",
+    "Binary": "binaries/Pokémon Gold, Silver  Crystal/VS Rocket (HGSS).bin"
+  },
+  {
+    "Game": "Final Fantasy II",
+    "Song": "Town (Origins)",
+    "Composers": "Nobuo Uematsu",
+    "Converters": "Kilvereis",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors",
+      "Calm"
+    ],
+    "Duration": 49.17372,
+    "Verified": true,
+    "Date": "2026-10-09T20:12:17.911765",
+    "Audio": "https://youtu.be/RVUU43uzZ5M",
+    "Binary": "binaries/Final Fantasy II/Town (Origins).bin"
+  },
+  {
+    "Game": "Terranigma",
+    "Song": "Dark Side Field",
+    "Composers": "Miyoko Kobayashi",
+    "Converters": "doicm",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors",
+      "Gloomy",
+      "Calm"
+    ],
+    "Duration": 68.21093599999999,
+    "Verified": true,
+    "Date": "2026-10-09T20:12:52.614459",
+    "Audio": "https://youtu.be/d21yIvqA2Gw",
+    "Binary": "binaries/Terranigma/Dark Side Field.bin"
+  },
+  {
+    "Game": "Final Fantasy III",
+    "Song": "Doga and Unei (DS)",
+    "Composers": "Nobuo Uematsu",
+    "Converters": "doicm",
+    "Category": "bgm",
+    "Tags": [
+      "Lobbies and Shops",
+      "Interiors",
+      "Calm"
+    ],
+    "Duration": 38.470569,
+    "Verified": true,
+    "Date": "2026-10-09T20:13:32.173056",
+    "Audio": "https://youtu.be/wxL5_Rv_rQg",
+    "Binary": "binaries/Final Fantasy III/Doga and Unei (DS).bin"
   }
 ]
