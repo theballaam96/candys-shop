@@ -47323,5 +47323,21 @@
     "Date": "2026-10-09T21:58:31.889560",
     "Audio": "https://youtu.be/FV6Y6QHLvhw",
     "Binary": "binaries/Pokémon Black  White/Icirrus City.bin"
+  },
+  {
+    "Game": "Pokémon Gold, Silver & Crystal",
+    "Song": "Violet City (HGSS)",
+    "Composers": "Go Ichinose, Shota Kageyama",
+    "Converters": "MiaSchemes",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors",
+      "Happy"
+    ],
+    "Duration": 66.470385,
+    "Verified": true,
+    "Date": "2026-10-09T22:18:41.451457",
+    "Audio": "https://youtu.be/m-C5tPqErNM",
+    "Binary": "binaries/Pokémon Gold, Silver  Crystal/Violet City (HGSS).bin"
   }
 ]
