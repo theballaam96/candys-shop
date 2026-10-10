@@ -47339,5 +47339,53 @@
     "Date": "2026-10-09T22:18:41.451457",
     "Audio": "https://youtu.be/m-C5tPqErNM",
     "Binary": "binaries/Pokémon Gold, Silver  Crystal/Violet City (HGSS).bin"
+  },
+  {
+    "Game": "Pokémon Gold, Silver & Crystal",
+    "Song": "Route 38 (HGSS)",
+    "Composers": "Go Ichinose, Shota Kageyama",
+    "Converters": "MiaSchemes",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors",
+      "Happy"
+    ],
+    "Duration": 54.44225325,
+    "Verified": true,
+    "Date": "2026-10-10T19:44:31.324327",
+    "Audio": "https://youtu.be/R-qDbrD88Y4",
+    "Binary": "binaries/Pokémon Gold, Silver  Crystal/Route 38 (HGSS).bin"
+  },
+  {
+    "Game": "Super Mario Bros. 3",
+    "Song": "Airship BGM",
+    "Composers": "Koji Kondo",
+    "Converters": "Kilvereis",
+    "Category": "bgm",
+    "Tags": [
+      "Interiors",
+      "Spooky"
+    ],
+    "Duration": 27.525119999999998,
+    "Verified": true,
+    "Date": "2026-10-10T19:45:10.554054",
+    "Audio": "https://youtu.be/ENQ9eH2d9nc",
+    "Binary": "binaries/Super Mario Bros 3/Airship BGM.bin"
+  },
+  {
+    "Game": "Secret of Mana",
+    "Song": "Ceremony",
+    "Composers": "Hiroki Kikuta",
+    "Converters": "doicm",
+    "Category": "bgm",
+    "Tags": [
+      "Interiors",
+      "Spooky"
+    ],
+    "Duration": 47.001599999999996,
+    "Verified": true,
+    "Date": "2026-10-10T19:45:32.982028",
+    "Audio": "https://youtu.be/NhrNYY3cZMs",
+    "Binary": "binaries/Secret of Mana/Ceremony.bin"
   }
 ]
