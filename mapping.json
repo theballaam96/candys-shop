@@ -47387,5 +47387,55 @@
     "Date": "2026-10-10T19:45:32.982028",
     "Audio": "https://youtu.be/NhrNYY3cZMs",
     "Binary": "binaries/Secret of Mana/Ceremony.bin"
+  },
+  {
+    "Game": "Pokémon Mystery Dungeon: Explorers of Sky",
+    "Song": "Monster House!",
+    "Composers": "Arata Iiyoshi",
+    "Converters": "DrewBoss",
+    "Category": "bgm",
+    "Tags": [
+      "Fights",
+      "Interiors",
+      "Spooky"
+    ],
+    "Duration": 103.497973425,
+    "Verified": true,
+    "Date": "2026-10-12T06:33:12.267802",
+    "Audio": "https://youtu.be/U3peY_s_oTg",
+    "Binary": "binaries/Pokémon Mystery Dungeon Explorers of Sky/Monster House.bin"
+  },
+  {
+    "Game": "Pokémon Mystery Dungeon: Explorers of Sky",
+    "Song": "On the Beach at Dusk",
+    "Composers": "Arata Iiyoshi",
+    "Converters": "DrewBoss",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors",
+      "Calm"
+    ],
+    "Duration": 149.99853954583332,
+    "Verified": true,
+    "Date": "2026-10-12T06:33:55.648424",
+    "Audio": "https://youtu.be/EwPrkTZf00Q",
+    "Binary": "binaries/Pokémon Mystery Dungeon Explorers of Sky/On the Beach at Dusk.bin"
+  },
+  {
+    "Game": "Mario Party DS",
+    "Song": "Bowser's Pinball Machine",
+    "Composers": "Hironobu Yahata, Shinya Outouge",
+    "Converters": "DrewBoss",
+    "Category": "bgm",
+    "Tags": [
+      "Lobbies and Shops",
+      "Interiors",
+      "Spooky"
+    ],
+    "Duration": 82.14079087500001,
+    "Verified": true,
+    "Date": "2026-10-12T06:34:58.369323",
+    "Audio": "https://youtu.be/cm4-QY-PnHU",
+    "Binary": "binaries/Mario Party DS/Bowsers Pinball Machine.bin"
   }
 ]
