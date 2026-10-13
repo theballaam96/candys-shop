@@ -47437,5 +47437,20 @@
     "Date": "2026-10-12T06:34:58.369323",
     "Audio": "https://youtu.be/cm4-QY-PnHU",
     "Binary": "binaries/Mario Party DS/Bowsers Pinball Machine.bin"
+  },
+  {
+    "Game": "Pokémon Gold, Silver & Crystal",
+    "Song": "VS Rival (HGSS)",
+    "Composers": "Go Ichinose, Shota Kageyama",
+    "Converters": "MiaSchemes",
+    "Category": "bgm",
+    "Tags": [
+      "Fights"
+    ],
+    "Duration": 69.44066791666667,
+    "Verified": true,
+    "Date": "2026-10-13T05:47:30.143891",
+    "Audio": "https://youtu.be/Q2iRoGRirRI",
+    "Binary": "binaries/Pokémon Gold, Silver  Crystal/VS Rival (HGSS).bin"
   }
 ]
