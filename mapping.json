@@ -47452,5 +47452,21 @@
     "Date": "2026-10-13T05:47:30.143891",
     "Audio": "https://youtu.be/Q2iRoGRirRI",
     "Binary": "binaries/Pokémon Gold, Silver  Crystal/VS Rival (HGSS).bin"
+  },
+  {
+    "Game": "Kirby Mass Attack",
+    "Song": "Ruins at Night",
+    "Composers": "Shogo Sakai",
+    "Converters": "TheLupineOne",
+    "Category": "bgm",
+    "Tags": [
+      "Interiors",
+      "Calm"
+    ],
+    "Duration": 57.69880593749999,
+    "Verified": true,
+    "Date": "2026-10-13T05:55:42.862899",
+    "Audio": "https://youtu.be/4EzI_kiX5T4",
+    "Binary": "binaries/Kirby Mass Attack/Ruins at Night.bin"
   }
 ]
