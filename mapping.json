@@ -47468,5 +47468,22 @@
     "Date": "2026-10-13T05:55:42.862899",
     "Audio": "https://youtu.be/4EzI_kiX5T4",
     "Binary": "binaries/Kirby Mass Attack/Ruins at Night.bin"
+  },
+  {
+    "Game": "Sub-Terrania",
+    "Song": "Heroes Theme",
+    "Composers": "Jesper Kyd",
+    "Converters": "Purveyor of the Arcade",
+    "Category": "bgm",
+    "Tags": [
+      "Interiors",
+      "Exteriors",
+      "Gloomy"
+    ],
+    "Duration": 158.4,
+    "Verified": true,
+    "Date": "2026-10-14T02:53:17.239938",
+    "Audio": "https://youtu.be/fs20ZZX9ou0",
+    "Binary": "binaries/Sub-Terrania/Heroes Theme.bin"
   }
 ]
