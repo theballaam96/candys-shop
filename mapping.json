@@ -47485,5 +47485,22 @@
     "Date": "2026-10-14T02:53:17.239938",
     "Audio": "https://youtu.be/fs20ZZX9ou0",
     "Binary": "binaries/Sub-Terrania/Heroes Theme.bin"
+  },
+  {
+    "Game": "Hamsterz Life",
+    "Song": "Menu 2",
+    "Composers": "Shinsuke Kudou, Shin Nakajima, Yumi Satake",
+    "Converters": "Kilvereis",
+    "Category": "bgm",
+    "Tags": [
+      "Lobbies and Shops",
+      "Interiors",
+      "Happy"
+    ],
+    "Duration": 47.142832,
+    "Verified": true,
+    "Date": "2026-10-14T03:10:05.700849",
+    "Audio": "https://youtu.be/IKlfwQklcoc",
+    "Binary": "binaries/Hamsterz Life/Menu 2.bin"
   }
 ]
