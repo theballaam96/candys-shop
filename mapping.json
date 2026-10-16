@@ -47518,5 +47518,21 @@
     "Date": "2026-10-16T14:06:40.329777",
     "Audio": "https://youtu.be/zPJuvUOS0fo",
     "Binary": "binaries/Picross 3D/Fairground.bin"
+  },
+  {
+    "Game": "Xenogears",
+    "Song": "Infiltration",
+    "Composers": "Yasunori Mitsuda",
+    "Converters": "doicm",
+    "Category": "bgm",
+    "Tags": [
+      "Interiors",
+      "Calm"
+    ],
+    "Duration": 120.00001599999999,
+    "Verified": true,
+    "Date": "2026-10-16T14:25:52.631292",
+    "Audio": "https://youtu.be/paCZqmt5KhU",
+    "Binary": "binaries/Xenogears/Infiltration.bin"
   }
 ]
