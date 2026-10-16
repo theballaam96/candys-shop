@@ -47437,5 +47437,102 @@
     "Date": "2026-10-12T06:34:58.369323",
     "Audio": "https://youtu.be/cm4-QY-PnHU",
     "Binary": "binaries/Mario Party DS/Bowsers Pinball Machine.bin"
+  },
+  {
+    "Game": "Pokémon Gold, Silver & Crystal",
+    "Song": "VS Rival (HGSS)",
+    "Composers": "Go Ichinose, Shota Kageyama",
+    "Converters": "MiaSchemes",
+    "Category": "bgm",
+    "Tags": [
+      "Fights"
+    ],
+    "Duration": 69.44066791666667,
+    "Verified": true,
+    "Date": "2026-10-13T05:47:30.143891",
+    "Audio": "https://youtu.be/Q2iRoGRirRI",
+    "Binary": "binaries/Pokémon Gold, Silver  Crystal/VS Rival (HGSS).bin"
+  },
+  {
+    "Game": "Kirby Mass Attack",
+    "Song": "Ruins at Night",
+    "Composers": "Shogo Sakai",
+    "Converters": "TheLupineOne",
+    "Category": "bgm",
+    "Tags": [
+      "Interiors",
+      "Calm"
+    ],
+    "Duration": 57.69880593749999,
+    "Verified": true,
+    "Date": "2026-10-13T05:55:42.862899",
+    "Audio": "https://youtu.be/4EzI_kiX5T4",
+    "Binary": "binaries/Kirby Mass Attack/Ruins at Night.bin"
+  },
+  {
+    "Game": "Sub-Terrania",
+    "Song": "Heroes Theme",
+    "Composers": "Jesper Kyd",
+    "Converters": "Purveyor of the Arcade",
+    "Category": "bgm",
+    "Tags": [
+      "Interiors",
+      "Exteriors",
+      "Gloomy"
+    ],
+    "Duration": 158.4,
+    "Verified": true,
+    "Date": "2026-10-14T02:53:17.239938",
+    "Audio": "https://youtu.be/fs20ZZX9ou0",
+    "Binary": "binaries/Sub-Terrania/Heroes Theme.bin"
+  },
+  {
+    "Game": "Hamsterz Life",
+    "Song": "Menu 2",
+    "Composers": "Shinsuke Kudou, Shin Nakajima, Yumi Satake",
+    "Converters": "Kilvereis",
+    "Category": "bgm",
+    "Tags": [
+      "Lobbies and Shops",
+      "Interiors",
+      "Happy"
+    ],
+    "Duration": 47.142832,
+    "Verified": true,
+    "Date": "2026-10-14T03:10:05.700849",
+    "Audio": "https://youtu.be/IKlfwQklcoc",
+    "Binary": "binaries/Hamsterz Life/Menu 2.bin"
+  },
+  {
+    "Game": "Picross 3D",
+    "Song": "Fairground",
+    "Composers": "Hirokazu Ando, Jun Ishikawa, Yasumasa Yamada",
+    "Converters": "Kilvereis",
+    "Category": "bgm",
+    "Tags": [
+      "Lobbies and Shops",
+      "Calm"
+    ],
+    "Duration": 90.517175,
+    "Verified": true,
+    "Date": "2026-10-16T14:06:40.329777",
+    "Audio": "https://youtu.be/zPJuvUOS0fo",
+    "Binary": "binaries/Picross 3D/Fairground.bin"
+  },
+  {
+    "Game": "Xenogears",
+    "Song": "Infiltration",
+    "Composers": "Yasunori Mitsuda",
+    "Converters": "doicm",
+    "Category": "bgm",
+    "Tags": [
+      "Interiors",
+      "Calm"
+    ],
+    "Duration": 120.00001599999999,
+    "Verified": true,
+    "Date": "2026-10-16T14:25:52.631292",
+    "Audio": "https://youtu.be/paCZqmt5KhU",
+    "Binary": "binaries/Xenogears/Infiltration.bin"
   }
 ]
