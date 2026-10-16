@@ -47502,5 +47502,21 @@
     "Date": "2026-10-14T03:10:05.700849",
     "Audio": "https://youtu.be/IKlfwQklcoc",
     "Binary": "binaries/Hamsterz Life/Menu 2.bin"
+  },
+  {
+    "Game": "Picross 3D",
+    "Song": "Fairground",
+    "Composers": "Hirokazu Ando, Jun Ishikawa, Yasumasa Yamada",
+    "Converters": "Kilvereis",
+    "Category": "bgm",
+    "Tags": [
+      "Lobbies and Shops",
+      "Calm"
+    ],
+    "Duration": 90.517175,
+    "Verified": true,
+    "Date": "2026-10-16T14:06:40.329777",
+    "Audio": "https://youtu.be/zPJuvUOS0fo",
+    "Binary": "binaries/Picross 3D/Fairground.bin"
   }
 ]
