@@ -47552,5 +47552,22 @@
     "Date": "2026-10-17T05:21:31.961882",
     "Audio": "https://youtu.be/OJZ4td9xXE8",
     "Binary": "binaries/Xenogears/Shevat -The Wind Calls-.bin"
+  },
+  {
+    "Game": "Final Fantasy",
+    "Song": "Chaos' Temple (GBA/PS1)",
+    "Composers": "Nobuo Uematsu",
+    "Converters": "MiaSchemes",
+    "Category": "bgm",
+    "Tags": [
+      "Lobbies and Shops",
+      "Interiors",
+      "Calm"
+    ],
+    "Duration": 60.0381590625,
+    "Verified": true,
+    "Date": "2026-10-17T22:09:54.364472",
+    "Audio": "https://youtu.be/EO0Cob6hf94",
+    "Binary": "binaries/Final Fantasy/Chaos Temple (GBAPS1).bin"
   }
 ]
