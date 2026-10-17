@@ -47534,5 +47534,23 @@
     "Date": "2026-10-16T14:25:52.631292",
     "Audio": "https://youtu.be/paCZqmt5KhU",
     "Binary": "binaries/Xenogears/Infiltration.bin"
+  },
+  {
+    "Game": "Xenogears",
+    "Song": "Shevat -The Wind Calls-",
+    "Composers": "Yasunori Mitsuda",
+    "Converters": "doicm",
+    "Category": "bgm",
+    "Tags": [
+      "Interiors",
+      "Exteriors",
+      "Calm",
+      "Winter"
+    ],
+    "Duration": 180.84498,
+    "Verified": true,
+    "Date": "2026-10-17T05:21:31.961882",
+    "Audio": "https://youtu.be/OJZ4td9xXE8",
+    "Binary": "binaries/Xenogears/Shevat -The Wind Calls-.bin"
   }
 ]
