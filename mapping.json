@@ -47569,5 +47569,36 @@
     "Date": "2026-10-17T22:09:54.364472",
     "Audio": "https://youtu.be/EO0Cob6hf94",
     "Binary": "binaries/Final Fantasy/Chaos Temple (GBAPS1).bin"
+  },
+  {
+    "Game": "Skies of Arcadia",
+    "Song": "Uninhabited Island",
+    "Composers": "Yukata Minobe, Tatsuyuki Maeda",
+    "Converters": "OnlySpaghettiCode",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors",
+      "Calm"
+    ],
+    "Duration": 151.30359664583335,
+    "Verified": true,
+    "Date": "2026-10-18T18:53:02.648478",
+    "Audio": "https://youtu.be/CrY6o6JLz0o",
+    "Binary": "binaries/Skies of Arcadia/Uninhabited Island.bin"
+  },
+  {
+    "Game": "Skies of Arcadia",
+    "Song": "Bombardment 2",
+    "Composers": "Yukata Minobe, Tatsuyuki Maeda",
+    "Converters": "OnlySpaghettiCode",
+    "Category": "bgm",
+    "Tags": [
+      "Fights"
+    ],
+    "Duration": 107.3063605625,
+    "Verified": true,
+    "Date": "2026-10-18T18:54:41.407534",
+    "Audio": "https://youtu.be/gaTCRT3VRI4",
+    "Binary": "binaries/Skies of Arcadia/Bombardment 2.bin"
   }
 ]
