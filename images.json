@@ -1506,6 +1506,10 @@
    "The Legend of Zelda":{
       "icon":"https://i.imgur.com/j200D6C.png"
    },
+   "The Legend of Zelda: A Link Between Worlds":{
+      "icon":"https://i.imgur.com/bATvdK9.png",
+      "short_name": "Zelda: A Link Between Worlds"
+   },
    "The Legend of Zelda: A Link to the Past":{
       "icon":"https://i.imgur.com/rfhhH6u.png",
       "short_name": "Zelda: A Link to the Past"
