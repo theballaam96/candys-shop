@@ -47600,5 +47600,22 @@
     "Date": "2026-10-18T18:54:41.407534",
     "Audio": "https://youtu.be/gaTCRT3VRI4",
     "Binary": "binaries/Skies of Arcadia/Bombardment 2.bin"
+  },
+  {
+    "Game": "The Legend of Zelda: A Link Between Worlds",
+    "Song": "Ravio's Theme",
+    "Composers": "Ryo Nagamatsu",
+    "Converters": "Kilvereis",
+    "Category": "bgm",
+    "Tags": [
+      "Lobbies and Shops",
+      "Happy",
+      "Calm"
+    ],
+    "Duration": 33.564333500000004,
+    "Verified": true,
+    "Date": "2026-10-20T09:29:21.332979",
+    "Audio": "https://youtu.be/ZSaWyjzxcw4",
+    "Binary": "binaries/The Legend of Zelda A Link Between Worlds/Ravios Theme.bin"
   }
 ]
