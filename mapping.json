@@ -47617,5 +47617,21 @@
     "Date": "2026-10-20T09:29:21.332979",
     "Audio": "https://youtu.be/ZSaWyjzxcw4",
     "Binary": "binaries/The Legend of Zelda A Link Between Worlds/Ravios Theme.bin"
+  },
+  {
+    "Game": "Mega Man Battle Network 5",
+    "Song": "VS. Nebula Gray",
+    "Composers": "Akari Kaida",
+    "Converters": "doicm",
+    "Category": "bgm",
+    "Tags": [
+      "Fights",
+      "Gloomy"
+    ],
+    "Duration": 45.2,
+    "Verified": true,
+    "Date": "2026-10-20T15:26:40.003953",
+    "Audio": "https://youtu.be/PaE2BOAZMWg",
+    "Binary": "binaries/Mega Man Battle Network 5/VS Nebula Gray.bin"
   }
 ]
