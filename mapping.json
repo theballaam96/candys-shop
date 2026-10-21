@@ -47633,5 +47633,21 @@
     "Date": "2026-10-20T15:26:40.003953",
     "Audio": "https://youtu.be/PaE2BOAZMWg",
     "Binary": "binaries/Mega Man Battle Network 5/VS Nebula Gray.bin"
+  },
+  {
+    "Game": "Final Fantasy",
+    "Song": "Underwater Temple (GBA)",
+    "Composers": "Nobuo Uematsu",
+    "Converters": "MiaSchemes",
+    "Category": "bgm",
+    "Tags": [
+      "Interiors",
+      "Gloomy"
+    ],
+    "Duration": 49.94479966666666,
+    "Verified": true,
+    "Date": "2026-10-21T21:34:43.866062",
+    "Audio": "https://youtu.be/cabumXCiDE4",
+    "Binary": "binaries/Final Fantasy/Underwater Temple (GBA).bin"
   }
 ]
