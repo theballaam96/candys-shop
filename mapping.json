@@ -47649,5 +47649,21 @@
     "Date": "2026-10-21T21:34:43.866062",
     "Audio": "https://youtu.be/cabumXCiDE4",
     "Binary": "binaries/Final Fantasy/Underwater Temple (GBA).bin"
+  },
+  {
+    "Game": "Super Mario 3D World",
+    "Song": "Double Cherry Pass",
+    "Composers": "Yasuaki Iwata, Koji Kondo, Toru Minegishi, Mahito Yokota",
+    "Converters": "doicm",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors",
+      "Happy"
+    ],
+    "Duration": 58.947392,
+    "Verified": true,
+    "Date": "2026-10-23T18:37:07.626143",
+    "Audio": "https://youtu.be/R4DLUB0l2F4",
+    "Binary": "binaries/Super Mario 3D World/Double Cherry Pass.bin"
   }
 ]
