@@ -47665,5 +47665,20 @@
     "Date": "2026-10-23T18:37:07.626143",
     "Audio": "https://youtu.be/R4DLUB0l2F4",
     "Binary": "binaries/Super Mario 3D World/Double Cherry Pass.bin"
+  },
+  {
+    "Game": "Pokémon Legends: Arceus",
+    "Song": "Get Item",
+    "Composers": "Go Ichinose, Hitomi Satō, Hiromitsu Maeba",
+    "Converters": "doicm",
+    "Category": "minoritems",
+    "Tags": [
+      "Collection"
+    ],
+    "Duration": 0.6066169999999999,
+    "Verified": true,
+    "Date": "2026-10-24T02:12:31.578858",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Pok%C3%A9mon%20Legends%20Arceus/Get%20Item.mp3",
+    "Binary": "binaries/Pokémon Legends Arceus/Get Item.bin"
   }
 ]
