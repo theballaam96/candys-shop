@@ -47711,5 +47711,21 @@
     "Date": "2026-10-26T17:00:24.855362",
     "Audio": "https://youtu.be/WwhUvnMKAIs",
     "Binary": "binaries/Mega Man Battle Network/In the Room.bin"
+  },
+  {
+    "Game": "Castlevania: Aria of Sorrow",
+    "Song": "Hammer Company",
+    "Composers": "Soshiro Hokkai",
+    "Converters": "doicm",
+    "Category": "bgm",
+    "Tags": [
+      "Lobbies and Shops",
+      "Interiors"
+    ],
+    "Duration": 36.164232,
+    "Verified": true,
+    "Date": "2026-10-26T20:57:31.442810",
+    "Audio": "https://youtu.be/hcMi1D3YXiw",
+    "Binary": "binaries/Castlevania Aria of Sorrow/Hammer Company.bin"
   }
 ]
