@@ -47695,5 +47695,21 @@
     "Date": "2026-10-26T03:29:37.576065",
     "Audio": "https://youtu.be/7bw-FPztq98",
     "Binary": "binaries/Kirby Mass Attack/Tough Enemy.bin"
+  },
+  {
+    "Game": "Mega Man Battle Network",
+    "Song": "In the Room",
+    "Composers": "Akari Kaida",
+    "Converters": "doicm",
+    "Category": "bgm",
+    "Tags": [
+      "Lobbies and Shops",
+      "Happy"
+    ],
+    "Duration": 7.418303999999999,
+    "Verified": true,
+    "Date": "2026-10-26T17:00:24.855362",
+    "Audio": "https://youtu.be/WwhUvnMKAIs",
+    "Binary": "binaries/Mega Man Battle Network/In the Room.bin"
   }
 ]
