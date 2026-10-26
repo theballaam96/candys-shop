@@ -47680,5 +47680,20 @@
     "Date": "2026-10-24T02:12:31.578858",
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Pok%C3%A9mon%20Legends%20Arceus/Get%20Item.mp3",
     "Binary": "binaries/Pokémon Legends Arceus/Get Item.bin"
+  },
+  {
+    "Game": "Kirby Mass Attack",
+    "Song": "Tough Enemy",
+    "Composers": "Shogo Sakai, Jun Ishikawa",
+    "Converters": "TheLupineOne",
+    "Category": "bgm",
+    "Tags": [
+      "Fights"
+    ],
+    "Duration": 60.320452499999995,
+    "Verified": true,
+    "Date": "2026-10-26T03:29:37.576065",
+    "Audio": "https://youtu.be/7bw-FPztq98",
+    "Binary": "binaries/Kirby Mass Attack/Tough Enemy.bin"
   }
 ]
