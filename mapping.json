@@ -47792,5 +47792,20 @@
     "Verified": true,
     "Date": "2026-10-27T20:38:25.087723",
     "Binary": "binaries/Castlevania Portrait of Ruin/The Hidden Curse.bin"
+  },
+  {
+    "Game": "Lufia II: Rise of the Sinistrals",
+    "Song": "Towering Mountain",
+    "Composers": "Yasunori Shiono",
+    "Converters": "doicm",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors"
+    ],
+    "Duration": 106.7097434375,
+    "Verified": true,
+    "Date": "2026-10-27T21:16:46.179866",
+    "Audio": "https://youtu.be/XYVLOsdWaqM",
+    "Binary": "binaries/Lufia II Rise of the Sinistrals/Towering Mountain.bin"
   }
 ]
