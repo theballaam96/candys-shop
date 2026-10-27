@@ -47745,5 +47745,36 @@
     "Verified": true,
     "Date": "2026-10-27T01:23:04.552967",
     "Binary": "binaries/Mario  Rabbids Kingdom Battle/Before the Battle (Spooky Trails) (REV 1).bin"
+  },
+  {
+    "Game": "Bravely Default",
+    "Song": "The Bell of Battle",
+    "Composers": "Revo",
+    "Converters": "OnlySpaghettiCode",
+    "Category": "bgm",
+    "Tags": [
+      "Fights"
+    ],
+    "Duration": 84.40238812499999,
+    "Verified": true,
+    "Date": "2026-10-27T20:16:58.602730",
+    "Audio": "https://youtu.be/ue940MYz7mo",
+    "Binary": "binaries/Bravely Default/The Bell of Battle.bin"
+  },
+  {
+    "Game": "Apollo Justice: Ace Attorney",
+    "Song": "Trucy's Theme ~ The Magic Girl",
+    "Composers": "Toshihiko Horiyama, Hideki Okugawa",
+    "Converters": "OnlySpaghettiCode",
+    "Category": "bgm",
+    "Tags": [
+      "Lobbies and Shops",
+      "Happy"
+    ],
+    "Duration": 42.424537854166665,
+    "Verified": true,
+    "Date": "2026-10-27T20:17:45.857891",
+    "Audio": "https://youtu.be/SCBJUoxh8Yc",
+    "Binary": "binaries/Apollo Justice Ace Attorney/Trucys Theme ~ The Magic Girl.bin"
   }
 ]
