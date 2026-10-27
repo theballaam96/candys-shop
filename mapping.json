@@ -47727,5 +47727,23 @@
     "Date": "2026-10-26T20:57:31.442810",
     "Audio": "https://youtu.be/hcMi1D3YXiw",
     "Binary": "binaries/Castlevania Aria of Sorrow/Hammer Company.bin"
+  },
+  {
+    "Game": "Mario + Rabbids Kingdom Battle",
+    "Song": "Before the Battle (Spooky Trails)",
+    "Composers": "Grant Kirkhope",
+    "Converters": "LBFrank",
+    "Category": "bgm",
+    "Audio": "https://youtu.be/om0C3a_iVzU",
+    "Update Notes": "Fuller horns in the second half of the song, plus some other minor updates",
+    "Tags": [
+      "Lobbies and Shops",
+      "Gloomy",
+      "Spooky"
+    ],
+    "Duration": 30.96776,
+    "Verified": true,
+    "Date": "2026-10-27T01:23:04.552967",
+    "Binary": "binaries/Mario  Rabbids Kingdom Battle/Before the Battle (Spooky Trails) (REV 1).bin"
   }
 ]
