@@ -47776,5 +47776,21 @@
     "Date": "2026-10-27T20:17:45.857891",
     "Audio": "https://youtu.be/SCBJUoxh8Yc",
     "Binary": "binaries/Apollo Justice Ace Attorney/Trucys Theme ~ The Magic Girl.bin"
+  },
+  {
+    "Game": "Castlevania: Portrait of Ruin",
+    "Song": "The Hidden Curse",
+    "Category": "bgm",
+    "Composers": "Michiru Yamane",
+    "Converters": "Schwartz Gandhi",
+    "Audio": "https://youtu.be/7iewD43Qgrc",
+    "Tags": [
+      "Exteriors",
+      "Spooky"
+    ],
+    "Duration": 154.17262966666664,
+    "Verified": true,
+    "Date": "2026-10-27T20:38:25.087723",
+    "Binary": "binaries/Castlevania Portrait of Ruin/The Hidden Curse.bin"
   }
 ]
