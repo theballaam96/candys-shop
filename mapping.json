@@ -47807,5 +47807,52 @@
     "Date": "2026-10-27T21:16:46.179866",
     "Audio": "https://youtu.be/XYVLOsdWaqM",
     "Binary": "binaries/Lufia II Rise of the Sinistrals/Towering Mountain.bin"
+  },
+  {
+    "Game": "Mario & Luigi: Superstar Saga",
+    "Song": "Castle of Beans",
+    "Composers": "Yoko Shimomura",
+    "Converters": "SirEnobMort",
+    "Category": "bgm",
+    "Audio": "https://youtu.be/PmrZtoH_NR8",
+    "Tags": [
+      "Lobbies and Shops",
+      "Interiors",
+      "Happy"
+    ],
+    "Duration": 48.0,
+    "Verified": true,
+    "Date": "2026-10-28T00:27:07.286820",
+    "Binary": "binaries/Mario  Luigi Superstar Saga/Castle of Beans.bin"
+  },
+  {
+    "Game": "Mario & Luigi: Superstar Saga",
+    "Song": "Cackletta, the Fiercest Foe",
+    "Composers": "Yoko Shimomura",
+    "Converters": "SirEnobMort",
+    "Category": "bgm",
+    "Audio": "https://youtu.be/ZNfEieMOPIM",
+    "Tags": [
+      "Lobbies and Shops",
+      "Gloomy",
+      "Spooky"
+    ],
+    "Duration": 33.8006035,
+    "Verified": true,
+    "Date": "2026-10-28T00:27:09.899262",
+    "Binary": "binaries/Mario  Luigi Superstar Saga/Cackletta, the Fiercest Foe.bin"
+  },
+  {
+    "Game": "Mario & Luigi: Superstar Saga",
+    "Song": "Climbing",
+    "Composers": "Yoko Shimomura",
+    "Converters": "SirEnobMort",
+    "Category": "bgm",
+    "Audio": "https://youtu.be/Idxaf7HXjW4",
+    "Additional Notes": "This song is also known as \"Underground Theme\", as it is an arrangement of Super Mario Bros. \"Underground BGM\".",
+    "Duration": 39.3,
+    "Verified": true,
+    "Date": "2026-10-28T00:27:12.134159",
+    "Binary": "binaries/Mario  Luigi Superstar Saga/Climbing.bin"
   }
 ]
