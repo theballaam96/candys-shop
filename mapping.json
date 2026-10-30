@@ -47870,5 +47870,20 @@
     "Date": "2026-10-29T22:55:23.787450",
     "Audio": "https://youtu.be/8IHkINZ_-6k",
     "Binary": "binaries/La-Mulana/Inferno.bin"
+  },
+  {
+    "Game": "Sonic Advance",
+    "Song": "Secret Base Zone Act 1",
+    "Category": "bgm",
+    "Composers": "Hironobu Inagaki, Atsuyoshi Isemura",
+    "Converters": "Schwartz Gandhi",
+    "Audio": "https://youtu.be/5PE-f3qbqXA",
+    "Tags": [
+      "Exteriors"
+    ],
+    "Duration": 95.82642125,
+    "Verified": true,
+    "Date": "2026-10-30T03:37:25.150315",
+    "Binary": "binaries/Sonic Advance/Secret Base Zone Act 1.bin"
   }
 ]
