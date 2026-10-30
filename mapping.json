@@ -47885,5 +47885,21 @@
     "Verified": true,
     "Date": "2026-10-30T03:37:25.150315",
     "Binary": "binaries/Sonic Advance/Secret Base Zone Act 1.bin"
+  },
+  {
+    "Game": "Metaphor: ReFantazio",
+    "Song": "Royal Capital Grand Trad -Night-",
+    "Category": "bgm",
+    "Composers": "Shoji Meguro",
+    "Converters": "Schwartz Gandhi",
+    "Audio": "https://youtu.be/0HJR3oJ78nA",
+    "Tags": [
+      "Exteriors",
+      "Calm"
+    ],
+    "Duration": 74.594612,
+    "Verified": true,
+    "Date": "2026-10-30T16:50:16.690190",
+    "Binary": "binaries/Metaphor ReFantazio/Royal Capital Grand Trad -Night-.bin"
   }
 ]
