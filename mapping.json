@@ -47934,5 +47934,24 @@
     "Date": "2026-10-31T19:34:59.058580",
     "Audio": "https://youtu.be/LyEFV49Gois",
     "Binary": "binaries/Katamari Damacy/Lonely Rolling Star.bin"
+  },
+  {
+    "Game": "LEGO Racers",
+    "Song": "Knightmare-athon",
+    "Composers": "Eric Nofsinger",
+    "Converters": "Altermentality",
+    "Category": "bgm",
+    "Audio": "https://youtu.be/oLPsNiBaMd0",
+    "Additional Notes": "Dedicated to my husband, and Happy Halloween to everyone!",
+    "Tags": [
+      "Fights",
+      "Minigames",
+      "Gloomy",
+      "Spooky"
+    ],
+    "Duration": 61.92850949999999,
+    "Verified": true,
+    "Date": "2026-10-31T21:12:23.016705",
+    "Binary": "binaries/LEGO Racers/Knightmare-athon.bin"
   }
 ]
