@@ -47901,5 +47901,22 @@
     "Verified": true,
     "Date": "2026-10-30T16:50:16.690190",
     "Binary": "binaries/Metaphor ReFantazio/Royal Capital Grand Trad -Night-.bin"
+  },
+  {
+    "Game": "Castlevania: Dawn of Sorrow",
+    "Song": "Basement Melody",
+    "Composers": "Masahiko Kimura, Michiru Yamane",
+    "Converters": "Altermentality",
+    "Category": "bgm",
+    "Audio": "https://www.youtube.com/watch?v=1zF-NirvOLE",
+    "Tags": [
+      "Exteriors",
+      "Happy",
+      "Spooky"
+    ],
+    "Duration": 77.12293875,
+    "Verified": true,
+    "Date": "2026-10-31T19:02:44.322646",
+    "Binary": "binaries/Castlevania Dawn of Sorrow/Basement Melody.bin"
   }
 ]
