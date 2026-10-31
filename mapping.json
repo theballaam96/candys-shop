@@ -47918,5 +47918,21 @@
     "Verified": true,
     "Date": "2026-10-31T19:02:44.322646",
     "Binary": "binaries/Castlevania Dawn of Sorrow/Basement Melody.bin"
+  },
+  {
+    "Game": "Katamari Damacy",
+    "Song": "Lonely Rolling Star",
+    "Composers": "Yoshihito Yano, Yu Miyake",
+    "Converters": "DrewBoss",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors",
+      "Happy"
+    ],
+    "Duration": 344.4689454125,
+    "Verified": true,
+    "Date": "2026-10-31T19:34:59.058580",
+    "Audio": "https://youtu.be/LyEFV49Gois",
+    "Binary": "binaries/Katamari Damacy/Lonely Rolling Star.bin"
   }
 ]
