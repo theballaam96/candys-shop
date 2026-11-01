@@ -47953,5 +47953,23 @@
     "Verified": true,
     "Date": "2026-10-31T21:12:23.016705",
     "Binary": "binaries/LEGO Racers/Knightmare-athon.bin"
+  },
+  {
+    "Game": "Castlevania: Dawn of Sorrow",
+    "Song": "Gloomy Memories",
+    "Category": "bgm",
+    "Composers": "Michiru Yamane",
+    "Converters": "Schwartz Gandhi",
+    "Audio": "https://youtu.be/n_Mib-_F8fM",
+    "Tags": [
+      "Lobbies and Shops",
+      "Gloomy",
+      "Spooky"
+    ],
+    "Additional Notes": "easiest conversion ever",
+    "Duration": 39.67640889583333,
+    "Verified": true,
+    "Date": "2026-11-01T01:27:17.769979",
+    "Binary": "binaries/Castlevania Dawn of Sorrow/Gloomy Memories.bin"
   }
 ]
