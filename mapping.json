@@ -47971,5 +47971,21 @@
     "Verified": true,
     "Date": "2026-11-01T01:27:17.769979",
     "Binary": "binaries/Castlevania Dawn of Sorrow/Gloomy Memories.bin"
+  },
+  {
+    "Game": "Spanky's Quest",
+    "Song": "Victory (SNES)",
+    "Composers": "Kiyohiro Sada",
+    "Converters": "TheLupineOne",
+    "Category": "events",
+    "Tags": [
+      "Spawning",
+      "Happy"
+    ],
+    "Duration": 4.6196839999999995,
+    "Verified": true,
+    "Date": "2026-11-02T01:46:18.140074",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Spankys%20Quest/Victory%20(SNES).mp3",
+    "Binary": "binaries/Spankys Quest/Victory (SNES).bin"
   }
 ]
