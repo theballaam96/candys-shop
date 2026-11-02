@@ -47987,5 +47987,21 @@
     "Date": "2026-11-02T01:46:18.140074",
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Spankys%20Quest/Victory%20(SNES).mp3",
     "Binary": "binaries/Spankys Quest/Victory (SNES).bin"
+  },
+  {
+    "Game": "Torte Le Magic",
+    "Song": "Witch of Love Potion",
+    "Category": "bgm",
+    "Composers": "ZUN",
+    "Converters": "Schwartz Gandhi",
+    "Audio": "https://youtu.be/XLCWN7L1Xo4",
+    "Tags": [
+      "Exteriors",
+      "Happy"
+    ],
+    "Duration": 130.35039575208333,
+    "Verified": true,
+    "Date": "2026-11-02T01:51:32.905947",
+    "Binary": "binaries/Torte Le Magic/Witch of Love Potion.bin"
   }
 ]
