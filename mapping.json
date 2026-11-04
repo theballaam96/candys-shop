@@ -48003,5 +48003,20 @@
     "Verified": true,
     "Date": "2026-11-02T01:51:32.905947",
     "Binary": "binaries/Torte Le Magic/Witch of Love Potion.bin"
+  },
+  {
+    "Game": "Bug Fables: The Everlasting Sapling",
+    "Song": "Oh no! WASPS!!",
+    "Composers": "Tristan Alric",
+    "Converters": "doicm",
+    "Category": "bgm",
+    "Tags": [
+      "Minigames"
+    ],
+    "Duration": 88.941132,
+    "Verified": true,
+    "Date": "2026-11-04T07:25:22.555185",
+    "Audio": "https://youtu.be/DnMdTI0mcG8",
+    "Binary": "binaries/Bug Fables The Everlasting Sapling/Oh no WASPS.bin"
   }
 ]
