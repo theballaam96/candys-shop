@@ -48018,5 +48018,54 @@
     "Date": "2026-11-04T07:25:22.555185",
     "Audio": "https://youtu.be/DnMdTI0mcG8",
     "Binary": "binaries/Bug Fables The Everlasting Sapling/Oh no WASPS.bin"
+  },
+  {
+    "Game": "Math Play",
+    "Song": "Equal Shuffle",
+    "Composers": "Unknown",
+    "Converters": "Kilvereis",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors",
+      "Happy"
+    ],
+    "Duration": 57.599999999999994,
+    "Verified": true,
+    "Date": "2026-11-05T00:53:12.829534",
+    "Audio": "https://www.youtube.com/watch?v=OBz1ZaScW8k",
+    "Binary": "binaries/Math Play/Equal Shuffle.bin"
+  },
+  {
+    "Game": "Ace Attorney Investigations: Miles Edgeworth",
+    "Song": "The Kidnapped Turnabout ~ Haunted House Tragedy",
+    "Composers": "Noriyuki Iwadare",
+    "Converters": "Kilvereis",
+    "Category": "bgm",
+    "Tags": [
+      "Interiors",
+      "Spooky"
+    ],
+    "Duration": 44.571436,
+    "Verified": true,
+    "Date": "2026-11-05T00:52:51.237729",
+    "Audio": "https://youtu.be/BC4zCAQKvfw",
+    "Binary": "binaries/Ace Attorney Investigations Miles Edgeworth/The Kidnapped Turnabout ~ Haunted House Tragedy.bin"
+  },
+  {
+    "Game": "New Super Mario Bros. Wii",
+    "Song": "World 8",
+    "Composers": "Shiho Fuji, Ryo Nagamatsu",
+    "Converters": "Schwartz Gandhi",
+    "Category": "bgm",
+    "Tags": [
+      "Lobbies and Shops",
+      "Interiors",
+      "Gloomy"
+    ],
+    "Duration": 55.277414108333325,
+    "Verified": true,
+    "Date": "2026-11-05T00:53:13.507859",
+    "Audio": "https://youtu.be/XLhBrSBFujY",
+    "Binary": "binaries/New Super Mario Bros Wii/World 8.bin"
   }
 ]
