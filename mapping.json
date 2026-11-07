@@ -48067,5 +48067,37 @@
     "Date": "2026-11-05T00:53:13.507859",
     "Audio": "https://youtu.be/XLhBrSBFujY",
     "Binary": "binaries/New Super Mario Bros Wii/World 8.bin"
+  },
+  {
+    "Game": "Ace Attorney Investigations: Miles Edgeworth",
+    "Song": "Cammy Meele ~ Nighty-Night",
+    "Composers": "Noriyuki Iwadare",
+    "Converters": "Kilvereis",
+    "Category": "bgm",
+    "Tags": [
+      "Lobbies and Shops",
+      "Interiors",
+      "Happy"
+    ],
+    "Duration": 48.75,
+    "Verified": true,
+    "Date": "2026-11-07T03:16:22.090534",
+    "Audio": "https://youtu.be/LqYvS02YaFQ",
+    "Binary": "binaries/Ace Attorney Investigations Miles Edgeworth/Cammy Meele ~ Nighty-Night.bin"
+  },
+  {
+    "Game": "Touhou Shinreibyou ~ Ten Desires",
+    "Song": "Shoutoku Legend ~ True Administrator",
+    "Composers": "ZUN",
+    "Converters": "doicm",
+    "Category": "bgm",
+    "Tags": [
+      "Fights"
+    ],
+    "Duration": 181.728729,
+    "Verified": true,
+    "Date": "2026-11-07T03:17:02.553067",
+    "Audio": "https://youtu.be/YuSquW_Io6A",
+    "Binary": "binaries/Touhou Shinreibyou ~ Ten Desires/Shoutoku Legend ~ True Administrator.bin"
   }
 ]
