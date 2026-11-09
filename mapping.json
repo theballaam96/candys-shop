@@ -48099,5 +48099,21 @@
     "Date": "2026-11-07T03:17:02.553067",
     "Audio": "https://youtu.be/YuSquW_Io6A",
     "Binary": "binaries/Touhou Shinreibyou ~ Ten Desires/Shoutoku Legend ~ True Administrator.bin"
+  },
+  {
+    "Game": "Mario Party 8",
+    "Song": "How to Play Minigames",
+    "Composers": "Yoshihiro Tsukahara",
+    "Converters": "DrewBoss",
+    "Category": "bgm",
+    "Tags": [
+      "Lobbies and Shops",
+      "Happy"
+    ],
+    "Duration": 69.12811109166667,
+    "Verified": true,
+    "Date": "2026-11-09T23:56:23.879469",
+    "Audio": "https://youtu.be/yrmPYe37988",
+    "Binary": "binaries/Mario Party 8/How to Play Minigames.bin"
   }
 ]
