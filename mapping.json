@@ -48115,5 +48115,51 @@
     "Date": "2026-11-09T23:56:23.879469",
     "Audio": "https://youtu.be/yrmPYe37988",
     "Binary": "binaries/Mario Party 8/How to Play Minigames.bin"
+  },
+  {
+    "Game": "Trials of Mana",
+    "Song": "Nuclear Fusion",
+    "Composers": "Hiroki Kikuta",
+    "Converters": "doicm",
+    "Category": "bgm",
+    "Tags": [
+      "Fights"
+    ],
+    "Duration": 89.664,
+    "Verified": true,
+    "Date": "2026-11-12T23:16:49.509286",
+    "Audio": "https://youtu.be/TvwA2sLBkS0",
+    "Binary": "binaries/Trials of Mana/Nuclear Fusion.bin"
+  },
+  {
+    "Game": "Fire Emblem: Path of Radiance",
+    "Song": "Power-Hungry Fool",
+    "Composers": "Yoshito Hirano",
+    "Converters": "doicm",
+    "Category": "bgm",
+    "Tags": [
+      "Lobbies and Shops"
+    ],
+    "Duration": 186.95916799999998,
+    "Verified": true,
+    "Date": "2026-11-12T23:17:53.578831",
+    "Audio": "https://youtu.be/4675Z_bT7AM",
+    "Binary": "binaries/Fire Emblem Path of Radiance/Power-Hungry Fool.bin"
+  },
+  {
+    "Game": "Fire Emblem: Path of Radiance",
+    "Song": "With Us!",
+    "Composers": "Atsushi Yoshida",
+    "Converters": "doicm",
+    "Category": "bgm",
+    "Tags": [
+      "Lobbies and Shops",
+      "Happy"
+    ],
+    "Duration": 50.8608,
+    "Verified": true,
+    "Date": "2026-11-12T23:19:27.476925",
+    "Audio": "https://youtu.be/M1Z2GirKzYk",
+    "Binary": "binaries/Fire Emblem Path of Radiance/With Us.bin"
   }
 ]
