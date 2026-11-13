@@ -48161,5 +48161,22 @@
     "Date": "2026-11-12T23:19:27.476925",
     "Audio": "https://youtu.be/M1Z2GirKzYk",
     "Binary": "binaries/Fire Emblem Path of Radiance/With Us.bin"
+  },
+  {
+    "Game": "Trials of Mana",
+    "Song": "Harvest November",
+    "Composers": "Hiroki Kikuta",
+    "Converters": "Happy Heart",
+    "Category": "bgm",
+    "Tags": [
+      "Interiors",
+      "Exteriors",
+      "Calm"
+    ],
+    "Duration": 122.30399999999999,
+    "Verified": true,
+    "Date": "2026-11-13T05:45:18.176431",
+    "Audio": "https://youtu.be/L58U3wsD8FI",
+    "Binary": "binaries/Trials of Mana/Harvest November.bin"
   }
 ]
