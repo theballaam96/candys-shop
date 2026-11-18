@@ -48178,5 +48178,37 @@
     "Date": "2026-11-13T05:45:18.176431",
     "Audio": "https://youtu.be/L58U3wsD8FI",
     "Binary": "binaries/Trials of Mana/Harvest November.bin"
+  },
+  {
+    "Game": "Pokémon Mystery Dungeon: Explorers of Sky",
+    "Song": "Craggy Coast",
+    "Composers": "Hideki Sakamoto",
+    "Converters": "DrewBoss",
+    "Category": "bgm",
+    "Tags": [
+      "Interiors",
+      "Happy"
+    ],
+    "Duration": 188.51755839583333,
+    "Verified": true,
+    "Date": "2026-11-18T15:49:48.271028",
+    "Audio": "https://youtu.be/AnFnLOYtmaY",
+    "Binary": "binaries/Pokémon Mystery Dungeon Explorers of Sky/Craggy Coast.bin"
+  },
+  {
+    "Game": "Dokapon Kingdom",
+    "Song": "It's Time to Shop",
+    "Composers": "Shigeki Hayashi",
+    "Converters": "DrewBoss",
+    "Category": "bgm",
+    "Tags": [
+      "Lobbies and Shops",
+      "Happy"
+    ],
+    "Duration": 82.30563374583332,
+    "Verified": true,
+    "Date": "2026-11-18T15:55:07.690612",
+    "Audio": "https://youtu.be/8NRMae5tLQw",
+    "Binary": "binaries/Dokapon Kingdom/Its Time to Shop.bin"
   }
 ]
