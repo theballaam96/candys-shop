@@ -48194,5 +48194,21 @@
     "Date": "2026-11-18T15:49:48.271028",
     "Audio": "https://youtu.be/AnFnLOYtmaY",
     "Binary": "binaries/Pokémon Mystery Dungeon Explorers of Sky/Craggy Coast.bin"
+  },
+  {
+    "Game": "Dokapon Kingdom",
+    "Song": "It's Time to Shop",
+    "Composers": "Shigeki Hayashi",
+    "Converters": "DrewBoss",
+    "Category": "bgm",
+    "Tags": [
+      "Lobbies and Shops",
+      "Happy"
+    ],
+    "Duration": 82.30563374583332,
+    "Verified": true,
+    "Date": "2026-11-18T15:55:07.690612",
+    "Audio": "https://youtu.be/8NRMae5tLQw",
+    "Binary": "binaries/Dokapon Kingdom/Its Time to Shop.bin"
   }
 ]
