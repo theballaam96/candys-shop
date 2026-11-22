@@ -48241,5 +48241,22 @@
     "Verified": true,
     "Date": "2026-11-22T18:22:50.045341",
     "Binary": "binaries/Kingdom Hearts Chain of Memories/Forgotten Challenge.bin"
+  },
+  {
+    "Game": "Mario + Rabbids Kingdom Battle",
+    "Song": "Spooky Skirmish",
+    "Composers": "Grant Kirkhope",
+    "Converters": "LBFrank",
+    "Category": "bgm",
+    "Audio": "https://youtu.be/6RQfNDcH18c",
+    "Tags": [
+      "Exteriors",
+      "Gloomy",
+      "Spooky"
+    ],
+    "Duration": 150.20557838671874,
+    "Verified": true,
+    "Date": "2026-11-22T18:48:41.569781",
+    "Binary": "binaries/Mario  Rabbids Kingdom Battle/Spooky Skirmish.bin"
   }
 ]
