@@ -48258,5 +48258,20 @@
     "Verified": true,
     "Date": "2026-11-22T18:48:41.569781",
     "Binary": "binaries/Mario  Rabbids Kingdom Battle/Spooky Skirmish.bin"
+  },
+  {
+    "Game": "Mother 3",
+    "Song": "Strong One (Masked Man)",
+    "Composers": "Shogo Sakai",
+    "Converters": "doicm",
+    "Category": "bgm",
+    "Tags": [
+      "Minigames"
+    ],
+    "Duration": 68.58952,
+    "Verified": true,
+    "Date": "2026-11-25T23:13:01.834867",
+    "Audio": "https://youtu.be/VMQrknRrM_4",
+    "Binary": "binaries/Mother 3/Strong One (Masked Man).bin"
   }
 ]
